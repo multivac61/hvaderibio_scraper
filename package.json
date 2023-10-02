@@ -17,13 +17,14 @@
     "@melt-ui/svelte": "^0.50.0",
     "@sveltejs/adapter-static": "^2.0.3",
     "@sveltejs/kit": "^1.25.1",
-    "@typescript-eslint/eslint-plugin": "^6.7.2",
-    "@typescript-eslint/parser": "^6.7.2",
+    "@typescript-eslint/eslint-plugin": "^6.7.3",
+    "@typescript-eslint/parser": "^6.7.3",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.50.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-svelte": "^2.33.2",
     "gh-pages": "^6.0.0",
+    "linkedom": "^0.15.3",
     "postcss": "^8.4.30",
     "postcss-load-config": "^4.0.1",
     "prettier": "^3.0.3",
@@ -38,7 +39,8 @@
     "typescript": "^5.2.2",
     "vite": "^4.4.9",
     "vitest": "^0.34.5",
-    "zod": "^3.22.2"
+    "zod": "^3.22.2",
+    "sharp": "^0.32.6"
   },
   "type": "module",
   "packageManager": "pnpm@8.6.3"
