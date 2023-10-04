@@ -437,17 +437,17 @@
           "hall": "Salur 1"
         }
       ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-04T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367822/",
-          "hall": "Salur 1"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2023-10-04T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/367843/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-04T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367822/",
           "hall": "Salur 1"
         }
       ],
@@ -519,57 +519,6 @@
     }
   },
   {
-    "title": "The Nun 2",
-    "id": 16150,
-    "alt_title": "The Nun II",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16150_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Sagan gerist í Frakklandi árið 1956. Prestur er myrtur og vonskan breiðist út. Systir Irene þarf rétt einu sinni að horfast í augu við hina illgjörnu Valak, djöflanunnuna.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=QF-oyCwaArU",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-04T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367815/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-10-04T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367814/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-04T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367497/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2023-10-04T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367498/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Expendables 4",
     "id": 16319,
     "alt_title": "Expend4bles",
@@ -621,6 +570,57 @@
     }
   },
   {
+    "title": "The Nun 2",
+    "id": 16150,
+    "alt_title": "The Nun II",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16150_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Sagan gerist í Frakklandi árið 1956. Prestur er myrtur og vonskan breiðist út. Systir Irene þarf rétt einu sinni að horfast í augu við hina illgjörnu Valak, djöflanunnuna.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=QF-oyCwaArU",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-04T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367815/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-10-04T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367814/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-04T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367497/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2023-10-04T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367498/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
     "title": "Past Lives",
     "id": 16278,
     "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
@@ -658,6 +658,46 @@
           "time": "2023-10-04T21:10:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3735",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Barbie",
+    "id": 15054,
+    "alt_title": "Kuldi áfram vinsælust",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/15054_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 9 ára",
+    "description": "Barbie og Ken njóta lífsins í Barbie landi, hinum litríka og fullkomna heimi. En þegar þau fá tækifæri til að fara yfir í hina raunverulegu veröld uppgötva þau fljótt bæði gleðina og hætturnar sem felast í því að búa á meðal manna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 114,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-04T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367445/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-04T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367804/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -740,74 +780,31 @@
     }
   },
   {
-    "title": "Barbie",
-    "id": 15054,
-    "alt_title": "Kuldi áfram vinsælust",
+    "title": "Soviet Barbara, the Story of Ragnar Kjartansson in Moscow",
+    "id": 16467,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/15054_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2023-09-17_111132-1694949097.jpg",
     "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 9 ára",
-    "description": "Barbie og Ken njóta lífsins í Barbie landi, hinum litríka og fullkomna heimi. En þegar þau fá tækifæri til að fara yfir í hina raunverulegu veröld uppgötva þau fljótt bæði gleðina og hætturnar sem felast í því að búa á meðal manna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 114,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-04T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367445/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-04T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367804/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Sound of Freedom",
-    "id": 16351,
-    "alt_title": "Barbie komin í 120 milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16351_500.jpg",
-    "rating_urls": [
-      null,
-      null,
       null,
       null
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Hin ótrúlega saga af Tim Ballard, fyrrum fulltrúa í leyniþjónustu Bandaríkjanna. Hann hættir í vinnunni til að helga líf sitt því að bjarga börnum úr klóm alþjóðlegs mansalshring djúpt inni í frumskógum Kólumbíu. Hann leggur allt í sölurnar og þarf að beita mikilli útsjónarsemi til bjarga fórnarlömbunum frá grimmum örlögum sem eru verri en dauðinn...  Lesa meira",
+    "description": "Soviet Barbara, sagan um Ragnar Kjartansson í Moskvu.  Myndlistarmaðurinn Ragnar Kjartansson opnar nýtt listasafn í hjarta Moskvu með rússneskri endurgerð af sápuóperunni Santa Barbara. Hann tekst á við pólitískan þrýsting, þunga sögunnar og ritskoðun skömmu áður en innrás skellur á Úkraínu.",
     "genres": [
-      "Spenna",
-      "Drama",
-      "Æviágrip"
+      "Heimildarmynd",
+      "Myndlist"
     ],
-    "duration_in_mins": 131,
+    "duration_in_mins": 90,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=UwSBQWI-bek",
+    "trailer_url": "https://www.youtube.com/watch?v=o6Jk86dqKwE",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Bíó Paradís": [
         {
-          "time": "2023-10-04T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367469/",
+          "time": "2023-10-04T16:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3733",
           "hall": "Salur 2"
         }
       ]
@@ -843,6 +840,40 @@
           "time": "2023-10-04T20:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783137/",
           "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Sound of Freedom",
+    "id": 16351,
+    "alt_title": "Barbie komin í 120 milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16351_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Hin ótrúlega saga af Tim Ballard, fyrrum fulltrúa í leyniþjónustu Bandaríkjanna. Hann hættir í vinnunni til að helga líf sitt því að bjarga börnum úr klóm alþjóðlegs mansalshring djúpt inni í frumskógum Kólumbíu. Hann leggur allt í sölurnar og þarf að beita mikilli útsjónarsemi til bjarga fórnarlömbunum frá grimmum örlögum sem eru verri en dauðinn...  Lesa meira",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 131,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UwSBQWI-bek",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-04T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367469/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -963,37 +994,6 @@
           "time": "2023-10-04T18:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3738",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Soviet Barbara, the Story of Ragnar Kjartansson in Moscow",
-    "id": 16467,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2023-09-17_111132-1694949097.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Soviet Barbara, sagan um Ragnar Kjartansson í Moskvu.  Myndlistarmaðurinn Ragnar Kjartansson opnar nýtt listasafn í hjarta Moskvu með rússneskri endurgerð af sápuóperunni Santa Barbara. Hann tekst á við pólitískan þrýsting, þunga sögunnar og ritskoðun skömmu áður en innrás skellur á Úkraínu.",
-    "genres": [
-      "Heimildarmynd",
-      "Myndlist"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=o6Jk86dqKwE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-04T16:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3733",
-          "hall": "Salur 2"
         }
       ]
     }
