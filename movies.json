@@ -102,17 +102,14 @@
           "hall": "Ásberg"
         }
       ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-10-05T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367852/",
+          "hall": "Salur 1"
+        }
+      ],
       "Smárabíó": [
-        {
-          "time": "2023-10-05T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103609&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-05T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103215&visLang=1",
-          "hall": "MAX"
-        },
         {
           "time": "2023-10-05T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103201&visLang=1",
@@ -122,13 +119,6 @@
           "time": "2023-10-05T22:20:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103199&visLang=1",
           "hall": "MAX"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-10-05T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367852/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -214,80 +204,6 @@
     }
   },
   {
-    "title": "Kuldi",
-    "id": 16170,
-    "alt_title": "Cold",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/kuldi_poster_-1691405627.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Þegar Óðinn byrjar að rannsaka áratuga gömul dauðsföll á unglingaheimili, fer hann að gruna að óhugnalegir atburðir þaðan tengist dularfullu sjálfsmorði eiginkonu hans — sem og skringilegri hegðun táningsdóttur hans.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 96,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-05T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3746",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-05T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103217&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-10-05T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103212&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-05T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103200&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-10-05T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367660/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-10-05T21:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367655/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-05T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367806/",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-10-05T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367807/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "PAW Patrol: The Mighty Movie",
     "id": 16337,
     "alt_title": "Hvolpasveitin: Ofurmyndin",
@@ -351,72 +267,69 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783103/",
           "hall": "AXL"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-05T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103219&visLang=1",
-          "hall": "MAX"
-        }
       ]
     }
   },
   {
-    "title": "Northern Comfort",
-    "id": 14479,
-    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
+    "title": "Kuldi",
+    "id": 16170,
+    "alt_title": "Cold",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/nor_com-1687274090.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/kuldi_poster_-1691405627.jpg",
     "rating_urls": [
       null,
       null
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Fyrrverandi sérsveitarmaður, stressaður byggingaverkfræðingur, áhrifavaldur með hálfa milljón fylgjenda og vanhæfur leiðbeinandi lenda saman á flughræðslunámskeiði. Lokaprófraunin er svokallað útskriftarflug frá London til Íslands sem reynist vera þrautinni þyngri. Ráðvilltur á Íslandi neyðist hópurinn til að vinna saman að því að sigrast á óttanum,...  Lesa meira",
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Þegar Óðinn byrjar að rannsaka áratuga gömul dauðsföll á unglingaheimili, fer hann að gruna að óhugnalegir atburðir þaðan tengist dularfullu sjálfsmorði eiginkonu hans — sem og skringilegri hegðun táningsdóttur hans.",
     "genres": [
-      "Gaman",
+      "Drama",
+      "Spennutryllir",
+      "Glæpa",
       "Íslensk mynd"
     ],
-    "duration_in_mins": 97,
+    "duration_in_mins": 96,
     "language": [
-      "Enska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=eZVzfzJGPOo",
+    "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
     "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-05T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3746",
+          "hall": "Salur 3"
+        }
+      ],
       "Sambíóin Kringlunni": [
         {
-          "time": "2023-10-05T14:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367676/",
-          "hall": "Salur 2"
+          "time": "2023-10-05T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367660/",
+          "hall": "Salur 3"
         },
         {
-          "time": "2023-10-05T16:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367668/",
-          "hall": "Salur 2"
+          "time": "2023-10-05T21:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367655/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-05T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367806/",
+          "hall": "Salur 4"
         },
         {
-          "time": "2023-10-05T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367671/",
-          "hall": "Salur 2"
+          "time": "2023-10-05T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367807/",
+          "hall": "Salur 4"
         }
       ],
       "Smárabíó": [
         {
-          "time": "2023-10-05T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103218&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2023-10-05T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103214&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-05T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3747",
-          "hall": "Salur 3"
+          "time": "2023-10-05T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103200&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -538,47 +451,49 @@
     }
   },
   {
-    "title": "The Expendables 4",
-    "id": 16319,
-    "alt_title": "Expend4bles",
+    "title": "Northern Comfort",
+    "id": 14479,
+    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16319_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/nor_com-1687274090.jpg",
     "rating_urls": [
-      null,
-      null,
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Með öll þau vopn í höndunum sem þeir geta komist yfir og getuna til að nota þau er The Expendables hópurinn síðasta von heimsins. Þeir eru teymið sem kallað er á þegar öll önnur úrræði hafa brugðist. En nýir meðlimir hafa nýjar venjur og aðferðir og \"nýtt blóð\" fær nú allt aðra og nýja þýðingu.",
+    "content_rating": "Öllum leyfð",
+    "description": "Fyrrverandi sérsveitarmaður, stressaður byggingaverkfræðingur, áhrifavaldur með hálfa milljón fylgjenda og vanhæfur leiðbeinandi lenda saman á flughræðslunámskeiði. Lokaprófraunin er svokallað útskriftarflug frá London til Íslands sem reynist vera þrautinni þyngri. Ráðvilltur á Íslandi neyðist hópurinn til að vinna saman að því að sigrast á óttanum,...  Lesa meira",
     "genres": [
-      "Spenna",
-      "Spennutryllir",
-      "Ævintýri"
+      "Gaman",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 103,
+    "duration_in_mins": 97,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=DhlaBO-SwVE",
+    "trailer_url": "https://www.youtube.com/watch?v=eZVzfzJGPOo",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2023-10-05T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103213&visLang=1",
-          "hall": "Salur 4"
+          "time": "2023-10-05T14:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367676/",
+          "hall": "Salur 2"
         },
         {
-          "time": "2023-10-05T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103203&visLang=1",
-          "hall": "Salur 4"
+          "time": "2023-10-05T16:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367668/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-10-05T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367671/",
+          "hall": "Salur 2"
         }
       ],
-      "Laugarásbíó": [
+      "Bíó Paradís": [
         {
-          "time": "2023-10-05T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783140/",
-          "hall": "Salur B"
+          "time": "2023-10-05T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3747",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -620,6 +535,47 @@
           "time": "2023-10-05T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103202&visLang=1",
           "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Expendables 4",
+    "id": 16319,
+    "alt_title": "Expend4bles",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16319_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Með öll þau vopn í höndunum sem þeir geta komist yfir og getuna til að nota þau er The Expendables hópurinn síðasta von heimsins. Þeir eru teymið sem kallað er á þegar öll önnur úrræði hafa brugðist. En nýir meðlimir hafa nýjar venjur og aðferðir og \"nýtt blóð\" fær nú allt aðra og nýja þýðingu.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=DhlaBO-SwVE",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-05T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783140/",
+          "hall": "Salur B"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-05T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103203&visLang=1",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -697,6 +653,40 @@
           "time": "2023-10-05T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/367805/",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Sound of Freedom",
+    "id": 16351,
+    "alt_title": "Barbie komin í 120 milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16351_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Hin ótrúlega saga af Tim Ballard, fyrrum fulltrúa í leyniþjónustu Bandaríkjanna. Hann hættir í vinnunni til að helga líf sitt því að bjarga börnum úr klóm alþjóðlegs mansalshring djúpt inni í frumskógum Kólumbíu. Hann leggur allt í sölurnar og þarf að beita mikilli útsjónarsemi til bjarga fórnarlömbunum frá grimmum örlögum sem eru verri en dauðinn...  Lesa meira",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 131,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UwSBQWI-bek",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-05T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367470/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -882,40 +872,6 @@
         {
           "time": "2023-10-05T21:10:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3749",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Sound of Freedom",
-    "id": 16351,
-    "alt_title": "Barbie komin í 120 milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16351_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Hin ótrúlega saga af Tim Ballard, fyrrum fulltrúa í leyniþjónustu Bandaríkjanna. Hann hættir í vinnunni til að helga líf sitt því að bjarga börnum úr klóm alþjóðlegs mansalshring djúpt inni í frumskógum Kólumbíu. Hann leggur allt í sölurnar og þarf að beita mikilli útsjónarsemi til bjarga fórnarlömbunum frá grimmum örlögum sem eru verri en dauðinn...  Lesa meira",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 131,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UwSBQWI-bek",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-05T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367470/",
           "hall": "Salur 2"
         }
       ]
