@@ -24,38 +24,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=573GCxqkYEg",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-05T16:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103221&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-05T16:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103220&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-05T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103609&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-05T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103215&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-10-05T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103201&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-05T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103199&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2023-10-05T17:00:00.000Z",
@@ -132,6 +100,28 @@
           "time": "2023-10-05T21:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/367689/",
           "hall": "Ásberg"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-05T19:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103609&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-10-05T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103215&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2023-10-05T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103201&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-10-05T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103199&visLang=1",
+          "hall": "MAX"
         }
       ],
       "Sambíóin Akureyri": [
@@ -247,12 +237,14 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2023-10-05T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103350&visLang=1",
-          "hall": "Salur 4"
-        },
+          "time": "2023-10-05T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3746",
+          "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
         {
           "time": "2023-10-05T17:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103217&visLang=1",
@@ -267,13 +259,6 @@
           "time": "2023-10-05T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103200&visLang=1",
           "hall": "Salur 2"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-05T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3746",
-          "hall": "Salur 3"
         }
       ],
       "Sambíóin Kringlunni": [
@@ -339,18 +324,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-05T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103208&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-10-05T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103219&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2023-10-05T17:20:00.000Z",
@@ -377,6 +350,13 @@
           "time": "2023-10-05T17:50:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783103/",
           "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-05T17:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103219&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -756,61 +736,30 @@
     }
   },
   {
-    "title": "Fucking Bornholm",
-    "id": 16400,
-    "alt_title": "Kuldi með 11 milljónir",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16400_500.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Pólskur vinahópur fer með börnin sín í langt helgarfrí á dönsku eyjuna Bornholm, rétt eins og gert hefur verið til margra ára. Atvik sem verður í barnahópnum veldur vandamálum í sambandi vinanna. Hvert par virðist hamingjusamt, en eru þau það í raun og veru?  Kannski láta þau bara líta út sem svo sé.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=KQoDSWDzWHM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-05T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3748",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "I Like Movies",
-    "id": 16401,
+    "title": "Starring Jerry As Himself",
+    "id": 16481,
     "alt_title": "Leikstjórn",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16401_500.jpg",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/gt0fbfwpm8rswx8pv19qdytd7b1-1695808786.jpg",
     "rating_urls": [
-      null,
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvikmyndaáhugamaðurinn Lawrence (17 ára) fær langþráð starf í myndbandaleigu. Hann þróar með sér flókið samband við kvenkyns yfirmann sinn.",
+    "content_rating": "Öllum leyfð",
+    "description": "Við fylgjumst með Jerry, nýfráskildum manni á eftirlaunum í Flórída. Fjölskylda hans fer yfir innflytjendasögu hans og hvernig kínverska lögreglan fékk hann til þess að vera í leyniþjónustunni.",
     "genres": [
-      "Gaman"
+      "Heimildarmynd"
     ],
-    "duration_in_mins": 99,
+    "duration_in_mins": 75,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=2-pPEJpAtns",
+    "trailer_url": "https://www.youtube.com/watch?v=1WwLaQTDtNU",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-05T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3749",
+          "time": "2023-10-05T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3742",
           "hall": "Salur 2"
         }
       ]
@@ -845,68 +794,6 @@
         {
           "time": "2023-10-05T19:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/367470/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Vandræðaálfurinn",
-    "id": 16336,
-    "alt_title": "My Fairy Troublemaker",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/1681822068657_ho00001605-1689868662.jpeg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin fjallar um skemmtilega og forvitna tannálfinn Víólettu sem festist í mannheimum við að sækja tönn sem hún átti ekki að sækja! Hinn 12 ára, og mennska, Maxie aðstoðar hana við að komast aftur til baka í ævintýraheiminn sinn.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 85,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=KZjI2-0wv1Y",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-05T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103206&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Starring Jerry As Himself",
-    "id": 16481,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/gt0fbfwpm8rswx8pv19qdytd7b1-1695808786.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Við fylgjumst með Jerry, nýfráskildum manni á eftirlaunum í Flórída. Fjölskylda hans fer yfir innflytjendasögu hans og hvernig kínverska lögreglan fékk hann til þess að vera í leyniþjónustunni.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 75,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=1WwLaQTDtNU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-05T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3742",
           "hall": "Salur 2"
         }
       ]
@@ -968,6 +855,67 @@
         {
           "time": "2023-10-05T18:35:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3743",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fucking Bornholm",
+    "id": 16400,
+    "alt_title": "Kuldi með 11 milljónir",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16400_500.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Pólskur vinahópur fer með börnin sín í langt helgarfrí á dönsku eyjuna Bornholm, rétt eins og gert hefur verið til margra ára. Atvik sem verður í barnahópnum veldur vandamálum í sambandi vinanna. Hvert par virðist hamingjusamt, en eru þau það í raun og veru?  Kannski láta þau bara líta út sem svo sé.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=KQoDSWDzWHM",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-05T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3748",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "I Like Movies",
+    "id": 16401,
+    "alt_title": "Leikstjórn",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16401_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvikmyndaáhugamaðurinn Lawrence (17 ára) fær langþráð starf í myndbandaleigu. Hann þróar með sér flókið samband við kvenkyns yfirmann sinn.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=2-pPEJpAtns",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-05T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3749",
           "hall": "Salur 2"
         }
       ]
