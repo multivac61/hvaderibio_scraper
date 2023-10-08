@@ -163,11 +163,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2023-10-08T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103347&visLang=1",
-          "hall": "MAX"
-        },
-        {
           "time": "2023-10-08T17:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103348&visLang=1",
           "hall": "MAX"
@@ -349,33 +344,6 @@
           "hall": "Salur A"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-08T16:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103365&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-08T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103261&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-08T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103262&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-10-08T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103264&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-08T22:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103263&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2023-10-08T19:30:00.000Z",
@@ -398,6 +366,28 @@
           "time": "2023-10-08T22:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368337/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-08T19:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103261&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-10-08T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103262&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2023-10-08T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103264&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-10-08T22:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103263&visLang=1",
+          "hall": "MAX"
         }
       ],
       "Laugarásbíó": [
@@ -578,6 +568,68 @@
     }
   },
   {
+    "title": "Northern Comfort",
+    "id": 14479,
+    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/nor_com-1687274090.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Fyrrverandi sérsveitarmaður, stressaður byggingaverkfræðingur, áhrifavaldur með hálfa milljón fylgjenda og vanhæfur leiðbeinandi lenda saman á flughræðslunámskeiði. Lokaprófraunin er svokallað útskriftarflug frá London til Íslands sem reynist vera þrautinni þyngri. Ráðvilltur á Íslandi neyðist hópurinn til að vinna saman að því að sigrast á óttanum,...  Lesa meira",
+    "genres": [
+      "Gaman",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 97,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=eZVzfzJGPOo",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-08T15:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783148/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-10-08T16:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368052/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-10-08T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368053/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-08T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3763",
+          "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-08T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103364&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2023-10-08T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103361&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
     "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
     "id": 16099,
     "alt_title": "Barbie komin í 120 milljónir",
@@ -640,75 +692,6 @@
           "time": "2023-10-08T15:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368354/",
           "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-08T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103367&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Northern Comfort",
-    "id": 14479,
-    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/nor_com-1687274090.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Fyrrverandi sérsveitarmaður, stressaður byggingaverkfræðingur, áhrifavaldur með hálfa milljón fylgjenda og vanhæfur leiðbeinandi lenda saman á flughræðslunámskeiði. Lokaprófraunin er svokallað útskriftarflug frá London til Íslands sem reynist vera þrautinni þyngri. Ráðvilltur á Íslandi neyðist hópurinn til að vinna saman að því að sigrast á óttanum,...  Lesa meira",
-    "genres": [
-      "Gaman",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 97,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=eZVzfzJGPOo",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-08T15:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783148/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-10-08T16:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368052/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-08T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368053/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-08T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3763",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-08T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103364&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2023-10-08T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103361&visLang=1",
-          "hall": "Salur 5"
         }
       ]
     }
@@ -804,59 +787,6 @@
           "time": "2023-10-08T16:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783130/",
           "hall": "Salur A"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-08T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103366&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "A Haunting in Venice",
-    "id": 16247,
-    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16247_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Hinn rómaði einkaspæjari Hercule Poirot er sestur í helgan stein og býr í sjálfskipaðri útlegð í Feneyjum á Ítalíu. Með semingi mætir hann á skyggnilýsingu í gamalli höll í niðurníðslu. Þegar einn gestanna finnst myrtur sogast Poirot inn í skuggalegan heim leyndarmála og dulúðar.",
-    "genres": [
-      "Drama",
-      "Hrollvekja",
-      "Glæpa"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=yEddsSwweyE",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-08T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367946/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-10-08T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367947/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-08T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368324/",
-          "hall": "Salur 4"
         }
       ]
     }
@@ -957,6 +887,52 @@
     }
   },
   {
+    "title": "A Haunting in Venice",
+    "id": 16247,
+    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16247_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Hinn rómaði einkaspæjari Hercule Poirot er sestur í helgan stein og býr í sjálfskipaðri útlegð í Feneyjum á Ítalíu. Með semingi mætir hann á skyggnilýsingu í gamalli höll í niðurníðslu. Þegar einn gestanna finnst myrtur sogast Poirot inn í skuggalegan heim leyndarmála og dulúðar.",
+    "genres": [
+      "Drama",
+      "Hrollvekja",
+      "Glæpa"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=yEddsSwweyE",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-08T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367946/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-10-08T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367947/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-08T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368324/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Poor Things",
     "id": 16355,
     "alt_title": "Leikstjórn",
@@ -1033,32 +1009,32 @@
     }
   },
   {
-    "title": "Unruly",
-    "id": 16188,
-    "alt_title": "Ustyrlig",
+    "title": "I Like Movies",
+    "id": 16401,
+    "alt_title": "Leikstjórn",
     "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16188_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16401_500.jpg",
     "rating_urls": [
       null,
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin er byggð á sönnum atburðum þar sem við fylgjumst með ungri stúlku sem er send gegn vilja sínum á heimili fyrir ungar stúlkur í vanda.Þar er hún svipt öllum réttindum sínum í Danmörku.",
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvikmyndaáhugamaðurinn Lawrence (17 ára) fær langþráð starf í myndbandaleigu. Hann þróar með sér flókið samband við kvenkyns yfirmann sinn.",
     "genres": [
-      "Drama"
+      "Gaman"
     ],
-    "duration_in_mins": 135,
+    "duration_in_mins": 99,
     "language": [
-      "Danska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=Ko7TjwALUPU",
+    "trailer_url": "https://www.youtube.com/watch?v=2-pPEJpAtns",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-08T20:35:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3770",
-          "hall": "Salur 2"
+          "time": "2023-10-08T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3765",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -1098,62 +1074,33 @@
     }
   },
   {
-    "title": "Fucking Bornholm",
-    "id": 16400,
-    "alt_title": "Kuldi með 11 milljónir",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16400_500.jpg",
+    "title": "Past Lives",
+    "id": 16278,
+    "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16278_500.jpg",
     "rating_urls": [
+      null,
+      null,
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Pólskur vinahópur fer með börnin sín í langt helgarfrí á dönsku eyjuna Bornholm, rétt eins og gert hefur verið til margra ára. Atvik sem verður í barnahópnum veldur vandamálum í sambandi vinanna. Hvert par virðist hamingjusamt, en eru þau það í raun og veru?  Kannski láta þau bara líta út sem svo sé.",
+    "description": "Nora og Hae Sung, æskuvinir með djúp og sterk tengsl sín á milli, skiljast að þegar fjölskylda Nora flytur frá Suður-Kóreu. Tuttugu árum síðar sameinast þau á ný eina örlagaríka viku og horfast í augu við ást og örlög.",
     "genres": [
+      "Rómantík",
       "Drama"
     ],
-    "duration_in_mins": 99,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=KQoDSWDzWHM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-08T15:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3764",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "I Like Movies",
-    "id": 16401,
-    "alt_title": "Leikstjórn",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16401_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvikmyndaáhugamaðurinn Lawrence (17 ára) fær langþráð starf í myndbandaleigu. Hann þróar með sér flókið samband við kvenkyns yfirmann sinn.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 99,
+    "duration_in_mins": 106,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=2-pPEJpAtns",
+    "trailer_url": "https://www.youtube.com/watch?v=kA244xewjcI",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-08T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3765",
-          "hall": "Salur 3"
+          "time": "2023-10-08T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3759",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -1188,38 +1135,6 @@
           "time": "2023-10-08T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/367928/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Past Lives",
-    "id": 16278,
-    "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16278_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "description": "Nora og Hae Sung, æskuvinir með djúp og sterk tengsl sín á milli, skiljast að þegar fjölskylda Nora flytur frá Suður-Kóreu. Tuttugu árum síðar sameinast þau á ný eina örlagaríka viku og horfast í augu við ást og örlög.",
-    "genres": [
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 106,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=kA244xewjcI",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-08T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3759",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -1290,40 +1205,6 @@
     }
   },
   {
-    "title": "Elemental",
-    "id": 15016,
-    "alt_title": "Mission: Impossible á toppinn með 4.300 gesti",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/15016_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin fjallar um Ember og Wade í borg þar sem elds-, lands-, og loftsíbúar búa saman. Unga logandi heita konan og vatnsgaurinn, sem lætur sig fljóta með straumnum, eru um það bil að uppgötva hversu mikið þau eiga í raun sameiginlegt - þó að frumefni eins og þau eigi auðvitað ekki að geta blandast saman.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=hXzcyx9V0xw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-08T12:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367916/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Bones and All",
     "id": 14247,
     "alt_title": "Leikstjórn",
@@ -1358,6 +1239,40 @@
     }
   },
   {
+    "title": "Elemental",
+    "id": 15016,
+    "alt_title": "Mission: Impossible á toppinn með 4.300 gesti",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/15016_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Myndin fjallar um Ember og Wade í borg þar sem elds-, lands-, og loftsíbúar búa saman. Unga logandi heita konan og vatnsgaurinn, sem lætur sig fljóta með straumnum, eru um það bil að uppgötva hversu mikið þau eiga í raun sameiginlegt - þó að frumefni eins og þau eigi auðvitað ekki að geta blandast saman.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=hXzcyx9V0xw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-08T12:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367916/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Starring Jerry As Himself",
     "id": 16481,
     "alt_title": "Leikstjórn",
@@ -1382,6 +1297,67 @@
         {
           "time": "2023-10-08T19:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3761",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tesciowie 2",
+    "id": 16482,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 95,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-08T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3693",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Unruly",
+    "id": 16188,
+    "alt_title": "Ustyrlig",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16188_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin er byggð á sönnum atburðum þar sem við fylgjumst með ungri stúlku sem er send gegn vilja sínum á heimili fyrir ungar stúlkur í vanda.Þar er hún svipt öllum réttindum sínum í Danmörku.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 135,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Ko7TjwALUPU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-08T20:35:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3770",
           "hall": "Salur 2"
         }
       ]
@@ -1422,31 +1398,31 @@
     }
   },
   {
-    "title": "Tesciowie 2",
-    "id": 16482,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
+    "title": "Fucking Bornholm",
+    "id": 16400,
+    "alt_title": "Kuldi með 11 milljónir",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16400_500.jpg",
     "rating_urls": [
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Pólskur vinahópur fer með börnin sín í langt helgarfrí á dönsku eyjuna Bornholm, rétt eins og gert hefur verið til margra ára. Atvik sem verður í barnahópnum veldur vandamálum í sambandi vinanna. Hvert par virðist hamingjusamt, en eru þau það í raun og veru?  Kannski láta þau bara líta út sem svo sé.",
     "genres": [
-      "Gaman"
+      "Drama"
     ],
-    "duration_in_mins": 95,
+    "duration_in_mins": 99,
     "language": [
       "Pólska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
+    "trailer_url": "https://www.youtube.com/watch?v=KQoDSWDzWHM",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-08T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3693",
-          "hall": "Salur 2"
+          "time": "2023-10-08T15:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3764",
+          "hall": "Salur 3"
         }
       ]
     }
