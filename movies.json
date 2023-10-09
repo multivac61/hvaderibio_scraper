@@ -131,33 +131,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=hvpEy6nJu7Q",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-09T16:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103389&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-09T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103385&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-09T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103403&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-10-09T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103400&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-09T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103397&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2023-10-09T19:20:00.000Z",
@@ -202,6 +175,28 @@
           "time": "2023-10-09T22:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368316/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-09T19:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103385&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-10-09T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103403&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2023-10-09T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103400&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-10-09T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103397&visLang=1",
+          "hall": "MAX"
         }
       ],
       "Sambíóin Akureyri": [
@@ -287,80 +282,6 @@
     }
   },
   {
-    "title": "Kuldi",
-    "id": 16170,
-    "alt_title": "Cold",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/kuldi_poster_-1691405627.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Þegar Óðinn byrjar að rannsaka áratuga gömul dauðsföll á unglingaheimili, fer hann að gruna að óhugnalegir atburðir þaðan tengist dularfullu sjálfsmorði eiginkonu hans — sem og skringilegri hegðun táningsdóttur hans.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 96,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-09T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103393&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-10-09T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103379&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-09T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103386&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-10-09T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103401&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-10-09T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368146/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-10-09T21:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368024/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-09T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368259/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-09T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3776",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "PAW Patrol: The Mighty Movie",
     "id": 16337,
     "alt_title": "Hvolpasveitin: Ofurmyndin",
@@ -397,18 +318,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-09T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103380&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-10-09T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103387&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-10-09T17:20:00.000Z",
@@ -434,6 +343,77 @@
         {
           "time": "2023-10-09T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368365/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-09T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103387&visLang=1",
+          "hall": "MAX"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Kuldi",
+    "id": 16170,
+    "alt_title": "Cold",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/kuldi_poster_-1691405627.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Þegar Óðinn byrjar að rannsaka áratuga gömul dauðsföll á unglingaheimili, fer hann að gruna að óhugnalegir atburðir þaðan tengist dularfullu sjálfsmorði eiginkonu hans — sem og skringilegri hegðun táningsdóttur hans.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 96,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-10-09T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103386&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2023-10-09T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103401&visLang=1",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-10-09T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368146/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-10-09T21:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368024/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-09T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368259/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-09T21:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3776",
           "hall": "Salur 1"
         }
       ]
@@ -764,30 +744,132 @@
     }
   },
   {
-    "title": "Fucking Bornholm",
-    "id": 16400,
-    "alt_title": "Kuldi með 11 milljónir",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16400_500.jpg",
+    "title": "Oppenheimer",
+    "id": 14181,
+    "alt_title": "Barbie fram úr Villibráð - söluhæsta kvikmynd ársins",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1702120_500-1688982490.jpg",
     "rating_urls": [
+      null,
+      null,
       null,
       null
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Pólskur vinahópur fer með börnin sín í langt helgarfrí á dönsku eyjuna Bornholm, rétt eins og gert hefur verið til margra ára. Atvik sem verður í barnahópnum veldur vandamálum í sambandi vinanna. Hvert par virðist hamingjusamt, en eru þau það í raun og veru?  Kannski láta þau bara líta út sem svo sé.",
+    "description": "Sagan af bandaríska vísindamanninum J. Robert Oppenheimer og þætti hans í þróun kjarnorkusprengjunnar.",
     "genres": [
-      "Drama"
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
     ],
-    "duration_in_mins": 99,
+    "duration_in_mins": 180,
     "language": [
-      "Pólska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=KQoDSWDzWHM",
+    "trailer_url": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-09T17:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783150/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bones and All",
+    "id": 14247,
+    "alt_title": "Leikstjórn",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/14247_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ung kona, Maren, vill það sama og allir aðrir, aðdáun og virðingu. Hún vill vera elskuð. En leyndar svívirðilegar þarfir hennar hafa ýtt henni í útlegð. Hún hatar sjálfa sig fyrir allt það slæma sem hún gerir, hvað það hefur gert fjölskyldu hennar og eigin sjálfsvitund. Hún valdi það ekki sjálf að vera eins og hún er.",
+    "genres": [
+      "Rómantík",
+      "Drama",
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=OMIwUf5GBLw",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-09T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3777",
+          "time": "2023-10-09T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3773",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Sound of Freedom",
+    "id": 16351,
+    "alt_title": "Barbie komin í 120 milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16351_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Hin ótrúlega saga af Tim Ballard, fyrrum fulltrúa í leyniþjónustu Bandaríkjanna. Hann hættir í vinnunni til að helga líf sitt því að bjarga börnum úr klóm alþjóðlegs mansalshring djúpt inni í frumskógum Kólumbíu. Hann leggur allt í sölurnar og þarf að beita mikilli útsjónarsemi til bjarga fórnarlömbunum frá grimmum örlögum sem eru verri en dauðinn...  Lesa meira",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 131,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UwSBQWI-bek",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-09T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/367926/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tesciowie 2",
+    "id": 16482,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 95,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-09T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3778",
           "hall": "Salur 2"
         }
       ]
@@ -828,170 +910,6 @@
     }
   },
   {
-    "title": "Vandræðaálfurinn",
-    "id": 16336,
-    "alt_title": "My Fairy Troublemaker",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/1681822068657_ho00001605-1689868662.jpeg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin fjallar um skemmtilega og forvitna tannálfinn Víólettu sem festist í mannheimum við að sækja tönn sem hún átti ekki að sækja! Hinn 12 ára, og mennska, Maxie aðstoðar hana við að komast aftur til baka í ævintýraheiminn sinn.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 85,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=KZjI2-0wv1Y",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-09T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103392&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Sound of Freedom",
-    "id": 16351,
-    "alt_title": "Barbie komin í 120 milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16351_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Hin ótrúlega saga af Tim Ballard, fyrrum fulltrúa í leyniþjónustu Bandaríkjanna. Hann hættir í vinnunni til að helga líf sitt því að bjarga börnum úr klóm alþjóðlegs mansalshring djúpt inni í frumskógum Kólumbíu. Hann leggur allt í sölurnar og þarf að beita mikilli útsjónarsemi til bjarga fórnarlömbunum frá grimmum örlögum sem eru verri en dauðinn...  Lesa meira",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 131,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UwSBQWI-bek",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-09T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/367926/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bones and All",
-    "id": 14247,
-    "alt_title": "Leikstjórn",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/14247_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ung kona, Maren, vill það sama og allir aðrir, aðdáun og virðingu. Hún vill vera elskuð. En leyndar svívirðilegar þarfir hennar hafa ýtt henni í útlegð. Hún hatar sjálfa sig fyrir allt það slæma sem hún gerir, hvað það hefur gert fjölskyldu hennar og eigin sjálfsvitund. Hún valdi það ekki sjálf að vera eins og hún er.",
-    "genres": [
-      "Rómantík",
-      "Drama",
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 130,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=OMIwUf5GBLw",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-09T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3773",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tesciowie 2",
-    "id": 16482,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-09T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3778",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Oppenheimer",
-    "id": 14181,
-    "alt_title": "Barbie fram úr Villibráð - söluhæsta kvikmynd ársins",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1702120_500-1688982490.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sagan af bandaríska vísindamanninum J. Robert Oppenheimer og þætti hans í þróun kjarnorkusprengjunnar.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 180,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-09T17:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783150/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "Unruly",
     "id": 16188,
     "alt_title": "Ustyrlig",
@@ -1018,6 +936,36 @@
           "time": "2023-10-09T18:35:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3780",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fucking Bornholm",
+    "id": 16400,
+    "alt_title": "Kuldi með 11 milljónir",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16400_500.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Pólskur vinahópur fer með börnin sín í langt helgarfrí á dönsku eyjuna Bornholm, rétt eins og gert hefur verið til margra ára. Atvik sem verður í barnahópnum veldur vandamálum í sambandi vinanna. Hvert par virðist hamingjusamt, en eru þau það í raun og veru?  Kannski láta þau bara líta út sem svo sé.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=KQoDSWDzWHM",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-09T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3777",
+          "hall": "Salur 2"
         }
       ]
     }
