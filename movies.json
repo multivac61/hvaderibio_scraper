@@ -409,18 +409,18 @@
           "hall": "MAX"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-09T17:20:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783111/",
-          "hall": "AXL"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2023-10-09T17:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/367951/",
           "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-09T17:20:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783111/",
+          "hall": "AXL"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -652,6 +652,43 @@
     }
   },
   {
+    "title": "Past Lives",
+    "id": 16278,
+    "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16278_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "description": "Nora og Hae Sung, æskuvinir með djúp og sterk tengsl sín á milli, skiljast að þegar fjölskylda Nora flytur frá Suður-Kóreu. Tuttugu árum síðar sameinast þau á ný eina örlagaríka viku og horfast í augu við ást og örlög.",
+    "genres": [
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 106,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=kA244xewjcI",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-09T16:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3795",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-10-09T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3775",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Barbie",
     "id": 15054,
     "alt_title": "Kuldi áfram vinsælust",
@@ -687,43 +724,6 @@
           "time": "2023-10-09T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368253/",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Past Lives",
-    "id": 16278,
-    "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16278_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "description": "Nora og Hae Sung, æskuvinir með djúp og sterk tengsl sín á milli, skiljast að þegar fjölskylda Nora flytur frá Suður-Kóreu. Tuttugu árum síðar sameinast þau á ný eina örlagaríka viku og horfast í augu við ást og örlög.",
-    "genres": [
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 106,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=kA244xewjcI",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-09T16:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3795",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-10-09T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3775",
-          "hall": "Salur 2"
         }
       ]
     }
