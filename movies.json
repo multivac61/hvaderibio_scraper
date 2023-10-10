@@ -748,36 +748,6 @@
     }
   },
   {
-    "title": "Tesciowie 2",
-    "id": 16482,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-10T21:20:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3785",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Unruly",
     "id": 16188,
     "alt_title": "Ustyrlig",
@@ -804,6 +774,40 @@
           "time": "2023-10-10T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3787",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Oppenheimer",
+    "id": 14181,
+    "alt_title": "Barbie fram úr Villibráð - söluhæsta kvikmynd ársins",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1702120_500-1688982490.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sagan af bandaríska vísindamanninum J. Robert Oppenheimer og þætti hans í þróun kjarnorkusprengjunnar.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 180,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-10T17:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783152/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -934,6 +938,40 @@
     }
   },
   {
+    "title": "Bones and All",
+    "id": 14247,
+    "alt_title": "Leikstjórn",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/14247_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ung kona, Maren, vill það sama og allir aðrir, aðdáun og virðingu. Hún vill vera elskuð. En leyndar svívirðilegar þarfir hennar hafa ýtt henni í útlegð. Hún hatar sjálfa sig fyrir allt það slæma sem hún gerir, hvað það hefur gert fjölskyldu hennar og eigin sjálfsvitund. Hún valdi það ekki sjálf að vera eins og hún er.",
+    "genres": [
+      "Rómantík",
+      "Drama",
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=OMIwUf5GBLw",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-10T21:05:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3790",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Sound of Freedom",
     "id": 16351,
     "alt_title": "Barbie komin í 120 milljónir",
@@ -968,69 +1006,31 @@
     }
   },
   {
-    "title": "Oppenheimer",
-    "id": 14181,
-    "alt_title": "Barbie fram úr Villibráð - söluhæsta kvikmynd ársins",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1702120_500-1688982490.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sagan af bandaríska vísindamanninum J. Robert Oppenheimer og þætti hans í þróun kjarnorkusprengjunnar.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 180,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-10T17:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783152/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bones and All",
-    "id": 14247,
+    "title": "Tesciowie 2",
+    "id": 16482,
     "alt_title": "Leikstjórn",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/14247_500.jpg",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
     "rating_urls": [
-      null,
-      null,
       null,
       null
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ung kona, Maren, vill það sama og allir aðrir, aðdáun og virðingu. Hún vill vera elskuð. En leyndar svívirðilegar þarfir hennar hafa ýtt henni í útlegð. Hún hatar sjálfa sig fyrir allt það slæma sem hún gerir, hvað það hefur gert fjölskyldu hennar og eigin sjálfsvitund. Hún valdi það ekki sjálf að vera eins og hún er.",
+    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
     "genres": [
-      "Rómantík",
-      "Drama",
-      "Hrollvekja"
+      "Gaman"
     ],
-    "duration_in_mins": 130,
+    "duration_in_mins": 95,
     "language": [
-      "Enska"
+      "Pólska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=OMIwUf5GBLw",
+    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-10T21:05:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3790",
-          "hall": "Salur 2"
+          "time": "2023-10-10T21:20:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3785",
+          "hall": "Salur 1"
         }
       ]
     }
