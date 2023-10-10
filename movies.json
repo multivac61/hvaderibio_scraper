@@ -344,18 +344,18 @@
           "hall": "MAX"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-10T17:20:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783114/",
-          "hall": "AXL"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2023-10-10T17:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368079/",
           "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-10T17:20:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783114/",
+          "hall": "AXL"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -673,6 +673,41 @@
     }
   },
   {
+    "title": "Starring Jerry As Himself",
+    "id": 16481,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/gt0fbfwpm8rswx8pv19qdytd7b1-1695808786.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Við fylgjumst með Jerry, nýfráskildum manni á eftirlaunum í Flórída. Fjölskylda hans fer yfir innflytjendasögu hans og hvernig kínverska lögreglan fékk hann til þess að vera í leyniþjónustunni.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 75,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1WwLaQTDtNU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-10T19:35:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3783",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-10-10T19:35:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3783",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Barbie",
     "id": 15054,
     "alt_title": "Kuldi áfram vinsælust",
@@ -713,68 +748,97 @@
     }
   },
   {
-    "title": "Starring Jerry As Himself",
-    "id": 16481,
-    "alt_title": "Leikstjórn",
+    "title": "Sound of Freedom",
+    "id": 16351,
+    "alt_title": "Barbie komin í 120 milljónir",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/gt0fbfwpm8rswx8pv19qdytd7b1-1695808786.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16351_500.jpg",
     "rating_urls": [
+      null,
+      null,
       null,
       null
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Við fylgjumst með Jerry, nýfráskildum manni á eftirlaunum í Flórída. Fjölskylda hans fer yfir innflytjendasögu hans og hvernig kínverska lögreglan fékk hann til þess að vera í leyniþjónustunni.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Hin ótrúlega saga af Tim Ballard, fyrrum fulltrúa í leyniþjónustu Bandaríkjanna. Hann hættir í vinnunni til að helga líf sitt því að bjarga börnum úr klóm alþjóðlegs mansalshring djúpt inni í frumskógum Kólumbíu. Hann leggur allt í sölurnar og þarf að beita mikilli útsjónarsemi til bjarga fórnarlömbunum frá grimmum örlögum sem eru verri en dauðinn...  Lesa meira",
     "genres": [
-      "Heimildarmynd"
+      "Spenna",
+      "Drama",
+      "Æviágrip"
     ],
-    "duration_in_mins": 75,
+    "duration_in_mins": 131,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=1WwLaQTDtNU",
+    "trailer_url": "https://www.youtube.com/watch?v=UwSBQWI-bek",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2023-10-10T19:35:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3783",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-10-10T19:35:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3783",
-          "hall": "Salur 3"
+          "time": "2023-10-10T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368032/",
+          "hall": "Salur 2"
         }
       ]
     }
   },
   {
-    "title": "Past Lives",
-    "id": 16278,
-    "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
+    "title": "Skuld",
+    "id": 16465,
+    "alt_title": "Neeson örvæntingarfullur í bíl með sprengju",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16278_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/skuld-1694885897.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimildamynd um ungt par sem hættir skuldastöðu sinni og sambandi er þau feta í fótspor forfeðra sinna og gera út trilluna Skuld á handfæraveiðum. Framtíð þessarar elstu atvinnugreinar þjóðarinnar er óviss og virðist sem einungis einstaka sérvitringur stundi þetta basl, eða hvað?",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 72,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=tMQwTLBR6_Y",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-10T17:25:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3784",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Equalizer 3",
+    "id": 16160,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16160_500.jpg",
     "rating_urls": [
       null,
       null,
       null,
       null
     ],
-    "description": "Nora og Hae Sung, æskuvinir með djúp og sterk tengsl sín á milli, skiljast að þegar fjölskylda Nora flytur frá Suður-Kóreu. Tuttugu árum síðar sameinast þau á ný eina örlagaríka viku og horfast í augu við ást og örlög.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Robert McCall er hættur störfum sem leigumorðingi og býr á suður Ítalíu. Hann kemst að því að vinir hans eru undir hælnum á mafíunni. Eftir því sem líkin hrannast upp veit McCall hvað hann þarf að gera: vernda vini sína og kveða mafíuna í kútinn.",
     "genres": [
-      "Rómantík",
-      "Drama"
+      "Spenna",
+      "Spennutryllir",
+      "Glæpa"
     ],
-    "duration_in_mins": 106,
+    "duration_in_mins": 109,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=kA244xewjcI",
+    "trailer_url": "https://www.youtube.com/watch?v=19ikl8vy4zs",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Smárabíó": [
         {
-          "time": "2023-10-10T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3789",
-          "hall": "Salur 2"
+          "time": "2023-10-10T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103434&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -809,34 +873,6 @@
           "time": "2023-10-10T17:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/783152/",
           "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Skuld",
-    "id": 16465,
-    "alt_title": "Neeson örvæntingarfullur í bíl með sprengju",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/skuld-1694885897.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Heimildamynd um ungt par sem hættir skuldastöðu sinni og sambandi er þau feta í fótspor forfeðra sinna og gera út trilluna Skuld á handfæraveiðum. Framtíð þessarar elstu atvinnugreinar þjóðarinnar er óviss og virðist sem einungis einstaka sérvitringur stundi þetta basl, eða hvað?",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 72,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=tMQwTLBR6_Y",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-10T17:25:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3784",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -906,40 +942,6 @@
     }
   },
   {
-    "title": "Sound of Freedom",
-    "id": 16351,
-    "alt_title": "Barbie komin í 120 milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16351_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Hin ótrúlega saga af Tim Ballard, fyrrum fulltrúa í leyniþjónustu Bandaríkjanna. Hann hættir í vinnunni til að helga líf sitt því að bjarga börnum úr klóm alþjóðlegs mansalshring djúpt inni í frumskógum Kólumbíu. Hann leggur allt í sölurnar og þarf að beita mikilli útsjónarsemi til bjarga fórnarlömbunum frá grimmum örlögum sem eru verri en dauðinn...  Lesa meira",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 131,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UwSBQWI-bek",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-10T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368032/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Unruly",
     "id": 16188,
     "alt_title": "Ustyrlig",
@@ -971,40 +973,6 @@
     }
   },
   {
-    "title": "The Equalizer 3",
-    "id": 16160,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16160_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Robert McCall er hættur störfum sem leigumorðingi og býr á suður Ítalíu. Hann kemst að því að vinir hans eru undir hælnum á mafíunni. Eftir því sem líkin hrannast upp veit McCall hvað hann þarf að gera: vernda vini sína og kveða mafíuna í kútinn.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir",
-      "Glæpa"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=19ikl8vy4zs",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-10T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103434&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
     "title": "I Like Movies",
     "id": 16401,
     "alt_title": "Leikstjórn",
@@ -1030,6 +998,38 @@
         {
           "time": "2023-10-10T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3788",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Past Lives",
+    "id": 16278,
+    "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16278_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "description": "Nora og Hae Sung, æskuvinir með djúp og sterk tengsl sín á milli, skiljast að þegar fjölskylda Nora flytur frá Suður-Kóreu. Tuttugu árum síðar sameinast þau á ný eina örlagaríka viku og horfast í augu við ást og örlög.",
+    "genres": [
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 106,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=kA244xewjcI",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-10T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3789",
           "hall": "Salur 2"
         }
       ]
