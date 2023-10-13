@@ -20,18 +20,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=KudedLV0tP0",
     "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-13T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/782298/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-10-13T21:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/782299/",
-          "hall": "AXL"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2023-10-13T18:00:00.000Z",
@@ -64,6 +52,18 @@
           "time": "2023-10-13T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/367892/",
           "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-13T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/782298/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-10-13T21:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/782299/",
+          "hall": "AXL"
         }
       ],
       "Smárabíó": [
@@ -382,18 +382,18 @@
           "hall": "Salur B"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-13T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/784358/",
-          "hall": "Salur B"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2023-10-13T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368718/",
           "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-13T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/784358/",
+          "hall": "Salur B"
         }
       ],
       "Sambíóin Keflavík": [
@@ -679,6 +679,47 @@
     }
   },
   {
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "id": 16099,
+    "alt_title": "Barbie komin í 120 milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16099_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Eftir að hafa verið í mörg ár í felum í holræsunum fyrir heimi mannanna þá ákveða skjaldbökubræður að fara upp á yfirborðið og reyna að ávinna sér ást og aðdáun borgarbúa í New York og verða á sama tíma viðurkenndir sem venjulegir unglingar sem vinna hetjudáðir. Ný vinkona þeirra April O'Neil hjálpar þeim að vinna bug á alræmdu glæpagengi...  Lesa meira",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=IHvzw4Ibuho",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-13T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368431/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-10-13T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368698/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "A Haunting in Venice",
     "id": 16247,
     "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
@@ -759,47 +800,6 @@
     }
   },
   {
-    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-    "id": 16099,
-    "alt_title": "Barbie komin í 120 milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16099_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Eftir að hafa verið í mörg ár í felum í holræsunum fyrir heimi mannanna þá ákveða skjaldbökubræður að fara upp á yfirborðið og reyna að ávinna sér ást og aðdáun borgarbúa í New York og verða á sama tíma viðurkenndir sem venjulegir unglingar sem vinna hetjudáðir. Ný vinkona þeirra April O'Neil hjálpar þeim að vinna bug á alræmdu glæpagengi...  Lesa meira",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=IHvzw4Ibuho",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-13T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368431/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-10-13T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368698/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Heimaleikurinn",
     "id": 16427,
     "alt_title": "The Home Game",
@@ -836,63 +836,35 @@
     }
   },
   {
-    "title": "Past Lives",
-    "id": 16278,
-    "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
+    "title": "Strays",
+    "id": 16157,
+    "alt_title": "Mennirnir fá á baukinn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16278_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1693572_500-1686564706.jpg",
     "rating_urls": [
       null,
       null,
       null,
       null
     ],
-    "description": "Nora og Hae Sung, æskuvinir með djúp og sterk tengsl sín á milli, skiljast að þegar fjölskylda Nora flytur frá Suður-Kóreu. Tuttugu árum síðar sameinast þau á ný eina örlagaríka viku og horfast í augu við ást og örlög.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar auðtrúa hundurinn Reggie er yfirgefinn á götum úti af eigingjörnum og miskunnarlausum eiganda sínum Doug, dýrahatandi eiturlyfjafíkli sem aldrei vildi hann, gengur hann í lið með öðrum flækingshundum til að hefna sín á Doug.",
     "genres": [
-      "Rómantík",
-      "Drama"
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
     ],
-    "duration_in_mins": 106,
+    "duration_in_mins": 93,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=kA244xewjcI",
+    "trailer_url": "https://www.youtube.com/watch?v=BzwOLKTbCUw",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2023-10-13T16:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3826",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Starring Jerry As Himself",
-    "id": 16481,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/gt0fbfwpm8rswx8pv19qdytd7b1-1695808786.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Við fylgjumst með Jerry, nýfráskildum manni á eftirlaunum í Flórída. Fjölskylda hans fer yfir innflytjendasögu hans og hvernig kínverska lögreglan fékk hann til þess að vera í leyniþjónustunni.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 75,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=1WwLaQTDtNU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-13T16:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3825",
-          "hall": "Salur 2"
+          "time": "2023-10-13T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368446/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -925,72 +897,6 @@
         {
           "time": "2023-10-13T17:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368379/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Vandræðaálfurinn",
-    "id": 16336,
-    "alt_title": "My Fairy Troublemaker",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/1681822068657_ho00001605-1689868662.jpeg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin fjallar um skemmtilega og forvitna tannálfinn Víólettu sem festist í mannheimum við að sækja tönn sem hún átti ekki að sækja! Hinn 12 ára, og mennska, Maxie aðstoðar hana við að komast aftur til baka í ævintýraheiminn sinn.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 85,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=KZjI2-0wv1Y",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-13T15:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/784355/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Expendables 4",
-    "id": 16319,
-    "alt_title": "Expend4bles",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16319_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Með öll þau vopn í höndunum sem þeir geta komist yfir og getuna til að nota þau er The Expendables hópurinn síðasta von heimsins. Þeir eru teymið sem kallað er á þegar öll önnur úrræði hafa brugðist. En nýir meðlimir hafa nýjar venjur og aðferðir og \"nýtt blóð\" fær nú allt aðra og nýja þýðingu.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=DhlaBO-SwVE",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-13T19:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/784356/",
           "hall": "Salur B"
         }
       ]
@@ -1091,35 +997,129 @@
     }
   },
   {
-    "title": "Strays",
-    "id": 16157,
-    "alt_title": "Mennirnir fá á baukinn",
+    "title": "Vandræðaálfurinn",
+    "id": 16336,
+    "alt_title": "My Fairy Troublemaker",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/1681822068657_ho00001605-1689868662.jpeg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Myndin fjallar um skemmtilega og forvitna tannálfinn Víólettu sem festist í mannheimum við að sækja tönn sem hún átti ekki að sækja! Hinn 12 ára, og mennska, Maxie aðstoðar hana við að komast aftur til baka í ævintýraheiminn sinn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 85,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=KZjI2-0wv1Y",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-13T15:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/784355/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Past Lives",
+    "id": 16278,
+    "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1693572_500-1686564706.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16278_500.jpg",
     "rating_urls": [
       null,
       null,
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar auðtrúa hundurinn Reggie er yfirgefinn á götum úti af eigingjörnum og miskunnarlausum eiganda sínum Doug, dýrahatandi eiturlyfjafíkli sem aldrei vildi hann, gengur hann í lið með öðrum flækingshundum til að hefna sín á Doug.",
+    "description": "Nora og Hae Sung, æskuvinir með djúp og sterk tengsl sín á milli, skiljast að þegar fjölskylda Nora flytur frá Suður-Kóreu. Tuttugu árum síðar sameinast þau á ný eina örlagaríka viku og horfast í augu við ást og örlög.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Rómantík",
+      "Drama"
     ],
-    "duration_in_mins": 93,
+    "duration_in_mins": 106,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=BzwOLKTbCUw",
+    "trailer_url": "https://www.youtube.com/watch?v=kA244xewjcI",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Bíó Paradís": [
         {
-          "time": "2023-10-13T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368446/",
-          "hall": "Salur 3"
+          "time": "2023-10-13T16:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3826",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Expendables 4",
+    "id": 16319,
+    "alt_title": "Expend4bles",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16319_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Með öll þau vopn í höndunum sem þeir geta komist yfir og getuna til að nota þau er The Expendables hópurinn síðasta von heimsins. Þeir eru teymið sem kallað er á þegar öll önnur úrræði hafa brugðist. En nýir meðlimir hafa nýjar venjur og aðferðir og \"nýtt blóð\" fær nú allt aðra og nýja þýðingu.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=DhlaBO-SwVE",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-13T19:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/784356/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Starring Jerry As Himself",
+    "id": 16481,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/gt0fbfwpm8rswx8pv19qdytd7b1-1695808786.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Við fylgjumst með Jerry, nýfráskildum manni á eftirlaunum í Flórída. Fjölskylda hans fer yfir innflytjendasögu hans og hvernig kínverska lögreglan fékk hann til þess að vera í leyniþjónustunni.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 75,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1WwLaQTDtNU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-13T16:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3825",
+          "hall": "Salur 2"
         }
       ]
     }
