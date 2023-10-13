@@ -20,6 +20,18 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=KudedLV0tP0",
     "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-13T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/782298/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-10-13T21:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/782299/",
+          "hall": "AXL"
+        }
+      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2023-10-13T18:00:00.000Z",
@@ -52,18 +64,6 @@
           "time": "2023-10-13T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/367892/",
           "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-13T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/782298/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-10-13T21:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/782299/",
-          "hall": "AXL"
         }
       ],
       "Smárabíó": [
@@ -382,18 +382,18 @@
           "hall": "Salur B"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-10-13T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368718/",
-          "hall": "Salur 1"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-10-13T22:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/784358/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-10-13T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368718/",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Keflavík": [
@@ -836,100 +836,6 @@
     }
   },
   {
-    "title": "Strays",
-    "id": 16157,
-    "alt_title": "Mennirnir fá á baukinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1693572_500-1686564706.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar auðtrúa hundurinn Reggie er yfirgefinn á götum úti af eigingjörnum og miskunnarlausum eiganda sínum Doug, dýrahatandi eiturlyfjafíkli sem aldrei vildi hann, gengur hann í lið með öðrum flækingshundum til að hefna sín á Doug.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 93,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=BzwOLKTbCUw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-13T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368446/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Let the River Flow",
-    "id": 16285,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16285_500.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "description": "Ester er ungur Sami sem á við togstreitu að stríða. Hvort á hún að standa með sínu fólki eða fela uppruna sinn í norsku samfélagi? Þegar Samar mótmæla raski á þeirra landi – áformum um stífluvirkjun, þarf Ester að gera upp hug sinn.",
-    "genres": [
-      "Drama",
-      "Söguleg"
-    ],
-    "duration_in_mins": 118,
-    "language": [
-      "Norska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5bdkYYvRSlY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-13T18:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3804",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tesciowie 2",
-    "id": 16482,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-13T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3823",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Past Lives",
     "id": 16278,
     "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
@@ -957,6 +863,36 @@
           "time": "2023-10-13T16:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3826",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Starring Jerry As Himself",
+    "id": 16481,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/gt0fbfwpm8rswx8pv19qdytd7b1-1695808786.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Við fylgjumst með Jerry, nýfráskildum manni á eftirlaunum í Flórída. Fjölskylda hans fer yfir innflytjendasögu hans og hvernig kínverska lögreglan fékk hann til þess að vera í leyniþjónustunni.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 75,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1WwLaQTDtNU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-13T16:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3825",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -990,36 +926,6 @@
           "time": "2023-10-13T17:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368379/",
           "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Starring Jerry As Himself",
-    "id": 16481,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/gt0fbfwpm8rswx8pv19qdytd7b1-1695808786.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Við fylgjumst með Jerry, nýfráskildum manni á eftirlaunum í Flórída. Fjölskylda hans fer yfir innflytjendasögu hans og hvernig kínverska lögreglan fékk hann til þess að vera í leyniþjónustunni.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 75,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=1WwLaQTDtNU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-13T16:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3825",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -1120,6 +1026,100 @@
           "time": "2023-10-13T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368380/",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Let the River Flow",
+    "id": 16285,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16285_500.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "description": "Ester er ungur Sami sem á við togstreitu að stríða. Hvort á hún að standa með sínu fólki eða fela uppruna sinn í norsku samfélagi? Þegar Samar mótmæla raski á þeirra landi – áformum um stífluvirkjun, þarf Ester að gera upp hug sinn.",
+    "genres": [
+      "Drama",
+      "Söguleg"
+    ],
+    "duration_in_mins": 118,
+    "language": [
+      "Norska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5bdkYYvRSlY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-13T18:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3804",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tesciowie 2",
+    "id": 16482,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 95,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-13T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3823",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Strays",
+    "id": 16157,
+    "alt_title": "Mennirnir fá á baukinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1693572_500-1686564706.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar auðtrúa hundurinn Reggie er yfirgefinn á götum úti af eigingjörnum og miskunnarlausum eiganda sínum Doug, dýrahatandi eiturlyfjafíkli sem aldrei vildi hann, gengur hann í lið með öðrum flækingshundum til að hefna sín á Doug.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 93,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=BzwOLKTbCUw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-13T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368446/",
+          "hall": "Salur 3"
         }
       ]
     }
