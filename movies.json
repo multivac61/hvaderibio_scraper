@@ -85,17 +85,17 @@
           "hall": "Salur 1"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-10-17T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368720/",
-          "hall": "Salur 1"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2023-10-17T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368412/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-10-17T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368720/",
           "hall": "Salur 1"
         }
       ]
@@ -150,22 +150,22 @@
           "hall": "MAX"
         }
       ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-17T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368660/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-10-17T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368481/",
-          "hall": "Salur 1"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-10-17T17:20:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/784352/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-17T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368481/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-10-17T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368660/",
           "hall": "Salur A"
         }
       ],
@@ -643,6 +643,47 @@
     }
   },
   {
+    "title": "The Nun 2",
+    "id": 16150,
+    "alt_title": "The Nun II",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16150_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Sagan gerist í Frakklandi árið 1956. Prestur er myrtur og vonskan breiðist út. Systir Irene þarf rétt einu sinni að horfast í augu við hina illgjörnu Valak, djöflanunnuna.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=QF-oyCwaArU",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-17T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368449/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-17T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368748/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Green Border",
     "id": 16502,
     "alt_title": "Zielona granica",
@@ -674,6 +715,46 @@
           "time": "2023-10-17T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3865",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Barbie",
+    "id": 15054,
+    "alt_title": "Kuldi áfram vinsælust",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/15054_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 9 ára",
+    "description": "Barbie og Ken njóta lífsins í Barbie landi, hinum litríka og fullkomna heimi. En þegar þau fá tækifæri til að fara yfir í hina raunverulegu veröld uppgötva þau fljótt bæði gleðina og hætturnar sem felast í því að búa á meðal manna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 114,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-17T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368420/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-17T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368737/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -761,82 +842,35 @@
     }
   },
   {
-    "title": "The Nun 2",
-    "id": 16150,
-    "alt_title": "The Nun II",
+    "title": "Oppenheimer",
+    "id": 14181,
+    "alt_title": "Barbie fram úr Villibráð - söluhæsta kvikmynd ársins",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16150_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1702120_500-1688982490.jpg",
     "rating_urls": [
       null,
       null,
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Sagan gerist í Frakklandi árið 1956. Prestur er myrtur og vonskan breiðist út. Systir Irene þarf rétt einu sinni að horfast í augu við hina illgjörnu Valak, djöflanunnuna.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sagan af bandaríska vísindamanninum J. Robert Oppenheimer og þætti hans í þróun kjarnorkusprengjunnar.",
     "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
     ],
-    "duration_in_mins": 110,
+    "duration_in_mins": 180,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=QF-oyCwaArU",
+    "trailer_url": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-17T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368449/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-17T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368748/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Barbie",
-    "id": 15054,
-    "alt_title": "Kuldi áfram vinsælust",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/15054_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 9 ára",
-    "description": "Barbie og Ken njóta lífsins í Barbie landi, hinum litríka og fullkomna heimi. En þegar þau fá tækifæri til að fara yfir í hina raunverulegu veröld uppgötva þau fljótt bæði gleðina og hætturnar sem felast í því að búa á meðal manna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 114,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-17T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368420/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Egilshöll": [
+      "Laugarásbíó": [
         {
           "time": "2023-10-17T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368737/",
-          "hall": "Salur 4"
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/784369/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -1025,40 +1059,6 @@
           "time": "2023-10-17T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368439/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Oppenheimer",
-    "id": 14181,
-    "alt_title": "Barbie fram úr Villibráð - söluhæsta kvikmynd ársins",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1702120_500-1688982490.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sagan af bandaríska vísindamanninum J. Robert Oppenheimer og þætti hans í þróun kjarnorkusprengjunnar.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 180,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-17T17:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/784369/",
-          "hall": "Salur B"
         }
       ]
     }
