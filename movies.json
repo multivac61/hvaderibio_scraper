@@ -68,18 +68,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-19T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104030&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2023-10-19T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103704&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2023-10-19T20:00:00.000Z",
@@ -235,68 +223,6 @@
     }
   },
   {
-    "title": "Kuldi",
-    "id": 16170,
-    "alt_title": "Cold",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/kuldi_poster_-1691405627.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Þegar Óðinn byrjar að rannsaka áratuga gömul dauðsföll á unglingaheimili, fer hann að gruna að óhugnalegir atburðir þaðan tengist dularfullu sjálfsmorði eiginkonu hans — sem og skringilegri hegðun táningsdóttur hans.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 96,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-19T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368743/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-10-19T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368742/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-10-19T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368639/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-10-19T21:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368640/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-19T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103705&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2023-10-19T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103718&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
     "title": "PAW Patrol: The Mighty Movie",
     "id": 16337,
     "alt_title": "Hvolpasveitin: Ofurmyndin",
@@ -425,52 +351,58 @@
     }
   },
   {
-    "title": "Saw X",
-    "id": 16407,
-    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "title": "Kuldi",
+    "id": 16170,
+    "alt_title": "Cold",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16407_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/kuldi_poster_-1691405627.jpg",
     "rating_urls": [
-      null,
-      null,
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "John Kramer er á leið til Mexíkó þar sem hann vonast eftir að fá að taka þátt í nýrri en áhættusamri krabbameinsmeðferð sem lofar góðu. Þegar þangað er komið áttar hann sig á að hann hefur verið plataður og er fórnarlamb netsvika. Nú hefur hann fundið nýjan tilgang. Þessi alræmdi fjöldamorðingi tekur aftur til starfa og hefnir sín á svikahröppunum...  Lesa meira",
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Þegar Óðinn byrjar að rannsaka áratuga gömul dauðsföll á unglingaheimili, fer hann að gruna að óhugnalegir atburðir þaðan tengist dularfullu sjálfsmorði eiginkonu hans — sem og skringilegri hegðun táningsdóttur hans.",
     "genres": [
-      "Hrollvekja",
+      "Drama",
       "Spennutryllir",
-      "Ráðgáta"
+      "Glæpa",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 118,
+    "duration_in_mins": 96,
     "language": [
-      "Enska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3PzUo4P21c",
+    "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2023-10-19T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785321/",
-          "hall": "Salur A"
+          "time": "2023-10-19T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368743/",
+          "hall": "Salur 3"
         },
         {
-          "time": "2023-10-19T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785322/",
-          "hall": "Salur A"
+          "time": "2023-10-19T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368742/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-10-19T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368639/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-10-19T21:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368640/",
+          "hall": "Salur 3"
         }
       ],
       "Smárabíó": [
         {
-          "time": "2023-10-19T21:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103716&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-10-19T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103776&visLang=1",
-          "hall": "LÚXUS"
+          "time": "2023-10-19T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103718&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -524,6 +456,57 @@
     }
   },
   {
+    "title": "Saw X",
+    "id": 16407,
+    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16407_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "John Kramer er á leið til Mexíkó þar sem hann vonast eftir að fá að taka þátt í nýrri en áhættusamri krabbameinsmeðferð sem lofar góðu. Þegar þangað er komið áttar hann sig á að hann hefur verið plataður og er fórnarlamb netsvika. Nú hefur hann fundið nýjan tilgang. Þessi alræmdi fjöldamorðingi tekur aftur til starfa og hefnir sín á svikahröppunum...  Lesa meira",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 118,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3PzUo4P21c",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-19T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785321/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-10-19T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785322/",
+          "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-19T21:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103716&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2023-10-19T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103776&visLang=1",
+          "hall": "LÚXUS"
+        }
+      ]
+    }
+  },
+  {
     "title": "A Haunting in Venice",
     "id": 16247,
     "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
@@ -565,91 +548,6 @@
           "time": "2023-10-19T21:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368643/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Taylor Swift: The Eras Tour",
-    "id": 16501,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16501_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Skærasta tónlistarstjarna heims heldur áfram að skína og nú á hvíta tjaldinu! Upplifðu þetta einstaka og sögulega tónleikaferðalag Taylor Swift á stóra tjaldinu í bíó! Bíógestir eru hvattir til að mæta í Taylor Swift Eras Tour klæðnaði og vináttubönd eru að sjálfsögðu hjartanlega velkomin!",
-    "genres": [
-      "Tónlist"
-    ],
-    "duration_in_mins": 168,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=KudedLV0tP0",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-19T18:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103047&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-10-19T18:45:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103051&visLang=1",
-          "hall": "LÚXUS"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-19T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/782304/",
-          "hall": "AXL"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Heimaleikurinn",
-    "id": 16427,
-    "alt_title": "The Home Game",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/367487358_10230638888585746_8192122211807456626_n-1693558790.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Heimaleikurinn er gamansöm íþróttaheimildamynd um tilraun manns til að uppfylla draum föður síns; að safna í lið heimamanna til að spila langþráðan vígsluleik á fótboltavelli sem faðirinn lét byggja á Hellissandi 25 árum áður.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 79,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=j550T_BChJU",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-19T17:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104028&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-19T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103844&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-19T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3886",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -736,6 +634,43 @@
     }
   },
   {
+    "title": "Fallen Leaves",
+    "id": 16299,
+    "alt_title": "Kuolleet lehdet",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/fjsvwgxd3yn9kcamwj983ycizl6-1686577667.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 81,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-19T19:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3883",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-10-19T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3885",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Expendables 4",
     "id": 16319,
     "alt_title": "Expend4bles",
@@ -777,38 +712,30 @@
     }
   },
   {
-    "title": "Fallen Leaves",
-    "id": 16299,
-    "alt_title": "Kuolleet lehdet",
+    "title": "Heimaleikurinn",
+    "id": 16427,
+    "alt_title": "The Home Game",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/fjsvwgxd3yn9kcamwj983ycizl6-1686577667.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "poster_url": "https://kvikmyndir.is/images/poster/367487358_10230638888585746_8192122211807456626_n-1693558790.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimaleikurinn er gamansöm íþróttaheimildamynd um tilraun manns til að uppfylla draum föður síns; að safna í lið heimamanna til að spila langþráðan vígsluleik á fótboltavelli sem faðirinn lét byggja á Hellissandi 25 árum áður.",
     "genres": [
-      "Gaman",
-      "Drama"
+      "Heimildarmynd",
+      "Íslensk mynd",
+      "Íþróttir"
     ],
-    "duration_in_mins": 81,
+    "duration_in_mins": 79,
     "language": [
-      "Finnska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "trailer_url": "https://www.youtube.com/watch?v=j550T_BChJU",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-19T19:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3883",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-10-19T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3885",
-          "hall": "Salur 1"
+          "time": "2023-10-19T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3886",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -906,6 +833,38 @@
           "time": "2023-10-19T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368441/",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Taylor Swift: The Eras Tour",
+    "id": 16501,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16501_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Skærasta tónlistarstjarna heims heldur áfram að skína og nú á hvíta tjaldinu! Upplifðu þetta einstaka og sögulega tónleikaferðalag Taylor Swift á stóra tjaldinu í bíó! Bíógestir eru hvattir til að mæta í Taylor Swift Eras Tour klæðnaði og vináttubönd eru að sjálfsögðu hjartanlega velkomin!",
+    "genres": [
+      "Tónlist"
+    ],
+    "duration_in_mins": 168,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=KudedLV0tP0",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-19T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/782304/",
+          "hall": "AXL"
         }
       ]
     }
