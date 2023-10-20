@@ -244,13 +244,13 @@
         },
         {
           "time": "2023-10-20T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368920/",
-          "hall": "Salur 3"
+          "purchase_url": "http://www.sambio.is/websales/show/368952/",
+          "hall": "Ásberg"
         },
         {
           "time": "2023-10-20T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368952/",
-          "hall": "Ásberg"
+          "purchase_url": "http://www.sambio.is/websales/show/368920/",
+          "hall": "Salur 3"
         }
       ],
       "Sambíóin Álfabakka": [
@@ -275,17 +275,17 @@
           "hall": "Lúxus VIP"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-10-20T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/369141/",
-          "hall": "Salur 1"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2023-10-20T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/369042/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-10-20T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/369141/",
           "hall": "Salur 1"
         }
       ]
@@ -490,6 +490,52 @@
     }
   },
   {
+    "title": "Heimaleikurinn",
+    "id": 16427,
+    "alt_title": "The Home Game",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/367487358_10230638888585746_8192122211807456626_n-1693558790.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimaleikurinn er gamansöm íþróttaheimildamynd um tilraun manns til að uppfylla draum föður síns; að safna í lið heimamanna til að spila langþráðan vígsluleik á fótboltavelli sem faðirinn lét byggja á Hellissandi 25 árum áður.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 79,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=j550T_BChJU",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-10-20T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103850&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2023-10-20T17:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103849&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2023-10-20T19:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103845&visLang=1",
+          "hall": "Salur 4"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-20T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3939",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Tilverur",
     "id": 16457,
     "alt_title": "Solitude",
@@ -532,52 +578,6 @@
         {
           "time": "2023-10-20T18:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368868/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Heimaleikurinn",
-    "id": 16427,
-    "alt_title": "The Home Game",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/367487358_10230638888585746_8192122211807456626_n-1693558790.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Heimaleikurinn er gamansöm íþróttaheimildamynd um tilraun manns til að uppfylla draum föður síns; að safna í lið heimamanna til að spila langþráðan vígsluleik á fótboltavelli sem faðirinn lét byggja á Hellissandi 25 árum áður.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 79,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=j550T_BChJU",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-20T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103850&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-10-20T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103849&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-10-20T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103845&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-20T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3939",
           "hall": "Salur 2"
         }
       ]
@@ -721,42 +721,42 @@
     }
   },
   {
-    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-    "id": 16099,
-    "alt_title": "Barbie komin í 120 milljónir",
+    "title": "The Nun 2",
+    "id": 16150,
+    "alt_title": "The Nun II",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16099_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16150_500.jpg",
     "rating_urls": [
       null,
       null,
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Eftir að hafa verið í mörg ár í felum í holræsunum fyrir heimi mannanna þá ákveða skjaldbökubræður að fara upp á yfirborðið og reyna að ávinna sér ást og aðdáun borgarbúa í New York og verða á sama tíma viðurkenndir sem venjulegir unglingar sem vinna hetjudáðir. Ný vinkona þeirra April O'Neil hjálpar þeim að vinna bug á alræmdu glæpagengi...  Lesa meira",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Sagan gerist í Frakklandi árið 1956. Prestur er myrtur og vonskan breiðist út. Systir Irene þarf rétt einu sinni að horfast í augu við hina illgjörnu Valak, djöflanunnuna.",
     "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
     ],
-    "duration_in_mins": 99,
+    "duration_in_mins": 110,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=IHvzw4Ibuho",
+    "trailer_url": "https://www.youtube.com/watch?v=QF-oyCwaArU",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2023-10-20T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368805/",
-          "hall": "Salur B"
+          "time": "2023-10-20T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368814/",
+          "hall": "Salur 3"
         }
       ],
-      "Sambíóin Akureyri": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2023-10-20T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/369143/",
-          "hall": "Salur 2"
+          "time": "2023-10-20T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/369053/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -800,40 +800,42 @@
     }
   },
   {
-    "title": "A Haunting in Venice",
-    "id": 16247,
-    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "id": 16099,
+    "alt_title": "Barbie komin í 120 milljónir",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16247_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16099_500.jpg",
     "rating_urls": [
       null,
       null,
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Hinn rómaði einkaspæjari Hercule Poirot er sestur í helgan stein og býr í sjálfskipaðri útlegð í Feneyjum á Ítalíu. Með semingi mætir hann á skyggnilýsingu í gamalli höll í niðurníðslu. Þegar einn gestanna finnst myrtur sogast Poirot inn í skuggalegan heim leyndarmála og dulúðar.",
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Eftir að hafa verið í mörg ár í felum í holræsunum fyrir heimi mannanna þá ákveða skjaldbökubræður að fara upp á yfirborðið og reyna að ávinna sér ást og aðdáun borgarbúa í New York og verða á sama tíma viðurkenndir sem venjulegir unglingar sem vinna hetjudáðir. Ný vinkona þeirra April O'Neil hjálpar þeim að vinna bug á alræmdu glæpagengi...  Lesa meira",
     "genres": [
-      "Drama",
-      "Hrollvekja",
-      "Glæpa"
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
     ],
-    "duration_in_mins": 103,
+    "duration_in_mins": 99,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=yEddsSwweyE",
+    "trailer_url": "https://www.youtube.com/watch?v=IHvzw4Ibuho",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2023-10-20T15:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368827/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-20T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368828/",
+          "time": "2023-10-20T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368805/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-10-20T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/369143/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -915,6 +917,45 @@
     }
   },
   {
+    "title": "A Haunting in Venice",
+    "id": 16247,
+    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16247_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Hinn rómaði einkaspæjari Hercule Poirot er sestur í helgan stein og býr í sjálfskipaðri útlegð í Feneyjum á Ítalíu. Með semingi mætir hann á skyggnilýsingu í gamalli höll í niðurníðslu. Þegar einn gestanna finnst myrtur sogast Poirot inn í skuggalegan heim leyndarmála og dulúðar.",
+    "genres": [
+      "Drama",
+      "Hrollvekja",
+      "Glæpa"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=yEddsSwweyE",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-20T15:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368827/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-10-20T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368828/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Green Border",
     "id": 16502,
     "alt_title": "Zielona granica",
@@ -951,42 +992,31 @@
     }
   },
   {
-    "title": "The Nun 2",
-    "id": 16150,
-    "alt_title": "The Nun II",
+    "title": "Tesciowie 2",
+    "id": 16482,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16150_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
     "rating_urls": [
-      null,
-      null,
       null,
       null
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Sagan gerist í Frakklandi árið 1956. Prestur er myrtur og vonskan breiðist út. Systir Irene þarf rétt einu sinni að horfast í augu við hina illgjörnu Valak, djöflanunnuna.",
+    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
     "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
+      "Gaman"
     ],
-    "duration_in_mins": 110,
+    "duration_in_mins": 95,
     "language": [
-      "Enska"
+      "Pólska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=QF-oyCwaArU",
+    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Bíó Paradís": [
         {
-          "time": "2023-10-20T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368814/",
+          "time": "2023-10-20T21:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3906",
           "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-20T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/369053/",
-          "hall": "Salur 4"
         }
       ]
     }
@@ -1087,36 +1117,6 @@
           "time": "2023-10-20T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/2590",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tesciowie 2",
-    "id": 16482,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-20T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3906",
-          "hall": "Salur 3"
         }
       ]
     }
