@@ -584,50 +584,6 @@
     }
   },
   {
-    "title": "Litlu skrímslin",
-    "id": 16517,
-    "alt_title": "Finnick",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1695415833250_ho00001667-1697536333.jpeg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Finnrik er ungt finnsli sem hefur engan áhuga á að húsið hans verði að heimili. En allt breytist þegar ný fjölskylda flytur í húsið og ekkert af brellum og brögðum hans virka lengur.",
-    "genres": [
-      "Ævintýri",
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 85,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=R6a7qzPLv0s",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-20T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103720&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-20T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103721&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-20T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785245/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
     "title": "Kuldi",
     "id": 16170,
     "alt_title": "Cold",
@@ -670,6 +626,50 @@
           "time": "2023-10-20T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/368804/",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Litlu skrímslin",
+    "id": 16517,
+    "alt_title": "Finnick",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1695415833250_ho00001667-1697536333.jpeg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Finnrik er ungt finnsli sem hefur engan áhuga á að húsið hans verði að heimili. En allt breytist þegar ný fjölskylda flytur í húsið og ekkert af brellum og brögðum hans virka lengur.",
+    "genres": [
+      "Ævintýri",
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 85,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=R6a7qzPLv0s",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-10-20T15:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103720&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-10-20T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103721&visLang=1",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-20T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785245/",
+          "hall": "Salur A"
         }
       ]
     }
@@ -721,45 +721,6 @@
     }
   },
   {
-    "title": "A Haunting in Venice",
-    "id": 16247,
-    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16247_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Hinn rómaði einkaspæjari Hercule Poirot er sestur í helgan stein og býr í sjálfskipaðri útlegð í Feneyjum á Ítalíu. Með semingi mætir hann á skyggnilýsingu í gamalli höll í niðurníðslu. Þegar einn gestanna finnst myrtur sogast Poirot inn í skuggalegan heim leyndarmála og dulúðar.",
-    "genres": [
-      "Drama",
-      "Hrollvekja",
-      "Glæpa"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=yEddsSwweyE",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-20T15:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368827/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-20T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368828/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Nun 2",
     "id": 16150,
     "alt_title": "The Nun II",
@@ -796,45 +757,6 @@
           "time": "2023-10-20T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/369053/",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Expendables 4",
-    "id": 16319,
-    "alt_title": "Expend4bles",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16319_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Með öll þau vopn í höndunum sem þeir geta komist yfir og getuna til að nota þau er The Expendables hópurinn síðasta von heimsins. Þeir eru teymið sem kallað er á þegar öll önnur úrræði hafa brugðist. En nýir meðlimir hafa nýjar venjur og aðferðir og \"nýtt blóð\" fær nú allt aðra og nýja þýðingu.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=DhlaBO-SwVE",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-20T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785350/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2023-10-20T22:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785349/",
-          "hall": "Salur B"
         }
       ]
     }
@@ -919,6 +841,45 @@
     }
   },
   {
+    "title": "The Expendables 4",
+    "id": 16319,
+    "alt_title": "Expend4bles",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16319_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Með öll þau vopn í höndunum sem þeir geta komist yfir og getuna til að nota þau er The Expendables hópurinn síðasta von heimsins. Þeir eru teymið sem kallað er á þegar öll önnur úrræði hafa brugðist. En nýir meðlimir hafa nýjar venjur og aðferðir og \"nýtt blóð\" fær nú allt aðra og nýja þýðingu.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=DhlaBO-SwVE",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-20T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785350/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2023-10-20T22:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785349/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
     "title": "Fallen Leaves",
     "id": 16299,
     "alt_title": "Kuolleet lehdet",
@@ -951,6 +912,45 @@
           "time": "2023-10-20T19:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3892",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "A Haunting in Venice",
+    "id": 16247,
+    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16247_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Hinn rómaði einkaspæjari Hercule Poirot er sestur í helgan stein og býr í sjálfskipaðri útlegð í Feneyjum á Ítalíu. Með semingi mætir hann á skyggnilýsingu í gamalli höll í niðurníðslu. Þegar einn gestanna finnst myrtur sogast Poirot inn í skuggalegan heim leyndarmála og dulúðar.",
+    "genres": [
+      "Drama",
+      "Hrollvekja",
+      "Glæpa"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=yEddsSwweyE",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-20T15:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368827/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-10-20T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368828/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -992,36 +992,6 @@
     }
   },
   {
-    "title": "Tesciowie 2",
-    "id": 16482,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-20T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3906",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Let the River Flow",
     "id": 16285,
     "alt_title": "Leikstjórn",
@@ -1047,40 +1017,6 @@
           "time": "2023-10-20T18:30:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3893",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Strays",
-    "id": 16157,
-    "alt_title": "Mennirnir fá á baukinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1693572_500-1686564706.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar auðtrúa hundurinn Reggie er yfirgefinn á götum úti af eigingjörnum og miskunnarlausum eiganda sínum Doug, dýrahatandi eiturlyfjafíkli sem aldrei vildi hann, gengur hann í lið með öðrum flækingshundum til að hefna sín á Doug.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 93,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=BzwOLKTbCUw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-20T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368811/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -1117,6 +1053,70 @@
           "time": "2023-10-20T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/2590",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tesciowie 2",
+    "id": 16482,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 95,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-20T21:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3906",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Strays",
+    "id": 16157,
+    "alt_title": "Mennirnir fá á baukinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1693572_500-1686564706.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar auðtrúa hundurinn Reggie er yfirgefinn á götum úti af eigingjörnum og miskunnarlausum eiganda sínum Doug, dýrahatandi eiturlyfjafíkli sem aldrei vildi hann, gengur hann í lið með öðrum flækingshundum til að hefna sín á Doug.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 93,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=BzwOLKTbCUw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-20T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368811/",
+          "hall": "Salur 3"
         }
       ]
     }
