@@ -189,6 +189,7 @@
     "rating_urls": [
       null,
       null,
+      null,
       null
     ],
     "content_rating": "Bönnuð innan 16 ára",
@@ -696,6 +697,99 @@
     }
   },
   {
+    "title": "The Expendables 4",
+    "id": 16319,
+    "alt_title": "Expend4bles",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16319_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Með öll þau vopn í höndunum sem þeir geta komist yfir og getuna til að nota þau er The Expendables hópurinn síðasta von heimsins. Þeir eru teymið sem kallað er á þegar öll önnur úrræði hafa brugðist. En nýir meðlimir hafa nýjar venjur og aðferðir og \"nýtt blóð\" fær nú allt aðra og nýja þýðingu.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=DhlaBO-SwVE",
+    "cinema_showtimes": {
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-10-21T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/369149/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-21T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785355/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2023-10-21T22:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785356/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Kuldi",
+    "id": 16170,
+    "alt_title": "Cold",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/kuldi_poster_-1691405627.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Þegar Óðinn byrjar að rannsaka áratuga gömul dauðsföll á unglingaheimili, fer hann að gruna að óhugnalegir atburðir þaðan tengist dularfullu sjálfsmorði eiginkonu hans — sem og skringilegri hegðun táningsdóttur hans.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 96,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-21T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/369047/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-21T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103862&visLang=1",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-10-21T21:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368801/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Heimaleikurinn",
     "id": 16427,
     "alt_title": "The Home Game",
@@ -783,209 +877,37 @@
     }
   },
   {
-    "title": "Kuldi",
-    "id": 16170,
-    "alt_title": "Cold",
+    "title": "Fallen Leaves",
+    "id": 16299,
+    "alt_title": "Kuolleet lehdet",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/kuldi_poster_-1691405627.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
     "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Þegar Óðinn byrjar að rannsaka áratuga gömul dauðsföll á unglingaheimili, fer hann að gruna að óhugnalegir atburðir þaðan tengist dularfullu sjálfsmorði eiginkonu hans — sem og skringilegri hegðun táningsdóttur hans.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 96,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-21T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/369047/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-21T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103862&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-10-21T21:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368801/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Expendables 4",
-    "id": 16319,
-    "alt_title": "Expend4bles",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16319_500.jpg",
-    "rating_urls": [
-      null,
       null,
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Með öll þau vopn í höndunum sem þeir geta komist yfir og getuna til að nota þau er The Expendables hópurinn síðasta von heimsins. Þeir eru teymið sem kallað er á þegar öll önnur úrræði hafa brugðist. En nýir meðlimir hafa nýjar venjur og aðferðir og \"nýtt blóð\" fær nú allt aðra og nýja þýðingu.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=DhlaBO-SwVE",
-    "cinema_showtimes": {
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-10-21T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/369149/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-21T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785355/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2023-10-21T22:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785356/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Nun 2",
-    "id": 16150,
-    "alt_title": "The Nun II",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16150_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Sagan gerist í Frakklandi árið 1956. Prestur er myrtur og vonskan breiðist út. Systir Irene þarf rétt einu sinni að horfast í augu við hina illgjörnu Valak, djöflanunnuna.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=QF-oyCwaArU",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-21T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368819/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-21T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/369054/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Litlu skrímslin",
-    "id": 16517,
-    "alt_title": "Finnick",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1695415833250_ho00001667-1697536333.jpeg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Finnrik er ungt finnsli sem hefur engan áhuga á að húsið hans verði að heimili. En allt breytist þegar ný fjölskylda flytur í húsið og ekkert af brellum og brögðum hans virka lengur.",
-    "genres": [
-      "Ævintýri",
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 85,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=R6a7qzPLv0s",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-21T14:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785242/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-10-21T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785241/",
-          "hall": "AXL"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Northern Comfort",
-    "id": 14479,
-    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/nor_com-1687274090.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Fyrrverandi sérsveitarmaður, stressaður byggingaverkfræðingur, áhrifavaldur með hálfa milljón fylgjenda og vanhæfur leiðbeinandi lenda saman á flughræðslunámskeiði. Lokaprófraunin er svokallað útskriftarflug frá London til Íslands sem reynist vera þrautinni þyngri. Ráðvilltur á Íslandi neyðist hópurinn til að vinna saman að því að sigrast á óttanum,...  Lesa meira",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
     "genres": [
       "Gaman",
-      "Íslensk mynd"
+      "Drama"
     ],
-    "duration_in_mins": 97,
+    "duration_in_mins": 81,
     "language": [
-      "Enska"
+      "Finnska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=eZVzfzJGPOo",
+    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-10-21T21:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103861&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Bíó Paradís": [
         {
-          "time": "2023-10-21T22:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3918",
+          "time": "2023-10-21T14:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3901",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-10-21T19:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3900",
           "hall": "Salur 2"
         }
       ]
@@ -1069,38 +991,152 @@
     }
   },
   {
-    "title": "Fallen Leaves",
-    "id": 16299,
-    "alt_title": "Kuolleet lehdet",
+    "title": "Northern Comfort",
+    "id": 14479,
+    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/nor_com-1687274090.jpg",
     "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Fyrrverandi sérsveitarmaður, stressaður byggingaverkfræðingur, áhrifavaldur með hálfa milljón fylgjenda og vanhæfur leiðbeinandi lenda saman á flughræðslunámskeiði. Lokaprófraunin er svokallað útskriftarflug frá London til Íslands sem reynist vera þrautinni þyngri. Ráðvilltur á Íslandi neyðist hópurinn til að vinna saman að því að sigrast á óttanum,...  Lesa meira",
+    "genres": [
+      "Gaman",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 97,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=eZVzfzJGPOo",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-10-21T21:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103861&visLang=1",
+          "hall": "Salur 5"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-21T22:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3918",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Nun 2",
+    "id": 16150,
+    "alt_title": "The Nun II",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16150_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Sagan gerist í Frakklandi árið 1956. Prestur er myrtur og vonskan breiðist út. Systir Irene þarf rétt einu sinni að horfast í augu við hina illgjörnu Valak, djöflanunnuna.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=QF-oyCwaArU",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-10-21T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368819/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-21T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/369054/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Litlu skrímslin",
+    "id": 16517,
+    "alt_title": "Finnick",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1695415833250_ho00001667-1697536333.jpeg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Finnrik er ungt finnsli sem hefur engan áhuga á að húsið hans verði að heimili. En allt breytist þegar ný fjölskylda flytur í húsið og ekkert af brellum og brögðum hans virka lengur.",
+    "genres": [
+      "Ævintýri",
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 85,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=R6a7qzPLv0s",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-21T14:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785242/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-10-21T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785241/",
+          "hall": "AXL"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Dazed and Confused",
+    "id": 1069,
+    "alt_title": "Gera Lé níræður og áttræður",
+    "release_year": 1993,
+    "poster_url": "https://kvikmyndir.is/images/poster/dazed-1540552210.jpg",
+    "rating_urls": [
+      null,
+      null,
       null,
       null,
       null
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "description": "Það er lokadagur miðskólans í litlum bæ í Texas árið 1976. Eldri nemendur níðast á nýnemunum, og allir eru að reyna að komast í vímu, verða drukknir eða komast í bólið með einhverjum, jafnvel fótboltastrákarnir sem hafa skrifað undir samning um að láta allt slíkt vera.",
     "genres": [
       "Gaman",
-      "Drama"
+      "Drama",
+      "Unglingamynd"
     ],
-    "duration_in_mins": 81,
+    "duration_in_mins": 102,
     "language": [
-      "Finnska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "trailer_url": "https://www.youtube.com/watch?v=caJu4be6O2c",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-21T14:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3901",
+          "time": "2023-10-21T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3542",
           "hall": "Salur 1"
-        },
-        {
-          "time": "2023-10-21T19:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3900",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -1140,36 +1176,6 @@
     }
   },
   {
-    "title": "Let the River Flow",
-    "id": 16285,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16285_500.jpg",
-    "rating_urls": [
-      null,
-      null
-    ],
-    "description": "Ester er ungur Sami sem á við togstreitu að stríða. Hvort á hún að standa með sínu fólki eða fela uppruna sinn í norsku samfélagi? Þegar Samar mótmæla raski á þeirra landi – áformum um stífluvirkjun, þarf Ester að gera upp hug sinn.",
-    "genres": [
-      "Drama",
-      "Söguleg"
-    ],
-    "duration_in_mins": 118,
-    "language": [
-      "Norska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5bdkYYvRSlY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-21T16:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3902",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Dead Man Walking",
     "id": 491,
     "alt_title": "Leikstjórn",
@@ -1197,6 +1203,67 @@
         {
           "time": "2023-10-21T16:55:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/360269/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Green Border",
+    "id": 16502,
+    "alt_title": "Zielona granica",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16502_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sýrlensk flóttafjölskylda, enskukennari frá Afganistan og landamæravörður mætast á landamærum Póllands og Hvíta-Rússlands.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 147,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=XLPVWnajeUE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-21T16:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3899",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Let the River Flow",
+    "id": 16285,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16285_500.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "description": "Ester er ungur Sami sem á við togstreitu að stríða. Hvort á hún að standa með sínu fólki eða fela uppruna sinn í norsku samfélagi? Þegar Samar mótmæla raski á þeirra landi – áformum um stífluvirkjun, þarf Ester að gera upp hug sinn.",
+    "genres": [
+      "Drama",
+      "Söguleg"
+    ],
+    "duration_in_mins": 118,
+    "language": [
+      "Norska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5bdkYYvRSlY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-21T16:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3902",
           "hall": "Salur 1"
         }
       ]
@@ -1358,72 +1425,6 @@
           "time": "2023-10-21T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3911",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Dazed and Confused",
-    "id": 1069,
-    "alt_title": "Gera Lé níræður og áttræður",
-    "release_year": 1993,
-    "poster_url": "https://kvikmyndir.is/images/poster/dazed-1540552210.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Það er lokadagur miðskólans í litlum bæ í Texas árið 1976. Eldri nemendur níðast á nýnemunum, og allir eru að reyna að komast í vímu, verða drukknir eða komast í bólið með einhverjum, jafnvel fótboltastrákarnir sem hafa skrifað undir samning um að láta allt slíkt vera.",
-    "genres": [
-      "Gaman",
-      "Drama",
-      "Unglingamynd"
-    ],
-    "duration_in_mins": 102,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=caJu4be6O2c",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-21T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3542",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Green Border",
-    "id": 16502,
-    "alt_title": "Zielona granica",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16502_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sýrlensk flóttafjölskylda, enskukennari frá Afganistan og landamæravörður mætast á landamærum Póllands og Hvíta-Rússlands.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 147,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=XLPVWnajeUE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-21T16:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3899",
-          "hall": "Salur 2"
         }
       ]
     }
