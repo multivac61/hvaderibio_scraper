@@ -681,43 +681,6 @@
     }
   },
   {
-    "title": "Fallen Leaves",
-    "id": 16299,
-    "alt_title": "Kuolleet lehdet",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 81,
-    "language": [
-      "Finnska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-23T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3925",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-10-23T21:20:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3926",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Nun 2",
     "id": 16150,
     "alt_title": "The Nun II",
@@ -754,6 +717,43 @@
           "time": "2023-10-23T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/369051/",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fallen Leaves",
+    "id": 16299,
+    "alt_title": "Kuolleet lehdet",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 81,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-23T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3925",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-10-23T21:20:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3926",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -913,7 +913,7 @@
         {
           "time": "2023-10-23T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3921",
-          "hall": "Salur 2"
+          "hall": "Salur 3"
         }
       ]
     }
@@ -946,7 +946,7 @@
         {
           "time": "2023-10-23T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3920",
-          "hall": "Salur 3"
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1011,7 +1011,7 @@
         {
           "time": "2023-10-23T19:20:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3922",
-          "hall": "Salur 2"
+          "hall": "Salur 3"
         }
       ]
     }
