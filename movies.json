@@ -278,62 +278,6 @@
     }
   },
   {
-    "title": "Saw X",
-    "id": 16407,
-    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16407_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "John Kramer er á leið til Mexíkó þar sem hann vonast eftir að fá að taka þátt í nýrri en áhættusamri krabbameinsmeðferð sem lofar góðu. Þegar þangað er komið áttar hann sig á að hann hefur verið plataður og er fórnarlamb netsvika. Nú hefur hann fundið nýjan tilgang. Þessi alræmdi fjöldamorðingi tekur aftur til starfa og hefnir sín á svikahröppunum...  Lesa meira",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 118,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3PzUo4P21c",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-24T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785333/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-10-24T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785334/",
-          "hall": "AXL"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-24T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103955&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-24T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103952&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-24T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103948&visLang=1",
-          "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Exorcist: Believer",
     "id": 16367,
     "alt_title": "Hvolpasveit ósigrandi á toppnum!",
@@ -368,18 +312,18 @@
           "hall": "Salur A"
         }
       ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-24T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/369104/",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2023-10-24T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/369156/",
           "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-24T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/369104/",
+          "hall": "Salur 4"
         }
       ],
       "Sambíóin Álfabakka": [
@@ -442,6 +386,62 @@
           "time": "2023-10-24T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3934",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Saw X",
+    "id": 16407,
+    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16407_500.jpg",
+    "rating_urls": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "John Kramer er á leið til Mexíkó þar sem hann vonast eftir að fá að taka þátt í nýrri en áhættusamri krabbameinsmeðferð sem lofar góðu. Þegar þangað er komið áttar hann sig á að hann hefur verið plataður og er fórnarlamb netsvika. Nú hefur hann fundið nýjan tilgang. Þessi alræmdi fjöldamorðingi tekur aftur til starfa og hefnir sín á svikahröppunum...  Lesa meira",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 118,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3PzUo4P21c",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-10-24T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785333/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-10-24T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785334/",
+          "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-24T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103955&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-10-24T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103952&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-10-24T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103948&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -690,47 +690,6 @@
     }
   },
   {
-    "title": "The Nun 2",
-    "id": 16150,
-    "alt_title": "The Nun II",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16150_500.jpg",
-    "rating_urls": [
-      null,
-      null,
-      null,
-      null
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Sagan gerist í Frakklandi árið 1956. Prestur er myrtur og vonskan breiðist út. Systir Irene þarf rétt einu sinni að horfast í augu við hina illgjörnu Valak, djöflanunnuna.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=QF-oyCwaArU",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-10-24T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/368816/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-10-24T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/369097/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Expendables 4",
     "id": 16319,
     "alt_title": "Expend4bles",
@@ -843,31 +802,42 @@
     }
   },
   {
-    "title": "Tesciowie 2",
-    "id": 16482,
-    "alt_title": "Leikstjórn",
+    "title": "The Nun 2",
+    "id": 16150,
+    "alt_title": "The Nun II",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16150_500.jpg",
     "rating_urls": [
+      null,
+      null,
       null,
       null
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
+    "description": "Sagan gerist í Frakklandi árið 1956. Prestur er myrtur og vonskan breiðist út. Systir Irene þarf rétt einu sinni að horfast í augu við hina illgjörnu Valak, djöflanunnuna.",
     "genres": [
-      "Gaman"
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
     ],
-    "duration_in_mins": 95,
+    "duration_in_mins": 110,
     "language": [
-      "Pólska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
+    "trailer_url": "https://www.youtube.com/watch?v=QF-oyCwaArU",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2023-10-24T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3936",
+          "time": "2023-10-24T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/368816/",
           "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-10-24T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/369097/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -906,31 +876,62 @@
     }
   },
   {
-    "title": "Starring Jerry As Himself",
-    "id": 16481,
+    "title": "Let the River Flow",
+    "id": 16285,
     "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/gt0fbfwpm8rswx8pv19qdytd7b1-1695808786.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16285_500.jpg",
     "rating_urls": [
       null,
       null
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Við fylgjumst með Jerry, nýfráskildum manni á eftirlaunum í Flórída. Fjölskylda hans fer yfir innflytjendasögu hans og hvernig kínverska lögreglan fékk hann til þess að vera í leyniþjónustunni.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Ester er ungur Sami sem á við togstreitu að stríða. Hvort á hún að standa með sínu fólki eða fela uppruna sinn í norsku samfélagi? Þegar Samar mótmæla raski á þeirra landi – áformum um stífluvirkjun, þarf Ester að gera upp hug sinn.",
     "genres": [
-      "Heimildarmynd"
+      "Drama",
+      "Söguleg"
     ],
-    "duration_in_mins": 75,
+    "duration_in_mins": 118,
     "language": [
-      "Enska"
+      "Norska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=1WwLaQTDtNU",
+    "trailer_url": "https://www.youtube.com/watch?v=5bdkYYvRSlY",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-24T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3932",
-          "hall": "Salur 1"
+          "time": "2023-10-24T18:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3935",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tesciowie 2",
+    "id": 16482,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16482_500.jpg",
+    "rating_urls": [
+      null,
+      null
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Verður brúðkaup í þetta skiptið? Weronika og Lukasz - tilvonandi brúðhjón ákveða að gefa hvort öðru annað tækifæri og bjóða fjölskyldunni í brúðkaup og brúðkaupsveislu við sjávarsíðuna.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 95,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SMQj0odS-Mc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-24T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3936",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -970,32 +971,31 @@
     }
   },
   {
-    "title": "Let the River Flow",
-    "id": 16285,
+    "title": "Starring Jerry As Himself",
+    "id": 16481,
     "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16285_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/gt0fbfwpm8rswx8pv19qdytd7b1-1695808786.jpg",
     "rating_urls": [
       null,
       null
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ester er ungur Sami sem á við togstreitu að stríða. Hvort á hún að standa með sínu fólki eða fela uppruna sinn í norsku samfélagi? Þegar Samar mótmæla raski á þeirra landi – áformum um stífluvirkjun, þarf Ester að gera upp hug sinn.",
+    "content_rating": "Öllum leyfð",
+    "description": "Við fylgjumst með Jerry, nýfráskildum manni á eftirlaunum í Flórída. Fjölskylda hans fer yfir innflytjendasögu hans og hvernig kínverska lögreglan fékk hann til þess að vera í leyniþjónustunni.",
     "genres": [
-      "Drama",
-      "Söguleg"
+      "Heimildarmynd"
     ],
-    "duration_in_mins": 118,
+    "duration_in_mins": 75,
     "language": [
-      "Norska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=5bdkYYvRSlY",
+    "trailer_url": "https://www.youtube.com/watch?v=1WwLaQTDtNU",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-24T18:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3935",
-          "hall": "Salur 3"
+          "time": "2023-10-24T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3932",
+          "hall": "Salur 1"
         }
       ]
     }
