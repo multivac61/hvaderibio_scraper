@@ -100,33 +100,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-29T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103754&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-10-29T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103755&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-29T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103758&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-10-29T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103756&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-10-29T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103757&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2023-10-29T19:30:00.000Z",
@@ -137,6 +110,18 @@
           "time": "2023-10-29T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/369590/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-29T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103756&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-10-29T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103757&visLang=1",
+          "hall": "MAX"
         }
       ]
     },
@@ -261,13 +246,6 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/786465/",
           "hall": "Salur A"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-29T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104117&visLang=1",
-          "hall": "Salur 5"
-        }
       ]
     },
     "imdb": {
@@ -372,7 +350,7 @@
   {
     "title": "Last Voyage of the Demeter",
     "id": 16080,
-    "alt_title": "Allir hverfa úr Demeter",
+    "alt_title": "Aðdáandi Drakúla frá unga aldri",
     "release_year": 2023,
     "poster_url": "https://kvikmyndir.is/images/poster/16080_500.jpg",
     "rating_urls": [
@@ -609,22 +587,17 @@
           "hall": "Salur 4"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-29T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104109&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-29T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104110&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2023-10-29T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/369310/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-10-29T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104110&visLang=1",
           "hall": "Salur 2"
         }
       ]
@@ -677,109 +650,11 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785641/",
           "hall": "Salur B"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-29T18:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104100&visLang=1",
-          "hall": "Salur 4"
-        }
       ]
     },
     "imdb": {
       "star": 8.3,
       "link": "http://imdb.com/title/tt28814949"
-    }
-  },
-  {
-    "title": "Litlu skrímslin",
-    "id": 16517,
-    "alt_title": "Finnick",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1695415833250_ho00001667-1697536333.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15547806",
-      "http://imdb.com/title/tt15547806"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Finnrik er ungt finnsli sem hefur engan áhuga á að húsið hans verði að heimili. En allt breytist þegar ný fjölskylda flytur í húsið og ekkert af brellum og brögðum hans virka lengur.",
-    "genres": [
-      "Ævintýri",
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 85,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=R6a7qzPLv0s",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-10-29T14:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785618/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-10-29T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/786464/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-29T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104094&visLang=1",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 5.7,
-      "link": "http://imdb.com/title/tt15547806"
-    }
-  },
-  {
-    "title": "Heimaleikurinn",
-    "id": 16427,
-    "alt_title": "The Home Game",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/367487358_10230638888585746_8192122211807456626_n-1693558790.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Heimaleikurinn er gamansöm íþróttaheimildamynd um tilraun manns til að uppfylla draum föður síns; að safna í lið heimamanna til að spila langþráðan vígsluleik á fótboltavelli sem faðirinn lét byggja á Hellissandi 25 árum áður.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 79,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=j550T_BChJU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-29T15:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3985",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-10-29T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370062/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-10-29T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104095&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
     }
   },
   {
@@ -884,47 +759,6 @@
     }
   },
   {
-    "title": "The Peasants",
-    "id": 16302,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10651230",
-      "http://imdb.com/title/tt10651230",
-      "https://www.rottentomatoes.com/m/the_peasants",
-      "https://www.rottentomatoes.com/m/the_peasants"
-    ],
-    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
-    "genres": [
-      "Drama",
-      "Teiknað"
-    ],
-    "duration_in_mins": 114,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-10-29T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3989",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-10-29T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3990",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.2,
-      "link": "http://imdb.com/title/tt10651230"
-    }
-  },
-  {
     "title": "Saw X",
     "id": 16407,
     "alt_title": "Hvolpasveit ósigrandi á toppnum!",
@@ -1009,6 +843,42 @@
     "imdb": {
       "star": 6.1,
       "link": "http://imdb.com/title/tt18072882"
+    }
+  },
+  {
+    "title": "Heimaleikurinn",
+    "id": 16427,
+    "alt_title": "The Home Game",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/367487358_10230638888585746_8192122211807456626_n-1693558790.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimaleikurinn er gamansöm íþróttaheimildamynd um tilraun manns til að uppfylla draum föður síns; að safna í lið heimamanna til að spila langþráðan vígsluleik á fótboltavelli sem faðirinn lét byggja á Hellissandi 25 árum áður.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 79,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=j550T_BChJU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-29T15:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3985",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-10-29T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370062/",
+          "hall": "Salur 1"
+        }
+      ]
     }
   },
   {
@@ -1131,75 +1001,85 @@
     }
   },
   {
-    "title": "You Hurt My Feelings",
-    "id": 16264,
-    "alt_title": "Leikstjórn",
+    "title": "Litlu skrímslin",
+    "id": 16517,
+    "alt_title": "Finnick",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16264_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1695415833250_ho00001667-1697536333.jpeg",
     "rating_urls": [
-      "http://imdb.com/title/tt15771916",
-      "http://imdb.com/title/tt15771916",
-      "https://www.rottentomatoes.com/m/you_hurt_my_feelings_2023",
-      "https://www.rottentomatoes.com/m/you_hurt_my_feelings_2023"
+      "http://imdb.com/title/tt15547806",
+      "http://imdb.com/title/tt15547806"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Hjónaband rithöfundar er skyndilega á enda þegar hún heyrir eiginmanninn lýsa einlægri skoðun sinni á nýjustu bók hennar.",
+    "content_rating": "Öllum leyfð",
+    "description": "Finnrik er ungt finnsli sem hefur engan áhuga á að húsið hans verði að heimili. En allt breytist þegar ný fjölskylda flytur í húsið og ekkert af brellum og brögðum hans virka lengur.",
     "genres": [
-      "Gaman",
-      "Drama"
+      "Ævintýri",
+      "Fjölskylda",
+      "Teiknað"
     ],
-    "duration_in_mins": 93,
+    "duration_in_mins": 85,
     "language": [
-      "Enska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=20GWk5cWPBs",
+    "trailer_url": "https://www.youtube.com/watch?v=R6a7qzPLv0s",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Laugarásbíó": [
         {
-          "time": "2023-10-29T19:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3987",
-          "hall": "Salur 3"
+          "time": "2023-10-29T14:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/785618/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-10-29T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/786464/",
+          "hall": "Salur B"
         }
       ]
     },
     "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt15771916"
+      "star": 5.7,
+      "link": "http://imdb.com/title/tt15547806"
     }
   },
   {
-    "title": "Bubble",
-    "id": 16420,
-    "alt_title": "Kupla",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16420_500.jpg",
+    "title": "The Peasants",
+    "id": 16302,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt21876722",
-      "http://imdb.com/title/tt21876722"
+      "http://imdb.com/title/tt10651230",
+      "http://imdb.com/title/tt10651230",
+      "https://www.rottentomatoes.com/m/the_peasants",
+      "https://www.rottentomatoes.com/m/the_peasants"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Veröld hinnar 16 ára Eveliinu hrynur í einni svipan þegar hún kemst að því að móðir hennar heldur við konu. Hún gerir allt sem hún getur til að stöðva ástarsamband þeirra svo að foreldrar hennar nái aftur saman.",
+    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
     "genres": [
-      "Gaman",
-      "Drama"
+      "Drama",
+      "Teiknað"
     ],
-    "duration_in_mins": 102,
+    "duration_in_mins": 114,
     "language": [
-      "Finnska"
+      "Pólska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=J9qTmVdgFbA",
+    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-10-29T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3351",
+          "time": "2023-10-29T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3989",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-10-29T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3990",
           "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 7.2,
-      "link": "http://imdb.com/title/tt21876722"
+      "star": 8.2,
+      "link": "http://imdb.com/title/tt10651230"
     }
   },
   {
@@ -1715,6 +1595,78 @@
     "imdb": {
       "star": 5.7,
       "link": "http://imdb.com/title/tt10160976"
+    }
+  },
+  {
+    "title": "You Hurt My Feelings",
+    "id": 16264,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16264_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15771916",
+      "http://imdb.com/title/tt15771916",
+      "https://www.rottentomatoes.com/m/you_hurt_my_feelings_2023",
+      "https://www.rottentomatoes.com/m/you_hurt_my_feelings_2023"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Hjónaband rithöfundar er skyndilega á enda þegar hún heyrir eiginmanninn lýsa einlægri skoðun sinni á nýjustu bók hennar.",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 93,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=20GWk5cWPBs",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-29T19:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3987",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt15771916"
+    }
+  },
+  {
+    "title": "Bubble",
+    "id": 16420,
+    "alt_title": "Kupla",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16420_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21876722",
+      "http://imdb.com/title/tt21876722"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Veröld hinnar 16 ára Eveliinu hrynur í einni svipan þegar hún kemst að því að móðir hennar heldur við konu. Hún gerir allt sem hún getur til að stöðva ástarsamband þeirra svo að foreldrar hennar nái aftur saman.",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 102,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=J9qTmVdgFbA",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-10-29T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3351",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.2,
+      "link": "http://imdb.com/title/tt21876722"
     }
   }
 ]
