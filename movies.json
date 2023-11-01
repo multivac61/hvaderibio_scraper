@@ -339,18 +339,18 @@
           "hall": "Salur A"
         }
       ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-11-01T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/369497/",
-          "hall": "Salur 3"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-11-01T17:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787016/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-11-01T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/369497/",
+          "hall": "Salur 3"
         }
       ]
     },
@@ -531,6 +531,56 @@
     }
   },
   {
+    "title": "Saw X",
+    "id": 16407,
+    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16407_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21807222",
+      "http://imdb.com/title/tt21807222",
+      "https://www.rottentomatoes.com/m/saw_x",
+      "https://www.rottentomatoes.com/m/saw_x"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "John Kramer er á leið til Mexíkó þar sem hann vonast eftir að fá að taka þátt í nýrri en áhættusamri krabbameinsmeðferð sem lofar góðu. Þegar þangað er komið áttar hann sig á að hann hefur verið plataður og er fórnarlamb netsvika. Nú hefur hann fundið nýjan tilgang. Þessi alræmdi fjöldamorðingi tekur aftur til starfa og hefnir sín á svikahröppunum með því að leggja fyrir þá útsmognar og hugvitsamlega snarklikkaðar þrautir.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 118,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3PzUo4P21c",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-11-01T19:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787009/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-11-01T22:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787018/",
+          "hall": "Salur B"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-11-01T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104183&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.7,
+      "link": "http://imdb.com/title/tt21807222"
+    }
+  },
+  {
     "title": "Litlu skrímslin",
     "id": 16517,
     "alt_title": "Finnick",
@@ -579,53 +629,44 @@
     }
   },
   {
-    "title": "Saw X",
-    "id": 16407,
-    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "title": "The Peasants",
+    "id": 16302,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16407_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt21807222",
-      "http://imdb.com/title/tt21807222",
-      "https://www.rottentomatoes.com/m/saw_x",
-      "https://www.rottentomatoes.com/m/saw_x"
+      "http://imdb.com/title/tt10651230",
+      "http://imdb.com/title/tt10651230",
+      "https://www.rottentomatoes.com/m/the_peasants",
+      "https://www.rottentomatoes.com/m/the_peasants"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "John Kramer er á leið til Mexíkó þar sem hann vonast eftir að fá að taka þátt í nýrri en áhættusamri krabbameinsmeðferð sem lofar góðu. Þegar þangað er komið áttar hann sig á að hann hefur verið plataður og er fórnarlamb netsvika. Nú hefur hann fundið nýjan tilgang. Þessi alræmdi fjöldamorðingi tekur aftur til starfa og hefnir sín á svikahröppunum með því að leggja fyrir þá útsmognar og hugvitsamlega snarklikkaðar þrautir.",
+    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
     "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
+      "Drama",
+      "Teiknað"
     ],
-    "duration_in_mins": 118,
+    "duration_in_mins": 114,
     "language": [
-      "Enska"
+      "Pólska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3PzUo4P21c",
+    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Bíó Paradís": [
         {
-          "time": "2023-11-01T19:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787009/",
-          "hall": "Salur A"
+          "time": "2023-11-01T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4017",
+          "hall": "Salur 1"
         },
         {
-          "time": "2023-11-01T22:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787018/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-01T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104183&visLang=1",
-          "hall": "Salur 5"
+          "time": "2023-11-01T20:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4024",
+          "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 6.8,
-      "link": "http://imdb.com/title/tt21807222"
+      "star": 8.2,
+      "link": "http://imdb.com/title/tt10651230"
     }
   },
   {
@@ -704,89 +745,6 @@
     }
   },
   {
-    "title": "You Hurt My Feelings",
-    "id": 16264,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16264_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15771916",
-      "http://imdb.com/title/tt15771916",
-      "https://www.rottentomatoes.com/m/you_hurt_my_feelings_2023",
-      "https://www.rottentomatoes.com/m/you_hurt_my_feelings_2023"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Hjónaband rithöfundar er skyndilega á enda þegar hún heyrir eiginmanninn lýsa einlægri skoðun sinni á nýjustu bók hennar.",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 93,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=20GWk5cWPBs",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-01T20:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4027",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-11-01T20:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4027",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt15771916"
-    }
-  },
-  {
-    "title": "The Peasants",
-    "id": 16302,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10651230",
-      "http://imdb.com/title/tt10651230",
-      "https://www.rottentomatoes.com/m/the_peasants",
-      "https://www.rottentomatoes.com/m/the_peasants"
-    ],
-    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
-    "genres": [
-      "Drama",
-      "Teiknað"
-    ],
-    "duration_in_mins": 114,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-01T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4017",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-11-01T20:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4024",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.2,
-      "link": "http://imdb.com/title/tt10651230"
-    }
-  },
-  {
     "title": "The Creator",
     "id": 16171,
     "alt_title": "Hvolpasveit ofurvinsæl",
@@ -832,109 +790,83 @@
     }
   },
   {
-    "title": "The Green Border",
-    "id": 16502,
-    "alt_title": "Zielona granica",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16502_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27722543",
-      "http://imdb.com/title/tt27722543",
-      "https://www.rottentomatoes.com/m/green_border"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sýrlensk flóttafjölskylda, enskukennari frá Afganistan og landamæravörður mætast á landamærum Póllands og Hvíta-Rússlands.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 147,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=XLPVWnajeUE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-01T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4019",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.4,
-      "link": "http://imdb.com/title/tt27722543"
-    }
-  },
-  {
-    "title": "Let the River Flow",
-    "id": 16285,
+    "title": "You Hurt My Feelings",
+    "id": 16264,
     "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16285_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16264_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt23638090",
-      "http://imdb.com/title/tt23638090"
+      "http://imdb.com/title/tt15771916",
+      "http://imdb.com/title/tt15771916",
+      "https://www.rottentomatoes.com/m/you_hurt_my_feelings_2023",
+      "https://www.rottentomatoes.com/m/you_hurt_my_feelings_2023"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ester er ungur Sami sem á við togstreitu að stríða. Hvort á hún að standa með sínu fólki eða fela uppruna sinn í norsku samfélagi? Þegar Samar mótmæla raski á þeirra landi – áformum um stífluvirkjun, þarf Ester að gera upp hug sinn.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Hjónaband rithöfundar er skyndilega á enda þegar hún heyrir eiginmanninn lýsa einlægri skoðun sinni á nýjustu bók hennar.",
     "genres": [
-      "Drama",
-      "Söguleg"
+      "Gaman",
+      "Drama"
     ],
-    "duration_in_mins": 118,
+    "duration_in_mins": 93,
     "language": [
-      "Norska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=5bdkYYvRSlY",
+    "trailer_url": "https://www.youtube.com/watch?v=20GWk5cWPBs",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-11-01T18:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4026",
+          "time": "2023-11-01T20:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4027",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-11-01T20:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4027",
           "hall": "Salur 3"
         }
       ]
     },
     "imdb": {
-      "star": 7.7,
-      "link": "http://imdb.com/title/tt23638090"
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt15771916"
     }
   },
   {
-    "title": "Vandræðaálfurinn",
-    "id": 16336,
-    "alt_title": "My Fairy Troublemaker",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/1681822068657_ho00001605-1689868662.jpeg",
+    "title": "Stop Making Sense",
+    "id": 10498,
+    "alt_title": "LCD Soundsystem slær í gegn..aftur!",
+    "release_year": 1984,
+    "poster_url": "https://kvikmyndir.is/images/poster/1135720_500-1697903824.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt20199226",
-      "http://imdb.com/title/tt20199226"
+      "http://imdb.com/title/tt0088178",
+      "http://imdb.com/title/tt0088178",
+      "https://www.rottentomatoes.com/m/stop_making_sense",
+      "https://www.rottentomatoes.com/m/stop_making_sense",
+      "https://www.themoviedb.org/tv/24128"
     ],
     "content_rating": "Öllum leyfð",
-    "description": "Myndin fjallar um skemmtilega og forvitna tannálfinn Víólettu sem festist í mannheimum við að sækja tönn sem hún átti ekki að sækja! Hinn 12 ára, og mennska, Maxie aðstoðar hana við að komast aftur til baka í ævintýraheiminn sinn.",
+    "description": "Fylgst er með hljómsveitinni Talking Heads á tónleikum í Hollywood’s Pantages Theater í desember árið 1983. Myndinni var leikstýrt af Jonathan Demme (The Silence of the Lambs, Philadelphia) og er talin ein allra besta tónleikamynd sögunnar. Demme hefur tekist að fanga töfra, kraft, fjölbreytni og hugmyndaflug tónlistarinnar með eindæmum vel á filmuna. Upptakan óaðfinnanleg og kvikmyndatakan lífleg, litrík og stílíseruð, eins og tónsmíðar Byrnes. Lögin duna í eyrum hvert á eftir öðru; This must be the place, Once in a Lifetime, Psycho Killer og ein 15 til viðbótar",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Tónlist",
+      "Heimildarmynd"
     ],
-    "duration_in_mins": 85,
+    "duration_in_mins": 88,
     "language": [
-      "Íslenska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=KZjI2-0wv1Y",
+    "trailer_url": "https://www.youtube.com/watch?v=kP28o7BLj_8",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2023-11-01T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104179&visLang=1",
-          "hall": "Salur 4"
+          "time": "2023-11-01T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4011",
+          "hall": "Salur 1"
         }
       ]
     },
     "imdb": {
-      "star": 5.2,
-      "link": "http://imdb.com/title/tt20199226"
+      "star": 8.7,
+      "link": "http://imdb.com/title/tt0088178"
     }
   },
   {
@@ -975,77 +907,6 @@
     }
   },
   {
-    "title": "The Exorcist: Believer",
-    "id": 16367,
-    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1710530_500-1696585449.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt12921446",
-      "http://imdb.com/title/tt12921446",
-      "https://www.rottentomatoes.com/m/the_exorcist_believer",
-      "https://www.rottentomatoes.com/m/the_exorcist_believer"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Framhald The Exorcist frá árinu 1973 sem fjallaði um 12 ára stúlku sem var andsetin af djöfullegum krafti, sem knúði móður hennar til að leita hjálpar hjá tveimur prestum. Hér er það faðir andsetins barns sem leitar hjálpar hjá móðurinni.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 111,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=hvpEy6nJu7Q",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-11-01T19:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787017/",
-          "hall": "Salur B"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 4.9,
-      "link": "http://imdb.com/title/tt12921446"
-    }
-  },
-  {
-    "title": "Unruly",
-    "id": 16188,
-    "alt_title": "Ustyrlig",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16188_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15387506",
-      "http://imdb.com/title/tt15387506",
-      "https://www.rottentomatoes.com/m/unruly"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin er byggð á sönnum atburðum þar sem við fylgjumst með ungri stúlku sem er send gegn vilja sínum á heimili fyrir ungar stúlkur í vanda.Þar er hún svipt öllum réttindum sínum í Danmörku.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 135,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Ko7TjwALUPU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-01T15:40:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4025",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.1,
-      "link": "http://imdb.com/title/tt15387506"
-    }
-  },
-  {
     "title": "The Expendables 4",
     "id": 16319,
     "alt_title": "Expend4bles",
@@ -1079,43 +940,115 @@
       ]
     },
     "imdb": {
-      "star": 4.9,
+      "star": 4.8,
       "link": "http://imdb.com/title/tt3291150"
     }
   },
   {
-    "title": "Endurgjöf",
-    "id": 16524,
-    "alt_title": "Feedback",
+    "title": "Fallen Leaves",
+    "id": 16299,
+    "alt_title": "Kuolleet lehdet",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/e98b49e3-cbd4-4c55-bef6-3676cb664847-1698155771.jpeg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt28686731",
-      "http://imdb.com/title/tt28686731"
+      "http://imdb.com/title/tt21027780",
+      "http://imdb.com/title/tt21027780",
+      "https://www.rottentomatoes.com/m/fallen_leaves"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Regluleg kennaraverkföll á Íslandi í nærri fjóra áratugi er mörgum kynslóðum í fersku minni, daglegt líf um fjórðung þjóðarinnar raskaðist og líf nemenda tók nýja stefnu á meðan þjóðfélagsátök einkenndust af baráttu við efnhagssveiflur. 'Endurgjöf' segir frá kennaraverkfallinu 1995 en rekur einnig sögu verkfalla kennara frá 1977 og áhrif þjóðarsáttar á kjaramálaumræðu.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
     "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
+      "Gaman",
+      "Drama"
     ],
-    "duration_in_mins": 90,
+    "duration_in_mins": 81,
     "language": [
-      "Íslenska"
+      "Finnska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=gzKk4hjs6jY",
+    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-11-01T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4021",
+          "time": "2023-11-01T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4023",
           "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 0,
-      "link": "http://imdb.com/title/tt28686731"
+      "star": 7.6,
+      "link": "http://imdb.com/title/tt21027780"
+    }
+  },
+  {
+    "title": "Vandræðaálfurinn",
+    "id": 16336,
+    "alt_title": "My Fairy Troublemaker",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/1681822068657_ho00001605-1689868662.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20199226",
+      "http://imdb.com/title/tt20199226"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Myndin fjallar um skemmtilega og forvitna tannálfinn Víólettu sem festist í mannheimum við að sækja tönn sem hún átti ekki að sækja! Hinn 12 ára, og mennska, Maxie aðstoðar hana við að komast aftur til baka í ævintýraheiminn sinn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 85,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=KZjI2-0wv1Y",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-11-01T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104179&visLang=1",
+          "hall": "Salur 4"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 5.2,
+      "link": "http://imdb.com/title/tt20199226"
+    }
+  },
+  {
+    "title": "The Green Border",
+    "id": 16502,
+    "alt_title": "Zielona granica",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16502_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27722543",
+      "http://imdb.com/title/tt27722543",
+      "https://www.rottentomatoes.com/m/green_border"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sýrlensk flóttafjölskylda, enskukennari frá Afganistan og landamæravörður mætast á landamærum Póllands og Hvíta-Rússlands.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 147,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=XLPVWnajeUE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-01T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4019",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.4,
+      "link": "http://imdb.com/title/tt27722543"
     }
   },
   {
@@ -1154,78 +1087,38 @@
     }
   },
   {
-    "title": "Past Lives",
-    "id": 16278,
-    "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
+    "title": "Let the River Flow",
+    "id": 16285,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16278_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16285_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13238346",
-      "http://imdb.com/title/tt13238346",
-      "https://www.rottentomatoes.com/m/past_lives",
-      "https://www.rottentomatoes.com/m/past_lives"
+      "http://imdb.com/title/tt23638090",
+      "http://imdb.com/title/tt23638090"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Nora og Hae Sung, æskuvinir með djúp og sterk tengsl sín á milli, skiljast að þegar fjölskylda Nora flytur frá Suður-Kóreu. Tuttugu árum síðar sameinast þau á ný eina örlagaríka viku og horfast í augu við ást og örlög.",
+    "description": "Ester er ungur Sami sem á við togstreitu að stríða. Hvort á hún að standa með sínu fólki eða fela uppruna sinn í norsku samfélagi? Þegar Samar mótmæla raski á þeirra landi – áformum um stífluvirkjun, þarf Ester að gera upp hug sinn.",
     "genres": [
-      "Rómantík",
-      "Drama"
+      "Drama",
+      "Söguleg"
     ],
-    "duration_in_mins": 106,
+    "duration_in_mins": 118,
     "language": [
-      "Enska"
+      "Norska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=kA244xewjcI",
+    "trailer_url": "https://www.youtube.com/watch?v=5bdkYYvRSlY",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-11-01T16:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4022",
-          "hall": "Salur 1"
+          "time": "2023-11-01T18:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4026",
+          "hall": "Salur 3"
         }
       ]
     },
     "imdb": {
-      "star": 8,
-      "link": "http://imdb.com/title/tt13238346"
-    }
-  },
-  {
-    "title": "Stop Making Sense",
-    "id": 10498,
-    "alt_title": "LCD Soundsystem slær í gegn..aftur!",
-    "release_year": 1984,
-    "poster_url": "https://kvikmyndir.is/images/poster/1135720_500-1697903824.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0088178",
-      "http://imdb.com/title/tt0088178",
-      "https://www.rottentomatoes.com/m/stop_making_sense",
-      "https://www.rottentomatoes.com/m/stop_making_sense",
-      "https://www.themoviedb.org/tv/24128"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Fylgst er með hljómsveitinni Talking Heads á tónleikum í Hollywood’s Pantages Theater í desember árið 1983. Myndinni var leikstýrt af Jonathan Demme (The Silence of the Lambs, Philadelphia) og er talin ein allra besta tónleikamynd sögunnar. Demme hefur tekist að fanga töfra, kraft, fjölbreytni og hugmyndaflug tónlistarinnar með eindæmum vel á filmuna. Upptakan óaðfinnanleg og kvikmyndatakan lífleg, litrík og stílíseruð, eins og tónsmíðar Byrnes. Lögin duna í eyrum hvert á eftir öðru; This must be the place, Once in a Lifetime, Psycho Killer og ein 15 til viðbótar",
-    "genres": [
-      "Tónlist",
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 88,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=kP28o7BLj_8",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-01T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4011",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.7,
-      "link": "http://imdb.com/title/tt0088178"
+      "star": 7.7,
+      "link": "http://imdb.com/title/tt23638090"
     }
   },
   {
@@ -1305,39 +1198,146 @@
     }
   },
   {
-    "title": "Fallen Leaves",
-    "id": 16299,
-    "alt_title": "Kuolleet lehdet",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
+    "title": "Unruly",
+    "id": 16188,
+    "alt_title": "Ustyrlig",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16188_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt21027780",
-      "http://imdb.com/title/tt21027780",
-      "https://www.rottentomatoes.com/m/fallen_leaves"
+      "http://imdb.com/title/tt15387506",
+      "http://imdb.com/title/tt15387506",
+      "https://www.rottentomatoes.com/m/unruly"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "description": "Myndin er byggð á sönnum atburðum þar sem við fylgjumst með ungri stúlku sem er send gegn vilja sínum á heimili fyrir ungar stúlkur í vanda.Þar er hún svipt öllum réttindum sínum í Danmörku.",
     "genres": [
-      "Gaman",
       "Drama"
     ],
-    "duration_in_mins": 81,
+    "duration_in_mins": 135,
     "language": [
-      "Finnska"
+      "Danska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "trailer_url": "https://www.youtube.com/watch?v=Ko7TjwALUPU",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-11-01T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4023",
+          "time": "2023-11-01T15:40:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4025",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.1,
+      "link": "http://imdb.com/title/tt15387506"
+    }
+  },
+  {
+    "title": "Endurgjöf",
+    "id": 16524,
+    "alt_title": "Feedback",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/e98b49e3-cbd4-4c55-bef6-3676cb664847-1698155771.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt28686731",
+      "http://imdb.com/title/tt28686731"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Regluleg kennaraverkföll á Íslandi í nærri fjóra áratugi er mörgum kynslóðum í fersku minni, daglegt líf um fjórðung þjóðarinnar raskaðist og líf nemenda tók nýja stefnu á meðan þjóðfélagsátök einkenndust af baráttu við efnhagssveiflur. 'Endurgjöf' segir frá kennaraverkfallinu 1995 en rekur einnig sögu verkfalla kennara frá 1977 og áhrif þjóðarsáttar á kjaramálaumræðu.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gzKk4hjs6jY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-01T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4021",
           "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 7.6,
-      "link": "http://imdb.com/title/tt21027780"
+      "star": 0,
+      "link": "http://imdb.com/title/tt28686731"
+    }
+  },
+  {
+    "title": "The Exorcist: Believer",
+    "id": 16367,
+    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1710530_500-1696585449.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt12921446",
+      "http://imdb.com/title/tt12921446",
+      "https://www.rottentomatoes.com/m/the_exorcist_believer",
+      "https://www.rottentomatoes.com/m/the_exorcist_believer"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Framhald The Exorcist frá árinu 1973 sem fjallaði um 12 ára stúlku sem var andsetin af djöfullegum krafti, sem knúði móður hennar til að leita hjálpar hjá tveimur prestum. Hér er það faðir andsetins barns sem leitar hjálpar hjá móðurinni.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 111,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=hvpEy6nJu7Q",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-11-01T19:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787017/",
+          "hall": "Salur B"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 4.9,
+      "link": "http://imdb.com/title/tt12921446"
+    }
+  },
+  {
+    "title": "Past Lives",
+    "id": 16278,
+    "alt_title": "Kuldi á toppnum fjórðu vikuna í röð",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16278_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13238346",
+      "http://imdb.com/title/tt13238346",
+      "https://www.rottentomatoes.com/m/past_lives",
+      "https://www.rottentomatoes.com/m/past_lives"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Nora og Hae Sung, æskuvinir með djúp og sterk tengsl sín á milli, skiljast að þegar fjölskylda Nora flytur frá Suður-Kóreu. Tuttugu árum síðar sameinast þau á ný eina örlagaríka viku og horfast í augu við ást og örlög.",
+    "genres": [
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 106,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=kA244xewjcI",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-01T16:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4022",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8,
+      "link": "http://imdb.com/title/tt13238346"
     }
   }
 ]
