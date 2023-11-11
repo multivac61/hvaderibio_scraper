@@ -105,6 +105,28 @@
           "hall": "Salur 1"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-11-11T14:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/789162/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-11-11T17:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/786402/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-11-11T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/786403/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-11-11T22:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/786404/",
+          "hall": "AXL"
+        }
+      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2023-11-11T14:00:00.000Z",
@@ -145,28 +167,6 @@
           "time": "2023-11-11T21:50:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/369999/",
           "hall": "Ásberg"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-11-11T14:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/789162/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-11-11T17:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/786402/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-11-11T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/786403/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-11-11T22:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/786404/",
-          "hall": "AXL"
         }
       ],
       "Smárabíó": [
@@ -1114,7 +1114,7 @@
       ]
     },
     "imdb": {
-      "star": 7.7,
+      "star": 7.5,
       "link": "http://imdb.com/title/tt26218798"
     }
   },
