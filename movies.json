@@ -144,6 +144,23 @@
           "hall": "Salur 1"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-11-15T17:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792201/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-11-15T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792202/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-11-15T22:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792203/",
+          "hall": "AXL"
+        }
+      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2023-11-15T17:40:00.000Z",
@@ -169,23 +186,6 @@
           "time": "2023-11-15T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/370059/",
           "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-11-15T17:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792201/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-11-15T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792202/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-11-15T22:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792203/",
-          "hall": "AXL"
         }
       ]
     },
@@ -251,18 +251,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-15T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370284/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-11-15T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370285/",
-          "hall": "Salur A"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-11-15T19:40:00.000Z",
@@ -273,6 +261,18 @@
           "time": "2023-11-15T22:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792214/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-15T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370284/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-11-15T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370285/",
+          "hall": "Salur A"
         }
       ]
     },
@@ -340,18 +340,18 @@
           "hall": "Salur A"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-11-15T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370839/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-11-15T17:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792215/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-11-15T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370839/",
+          "hall": "Salur 2"
         }
       ],
       "Sambíóin Egilshöll": [
