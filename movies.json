@@ -291,7 +291,7 @@
       ]
     },
     "imdb": {
-      "star": 7.2,
+      "star": 7.1,
       "link": "http://imdb.com/title/tt10545296"
     }
   },
@@ -335,18 +335,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-17T15:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370255/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-11-17T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370254/",
-          "hall": "Salur A"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-11-17T15:30:00.000Z",
@@ -356,6 +344,18 @@
         {
           "time": "2023-11-17T16:50:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792211/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-17T15:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370255/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-11-17T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370254/",
           "hall": "Salur A"
         }
       ],
