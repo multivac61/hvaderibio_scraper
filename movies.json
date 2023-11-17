@@ -146,23 +146,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-17T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104738&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-11-17T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104756&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-11-17T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104743&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-11-17T19:50:00.000Z",
@@ -174,115 +157,18 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792212/",
           "hall": "Salur A"
         }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-11-17T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104743&visLang=1",
+          "hall": "Salur 4"
+        }
       ]
     },
     "imdb": {
       "star": 6,
       "link": "http://imdb.com/title/tt10676048"
-    }
-  },
-  {
-    "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
-    "id": 16169,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16169_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10545296",
-      "http://imdb.com/title/tt10545296"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin segir frá hinum 18 ára gamla Coriolanus Snow, mörgum árum áður en hann varð einræðisherra Panem. Hinn ungi Snow er myndarlegur og heillandi og þó að lífið hafi verið erfitt hjá Snow fjölskyldunni sér hann möguleika á breytingum þegar hann er valinn til að vera leiðbeinandi fyrir tíundu Hungurleikana.  Lærisveinn hans er stúlkan Lucy Gray Baird úr hinu fátæka tólfta hverfi.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 157,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GfGcH2T53XY",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-11-17T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370921/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-17T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370821/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-11-17T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370922/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-11-17T17:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787151/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-11-17T19:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792234/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-11-17T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787152/",
-          "hall": "AXL"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-17T18:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103841&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-11-17T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103837&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-17T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103839&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-11-17T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103842&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-11-17T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103843&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-11-17T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370968/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2023-11-17T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370738/",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.1,
-      "link": "http://imdb.com/title/tt10545296"
     }
   },
   {
@@ -369,18 +255,100 @@
           "purchase_url": "http://www.sambio.is/websales/show/370716/",
           "hall": "Salur 1"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-17T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104739&visLang=1",
-          "hall": "Salur 5"
-        }
       ]
     },
     "imdb": {
       "star": 5.9,
       "link": "http://imdb.com/title/tt14362112"
+    }
+  },
+  {
+    "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+    "id": 16169,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16169_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt10545296",
+      "http://imdb.com/title/tt10545296"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin segir frá hinum 18 ára gamla Coriolanus Snow, mörgum árum áður en hann varð einræðisherra Panem. Hinn ungi Snow er myndarlegur og heillandi og þó að lífið hafi verið erfitt hjá Snow fjölskyldunni sér hann möguleika á breytingum þegar hann er valinn til að vera leiðbeinandi fyrir tíundu Hungurleikana.  Lærisveinn hans er stúlkan Lucy Gray Baird úr hinu fátæka tólfta hverfi.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 157,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GfGcH2T53XY",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-11-17T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370921/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-11-17T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370821/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-11-17T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370922/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-11-17T17:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787151/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-11-17T19:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792234/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-11-17T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787152/",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-11-17T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370968/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2023-11-17T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370738/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-11-17T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103842&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-11-17T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103843&visLang=1",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.2,
+      "link": "http://imdb.com/title/tt10545296"
     }
   },
   {
@@ -704,42 +672,6 @@
     "imdb": {
       "star": 6.1,
       "link": "http://imdb.com/title/tt1001520"
-    }
-  },
-  {
-    "title": "Dumb Money",
-    "id": 16103,
-    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16103_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13957560",
-      "http://imdb.com/title/tt13957560"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Segir frá ringulreiðinni á verðbréfamarkaðnum á Wall Street eftir að hlutabréf verslunarfyrirtækisins GameStop tóku stökk vegna Reddit pósta. Í miðpunkti sögunnar er hinn ofurvenjulegi Keith Gill sem byrjar að eyða öllum sparnaði sínum í bréfin og birta færslur um það á Reddit samfélagsmiðlinum. Þegar færslur hans fara að fá mikinn lestur, verður sannkölluð sprenging í hans lífi og allra í kringum hann. Þegar hlutabréfaráð eins og þetta nær slíkum hæðum verða allir ríkir, þar til milljarðamæringur ákveður að berjast á móti og heimur allra snýst við á örskotsstundu.",
-    "genres": [
-      "Gaman",
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=bmr8YmwnZ3w",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-11-17T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370871/",
-          "hall": "Salur 4"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7,
-      "link": "http://imdb.com/title/tt13957560"
     }
   },
   {
@@ -1166,6 +1098,42 @@
     "imdb": {
       "star": 6.6,
       "link": "http://imdb.com/title/tt22687790"
+    }
+  },
+  {
+    "title": "Dumb Money",
+    "id": 16103,
+    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16103_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13957560",
+      "http://imdb.com/title/tt13957560"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Segir frá ringulreiðinni á verðbréfamarkaðnum á Wall Street eftir að hlutabréf verslunarfyrirtækisins GameStop tóku stökk vegna Reddit pósta. Í miðpunkti sögunnar er hinn ofurvenjulegi Keith Gill sem byrjar að eyða öllum sparnaði sínum í bréfin og birta færslur um það á Reddit samfélagsmiðlinum. Þegar færslur hans fara að fá mikinn lestur, verður sannkölluð sprenging í hans lífi og allra í kringum hann. Þegar hlutabréfaráð eins og þetta nær slíkum hæðum verða allir ríkir, þar til milljarðamæringur ákveður að berjast á móti og heimur allra snýst við á örskotsstundu.",
+    "genres": [
+      "Gaman",
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=bmr8YmwnZ3w",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-11-17T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370871/",
+          "hall": "Salur 4"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7,
+      "link": "http://imdb.com/title/tt13957560"
     }
   }
 ]
