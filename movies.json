@@ -399,28 +399,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-11-19T14:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/788497/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-11-19T17:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787155/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-11-19T19:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792242/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-11-19T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787156/",
-          "hall": "AXL"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2023-11-19T14:00:00.000Z",
@@ -441,6 +419,28 @@
           "time": "2023-11-19T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/371359/",
           "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-11-19T14:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/788497/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-11-19T17:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787155/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-11-19T19:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792242/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-11-19T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787156/",
+          "hall": "AXL"
         }
       ],
       "Sambíóin Akureyri": [
@@ -805,6 +805,86 @@
     }
   },
   {
+    "title": "Monster",
+    "id": 16301,
+    "alt_title": "Kaibutsu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23736044",
+      "http://imdb.com/title/tt23736044"
+    ],
+    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-19T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4208",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-11-19T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4211",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8.1,
+      "link": "http://imdb.com/title/tt23736044"
+    }
+  },
+  {
+    "title": "Dumb Money",
+    "id": 16103,
+    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16103_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13957560",
+      "http://imdb.com/title/tt13957560"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Segir frá ringulreiðinni á verðbréfamarkaðnum á Wall Street eftir að hlutabréf verslunarfyrirtækisins GameStop tóku stökk vegna Reddit pósta. Í miðpunkti sögunnar er hinn ofurvenjulegi Keith Gill sem byrjar að eyða öllum sparnaði sínum í bréfin og birta færslur um það á Reddit samfélagsmiðlinum. Þegar færslur hans fara að fá mikinn lestur, verður sannkölluð sprenging í hans lífi og allra í kringum hann. Þegar hlutabréfaráð eins og þetta nær slíkum hæðum verða allir ríkir, þar til milljarðamæringur ákveður að berjast á móti og heimur allra snýst við á örskotsstundu.",
+    "genres": [
+      "Gaman",
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=bmr8YmwnZ3w",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-11-19T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371376/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-11-19T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371353/",
+          "hall": "Salur 4"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7,
+      "link": "http://imdb.com/title/tt13957560"
+    }
+  },
+  {
     "title": "Last Voyage of the Demeter",
     "id": 16080,
     "alt_title": "Aðdáandi Drakúla frá unga aldri",
@@ -886,83 +966,252 @@
     }
   },
   {
-    "title": "Dumb Money",
-    "id": 16103,
-    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16103_500.jpg",
+    "title": "Aquirre, the Wrath of God",
+    "id": 3713,
+    "alt_title": "Aguirre, der Zorn Gottes",
+    "release_year": 1972,
+    "poster_url": "https://kvikmyndir.is/images/poster/3713_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13957560",
-      "http://imdb.com/title/tt13957560"
+      "http://imdb.com/title/tt0068182",
+      "http://imdb.com/title/tt0068182",
+      "https://www.themoviedb.org/tv/2000"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Segir frá ringulreiðinni á verðbréfamarkaðnum á Wall Street eftir að hlutabréf verslunarfyrirtækisins GameStop tóku stökk vegna Reddit pósta. Í miðpunkti sögunnar er hinn ofurvenjulegi Keith Gill sem byrjar að eyða öllum sparnaði sínum í bréfin og birta færslur um það á Reddit samfélagsmiðlinum. Þegar færslur hans fara að fá mikinn lestur, verður sannkölluð sprenging í hans lífi og allra í kringum hann. Þegar hlutabréfaráð eins og þetta nær slíkum hæðum verða allir ríkir, þar til milljarðamæringur ákveður að berjast á móti og heimur allra snýst við á örskotsstundu.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nokkrum áratugum eftir gereyðingu Inkaveldisins fer spænskur leiðangur frá fjallahéruðum Perú niður Amazon ána í leit að gulli og auði. Fljótlega lenda þeir í miklum vandræðum og don Lope de Aguirre, miskunnarlaus maður sem hugsar aðeins um það eitt að verða ríkur, verður leiðtogi. Mun hann leiða hópinn til \"Gullnu borgarinnar\" eða verður reiði Guðs þeim að aldurtila?",
     "genres": [
-      "Gaman",
       "Drama",
+      "Ævintýri",
       "Æviágrip"
     ],
-    "duration_in_mins": 104,
+    "duration_in_mins": 93,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ojwxrzmAkdA",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-19T19:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3638",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.8,
+      "link": "http://imdb.com/title/tt0068182"
+    }
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "id": 16099,
+    "alt_title": "Barbie komin í 120 milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16099_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt8589698",
+      "http://imdb.com/title/tt8589698"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Eftir að hafa verið í mörg ár í felum í holræsunum fyrir heimi mannanna þá ákveða skjaldbökubræður að fara upp á yfirborðið og reyna að ávinna sér ást og aðdáun borgarbúa í New York og verða á sama tíma viðurkenndir sem venjulegir unglingar sem vinna hetjudáðir. Ný vinkona þeirra April O'Neil hjálpar þeim að vinna bug á alræmdu glæpagengi en fljótlega eru þeir komnir í erfið mál þegar her stökkbreyttra gerir árás.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=bmr8YmwnZ3w",
+    "trailer_url": "https://www.youtube.com/watch?v=IHvzw4Ibuho",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2023-11-19T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371376/",
+          "time": "2023-11-19T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370402/",
           "hall": "Salur 3"
-        },
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.2,
+      "link": "http://imdb.com/title/tt8589698"
+    }
+  },
+  {
+    "title": "Fallen Leaves",
+    "id": 16299,
+    "alt_title": "Kuolleet lehdet",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21027780",
+      "http://imdb.com/title/tt21027780"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 81,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
         {
-          "time": "2023-11-19T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371353/",
-          "hall": "Salur 4"
+          "time": "2023-11-19T21:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4214",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.6,
+      "link": "http://imdb.com/title/tt21027780"
+    }
+  },
+  {
+    "title": "Tilverur",
+    "id": 16457,
+    "alt_title": "Solitude",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16457_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26218798",
+      "http://imdb.com/title/tt26218798"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Myndin fjallar um bóndann Gunnar sem er tilneyddur að flytja til borgarinnar þegar ríkið tekur jörð hans yfir til virkjunarframkvæmda. Kynni af blaðburðardrengnum Ara umbreytir lífi þeirra beggja.",
+    "genres": [
+      "Drama",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 75,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=D5SvlAwd80o",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-19T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370448/",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.6,
+      "link": "http://imdb.com/title/tt26218798"
+    }
+  },
+  {
+    "title": "My Love Affair with Marriage",
+    "id": 16587,
+    "alt_title": "Leikstjórn",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16587_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6435164",
+      "http://imdb.com/title/tt6435164"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Hin unga og fjöruga Zelma hefur staðið í þeirri trú frá unga aldri að ástin muni leysa öll hennar vandamál svo lengi sem hún hagi sér eins og stúlka á að haga sér. En eftir því sem hún eldist þá virðist eitthvað bogið við hugmyndina um ástina: því meira sem hún reynir að gera hlutina rétt, því minna lætur líkaminn að stjórn.",
+    "genres": [
+      "Gaman",
+      "Drama",
+      "Teiknað"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Ak1-0pka4c4",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-19T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4176",
+          "hall": "Salur 3"
         }
       ]
     },
     "imdb": {
       "star": 7,
-      "link": "http://imdb.com/title/tt13957560"
+      "link": "http://imdb.com/title/tt6435164"
     }
   },
   {
-    "title": "Monster",
-    "id": 16301,
-    "alt_title": "Kaibutsu",
+    "title": "Killers of the Flower Moon",
+    "id": 16118,
+    "alt_title": "Tröll með tíu milljónir",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt23736044",
-      "http://imdb.com/title/tt23736044"
+      "http://imdb.com/title/tt5537002",
+      "http://imdb.com/title/tt5537002"
     ],
-    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
     "genres": [
       "Drama",
-      "Spennutryllir"
+      "Glæpa",
+      "Söguleg"
     ],
-    "duration_in_mins": 126,
+    "duration_in_mins": 206,
     "language": [
-      "Japanska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-11-19T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370559/",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8,
+      "link": "http://imdb.com/title/tt5537002"
+    }
+  },
+  {
+    "title": "Rakkauden risti",
+    "id": 16474,
+    "alt_title": "Leikstjórn",
+    "release_year": 1946,
+    "poster_url": "https://kvikmyndir.is/images/poster/y0sbg46nybk7u7qzenjqxe7fsgv-1695597470.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0038870",
+      "http://imdb.com/title/tt0038870"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Finnsk, dramatísk kvikmynd eftir Teuvo Tulio sem segir frá Riitu, dóttur gamaldags og strangs föður sem er vitavörður í afskekktri sveit. Riita hittir ríkan skipbrotsmann sem heillast af henni og hún ákveður að strjúka með honum til stórborgarinnar. En í staðinn fyrir glæsilegt stórborgarlíf stendur hún eftir svikin og niðurlægð og neyðist til að stunda vændi til að eiga í sig og á, þangað til hún kynnist listamanni sem segist elska hana.",
+    "genres": [
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Finnska"
+    ],
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
           "time": "2023-11-19T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4208",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-11-19T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4211",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3637",
           "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 8.1,
-      "link": "http://imdb.com/title/tt23736044"
+      "star": 7,
+      "link": "http://imdb.com/title/tt0038870"
     }
   },
   {
@@ -1144,76 +1393,6 @@
     }
   },
   {
-    "title": "The Peasants",
-    "id": 16302,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10651230",
-      "http://imdb.com/title/tt10651230"
-    ],
-    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
-    "genres": [
-      "Drama",
-      "Teiknað"
-    ],
-    "duration_in_mins": 114,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-19T19:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4209",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.2,
-      "link": "http://imdb.com/title/tt10651230"
-    }
-  },
-  {
-    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-    "id": 16099,
-    "alt_title": "Barbie komin í 120 milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16099_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt8589698",
-      "http://imdb.com/title/tt8589698"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Eftir að hafa verið í mörg ár í felum í holræsunum fyrir heimi mannanna þá ákveða skjaldbökubræður að fara upp á yfirborðið og reyna að ávinna sér ást og aðdáun borgarbúa í New York og verða á sama tíma viðurkenndir sem venjulegir unglingar sem vinna hetjudáðir. Ný vinkona þeirra April O'Neil hjálpar þeim að vinna bug á alræmdu glæpagengi en fljótlega eru þeir komnir í erfið mál þegar her stökkbreyttra gerir árás.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=IHvzw4Ibuho",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-19T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370402/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.2,
-      "link": "http://imdb.com/title/tt8589698"
-    }
-  },
-  {
     "title": "Freelance",
     "id": 16417,
     "alt_title": "Tröll með tíu milljónir",
@@ -1249,216 +1428,37 @@
     }
   },
   {
-    "title": "Aquirre, the Wrath of God",
-    "id": 3713,
-    "alt_title": "Aguirre, der Zorn Gottes",
-    "release_year": 1972,
-    "poster_url": "https://kvikmyndir.is/images/poster/3713_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0068182",
-      "http://imdb.com/title/tt0068182",
-      "https://www.themoviedb.org/tv/2000"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nokkrum áratugum eftir gereyðingu Inkaveldisins fer spænskur leiðangur frá fjallahéruðum Perú niður Amazon ána í leit að gulli og auði. Fljótlega lenda þeir í miklum vandræðum og don Lope de Aguirre, miskunnarlaus maður sem hugsar aðeins um það eitt að verða ríkur, verður leiðtogi. Mun hann leiða hópinn til \"Gullnu borgarinnar\" eða verður reiði Guðs þeim að aldurtila?",
-    "genres": [
-      "Drama",
-      "Ævintýri",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 93,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ojwxrzmAkdA",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-19T19:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3638",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.8,
-      "link": "http://imdb.com/title/tt0068182"
-    }
-  },
-  {
-    "title": "Tilverur",
-    "id": 16457,
-    "alt_title": "Solitude",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16457_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26218798",
-      "http://imdb.com/title/tt26218798"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin fjallar um bóndann Gunnar sem er tilneyddur að flytja til borgarinnar þegar ríkið tekur jörð hans yfir til virkjunarframkvæmda. Kynni af blaðburðardrengnum Ara umbreytir lífi þeirra beggja.",
-    "genres": [
-      "Drama",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 75,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=D5SvlAwd80o",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-19T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370448/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.6,
-      "link": "http://imdb.com/title/tt26218798"
-    }
-  },
-  {
-    "title": "Fallen Leaves",
-    "id": 16299,
-    "alt_title": "Kuolleet lehdet",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21027780",
-      "http://imdb.com/title/tt21027780"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 81,
-    "language": [
-      "Finnska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-19T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4214",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.6,
-      "link": "http://imdb.com/title/tt21027780"
-    }
-  },
-  {
-    "title": "My Love Affair with Marriage",
-    "id": 16587,
+    "title": "The Peasants",
+    "id": 16302,
     "alt_title": "Leikstjórn",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16587_500.jpg",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt6435164",
-      "http://imdb.com/title/tt6435164"
+      "http://imdb.com/title/tt10651230",
+      "http://imdb.com/title/tt10651230"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Hin unga og fjöruga Zelma hefur staðið í þeirri trú frá unga aldri að ástin muni leysa öll hennar vandamál svo lengi sem hún hagi sér eins og stúlka á að haga sér. En eftir því sem hún eldist þá virðist eitthvað bogið við hugmyndina um ástina: því meira sem hún reynir að gera hlutina rétt, því minna lætur líkaminn að stjórn.",
+    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
     "genres": [
-      "Gaman",
       "Drama",
       "Teiknað"
     ],
-    "duration_in_mins": 107,
+    "duration_in_mins": 114,
     "language": [
-      "Enska"
+      "Pólska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=Ak1-0pka4c4",
+    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-11-19T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4176",
+          "time": "2023-11-19T19:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4209",
           "hall": "Salur 3"
         }
       ]
     },
     "imdb": {
-      "star": 7,
-      "link": "http://imdb.com/title/tt6435164"
-    }
-  },
-  {
-    "title": "Killers of the Flower Moon",
-    "id": 16118,
-    "alt_title": "Tröll með tíu milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5537002",
-      "http://imdb.com/title/tt5537002"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
-    "genres": [
-      "Drama",
-      "Glæpa",
-      "Söguleg"
-    ],
-    "duration_in_mins": 206,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-11-19T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370559/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8,
-      "link": "http://imdb.com/title/tt5537002"
-    }
-  },
-  {
-    "title": "Rakkauden risti",
-    "id": 16474,
-    "alt_title": "Leikstjórn",
-    "release_year": 1946,
-    "poster_url": "https://kvikmyndir.is/images/poster/y0sbg46nybk7u7qzenjqxe7fsgv-1695597470.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0038870",
-      "http://imdb.com/title/tt0038870"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Finnsk, dramatísk kvikmynd eftir Teuvo Tulio sem segir frá Riitu, dóttur gamaldags og strangs föður sem er vitavörður í afskekktri sveit. Riita hittir ríkan skipbrotsmann sem heillast af henni og hún ákveður að strjúka með honum til stórborgarinnar. En í staðinn fyrir glæsilegt stórborgarlíf stendur hún eftir svikin og niðurlægð og neyðist til að stunda vændi til að eiga í sig og á, þangað til hún kynnist listamanni sem segist elska hana.",
-    "genres": [
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Finnska"
-    ],
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-19T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3637",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7,
-      "link": "http://imdb.com/title/tt0038870"
+      "star": 8.2,
+      "link": "http://imdb.com/title/tt10651230"
     }
   }
 ]
