@@ -185,10 +185,6 @@
           "hall": "Salur 4"
         }
       ]
-    },
-    "imdb": {
-      "star": 6,
-      "link": "http://imdb.com/title/tt10676048"
     }
   },
   {
@@ -318,10 +314,6 @@
           "hall": "Salur 5"
         }
       ]
-    },
-    "imdb": {
-      "star": 6,
-      "link": "http://imdb.com/title/tt14362112"
     }
   },
   {
@@ -437,10 +429,6 @@
           "hall": "Salur 1"
         }
       ]
-    },
-    "imdb": {
-      "star": 7.2,
-      "link": "http://imdb.com/title/tt10545296"
     }
   },
   {
@@ -708,10 +696,47 @@
           "hall": "Salur 3"
         }
       ]
+    }
+  },
+  {
+    "title": "Dumb Money",
+    "id": 16103,
+    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16103_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13957560",
+      "http://imdb.com/title/tt13957560"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Segir frá ringulreiðinni á verðbréfamarkaðnum á Wall Street eftir að hlutabréf verslunarfyrirtækisins GameStop tóku stökk vegna Reddit pósta. Í miðpunkti sögunnar er hinn ofurvenjulegi Keith Gill sem byrjar að eyða öllum sparnaði sínum í bréfin og birta færslur um það á Reddit samfélagsmiðlinum. Þegar færslur hans fara að fá mikinn lestur, verður sannkölluð sprenging í hans lífi og allra í kringum hann. Þegar hlutabréfaráð eins og þetta nær slíkum hæðum verða allir ríkir, þar til milljarðamæringur ákveður að berjast á móti og heimur allra snýst við á örskotsstundu.",
+    "genres": [
+      "Gaman",
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=bmr8YmwnZ3w",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-11-19T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371376/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-11-19T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371353/",
+          "hall": "Salur 4"
+        }
+      ]
     },
     "imdb": {
-      "star": 6.4,
-      "link": "http://imdb.com/title/tt15268244"
+      "star": 7,
+      "link": "http://imdb.com/title/tt13957560"
     }
   },
   {
@@ -876,44 +901,74 @@
     }
   },
   {
-    "title": "Dumb Money",
-    "id": 16103,
-    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "title": "Tilverur",
+    "id": 16457,
+    "alt_title": "Solitude",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16103_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16457_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13957560",
-      "http://imdb.com/title/tt13957560"
+      "http://imdb.com/title/tt26218798",
+      "http://imdb.com/title/tt26218798"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Myndin fjallar um bóndann Gunnar sem er tilneyddur að flytja til borgarinnar þegar ríkið tekur jörð hans yfir til virkjunarframkvæmda. Kynni af blaðburðardrengnum Ara umbreytir lífi þeirra beggja.",
+    "genres": [
+      "Drama",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 75,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=D5SvlAwd80o",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-19T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370448/",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.6,
+      "link": "http://imdb.com/title/tt26218798"
+    }
+  },
+  {
+    "title": "My Love Affair with Marriage",
+    "id": 16587,
+    "alt_title": "Leikstjórn",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16587_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6435164",
+      "http://imdb.com/title/tt6435164"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Segir frá ringulreiðinni á verðbréfamarkaðnum á Wall Street eftir að hlutabréf verslunarfyrirtækisins GameStop tóku stökk vegna Reddit pósta. Í miðpunkti sögunnar er hinn ofurvenjulegi Keith Gill sem byrjar að eyða öllum sparnaði sínum í bréfin og birta færslur um það á Reddit samfélagsmiðlinum. Þegar færslur hans fara að fá mikinn lestur, verður sannkölluð sprenging í hans lífi og allra í kringum hann. Þegar hlutabréfaráð eins og þetta nær slíkum hæðum verða allir ríkir, þar til milljarðamæringur ákveður að berjast á móti og heimur allra snýst við á örskotsstundu.",
+    "description": "Hin unga og fjöruga Zelma hefur staðið í þeirri trú frá unga aldri að ástin muni leysa öll hennar vandamál svo lengi sem hún hagi sér eins og stúlka á að haga sér. En eftir því sem hún eldist þá virðist eitthvað bogið við hugmyndina um ástina: því meira sem hún reynir að gera hlutina rétt, því minna lætur líkaminn að stjórn.",
     "genres": [
       "Gaman",
       "Drama",
-      "Æviágrip"
+      "Teiknað"
     ],
-    "duration_in_mins": 104,
+    "duration_in_mins": 107,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=bmr8YmwnZ3w",
+    "trailer_url": "https://www.youtube.com/watch?v=Ak1-0pka4c4",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Bíó Paradís": [
         {
-          "time": "2023-11-19T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371376/",
+          "time": "2023-11-19T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4176",
           "hall": "Salur 3"
-        },
-        {
-          "time": "2023-11-19T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371353/",
-          "hall": "Salur 4"
         }
       ]
     },
     "imdb": {
       "star": 7,
-      "link": "http://imdb.com/title/tt13957560"
+      "link": "http://imdb.com/title/tt6435164"
     }
   },
   {
@@ -1192,10 +1247,6 @@
           "hall": "Salur 3"
         }
       ]
-    },
-    "imdb": {
-      "star": 8.2,
-      "link": "http://imdb.com/title/tt10651230"
     }
   },
   {
@@ -1299,10 +1350,6 @@
           "hall": "Salur 3"
         }
       ]
-    },
-    "imdb": {
-      "star": 7.6,
-      "link": "http://imdb.com/title/tt21027780"
     }
   },
   {
@@ -1339,77 +1386,6 @@
     "imdb": {
       "star": 7.2,
       "link": "http://imdb.com/title/tt8589698"
-    }
-  },
-  {
-    "title": "Tilverur",
-    "id": 16457,
-    "alt_title": "Solitude",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16457_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26218798",
-      "http://imdb.com/title/tt26218798"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin fjallar um bóndann Gunnar sem er tilneyddur að flytja til borgarinnar þegar ríkið tekur jörð hans yfir til virkjunarframkvæmda. Kynni af blaðburðardrengnum Ara umbreytir lífi þeirra beggja.",
-    "genres": [
-      "Drama",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 75,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=D5SvlAwd80o",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-19T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370448/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.6,
-      "link": "http://imdb.com/title/tt26218798"
-    }
-  },
-  {
-    "title": "My Love Affair with Marriage",
-    "id": 16587,
-    "alt_title": "Leikstjórn",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16587_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6435164",
-      "http://imdb.com/title/tt6435164"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Hin unga og fjöruga Zelma hefur staðið í þeirri trú frá unga aldri að ástin muni leysa öll hennar vandamál svo lengi sem hún hagi sér eins og stúlka á að haga sér. En eftir því sem hún eldist þá virðist eitthvað bogið við hugmyndina um ástina: því meira sem hún reynir að gera hlutina rétt, því minna lætur líkaminn að stjórn.",
-    "genres": [
-      "Gaman",
-      "Drama",
-      "Teiknað"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Ak1-0pka4c4",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-19T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4176",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7,
-      "link": "http://imdb.com/title/tt6435164"
     }
   }
 ]
