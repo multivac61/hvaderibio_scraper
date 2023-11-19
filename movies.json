@@ -323,6 +323,10 @@
           "hall": "Salur 5"
         }
       ]
+    },
+    "imdb": {
+      "star": 6,
+      "link": "http://imdb.com/title/tt14362112"
     }
   },
   {
@@ -348,28 +352,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=GfGcH2T53XY",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-11-19T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370925/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-11-19T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370933/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-19T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370934/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-11-19T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371359/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-11-19T14:00:00.000Z",
@@ -390,6 +372,28 @@
           "time": "2023-11-19T21:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/787156/",
           "hall": "AXL"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-11-19T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370925/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-11-19T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370933/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-11-19T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370934/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-11-19T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371359/",
+          "hall": "Salur 2"
         }
       ],
       "Smárabíó": [
@@ -894,6 +898,10 @@
           "hall": "Salur 4"
         }
       ]
+    },
+    "imdb": {
+      "star": 7,
+      "link": "http://imdb.com/title/tt13957560"
     }
   },
   {
@@ -1035,6 +1043,10 @@
           "hall": "Salur 2"
         }
       ]
+    },
+    "imdb": {
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt22687790"
     }
   },
   {
@@ -1243,6 +1255,10 @@
           "hall": "Salur 3"
         }
       ]
+    },
+    "imdb": {
+      "star": 7.2,
+      "link": "http://imdb.com/title/tt8589698"
     }
   },
   {
