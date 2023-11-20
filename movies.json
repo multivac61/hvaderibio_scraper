@@ -346,10 +346,6 @@
           "hall": "Salur 3"
         }
       ]
-    },
-    "imdb": {
-      "star": 6,
-      "link": "http://imdb.com/title/tt14362112"
     }
   },
   {
@@ -457,49 +453,6 @@
     }
   },
   {
-    "title": "Killers of the Flower Moon",
-    "id": 16118,
-    "alt_title": "Tröll með tíu milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5537002",
-      "http://imdb.com/title/tt5537002"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
-    "genres": [
-      "Drama",
-      "Glæpa",
-      "Söguleg"
-    ],
-    "duration_in_mins": 206,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-11-20T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370880/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-11-20T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370560/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8,
-      "link": "http://imdb.com/title/tt5537002"
-    }
-  },
-  {
     "title": "Last Voyage of the Demeter",
     "id": 16080,
     "alt_title": "Aðdáandi Drakúla frá unga aldri",
@@ -539,6 +492,39 @@
     }
   },
   {
+    "title": "Jólamóðir",
+    "id": 15051,
+    "alt_title": "Villibráð skákaði Avatar",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Fyrir langa löngu í heimi hinna íslensku trölla, stuttu eftir stór tímamót í lífi þeirra eru tröllasystkinin Hurðaskellir og Skjóða skilin eftir alein heima í Grýluhelli í fyrsta skipti í sögu hellisins. Þurfa þau að vinna sig í gegnum stirt samband sitt á sama tíma og þau reyna að komast að því hvert allir hinir 98 íbúar hellisins hafa farið. Við tekur ferðalag þar sem systkinin læra nýja hluti um sig, mömmu sína Grýlu, hvernig það kom til að þau urðu að jólafjölskyldu og hvað fylgir töfrum jólanna. Grýla er einnig að glíma við sömu spurningar á meðan skyldur hennar sem jólamóðir, verndara töfra jólanna, stangast á við þá tröllskessu sem hún áður var.",
+    "genres": [
+      "Ævintýri",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 97,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=w05_GfoX114",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-11-20T14:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370640/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-11-20T16:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370641/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Kuldi",
     "id": 16170,
     "alt_title": "Cold",
@@ -572,43 +558,6 @@
           "time": "2023-11-20T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104885&visLang=1",
           "hall": "Salur 5"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.1,
-      "link": "http://imdb.com/title/tt21976444"
-    }
-  },
-  {
-    "title": "Jólamóðir",
-    "id": 15051,
-    "alt_title": "Villibráð skákaði Avatar",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Fyrir langa löngu í heimi hinna íslensku trölla, stuttu eftir stór tímamót í lífi þeirra eru tröllasystkinin Hurðaskellir og Skjóða skilin eftir alein heima í Grýluhelli í fyrsta skipti í sögu hellisins. Þurfa þau að vinna sig í gegnum stirt samband sitt á sama tíma og þau reyna að komast að því hvert allir hinir 98 íbúar hellisins hafa farið. Við tekur ferðalag þar sem systkinin læra nýja hluti um sig, mömmu sína Grýlu, hvernig það kom til að þau urðu að jólafjölskyldu og hvað fylgir töfrum jólanna. Grýla er einnig að glíma við sömu spurningar á meðan skyldur hennar sem jólamóðir, verndara töfra jólanna, stangast á við þá tröllskessu sem hún áður var.",
-    "genres": [
-      "Ævintýri",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 97,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=w05_GfoX114",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-11-20T14:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370640/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-20T16:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370641/",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -692,10 +641,6 @@
           "hall": "Salur 2"
         }
       ]
-    },
-    "imdb": {
-      "star": 7.7,
-      "link": "http://imdb.com/title/tt26218798"
     }
   },
   {
@@ -731,44 +676,49 @@
           "hall": "Salur 2"
         }
       ]
-    },
-    "imdb": {
-      "star": 8.1,
-      "link": "http://imdb.com/title/tt23736044"
     }
   },
   {
-    "title": "Our Happiest Days",
-    "id": 16525,
-    "alt_title": "Nuestros días más felices",
-    "release_year": 2021,
-    "poster_url": "https://kvikmyndir.is/images/poster/16525_500.jpg",
+    "title": "Killers of the Flower Moon",
+    "id": 16118,
+    "alt_title": "Tröll með tíu milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt15123740",
-      "http://imdb.com/title/tt15123740"
+      "http://imdb.com/title/tt5537002",
+      "http://imdb.com/title/tt5537002"
     ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Agatha, sem er 74 ára gömul, vaknar skyndilega upp í líkama átta ára gamallar stúlku. 38 ára gömul dóttir hennar Leonidas kemur í heimsókn til að lækna sár sem ekki hafa gróið.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
     "genres": [
-      "Drama"
+      "Drama",
+      "Glæpa",
+      "Söguleg"
     ],
-    "duration_in_mins": 100,
+    "duration_in_mins": 206,
     "language": [
-      "Spænska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=xOz3YpKWbVs",
+    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2023-11-20T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4220",
-          "hall": "Salur 2"
+          "time": "2023-11-20T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370880/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-11-20T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370560/",
+          "hall": "Salur 3"
         }
       ]
     },
     "imdb": {
-      "star": 6.7,
-      "link": "http://imdb.com/title/tt15123740"
+      "star": 8,
+      "link": "http://imdb.com/title/tt5537002"
     }
   },
   {
@@ -801,6 +751,10 @@
           "hall": "Salur 3"
         }
       ]
+    },
+    "imdb": {
+      "star": 7,
+      "link": "http://imdb.com/title/tt18558306"
     }
   },
   {
@@ -874,6 +828,41 @@
     }
   },
   {
+    "title": "Freelance",
+    "id": 16417,
+    "alt_title": "Tröll með tíu milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16417_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15744298",
+      "http://imdb.com/title/tt15744298"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Mason Petit er fyrrum þjóðvarðliði en nú fjölskyldumaður og lífið er alls ekki eins spennandi og eitt sinn var. Hættulegir leiðangrar heyra nú sögunni til. Hann sinnir leiðinlegum lögmannsstörfum og hjónabandið er í andaslitrunum. Allt þetta breytist þegar fyrrum félagi úr hernum býður honum nýtt starf, að vera öryggisvörður hinnar margverðlaunuðu og hugdjörfu blaðakonu Claire Wellington, sem er nýbúin að landa einkaviðtali við alræmdan og sérvitran suður-amerískan einræðisherra, Venegas.  Petit grípur tækifærið fegins hendi og hoppar upp í flugvél. Þegar hann lendir á áfangastað er ljóst að hann hefur farið úr öskunni í eldinn. Hann blandast í blóðuga valdaránstilraun og þarf nú að vinna náið með Wellington og hinum siðferðilega vafasama Venegas til að sleppa lifandi úr landinu.",
+    "genres": [
+      "Spenna",
+      "Gaman"
+    ],
+    "duration_in_mins": 109,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6ura9bYCDJg",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-11-20T22:10:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792261/",
+          "hall": "Salur B"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 5.6,
+      "link": "http://imdb.com/title/tt15744298"
+    }
+  },
+  {
     "title": "Dumb Money",
     "id": 16103,
     "alt_title": "Hvolpasveit ósigrandi á toppnum!",
@@ -939,41 +928,6 @@
           "hall": "Salur 2"
         }
       ]
-    }
-  },
-  {
-    "title": "Freelance",
-    "id": 16417,
-    "alt_title": "Tröll með tíu milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16417_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15744298",
-      "http://imdb.com/title/tt15744298"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mason Petit er fyrrum þjóðvarðliði en nú fjölskyldumaður og lífið er alls ekki eins spennandi og eitt sinn var. Hættulegir leiðangrar heyra nú sögunni til. Hann sinnir leiðinlegum lögmannsstörfum og hjónabandið er í andaslitrunum. Allt þetta breytist þegar fyrrum félagi úr hernum býður honum nýtt starf, að vera öryggisvörður hinnar margverðlaunuðu og hugdjörfu blaðakonu Claire Wellington, sem er nýbúin að landa einkaviðtali við alræmdan og sérvitran suður-amerískan einræðisherra, Venegas.  Petit grípur tækifærið fegins hendi og hoppar upp í flugvél. Þegar hann lendir á áfangastað er ljóst að hann hefur farið úr öskunni í eldinn. Hann blandast í blóðuga valdaránstilraun og þarf nú að vinna náið með Wellington og hinum siðferðilega vafasama Venegas til að sleppa lifandi úr landinu.",
-    "genres": [
-      "Spenna",
-      "Gaman"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6ura9bYCDJg",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-11-20T22:10:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792261/",
-          "hall": "Salur B"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 5.6,
-      "link": "http://imdb.com/title/tt15744298"
     }
   },
   {
@@ -1080,6 +1034,40 @@
     "imdb": {
       "star": 7.9,
       "link": "http://imdb.com/title/tt17009710"
+    }
+  },
+  {
+    "title": "Our Happiest Days",
+    "id": 16525,
+    "alt_title": "Nuestros días más felices",
+    "release_year": 2021,
+    "poster_url": "https://kvikmyndir.is/images/poster/16525_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15123740",
+      "http://imdb.com/title/tt15123740"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Agatha, sem er 74 ára gömul, vaknar skyndilega upp í líkama átta ára gamallar stúlku. 38 ára gömul dóttir hennar Leonidas kemur í heimsókn til að lækna sár sem ekki hafa gróið.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=xOz3YpKWbVs",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-20T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4220",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.7,
+      "link": "http://imdb.com/title/tt15123740"
     }
   }
 ]
