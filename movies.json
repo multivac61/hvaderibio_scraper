@@ -189,48 +189,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=GfGcH2T53XY",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-11-21T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104894&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-21T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104906&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-11-21T16:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104897&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-11-21T18:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104900&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-11-21T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105165&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-21T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104904&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-11-21T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104905&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-11-21T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104909&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2023-11-21T17:30:00.000Z",
@@ -275,6 +233,33 @@
           "time": "2023-11-21T21:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/792233/",
           "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-11-21T18:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104900&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-11-21T19:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105165&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-11-21T20:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104904&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2023-11-21T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104905&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-11-21T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104909&visLang=1",
+          "hall": "Salur 2"
         }
       ],
       "Sambíóin Keflavík": [
@@ -325,18 +310,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-21T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104895&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2023-11-21T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104899&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-11-21T16:50:00.000Z",
@@ -370,6 +343,13 @@
           "time": "2023-11-21T17:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/370723/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-11-21T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104899&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     },
@@ -432,6 +412,10 @@
           "hall": "Salur A"
         }
       ]
+    },
+    "imdb": {
+      "star": 5.5,
+      "link": "http://imdb.com/title/tt4589218"
     }
   },
   {
@@ -479,82 +463,6 @@
     }
   },
   {
-    "title": "Jólamóðir",
-    "id": 15051,
-    "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Fyrir langa löngu í heimi hinna íslensku trölla, stuttu eftir stór tímamót í lífi þeirra eru tröllasystkinin Hurðaskellir og Skjóða skilin eftir alein heima í Grýluhelli í fyrsta skipti í sögu hellisins. Þurfa þau að vinna sig í gegnum stirt samband sitt á sama tíma og þau reyna að komast að því hvert allir hinir 98 íbúar hellisins hafa farið. Við tekur ferðalag þar sem systkinin læra nýja hluti um sig, mömmu sína Grýlu, hvernig það kom til að þau urðu að jólafjölskyldu og hvað fylgir töfrum jólanna. Grýla er einnig að glíma við sömu spurningar á meðan skyldur hennar sem jólamóðir, verndara töfra jólanna, stangast á við þá tröllskessu sem hún áður var.",
-    "genres": [
-      "Ævintýri",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 97,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=w05_GfoX114",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-11-21T14:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370687/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-21T16:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370688/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "PAW Patrol: The Mighty Movie",
-    "id": 16337,
-    "alt_title": "Hvolpasveitin: Ofurmyndin",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16337_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15837338",
-      "http://imdb.com/title/tt15837338"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Töfraloftsteinn fellur til jarðar í Ævintýraborg og gefur Hvolpasveitinni ofurkrafta. Fyrir Skye, yngsta meðlim sveitarinnar, eru kraftarnir draumur sem rætist. En hlutirnir taka óvænta stefnu þegar Humdinger sleppur úr fangelsi og gengur til liðs við brjálaðan vísindamann sem vill stela ofurkröftunum. Nú eru örlög Ævintýraborgar í höndum Hvolpasveitarinnar sem þarf að stöðva óþokkana áður en það verður um seinan.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UDgjJ9XzgHk",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-11-21T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104907&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-21T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370549/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6,
-      "link": "http://imdb.com/title/tt15837338"
-    }
-  },
-  {
     "title": "Kuldi",
     "id": 16170,
     "alt_title": "Cold",
@@ -594,6 +502,39 @@
     "imdb": {
       "star": 7.1,
       "link": "http://imdb.com/title/tt21976444"
+    }
+  },
+  {
+    "title": "Jólamóðir",
+    "id": 15051,
+    "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Fyrir langa löngu í heimi hinna íslensku trölla, stuttu eftir stór tímamót í lífi þeirra eru tröllasystkinin Hurðaskellir og Skjóða skilin eftir alein heima í Grýluhelli í fyrsta skipti í sögu hellisins. Þurfa þau að vinna sig í gegnum stirt samband sitt á sama tíma og þau reyna að komast að því hvert allir hinir 98 íbúar hellisins hafa farið. Við tekur ferðalag þar sem systkinin læra nýja hluti um sig, mömmu sína Grýlu, hvernig það kom til að þau urðu að jólafjölskyldu og hvað fylgir töfrum jólanna. Grýla er einnig að glíma við sömu spurningar á meðan skyldur hennar sem jólamóðir, verndara töfra jólanna, stangast á við þá tröllskessu sem hún áður var.",
+    "genres": [
+      "Ævintýri",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 97,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=w05_GfoX114",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-11-21T14:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370687/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-11-21T16:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370688/",
+          "hall": "Salur 2"
+        }
+      ]
     }
   },
   {
@@ -711,109 +652,10 @@
           "hall": "Salur 3"
         }
       ]
-    }
-  },
-  {
-    "title": "Anatomy of a Fall",
-    "id": 16545,
-    "alt_title": "Anatomie d'une chute",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17009710",
-      "http://imdb.com/title/tt17009710"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa"
-    ],
-    "duration_in_mins": 151,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-21T18:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4236",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Creator",
-    "id": 16171,
-    "alt_title": "Hvolpasveit ofurvinsæl",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/uehgyblposint7b7dz7pgwcsqex-1692703367.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11858890",
-      "http://imdb.com/title/tt11858890"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Mitt í framtíðarstríði á milli mannkyns og gervigreindar, er Joshua, grjótharður fyrrum sérsveitarmaður sem syrgir eiginkonu sína, ráðinn til að elta uppi og drepa Skaparann (e. Creator), arkitekt hinnar háþróuðu gervigreindar sem skapað hefur dularfullt vopn sem getur bundið endi á stríðið og mannkynið sömuleiðis.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 133,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=573GCxqkYEg",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-21T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370550/",
-          "hall": "Salur 2"
-        }
-      ]
     },
     "imdb": {
-      "star": 7,
-      "link": "http://imdb.com/title/tt11858890"
-    }
-  },
-  {
-    "title": "Dancing Queen",
-    "id": 16519,
-    "alt_title": "Dansdrottningin",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16519_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20424066",
-      "http://imdb.com/title/tt20424066"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Mina er 12 ára. Henni bregður í brún þegar frægur götudansari byrjar í skólanum hennar. Hún ákveður í kjölfarið að taka þátt í áheyrnaprufum fyrir danshóp til þess að ganga í augun á nýja stráknum. Eina vandamálið er að hún kann ekki að dansa!",
-    "genres": [
-      "Drama",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Norska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=FudYMbvcJ8s",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-21T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4241",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.5,
-      "link": "http://imdb.com/title/tt20424066"
+      "star": 6.1,
+      "link": "http://imdb.com/title/tt1001520"
     }
   },
   {
@@ -879,6 +721,77 @@
     }
   },
   {
+    "title": "PAW Patrol: The Mighty Movie",
+    "id": 16337,
+    "alt_title": "Hvolpasveitin: Ofurmyndin",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16337_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15837338",
+      "http://imdb.com/title/tt15837338"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Töfraloftsteinn fellur til jarðar í Ævintýraborg og gefur Hvolpasveitinni ofurkrafta. Fyrir Skye, yngsta meðlim sveitarinnar, eru kraftarnir draumur sem rætist. En hlutirnir taka óvænta stefnu þegar Humdinger sleppur úr fangelsi og gengur til liðs við brjálaðan vísindamann sem vill stela ofurkröftunum. Nú eru örlög Ævintýraborgar í höndum Hvolpasveitarinnar sem þarf að stöðva óþokkana áður en það verður um seinan.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UDgjJ9XzgHk",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-21T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370549/",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6,
+      "link": "http://imdb.com/title/tt15837338"
+    }
+  },
+  {
+    "title": "Tilverur",
+    "id": 16457,
+    "alt_title": "Solitude",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16457_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26218798",
+      "http://imdb.com/title/tt26218798"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Myndin fjallar um bóndann Gunnar sem er tilneyddur að flytja til borgarinnar þegar ríkið tekur jörð hans yfir til virkjunarframkvæmda. Kynni af blaðburðardrengnum Ara umbreytir lífi þeirra beggja.",
+    "genres": [
+      "Drama",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 75,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=D5SvlAwd80o",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-21T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370555/",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.7,
+      "link": "http://imdb.com/title/tt26218798"
+    }
+  },
+  {
     "title": "Freelance",
     "id": 16417,
     "alt_title": "Tröll með tíu milljónir",
@@ -911,37 +824,6 @@
     "imdb": {
       "star": 5.6,
       "link": "http://imdb.com/title/tt15744298"
-    }
-  },
-  {
-    "title": "Tilverur",
-    "id": 16457,
-    "alt_title": "Solitude",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16457_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26218798",
-      "http://imdb.com/title/tt26218798"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin fjallar um bóndann Gunnar sem er tilneyddur að flytja til borgarinnar þegar ríkið tekur jörð hans yfir til virkjunarframkvæmda. Kynni af blaðburðardrengnum Ara umbreytir lífi þeirra beggja.",
-    "genres": [
-      "Drama",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 75,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=D5SvlAwd80o",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-21T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370555/",
-          "hall": "Salur 2"
-        }
-      ]
     }
   },
   {
@@ -1051,6 +933,42 @@
     }
   },
   {
+    "title": "Anatomy of a Fall",
+    "id": 16545,
+    "alt_title": "Anatomie d'une chute",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17009710",
+      "http://imdb.com/title/tt17009710"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa"
+    ],
+    "duration_in_mins": 151,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-21T18:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4236",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.9,
+      "link": "http://imdb.com/title/tt17009710"
+    }
+  },
+  {
     "title": "Dumb Money",
     "id": 16103,
     "alt_title": "Hvolpasveit ósigrandi á toppnum!",
@@ -1084,6 +1002,77 @@
     "imdb": {
       "star": 7,
       "link": "http://imdb.com/title/tt13957560"
+    }
+  },
+  {
+    "title": "Dancing Queen",
+    "id": 16519,
+    "alt_title": "Dansdrottningin",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16519_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20424066",
+      "http://imdb.com/title/tt20424066"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Mina er 12 ára. Henni bregður í brún þegar frægur götudansari byrjar í skólanum hennar. Hún ákveður í kjölfarið að taka þátt í áheyrnaprufum fyrir danshóp til þess að ganga í augun á nýja stráknum. Eina vandamálið er að hún kann ekki að dansa!",
+    "genres": [
+      "Drama",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Norska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=FudYMbvcJ8s",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-21T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4241",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.5,
+      "link": "http://imdb.com/title/tt20424066"
+    }
+  },
+  {
+    "title": "The Creator",
+    "id": 16171,
+    "alt_title": "Hvolpasveit ofurvinsæl",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/uehgyblposint7b7dz7pgwcsqex-1692703367.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11858890",
+      "http://imdb.com/title/tt11858890"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Mitt í framtíðarstríði á milli mannkyns og gervigreindar, er Joshua, grjótharður fyrrum sérsveitarmaður sem syrgir eiginkonu sína, ráðinn til að elta uppi og drepa Skaparann (e. Creator), arkitekt hinnar háþróuðu gervigreindar sem skapað hefur dularfullt vopn sem getur bundið endi á stríðið og mannkynið sömuleiðis.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 133,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=573GCxqkYEg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-21T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370550/",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7,
+      "link": "http://imdb.com/title/tt11858890"
     }
   }
 ]
