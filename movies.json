@@ -129,6 +129,10 @@
           "hall": "Salur 4"
         }
       ]
+    },
+    "imdb": {
+      "star": 6,
+      "link": "http://imdb.com/title/tt10676048"
     }
   },
   {
@@ -227,73 +231,6 @@
     }
   },
   {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-11-22T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370657/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-11-22T17:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370658/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-22T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104917&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2023-11-22T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104937&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-22T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370473/",
-          "hall": "Salur A"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-11-22T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370895/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6,
-      "link": "http://imdb.com/title/tt14362112"
-    }
-  },
-  {
     "title": "Five Nights at Freddy's",
     "id": 16416,
     "alt_title": "Leikstjórn",
@@ -361,6 +298,73 @@
     }
   },
   {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-11-22T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370657/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-11-22T17:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370658/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-11-22T15:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104917&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2023-11-22T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104937&visLang=1",
+          "hall": "Salur 5"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-22T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370473/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-11-22T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370895/",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6,
+      "link": "http://imdb.com/title/tt14362112"
+    }
+  },
+  {
     "title": "Tilverur",
     "id": 16457,
     "alt_title": "Solitude",
@@ -401,6 +405,10 @@
           "hall": "Salur 2"
         }
       ]
+    },
+    "imdb": {
+      "star": 7.7,
+      "link": "http://imdb.com/title/tt26218798"
     }
   },
   {
@@ -448,6 +456,45 @@
     }
   },
   {
+    "title": "Last Voyage of the Demeter",
+    "id": 16080,
+    "alt_title": "Aðdáandi Drakúla frá unga aldri",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16080_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1001520",
+      "http://imdb.com/title/tt1001520"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Myndin er byggð á einum kafla, The Captain´s Log, úr sígildri sögu Bram Stoker frá 1897, Dracula. Sagan gerist um borð í rússnesku skonnortunni Demeter sem var notuð til að flytja leynilegan farm - tuttugu og fjóra ómerkta viðarkassa - frá Carpathia til Lundúna. Skrýtnir atburðir gerðust um borð og þegar skipið kom til hafnar í Whitby var áhöfnin á bak og burt og engin ummerki um hana að finna.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 118,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6FgUUO9Ztd0",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-22T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370508/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-11-22T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370504/",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.1,
+      "link": "http://imdb.com/title/tt1001520"
+    }
+  },
+  {
     "title": "Jólamóðir",
     "id": 15051,
     "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
@@ -478,49 +525,6 @@
           "hall": "Salur 2"
         }
       ]
-    }
-  },
-  {
-    "title": "PAW Patrol: The Mighty Movie",
-    "id": 16337,
-    "alt_title": "Hvolpasveitin: Ofurmyndin",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16337_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15837338",
-      "http://imdb.com/title/tt15837338"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Töfraloftsteinn fellur til jarðar í Ævintýraborg og gefur Hvolpasveitinni ofurkrafta. Fyrir Skye, yngsta meðlim sveitarinnar, eru kraftarnir draumur sem rætist. En hlutirnir taka óvænta stefnu þegar Humdinger sleppur úr fangelsi og gengur til liðs við brjálaðan vísindamann sem vill stela ofurkröftunum. Nú eru örlög Ævintýraborgar í höndum Hvolpasveitarinnar sem þarf að stöðva óþokkana áður en það verður um seinan.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UDgjJ9XzgHk",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-11-22T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104938&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-22T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370547/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6,
-      "link": "http://imdb.com/title/tt15837338"
     }
   },
   {
@@ -605,6 +609,49 @@
     }
   },
   {
+    "title": "PAW Patrol: The Mighty Movie",
+    "id": 16337,
+    "alt_title": "Hvolpasveitin: Ofurmyndin",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16337_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15837338",
+      "http://imdb.com/title/tt15837338"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Töfraloftsteinn fellur til jarðar í Ævintýraborg og gefur Hvolpasveitinni ofurkrafta. Fyrir Skye, yngsta meðlim sveitarinnar, eru kraftarnir draumur sem rætist. En hlutirnir taka óvænta stefnu þegar Humdinger sleppur úr fangelsi og gengur til liðs við brjálaðan vísindamann sem vill stela ofurkröftunum. Nú eru örlög Ævintýraborgar í höndum Hvolpasveitarinnar sem þarf að stöðva óþokkana áður en það verður um seinan.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UDgjJ9XzgHk",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-11-22T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104938&visLang=1",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-22T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370547/",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6,
+      "link": "http://imdb.com/title/tt15837338"
+    }
+  },
+  {
     "title": "Killers of the Flower Moon",
     "id": 16118,
     "alt_title": "Tröll með tíu milljónir",
@@ -641,41 +688,10 @@
           "hall": "Salur 3"
         }
       ]
-    }
-  },
-  {
-    "title": "Last Voyage of the Demeter",
-    "id": 16080,
-    "alt_title": "Aðdáandi Drakúla frá unga aldri",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16080_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1001520",
-      "http://imdb.com/title/tt1001520"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Myndin er byggð á einum kafla, The Captain´s Log, úr sígildri sögu Bram Stoker frá 1897, Dracula. Sagan gerist um borð í rússnesku skonnortunni Demeter sem var notuð til að flytja leynilegan farm - tuttugu og fjóra ómerkta viðarkassa - frá Carpathia til Lundúna. Skrýtnir atburðir gerðust um borð og þegar skipið kom til hafnar í Whitby var áhöfnin á bak og burt og engin ummerki um hana að finna.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 118,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6FgUUO9Ztd0",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-22T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370508/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-11-22T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370504/",
-          "hall": "Salur 3"
-        }
-      ]
+    },
+    "imdb": {
+      "star": 8,
+      "link": "http://imdb.com/title/tt5537002"
     }
   },
   {
@@ -707,38 +723,10 @@
           "hall": "Salur 3"
         }
       ]
-    }
-  },
-  {
-    "title": "A Haunting in Venice",
-    "id": 16247,
-    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16247_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22687790",
-      "http://imdb.com/title/tt22687790"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Hinn rómaði einkaspæjari Hercule Poirot er sestur í helgan stein og býr í sjálfskipaðri útlegð í Feneyjum á Ítalíu. Með semingi mætir hann á skyggnilýsingu í gamalli höll í niðurníðslu. Þegar einn gestanna finnst myrtur sogast Poirot inn í skuggalegan heim leyndarmála og dulúðar.",
-    "genres": [
-      "Drama",
-      "Hrollvekja",
-      "Glæpa"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=yEddsSwweyE",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-22T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370539/",
-          "hall": "Salur 2"
-        }
-      ]
+    },
+    "imdb": {
+      "star": 0,
+      "link": "http://imdb.com/title/tt28686731"
     }
   },
   {
@@ -778,35 +766,39 @@
     }
   },
   {
-    "title": "Dumb Money",
-    "id": 16103,
-    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "title": "A Haunting in Venice",
+    "id": 16247,
+    "alt_title": "Þriðja vika Kulda á toppinum - 40 milljóna tekjur",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16103_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16247_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13957560",
-      "http://imdb.com/title/tt13957560"
+      "http://imdb.com/title/tt22687790",
+      "http://imdb.com/title/tt22687790"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Segir frá ringulreiðinni á verðbréfamarkaðnum á Wall Street eftir að hlutabréf verslunarfyrirtækisins GameStop tóku stökk vegna Reddit pósta. Í miðpunkti sögunnar er hinn ofurvenjulegi Keith Gill sem byrjar að eyða öllum sparnaði sínum í bréfin og birta færslur um það á Reddit samfélagsmiðlinum. Þegar færslur hans fara að fá mikinn lestur, verður sannkölluð sprenging í hans lífi og allra í kringum hann. Þegar hlutabréfaráð eins og þetta nær slíkum hæðum verða allir ríkir, þar til milljarðamæringur ákveður að berjast á móti og heimur allra snýst við á örskotsstundu.",
+    "description": "Hinn rómaði einkaspæjari Hercule Poirot er sestur í helgan stein og býr í sjálfskipaðri útlegð í Feneyjum á Ítalíu. Með semingi mætir hann á skyggnilýsingu í gamalli höll í niðurníðslu. Þegar einn gestanna finnst myrtur sogast Poirot inn í skuggalegan heim leyndarmála og dulúðar.",
     "genres": [
-      "Gaman",
       "Drama",
-      "Æviágrip"
+      "Hrollvekja",
+      "Glæpa"
     ],
-    "duration_in_mins": 104,
+    "duration_in_mins": 103,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=bmr8YmwnZ3w",
+    "trailer_url": "https://www.youtube.com/watch?v=yEddsSwweyE",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2023-11-22T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370876/",
-          "hall": "Salur 4"
+          "time": "2023-11-22T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370539/",
+          "hall": "Salur 2"
         }
       ]
+    },
+    "imdb": {
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt22687790"
     }
   },
   {
@@ -841,6 +833,77 @@
     "imdb": {
       "star": 8.2,
       "link": "http://imdb.com/title/tt10651230"
+    }
+  },
+  {
+    "title": "Dumb Money",
+    "id": 16103,
+    "alt_title": "Hvolpasveit ósigrandi á toppnum!",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16103_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13957560",
+      "http://imdb.com/title/tt13957560"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Segir frá ringulreiðinni á verðbréfamarkaðnum á Wall Street eftir að hlutabréf verslunarfyrirtækisins GameStop tóku stökk vegna Reddit pósta. Í miðpunkti sögunnar er hinn ofurvenjulegi Keith Gill sem byrjar að eyða öllum sparnaði sínum í bréfin og birta færslur um það á Reddit samfélagsmiðlinum. Þegar færslur hans fara að fá mikinn lestur, verður sannkölluð sprenging í hans lífi og allra í kringum hann. Þegar hlutabréfaráð eins og þetta nær slíkum hæðum verða allir ríkir, þar til milljarðamæringur ákveður að berjast á móti og heimur allra snýst við á örskotsstundu.",
+    "genres": [
+      "Gaman",
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=bmr8YmwnZ3w",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-11-22T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370876/",
+          "hall": "Salur 4"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7,
+      "link": "http://imdb.com/title/tt13957560"
+    }
+  },
+  {
+    "title": "Fallen Leaves",
+    "id": 16299,
+    "alt_title": "Kuolleet lehdet",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21027780",
+      "http://imdb.com/title/tt21027780"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 81,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-22T21:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4231",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.6,
+      "link": "http://imdb.com/title/tt21027780"
     }
   },
   {
@@ -880,41 +943,6 @@
     }
   },
   {
-    "title": "Fallen Leaves",
-    "id": 16299,
-    "alt_title": "Kuolleet lehdet",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21027780",
-      "http://imdb.com/title/tt21027780"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 81,
-    "language": [
-      "Finnska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-22T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4231",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.6,
-      "link": "http://imdb.com/title/tt21027780"
-    }
-  },
-  {
     "title": "The Green Border",
     "id": 16502,
     "alt_title": "Zielona granica",
@@ -949,6 +977,35 @@
     }
   },
   {
+    "title": "Heimaleikurinn",
+    "id": 16427,
+    "alt_title": "The Home Game",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/367487358_10230638888585746_8192122211807456626_n-1693558790.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimaleikurinn er gamansöm íþróttaheimildamynd um tilraun manns til að uppfylla draum föður síns; að safna í lið heimamanna til að spila langþráðan vígsluleik á fótboltavelli sem faðirinn lét byggja á Hellissandi 25 árum áður.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 79,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=j550T_BChJU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-22T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4224",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Doppelgänger. The Double",
     "id": 16510,
     "alt_title": "Doppelgänger. Sobowtór",
@@ -976,35 +1033,10 @@
           "hall": "Salur 1"
         }
       ]
-    }
-  },
-  {
-    "title": "Heimaleikurinn",
-    "id": 16427,
-    "alt_title": "The Home Game",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/367487358_10230638888585746_8192122211807456626_n-1693558790.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Heimaleikurinn er gamansöm íþróttaheimildamynd um tilraun manns til að uppfylla draum föður síns; að safna í lið heimamanna til að spila langþráðan vígsluleik á fótboltavelli sem faðirinn lét byggja á Hellissandi 25 árum áður.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 79,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=j550T_BChJU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-22T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4224",
-          "hall": "Salur 1"
-        }
-      ]
+    },
+    "imdb": {
+      "star": 6.8,
+      "link": "http://imdb.com/title/tt18347222"
     }
   },
   {
@@ -1072,6 +1104,10 @@
           "hall": "Salur 1"
         }
       ]
+    },
+    "imdb": {
+      "star": 7.9,
+      "link": "http://imdb.com/title/tt17009710"
     }
   }
 ]
