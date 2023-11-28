@@ -49,33 +49,6 @@
           "hall": "Ásberg"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-28T16:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105109&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-11-28T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105093&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-11-28T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105095&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-11-28T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105097&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-11-28T22:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105103&visLang=1",
-          "hall": "LÚXUS"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2023-11-28T17:30:00.000Z",
@@ -130,6 +103,28 @@
           "time": "2023-11-28T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/371112/",
           "hall": "Lúxus VIP"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-11-28T19:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105093&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-11-28T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105095&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2023-11-28T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105097&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2023-11-28T22:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105103&visLang=1",
+          "hall": "LÚXUS"
         }
       ],
       "Sambíóin Keflavík": [
@@ -197,18 +192,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-28T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105091&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-28T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105111&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2023-11-28T16:30:00.000Z",
@@ -268,6 +251,13 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/793805/",
           "hall": "Salur B"
         }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-11-28T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105111&visLang=1",
+          "hall": "Salur 2"
+        }
       ]
     },
     "imdb": {
@@ -298,28 +288,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=GfGcH2T53XY",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-11-28T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105089&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-11-28T18:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105112&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-11-28T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105096&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-28T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105098&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2023-11-28T16:30:00.000Z",
@@ -347,6 +315,23 @@
           "time": "2023-11-28T21:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/793804/",
           "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-11-28T18:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105112&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2023-11-28T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105096&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-11-28T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105098&visLang=1",
+          "hall": "Salur 5"
         }
       ],
       "Sambíóin Keflavík": [
@@ -522,13 +507,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-28T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105322&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2023-11-28T17:40:00.000Z",
@@ -568,6 +546,43 @@
           "hall": "Salur 3"
         }
       ]
+    }
+  },
+  {
+    "title": "Kuldi",
+    "id": 16170,
+    "alt_title": "Cold",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/kuldi_poster_-1691405627.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21976444",
+      "http://imdb.com/title/tt21976444"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Þegar Óðinn byrjar að rannsaka áratuga gömul dauðsföll á unglingaheimili, fer hann að gruna að óhugnalegir atburðir þaðan tengist dularfullu sjálfsmorði eiginkonu hans — sem og skringilegri hegðun táningsdóttur hans.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 96,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-11-28T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105094&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.1,
+      "link": "http://imdb.com/title/tt21976444"
     }
   },
   {
@@ -704,113 +719,6 @@
     }
   },
   {
-    "title": "Joy Ride",
-    "id": 16078,
-    "alt_title": "Tröll með tíu milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16078_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15268244",
-      "http://imdb.com/title/tt15268244"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Myndin fjallar um fjóra bandaríska vini af asískum ættum sem treysta böndin milli sín og komast að ýmsu um ástina, á leið sinni í gegnum Asíu í leit að blóðmóður eins þeirra.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=jyI-AM5VXDo",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-11-28T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371046/",
-          "hall": "Salur B"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.4,
-      "link": "http://imdb.com/title/tt15268244"
-    }
-  },
-  {
-    "title": "Kuldi",
-    "id": 16170,
-    "alt_title": "Cold",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/kuldi_poster_-1691405627.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21976444",
-      "http://imdb.com/title/tt21976444"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Þegar Óðinn byrjar að rannsaka áratuga gömul dauðsföll á unglingaheimili, fer hann að gruna að óhugnalegir atburðir þaðan tengist dularfullu sjálfsmorði eiginkonu hans — sem og skringilegri hegðun táningsdóttur hans.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 96,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=9v0b3felm5Q",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-11-28T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105094&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.1,
-      "link": "http://imdb.com/title/tt21976444"
-    }
-  },
-  {
-    "title": "Killers of the Flower Moon",
-    "id": 16118,
-    "alt_title": "Tröll með tíu milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5537002",
-      "http://imdb.com/title/tt5537002"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
-    "genres": [
-      "Drama",
-      "Glæpa",
-      "Söguleg"
-    ],
-    "duration_in_mins": 206,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-11-28T20:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371138/",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8,
-      "link": "http://imdb.com/title/tt5537002"
-    }
-  },
-  {
     "title": "Monster",
     "id": 16301,
     "alt_title": "Kaibutsu",
@@ -845,37 +753,37 @@
     }
   },
   {
-    "title": "Last Voyage of the Demeter",
-    "id": 16080,
-    "alt_title": "Aðdáandi Drakúla frá unga aldri",
+    "title": "Joy Ride",
+    "id": 16078,
+    "alt_title": "Tröll með tíu milljónir",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16080_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16078_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt1001520",
-      "http://imdb.com/title/tt1001520"
+      "http://imdb.com/title/tt15268244",
+      "http://imdb.com/title/tt15268244"
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Myndin er byggð á einum kafla, The Captain´s Log, úr sígildri sögu Bram Stoker frá 1897, Dracula. Sagan gerist um borð í rússnesku skonnortunni Demeter sem var notuð til að flytja leynilegan farm - tuttugu og fjóra ómerkta viðarkassa - frá Carpathia til Lundúna. Skrýtnir atburðir gerðust um borð og þegar skipið kom til hafnar í Whitby var áhöfnin á bak og burt og engin ummerki um hana að finna.",
+    "description": "Myndin fjallar um fjóra bandaríska vini af asískum ættum sem treysta böndin milli sín og komast að ýmsu um ástina, á leið sinni í gegnum Asíu í leit að blóðmóður eins þeirra.",
     "genres": [
-      "Hrollvekja"
+      "Gaman"
     ],
-    "duration_in_mins": 118,
+    "duration_in_mins": 95,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=6FgUUO9Ztd0",
+    "trailer_url": "https://www.youtube.com/watch?v=jyI-AM5VXDo",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2023-11-28T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371014/",
+          "time": "2023-11-28T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371046/",
           "hall": "Salur B"
         }
       ]
     },
     "imdb": {
-      "star": 6.1,
-      "link": "http://imdb.com/title/tt1001520"
+      "star": 6.4,
+      "link": "http://imdb.com/title/tt15268244"
     }
   },
   {
@@ -915,6 +823,42 @@
     }
   },
   {
+    "title": "Killers of the Flower Moon",
+    "id": 16118,
+    "alt_title": "Tröll með tíu milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5537002",
+      "http://imdb.com/title/tt5537002"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
+    "genres": [
+      "Drama",
+      "Glæpa",
+      "Söguleg"
+    ],
+    "duration_in_mins": 206,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-11-28T20:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371138/",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8,
+      "link": "http://imdb.com/title/tt5537002"
+    }
+  },
+  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -948,6 +892,40 @@
     "imdb": {
       "star": 7.9,
       "link": "http://imdb.com/title/tt17009710"
+    }
+  },
+  {
+    "title": "Last Voyage of the Demeter",
+    "id": 16080,
+    "alt_title": "Aðdáandi Drakúla frá unga aldri",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16080_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1001520",
+      "http://imdb.com/title/tt1001520"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Myndin er byggð á einum kafla, The Captain´s Log, úr sígildri sögu Bram Stoker frá 1897, Dracula. Sagan gerist um borð í rússnesku skonnortunni Demeter sem var notuð til að flytja leynilegan farm - tuttugu og fjóra ómerkta viðarkassa - frá Carpathia til Lundúna. Skrýtnir atburðir gerðust um borð og þegar skipið kom til hafnar í Whitby var áhöfnin á bak og burt og engin ummerki um hana að finna.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 118,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6FgUUO9Ztd0",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-11-28T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371014/",
+          "hall": "Salur B"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.1,
+      "link": "http://imdb.com/title/tt1001520"
     }
   }
 ]
