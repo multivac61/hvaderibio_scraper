@@ -105,28 +105,18 @@
           "hall": "Lúxus VIP"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-29T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105004&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-11-29T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105126&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-29T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105128&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2023-11-29T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/371414/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-11-29T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105128&visLang=1",
+          "hall": "Salur 4"
         }
       ]
     },
@@ -222,13 +212,6 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794431/",
           "hall": "Salur B"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-29T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105124&visLang=1",
-          "hall": "Salur 2"
-        }
       ]
     },
     "imdb": {
@@ -285,13 +268,6 @@
           "time": "2023-11-29T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/371389/",
           "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-29T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105123&visLang=1",
-          "hall": "Salur 5"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -359,18 +335,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-11-29T18:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105125&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-11-29T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105127&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2023-11-29T20:00:00.000Z",
@@ -389,50 +353,6 @@
     "imdb": {
       "star": 7.2,
       "link": "http://imdb.com/title/tt10545296"
-    }
-  },
-  {
-    "title": "When Evil Lurks",
-    "id": 16570,
-    "alt_title": "Cuando acecha la maldad",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16570_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16300962",
-      "http://imdb.com/title/tt16300962"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Íbúar í litlu þorpi uppgötva að djöfull sé um það bil að fæðast í bænum. Í örvæntingu reyna íbúarnir að flýja áður en hið illa lítur dagsins ljós, en mögulega er það nú þegar orðið of seint.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=YbJEiOOvBxc",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-11-29T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105001&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-11-29T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105159&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-11-29T22:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105003&visLang=1",
-          "hall": "LÚXUS"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7,
-      "link": "http://imdb.com/title/tt16300962"
     }
   },
   {
@@ -476,6 +396,45 @@
     }
   },
   {
+    "title": "When Evil Lurks",
+    "id": 16570,
+    "alt_title": "Cuando acecha la maldad",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16570_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16300962",
+      "http://imdb.com/title/tt16300962"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Íbúar í litlu þorpi uppgötva að djöfull sé um það bil að fæðast í bænum. Í örvæntingu reyna íbúarnir að flýja áður en hið illa lítur dagsins ljós, en mögulega er það nú þegar orðið of seint.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=YbJEiOOvBxc",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-11-29T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105159&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2023-11-29T22:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105003&visLang=1",
+          "hall": "LÚXUS"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7,
+      "link": "http://imdb.com/title/tt16300962"
+    }
+  },
+  {
     "title": "The Night of the 12th",
     "id": 16186,
     "alt_title": "La nuit du 12",
@@ -514,6 +473,45 @@
     "imdb": {
       "star": 7,
       "link": "http://imdb.com/title/tt16953666"
+    }
+  },
+  {
+    "title": "Smoke Sauna Sisterhood",
+    "id": 16306,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23640230",
+      "http://imdb.com/title/tt23640230"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Eistneska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-29T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4191",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-11-29T17:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4315",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.8,
+      "link": "http://imdb.com/title/tt23640230"
     }
   },
   {
@@ -560,42 +558,34 @@
     }
   },
   {
-    "title": "Smoke Sauna Sisterhood",
-    "id": 16306,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
+    "title": "Striking Land",
+    "id": 16303,
+    "alt_title": "Terra que marca",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16303_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt23640230",
-      "http://imdb.com/title/tt23640230"
+      "http://imdb.com/title/tt17555634",
+      "http://imdb.com/title/tt17555634"
     ],
     "content_rating": "Öllum leyfð",
-    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
+    "description": "Fortíðin lumar á ýmsum sögum. Tveir afbrotamenn komu til að afplána refsingu sína og tóku að sér að rækta óræktað land. Afkomendur þeirra þurfa að takast á við landið eftir þeirra dag. Berfætt kona kemur til sögunnar þar sem hún yrkir landið og laufblað eitt kemur henni á óvart.",
     "genres": [
+      "Drama",
       "Heimildarmynd"
     ],
-    "duration_in_mins": 89,
+    "duration_in_mins": 66,
     "language": [
-      "Eistneska"
+      "Portúgalska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
+    "trailer_url": "https://www.youtube.com/watch?v=4TlRdkvsGwg",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-11-29T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4191",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-11-29T17:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4315",
-          "hall": "Salur 1"
+          "time": "2023-11-29T16:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4308",
+          "hall": "Salur 3"
         }
       ]
-    },
-    "imdb": {
-      "star": 7.8,
-      "link": "http://imdb.com/title/tt23640230"
     }
   },
   {
@@ -633,34 +623,37 @@
     }
   },
   {
-    "title": "Striking Land",
-    "id": 16303,
-    "alt_title": "Terra que marca",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16303_500.jpg",
+    "title": "The Peasants",
+    "id": 16302,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt17555634",
-      "http://imdb.com/title/tt17555634"
+      "http://imdb.com/title/tt10651230",
+      "http://imdb.com/title/tt10651230"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Fortíðin lumar á ýmsum sögum. Tveir afbrotamenn komu til að afplána refsingu sína og tóku að sér að rækta óræktað land. Afkomendur þeirra þurfa að takast á við landið eftir þeirra dag. Berfætt kona kemur til sögunnar þar sem hún yrkir landið og laufblað eitt kemur henni á óvart.",
+    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
     "genres": [
       "Drama",
-      "Heimildarmynd"
+      "Teiknað"
     ],
-    "duration_in_mins": 66,
+    "duration_in_mins": 114,
     "language": [
-      "Portúgalska"
+      "Pólska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=4TlRdkvsGwg",
+    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-11-29T16:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4308",
+          "time": "2023-11-29T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4226",
           "hall": "Salur 3"
         }
       ]
+    },
+    "imdb": {
+      "star": 8.2,
+      "link": "http://imdb.com/title/tt10651230"
     }
   },
   {
@@ -697,40 +690,6 @@
     "imdb": {
       "star": 8,
       "link": "http://imdb.com/title/tt5537002"
-    }
-  },
-  {
-    "title": "The Peasants",
-    "id": 16302,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10651230",
-      "http://imdb.com/title/tt10651230"
-    ],
-    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
-    "genres": [
-      "Drama",
-      "Teiknað"
-    ],
-    "duration_in_mins": 114,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-29T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4226",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.2,
-      "link": "http://imdb.com/title/tt10651230"
     }
   },
   {
@@ -837,6 +796,40 @@
     }
   },
   {
+    "title": "Monster",
+    "id": 16301,
+    "alt_title": "Kaibutsu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23736044",
+      "http://imdb.com/title/tt23736044"
+    ],
+    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-11-29T17:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4310",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8.1,
+      "link": "http://imdb.com/title/tt23736044"
+    }
+  },
+  {
     "title": "Five Nights at Freddy's",
     "id": 16416,
     "alt_title": "Leikstjórn",
@@ -870,40 +863,6 @@
     "imdb": {
       "star": 5.5,
       "link": "http://imdb.com/title/tt4589218"
-    }
-  },
-  {
-    "title": "Monster",
-    "id": 16301,
-    "alt_title": "Kaibutsu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23736044",
-      "http://imdb.com/title/tt23736044"
-    ],
-    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 126,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-11-29T17:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4310",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.1,
-      "link": "http://imdb.com/title/tt23736044"
     }
   },
   {
