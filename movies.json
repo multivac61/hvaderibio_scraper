@@ -42,11 +42,6 @@
       "Sambíóin Álfabakka": [
         {
           "time": "2023-12-01T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371456/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-01T15:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/371467/",
           "hall": "Salur 2"
         },
@@ -54,6 +49,11 @@
           "time": "2023-12-01T15:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/371535/",
           "hall": "Salur A"
+        },
+        {
+          "time": "2023-12-01T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371456/",
+          "hall": "Salur 1"
         },
         {
           "time": "2023-12-01T17:40:00.000Z",
@@ -436,7 +436,7 @@
       ]
     },
     "imdb": {
-      "star": 8.8,
+      "star": 9.1,
       "link": "http://imdb.com/title/tt29354040"
     }
   },
@@ -1043,6 +1043,40 @@
     }
   },
   {
+    "title": "Monster",
+    "id": 16301,
+    "alt_title": "Kaibutsu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23736044",
+      "http://imdb.com/title/tt23736044"
+    ],
+    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-01T18:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4336",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8.1,
+      "link": "http://imdb.com/title/tt23736044"
+    }
+  },
+  {
     "title": "PAW Patrol: The Mighty Movie",
     "id": 16337,
     "alt_title": "Hvolpasveitin: Ofurmyndin",
@@ -1076,40 +1110,6 @@
     "imdb": {
       "star": 6,
       "link": "http://imdb.com/title/tt15837338"
-    }
-  },
-  {
-    "title": "Monster",
-    "id": 16301,
-    "alt_title": "Kaibutsu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23736044",
-      "http://imdb.com/title/tt23736044"
-    ],
-    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 126,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-01T18:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4336",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.1,
-      "link": "http://imdb.com/title/tt23736044"
     }
   },
   {
