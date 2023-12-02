@@ -168,13 +168,6 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794457/",
           "hall": "AXL"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-12-02T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103591&visLang=1",
-          "hall": "Salur 4"
-        }
       ]
     },
     "imdb": {
@@ -498,13 +491,6 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794455/",
           "hall": "Salur A"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-12-02T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103803&visLang=1",
-          "hall": "Salur 5"
-        }
       ]
     },
     "imdb": {
@@ -801,11 +787,6 @@
     "cinema_showtimes": {
       "Smárabíó": [
         {
-          "time": "2023-12-02T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104792&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
           "time": "2023-12-02T18:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104794&visLang=1",
           "hall": "LÚXUS"
@@ -835,79 +816,177 @@
       ]
     },
     "imdb": {
-      "star": 9.4,
+      "star": 9.3,
       "link": "http://imdb.com/title/tt29354040"
     }
   },
   {
-    "title": "André Rieu White Christmas",
-    "id": 16595,
-    "alt_title": "André Rieu's White Christmas",
+    "title": "Hristur og fjaðrafok",
+    "id": 16546,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1695674492115_ho00001656-1700997982.jpeg",
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2023-10-30_205930-1698699615.png",
     "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Fyrir mörgum eru jólin yndislegasti tími ársins. Í ár munu þau koma snemma með sýningunni André Rieu \"White Christmas\" - hátíðarsýning sem þú munt aldrei gleyma.\nFrá fyrsta klukknahljómi verður þú á kafi í óviðjafnanlegri jólastemningu í vetrarundralandi André. Stórkostlega skreytt jólahöll, fullkomin með snjó, tveimur skautasvellum, glæsilegum vetrarsenum, rómantískri lýsingu, rauðu teppi, óteljandi ljósum, 150 fallegum ljósakrónum og yfir 50 kertastjökum.\nNjóttu anda hátíðarinnar á meðan þú syngur og dansar við tímalaus jólalög, rómantíska valsa og falleg lög frá öllum heimshornum - Jingle Bells, Ave Maria, Oh Holy Night, Hallelujah, Sleigh Ride og margt fleira! Kvikmyndaáhorfendur munu einnig njóta einstaks aðgangs baksviðs, þar sem stjórnandinn Charlotte Hawkins ræðir við André um þetta stórkostlega vetrar-undraland sitt. Þetta er fullkomin, snemmbúin, jólagjöf fyrir André aðdáendur!\nNjóttu þess að vera með André Rieu og Johann Strauss Orchestra á glænýjum jólatónleikum í Smárabíói.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Burlesque í Reykjavík er, fyrir flesta, furðulegur menningarkimi. Innan hans er enginn spéhræddur, feiminn né hljóðlátur.\nFíflagangur er miðlægur en áhrif listformsins á fjöllistafólkið er mótandi til frambúðar. Hristur og fjaðrafok býður áhorfendum í skoðunarferð um þennan heim. Hann er greindur út frá sýn þriggja fjöllistamanna, sem eru stólpar í sinni senu. Af hverju hefur listrænn strípidans með kómísku ívafi teygt anga sína út um alla veröld?",
     "genres": [
-      "Tónlist"
+      "Heimildarmynd",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 146,
+    "duration_in_mins": 95,
     "language": [
-      "Enska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=phXiovGKJ5s",
+    "trailer_url": "https://www.youtube.com/watch?v=gjr3QmOJY_c",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2023-12-02T14:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=103805&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-12-02T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=101993&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-12-02T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=101992&visLang=1",
-          "hall": "MAX"
+          "time": "2023-12-02T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4344",
+          "hall": "Salur 3"
         }
       ]
     }
   },
   {
-    "title": "When Evil Lurks",
-    "id": 16570,
-    "alt_title": "Cuando acecha la maldad",
+    "title": "Five Nights at Freddy's",
+    "id": 16416,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16570_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1712044_500-1693474516.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt16300962",
-      "http://imdb.com/title/tt16300962"
+      "http://imdb.com/title/tt4589218",
+      "http://imdb.com/title/tt4589218"
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Íbúar í litlu þorpi uppgötva að djöfull sé um það bil að fæðast í bænum. Í örvæntingu reyna íbúarnir að flýja áður en hið illa lítur dagsins ljós, en mögulega er það nú þegar orðið of seint.",
+    "description": "Mike Schmidt, sem er nýbyrjaður sem næturvörður á matstofu bæjarins, Freddy Fazbar´s Pizza, kemst að því á sinni fyrstu vakt að nóttin á ekki eftir að verða jafn auðveld og hann hélt. Svo virðist sem leikmunirnir á staðnum séu ekki bara vélmenni. Þeir eru lifandi. Mun honum takast að lifa af fyrstu fimm vaktirnar?",
     "genres": [
-      "Hrollvekja"
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
     ],
-    "duration_in_mins": 99,
+    "duration_in_mins": 110,
     "language": [
-      "Spænska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=YrTnV6gNzno",
+    "trailer_url": "https://www.youtube.com/watch?v=0VH9WCFV6XQ",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Laugarásbíó": [
         {
-          "time": "2023-12-02T21:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105327&visLang=1",
+          "time": "2023-12-02T17:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794451/",
+          "hall": "Salur B"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 5.5,
+      "link": "http://imdb.com/title/tt4589218"
+    }
+  },
+  {
+    "title": "Smoke Sauna Sisterhood",
+    "id": 16306,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23640230",
+      "http://imdb.com/title/tt23640230"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Eistneska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-02T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4340",
           "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 7,
-      "link": "http://imdb.com/title/tt16300962"
+      "star": 7.8,
+      "link": "http://imdb.com/title/tt23640230"
+    }
+  },
+  {
+    "title": "Tilverur",
+    "id": 16457,
+    "alt_title": "Solitude",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16457_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26218798",
+      "http://imdb.com/title/tt26218798"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Myndin fjallar um bóndann Gunnar sem er tilneyddur að flytja til borgarinnar þegar ríkið tekur jörð hans yfir til virkjunarframkvæmda. Kynni af blaðburðardrengnum Ara umbreytir lífi þeirra beggja.",
+    "genres": [
+      "Drama",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 75,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=D5SvlAwd80o",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-02T14:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4342",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.6,
+      "link": "http://imdb.com/title/tt26218798"
+    }
+  },
+  {
+    "title": "The Peasants",
+    "id": 16302,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt10651230",
+      "http://imdb.com/title/tt10651230"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Teiknað"
+    ],
+    "duration_in_mins": 114,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-02T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4345",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8.2,
+      "link": "http://imdb.com/title/tt10651230"
     }
   },
   {
@@ -1053,42 +1132,6 @@
     }
   },
   {
-    "title": "Killers of the Flower Moon",
-    "id": 16118,
-    "alt_title": "Tröll með tíu milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5537002",
-      "http://imdb.com/title/tt5537002"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
-    "genres": [
-      "Drama",
-      "Glæpa",
-      "Söguleg"
-    ],
-    "duration_in_mins": 206,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-02T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371552/",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8,
-      "link": "http://imdb.com/title/tt5537002"
-    }
-  },
-  {
     "title": "Uwierz w Mikolaja",
     "id": 16584,
     "alt_title": "Believe in Santa",
@@ -1123,39 +1166,39 @@
     }
   },
   {
-    "title": "Five Nights at Freddy's",
-    "id": 16416,
-    "alt_title": "Leikstjórn",
+    "title": "Killers of the Flower Moon",
+    "id": 16118,
+    "alt_title": "Tröll með tíu milljónir",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1712044_500-1693474516.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt4589218",
-      "http://imdb.com/title/tt4589218"
+      "http://imdb.com/title/tt5537002",
+      "http://imdb.com/title/tt5537002"
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mike Schmidt, sem er nýbyrjaður sem næturvörður á matstofu bæjarins, Freddy Fazbar´s Pizza, kemst að því á sinni fyrstu vakt að nóttin á ekki eftir að verða jafn auðveld og hann hélt. Svo virðist sem leikmunirnir á staðnum séu ekki bara vélmenni. Þeir eru lifandi. Mun honum takast að lifa af fyrstu fimm vaktirnar?",
+    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
     "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
+      "Drama",
+      "Glæpa",
+      "Söguleg"
     ],
-    "duration_in_mins": 110,
+    "duration_in_mins": 206,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=0VH9WCFV6XQ",
+    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2023-12-02T17:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794451/",
-          "hall": "Salur B"
+          "time": "2023-12-02T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371552/",
+          "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 5.5,
-      "link": "http://imdb.com/title/tt4589218"
+      "star": 8,
+      "link": "http://imdb.com/title/tt5537002"
     }
   },
   {
@@ -1195,6 +1238,33 @@
     }
   },
   {
+    "title": "André Rieu White Christmas",
+    "id": 16595,
+    "alt_title": "André Rieu's White Christmas",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1695674492115_ho00001656-1700997982.jpeg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Fyrir mörgum eru jólin yndislegasti tími ársins. Í ár munu þau koma snemma með sýningunni André Rieu \"White Christmas\" - hátíðarsýning sem þú munt aldrei gleyma.\nFrá fyrsta klukknahljómi verður þú á kafi í óviðjafnanlegri jólastemningu í vetrarundralandi André. Stórkostlega skreytt jólahöll, fullkomin með snjó, tveimur skautasvellum, glæsilegum vetrarsenum, rómantískri lýsingu, rauðu teppi, óteljandi ljósum, 150 fallegum ljósakrónum og yfir 50 kertastjökum.\nNjóttu anda hátíðarinnar á meðan þú syngur og dansar við tímalaus jólalög, rómantíska valsa og falleg lög frá öllum heimshornum - Jingle Bells, Ave Maria, Oh Holy Night, Hallelujah, Sleigh Ride og margt fleira! Kvikmyndaáhorfendur munu einnig njóta einstaks aðgangs baksviðs, þar sem stjórnandinn Charlotte Hawkins ræðir við André um þetta stórkostlega vetrar-undraland sitt. Þetta er fullkomin, snemmbúin, jólagjöf fyrir André aðdáendur!\nNjóttu þess að vera með André Rieu og Johann Strauss Orchestra á glænýjum jólatónleikum í Smárabíói.",
+    "genres": [
+      "Tónlist"
+    ],
+    "duration_in_mins": 146,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=phXiovGKJ5s",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-12-02T19:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=101992&visLang=1",
+          "hall": "MAX"
+        }
+      ]
+    }
+  },
+  {
     "title": "Dancing Queen",
     "id": 16519,
     "alt_title": "Dansdrottningin",
@@ -1230,136 +1300,37 @@
     }
   },
   {
-    "title": "Hristur og fjaðrafok",
-    "id": 16546,
-    "alt_title": "Leikstjórn",
+    "title": "When Evil Lurks",
+    "id": 16570,
+    "alt_title": "Cuando acecha la maldad",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2023-10-30_205930-1698699615.png",
-    "rating_urls": [],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Burlesque í Reykjavík er, fyrir flesta, furðulegur menningarkimi. Innan hans er enginn spéhræddur, feiminn né hljóðlátur.\nFíflagangur er miðlægur en áhrif listformsins á fjöllistafólkið er mótandi til frambúðar. Hristur og fjaðrafok býður áhorfendum í skoðunarferð um þennan heim. Hann er greindur út frá sýn þriggja fjöllistamanna, sem eru stólpar í sinni senu. Af hverju hefur listrænn strípidans með kómísku ívafi teygt anga sína út um alla veröld?",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=gjr3QmOJY_c",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-02T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4344",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Smoke Sauna Sisterhood",
-    "id": 16306,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16570_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt23640230",
-      "http://imdb.com/title/tt23640230"
+      "http://imdb.com/title/tt16300962",
+      "http://imdb.com/title/tt16300962"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Íbúar í litlu þorpi uppgötva að djöfull sé um það bil að fæðast í bænum. Í örvæntingu reyna íbúarnir að flýja áður en hið illa lítur dagsins ljós, en mögulega er það nú þegar orðið of seint.",
     "genres": [
-      "Heimildarmynd"
+      "Hrollvekja"
     ],
-    "duration_in_mins": 89,
+    "duration_in_mins": 99,
     "language": [
-      "Eistneska"
+      "Spænska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
+    "trailer_url": "https://www.youtube.com/watch?v=YrTnV6gNzno",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Smárabíó": [
         {
-          "time": "2023-12-02T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4340",
+          "time": "2023-12-02T21:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105327&visLang=1",
           "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 7.8,
-      "link": "http://imdb.com/title/tt23640230"
-    }
-  },
-  {
-    "title": "Tilverur",
-    "id": 16457,
-    "alt_title": "Solitude",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16457_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26218798",
-      "http://imdb.com/title/tt26218798"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin fjallar um bóndann Gunnar sem er tilneyddur að flytja til borgarinnar þegar ríkið tekur jörð hans yfir til virkjunarframkvæmda. Kynni af blaðburðardrengnum Ara umbreytir lífi þeirra beggja.",
-    "genres": [
-      "Drama",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 75,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=D5SvlAwd80o",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-02T14:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4342",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.6,
-      "link": "http://imdb.com/title/tt26218798"
-    }
-  },
-  {
-    "title": "The Peasants",
-    "id": 16302,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10651230",
-      "http://imdb.com/title/tt10651230"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Teiknað"
-    ],
-    "duration_in_mins": 114,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-02T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4345",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.2,
-      "link": "http://imdb.com/title/tt10651230"
+      "star": 7,
+      "link": "http://imdb.com/title/tt16300962"
     }
   }
 ]
