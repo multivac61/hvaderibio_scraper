@@ -571,18 +571,18 @@
           "hall": "Salur 5"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-03T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794470/",
-          "hall": "Salur B"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2023-12-03T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/371446/",
           "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-03T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794470/",
+          "hall": "Salur B"
         }
       ]
     },
@@ -847,6 +847,43 @@
     }
   },
   {
+    "title": "André Rieu White Christmas",
+    "id": 16595,
+    "alt_title": "André Rieu's White Christmas",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1695674492115_ho00001656-1700997982.jpeg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Fyrir mörgum eru jólin yndislegasti tími ársins. Í ár munu þau koma snemma með sýningunni André Rieu \"White Christmas\" - hátíðarsýning sem þú munt aldrei gleyma.\nFrá fyrsta klukknahljómi verður þú á kafi í óviðjafnanlegri jólastemningu í vetrarundralandi André. Stórkostlega skreytt jólahöll, fullkomin með snjó, tveimur skautasvellum, glæsilegum vetrarsenum, rómantískri lýsingu, rauðu teppi, óteljandi ljósum, 150 fallegum ljósakrónum og yfir 50 kertastjökum.\nNjóttu anda hátíðarinnar á meðan þú syngur og dansar við tímalaus jólalög, rómantíska valsa og falleg lög frá öllum heimshornum - Jingle Bells, Ave Maria, Oh Holy Night, Hallelujah, Sleigh Ride og margt fleira! Kvikmyndaáhorfendur munu einnig njóta einstaks aðgangs baksviðs, þar sem stjórnandinn Charlotte Hawkins ræðir við André um þetta stórkostlega vetrar-undraland sitt. Þetta er fullkomin, snemmbúin, jólagjöf fyrir André aðdáendur!\nNjóttu þess að vera með André Rieu og Johann Strauss Orchestra á glænýjum jólatónleikum í Smárabíói.",
+    "genres": [
+      "Tónlist"
+    ],
+    "duration_in_mins": 146,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=phXiovGKJ5s",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-12-03T14:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104793&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-12-03T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=101994&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2023-12-03T19:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=101995&visLang=1",
+          "hall": "MAX"
+        }
+      ]
+    }
+  },
+  {
     "title": "PAW Patrol: The Mighty Movie",
     "id": 16337,
     "alt_title": "Hvolpasveitin: Ofurmyndin",
@@ -895,40 +932,145 @@
     }
   },
   {
-    "title": "André Rieu White Christmas",
-    "id": 16595,
-    "alt_title": "André Rieu's White Christmas",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1695674492115_ho00001656-1700997982.jpeg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Fyrir mörgum eru jólin yndislegasti tími ársins. Í ár munu þau koma snemma með sýningunni André Rieu \"White Christmas\" - hátíðarsýning sem þú munt aldrei gleyma.\nFrá fyrsta klukknahljómi verður þú á kafi í óviðjafnanlegri jólastemningu í vetrarundralandi André. Stórkostlega skreytt jólahöll, fullkomin með snjó, tveimur skautasvellum, glæsilegum vetrarsenum, rómantískri lýsingu, rauðu teppi, óteljandi ljósum, 150 fallegum ljósakrónum og yfir 50 kertastjökum.\nNjóttu anda hátíðarinnar á meðan þú syngur og dansar við tímalaus jólalög, rómantíska valsa og falleg lög frá öllum heimshornum - Jingle Bells, Ave Maria, Oh Holy Night, Hallelujah, Sleigh Ride og margt fleira! Kvikmyndaáhorfendur munu einnig njóta einstaks aðgangs baksviðs, þar sem stjórnandinn Charlotte Hawkins ræðir við André um þetta stórkostlega vetrar-undraland sitt. Þetta er fullkomin, snemmbúin, jólagjöf fyrir André aðdáendur!\nNjóttu þess að vera með André Rieu og Johann Strauss Orchestra á glænýjum jólatónleikum í Smárabíói.",
-    "genres": [
-      "Tónlist"
+    "title": "Foxtrot",
+    "id": 941,
+    "alt_title": "Klámfengin heiti á íslenskum kvikmyndum",
+    "release_year": 1988,
+    "poster_url": "https://kvikmyndir.is/images/poster/941_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0095172",
+      "http://imdb.com/title/tt0095172",
+      "https://www.themoviedb.org/tv/599525"
     ],
-    "duration_in_mins": 146,
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Foxtrot er spennumynd sem gerist í sandauðnum Íslands, þar sem barist er upp á líf og dauða. Aðalpersónur myndarinnar eru hálfbræðurnir Tommi og Kiddi, óharnaði unglingurinn og fallna fótboltastjarnan, Kiddi starfar við peningaflutning frá Reykjavík og út á land og tekur Tomma með sér í ferð. Þegar miklir vatnavextir skilja þá frá samfylgdar mönnum sínum ákveður Kiddi að halda ferðinni áfram, en þá eru þeir ekki lengur tveir í bílnum. Með tilkomu þriðja farþegans hefst spennandi atburðarás sem getur ekki endað nema á einn óhugnanlegan veg.",
+    "genres": [
+      "Spennutryllir",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 93,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-03T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3640",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6,
+      "link": "http://imdb.com/title/tt0095172"
+    }
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "id": 16118,
+    "alt_title": "Tröll með tíu milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5537002",
+      "http://imdb.com/title/tt5537002"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
+    "genres": [
+      "Drama",
+      "Glæpa",
+      "Söguleg"
+    ],
+    "duration_in_mins": 206,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=phXiovGKJ5s",
+    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2023-12-03T14:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104793&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-12-03T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=101994&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-12-03T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=101995&visLang=1",
-          "hall": "MAX"
+          "time": "2023-12-03T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371553/",
+          "hall": "Salur 2"
         }
       ]
+    },
+    "imdb": {
+      "star": 8,
+      "link": "http://imdb.com/title/tt5537002"
+    }
+  },
+  {
+    "title": "Monster",
+    "id": 16301,
+    "alt_title": "Kaibutsu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23736044",
+      "http://imdb.com/title/tt23736044"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-03T22:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4346",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8.1,
+      "link": "http://imdb.com/title/tt23736044"
+    }
+  },
+  {
+    "title": "Litlu skrímslin",
+    "id": 16517,
+    "alt_title": "Finnick",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1695415833250_ho00001667-1697536333.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15547806",
+      "http://imdb.com/title/tt15547806"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Finnrik er ungt finnsli sem hefur engan áhuga á að húsið hans verði að heimili. En allt breytist þegar ný fjölskylda flytur í húsið og ekkert af brellum og brögðum hans virka lengur.",
+    "genres": [
+      "Ævintýri",
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 85,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=R6a7qzPLv0s",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-03T15:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795281/",
+          "hall": "AXL"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 5.7,
+      "link": "http://imdb.com/title/tt15547806"
     }
   },
   {
@@ -964,6 +1106,42 @@
     "imdb": {
       "star": 5.2,
       "link": "http://imdb.com/title/tt0138795"
+    }
+  },
+  {
+    "title": "Five Nights at Freddy's",
+    "id": 16416,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1712044_500-1693474516.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt4589218",
+      "http://imdb.com/title/tt4589218"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Mike Schmidt, sem er nýbyrjaður sem næturvörður á matstofu bæjarins, Freddy Fazbar´s Pizza, kemst að því á sinni fyrstu vakt að nóttin á ekki eftir að verða jafn auðveld og hann hélt. Svo virðist sem leikmunirnir á staðnum séu ekki bara vélmenni. Þeir eru lifandi. Mun honum takast að lifa af fyrstu fimm vaktirnar?",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0VH9WCFV6XQ",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-03T17:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794469/",
+          "hall": "Salur B"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 5.5,
+      "link": "http://imdb.com/title/tt4589218"
     }
   },
   {
@@ -1142,78 +1320,6 @@
     }
   },
   {
-    "title": "Killers of the Flower Moon",
-    "id": 16118,
-    "alt_title": "Tröll með tíu milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5537002",
-      "http://imdb.com/title/tt5537002"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
-    "genres": [
-      "Drama",
-      "Glæpa",
-      "Söguleg"
-    ],
-    "duration_in_mins": 206,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-03T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371553/",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8,
-      "link": "http://imdb.com/title/tt5537002"
-    }
-  },
-  {
-    "title": "Litlu skrímslin",
-    "id": 16517,
-    "alt_title": "Finnick",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1695415833250_ho00001667-1697536333.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15547806",
-      "http://imdb.com/title/tt15547806"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Finnrik er ungt finnsli sem hefur engan áhuga á að húsið hans verði að heimili. En allt breytist þegar ný fjölskylda flytur í húsið og ekkert af brellum og brögðum hans virka lengur.",
-    "genres": [
-      "Ævintýri",
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 85,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=R6a7qzPLv0s",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-03T15:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795281/",
-          "hall": "AXL"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 5.7,
-      "link": "http://imdb.com/title/tt15547806"
-    }
-  },
-  {
     "title": "City Lights",
     "id": 3589,
     "alt_title": "Dagur án hláturs er dagur án tilgangs",
@@ -1248,112 +1354,6 @@
     "imdb": {
       "star": 8.5,
       "link": "http://imdb.com/title/tt0021749"
-    }
-  },
-  {
-    "title": "Five Nights at Freddy's",
-    "id": 16416,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1712044_500-1693474516.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt4589218",
-      "http://imdb.com/title/tt4589218"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mike Schmidt, sem er nýbyrjaður sem næturvörður á matstofu bæjarins, Freddy Fazbar´s Pizza, kemst að því á sinni fyrstu vakt að nóttin á ekki eftir að verða jafn auðveld og hann hélt. Svo virðist sem leikmunirnir á staðnum séu ekki bara vélmenni. Þeir eru lifandi. Mun honum takast að lifa af fyrstu fimm vaktirnar?",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0VH9WCFV6XQ",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-03T17:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794469/",
-          "hall": "Salur B"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 5.5,
-      "link": "http://imdb.com/title/tt4589218"
-    }
-  },
-  {
-    "title": "Foxtrot",
-    "id": 941,
-    "alt_title": "Klámfengin heiti á íslenskum kvikmyndum",
-    "release_year": 1988,
-    "poster_url": "https://kvikmyndir.is/images/poster/941_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0095172",
-      "http://imdb.com/title/tt0095172",
-      "https://www.themoviedb.org/tv/599525"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Foxtrot er spennumynd sem gerist í sandauðnum Íslands, þar sem barist er upp á líf og dauða. Aðalpersónur myndarinnar eru hálfbræðurnir Tommi og Kiddi, óharnaði unglingurinn og fallna fótboltastjarnan, Kiddi starfar við peningaflutning frá Reykjavík og út á land og tekur Tomma með sér í ferð. Þegar miklir vatnavextir skilja þá frá samfylgdar mönnum sínum ákveður Kiddi að halda ferðinni áfram, en þá eru þeir ekki lengur tveir í bílnum. Með tilkomu þriðja farþegans hefst spennandi atburðarás sem getur ekki endað nema á einn óhugnanlegan veg.",
-    "genres": [
-      "Spennutryllir",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 93,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-03T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3640",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6,
-      "link": "http://imdb.com/title/tt0095172"
-    }
-  },
-  {
-    "title": "Monster",
-    "id": 16301,
-    "alt_title": "Kaibutsu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23736044",
-      "http://imdb.com/title/tt23736044"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 126,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-03T22:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4346",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.1,
-      "link": "http://imdb.com/title/tt23736044"
     }
   }
 ]
