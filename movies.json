@@ -218,7 +218,7 @@
       ]
     },
     "imdb": {
-      "star": 6.9,
+      "star": 7,
       "link": "http://imdb.com/title/tt1448754"
     }
   },
@@ -512,46 +512,6 @@
     }
   },
   {
-    "title": "Jólamóðir",
-    "id": 15051,
-    "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Fyrir langa löngu í heimi hinna íslensku trölla, stuttu eftir stór tímamót í lífi þeirra eru tröllasystkinin Hurðaskellir og Skjóða skilin eftir alein heima í Grýluhelli í fyrsta skipti í sögu hellisins. Þurfa þau að vinna sig í gegnum stirt samband sitt á sama tíma og þau reyna að komast að því hvert allir hinir 98 íbúar hellisins hafa farið. Við tekur ferðalag þar sem systkinin læra nýja hluti um sig, mömmu sína Grýlu, hvernig það kom til að þau urðu að jólafjölskyldu og hvað fylgir töfrum jólanna. Grýla er einnig að glíma við sömu spurningar á meðan skyldur hennar sem jólamóðir, verndara töfra jólanna, stangast á við þá tröllskessu sem hún áður var.",
-    "genres": [
-      "Ævintýri",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 97,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=w05_GfoX114",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-04T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371698/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-12-04T16:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371699/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-12-04T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371543/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Marvels",
     "id": 16139,
     "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
@@ -594,6 +554,46 @@
     "imdb": {
       "star": 6,
       "link": "http://imdb.com/title/tt10676048"
+    }
+  },
+  {
+    "title": "Jólamóðir",
+    "id": 15051,
+    "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Fyrir langa löngu í heimi hinna íslensku trölla, stuttu eftir stór tímamót í lífi þeirra eru tröllasystkinin Hurðaskellir og Skjóða skilin eftir alein heima í Grýluhelli í fyrsta skipti í sögu hellisins. Þurfa þau að vinna sig í gegnum stirt samband sitt á sama tíma og þau reyna að komast að því hvert allir hinir 98 íbúar hellisins hafa farið. Við tekur ferðalag þar sem systkinin læra nýja hluti um sig, mömmu sína Grýlu, hvernig það kom til að þau urðu að jólafjölskyldu og hvað fylgir töfrum jólanna. Grýla er einnig að glíma við sömu spurningar á meðan skyldur hennar sem jólamóðir, verndara töfra jólanna, stangast á við þá tröllskessu sem hún áður var.",
+    "genres": [
+      "Ævintýri",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 97,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=w05_GfoX114",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-04T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371698/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-12-04T16:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371699/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-12-04T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371543/",
+          "hall": "Salur 3"
+        }
+      ]
     }
   },
   {
@@ -844,6 +844,78 @@
     }
   },
   {
+    "title": "Five Nights at Freddy's",
+    "id": 16416,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1712044_500-1693474516.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt4589218",
+      "http://imdb.com/title/tt4589218"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Mike Schmidt, sem er nýbyrjaður sem næturvörður á matstofu bæjarins, Freddy Fazbar´s Pizza, kemst að því á sinni fyrstu vakt að nóttin á ekki eftir að verða jafn auðveld og hann hélt. Svo virðist sem leikmunirnir á staðnum séu ekki bara vélmenni. Þeir eru lifandi. Mun honum takast að lifa af fyrstu fimm vaktirnar?",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0VH9WCFV6XQ",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-04T17:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794476/",
+          "hall": "Salur B"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 5.5,
+      "link": "http://imdb.com/title/tt4589218"
+    }
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "id": 16118,
+    "alt_title": "Tröll með tíu milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5537002",
+      "http://imdb.com/title/tt5537002"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
+    "genres": [
+      "Drama",
+      "Glæpa",
+      "Söguleg"
+    ],
+    "duration_in_mins": 206,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-04T20:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371554/",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8,
+      "link": "http://imdb.com/title/tt5537002"
+    }
+  },
+  {
     "title": "When Evil Lurks",
     "id": 16570,
     "alt_title": "Cuando acecha la maldad",
@@ -911,78 +983,6 @@
     "imdb": {
       "star": 6,
       "link": "http://imdb.com/title/tt15837338"
-    }
-  },
-  {
-    "title": "Killers of the Flower Moon",
-    "id": 16118,
-    "alt_title": "Tröll með tíu milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5537002",
-      "http://imdb.com/title/tt5537002"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
-    "genres": [
-      "Drama",
-      "Glæpa",
-      "Söguleg"
-    ],
-    "duration_in_mins": 206,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-04T20:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371554/",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8,
-      "link": "http://imdb.com/title/tt5537002"
-    }
-  },
-  {
-    "title": "Five Nights at Freddy's",
-    "id": 16416,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1712044_500-1693474516.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt4589218",
-      "http://imdb.com/title/tt4589218"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mike Schmidt, sem er nýbyrjaður sem næturvörður á matstofu bæjarins, Freddy Fazbar´s Pizza, kemst að því á sinni fyrstu vakt að nóttin á ekki eftir að verða jafn auðveld og hann hélt. Svo virðist sem leikmunirnir á staðnum séu ekki bara vélmenni. Þeir eru lifandi. Mun honum takast að lifa af fyrstu fimm vaktirnar?",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0VH9WCFV6XQ",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-04T17:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794476/",
-          "hall": "Salur B"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 5.5,
-      "link": "http://imdb.com/title/tt4589218"
     }
   }
 ]
