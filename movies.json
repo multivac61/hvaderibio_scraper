@@ -218,7 +218,7 @@
       ]
     },
     "imdb": {
-      "star": 7,
+      "star": 6.9,
       "link": "http://imdb.com/title/tt1448754"
     }
   },
@@ -319,6 +319,74 @@
     }
   },
   {
+    "title": "Silent Night",
+    "id": 16492,
+    "alt_title": "Sviptur rödd og syni í Silent Night",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16492_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15799866",
+      "http://imdb.com/title/tt15799866"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ósköp venjulegur faðir skorar miskunnarlaust glæpagengi úr undirheimunum á hólm til að hefna dauða ungs sonar síns á Aðfangadagskvöld.",
+    "genres": [
+      "Spenna"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=yBnTqn0lBDA",
+    "cinema_showtimes": {
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-12-04T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371831/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-04T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371833/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-12-04T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371783/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-04T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371784/",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2023-12-04T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371785/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-04T19:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794472/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-12-04T21:55:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794473/",
+          "hall": "AXL"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6,
+      "link": "http://imdb.com/title/tt15799866"
+    }
+  },
+  {
     "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
     "id": 16169,
     "alt_title": "Hélt að það kæmi engin forsaga",
@@ -386,74 +454,6 @@
     "imdb": {
       "star": 7.2,
       "link": "http://imdb.com/title/tt10545296"
-    }
-  },
-  {
-    "title": "Silent Night",
-    "id": 16492,
-    "alt_title": "Sviptur rödd og syni í Silent Night",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16492_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15799866",
-      "http://imdb.com/title/tt15799866"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ósköp venjulegur faðir skorar miskunnarlaust glæpagengi úr undirheimunum á hólm til að hefna dauða ungs sonar síns á Aðfangadagskvöld.",
-    "genres": [
-      "Spenna"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=yBnTqn0lBDA",
-    "cinema_showtimes": {
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-12-04T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371831/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-04T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371833/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-12-04T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371783/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-04T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371784/",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-12-04T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371785/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-04T19:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794472/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-12-04T21:55:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794473/",
-          "hall": "AXL"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6,
-      "link": "http://imdb.com/title/tt15799866"
     }
   },
   {
@@ -597,6 +597,41 @@
     }
   },
   {
+    "title": "Monster",
+    "id": 16301,
+    "alt_title": "Kaibutsu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23736044",
+      "http://imdb.com/title/tt23736044"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-04T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4355",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8.1,
+      "link": "http://imdb.com/title/tt23736044"
+    }
+  },
+  {
     "title": "The Night of the 12th",
     "id": 16186,
     "alt_title": "La nuit du 12",
@@ -737,40 +772,6 @@
     }
   },
   {
-    "title": "When Evil Lurks",
-    "id": 16570,
-    "alt_title": "Cuando acecha la maldad",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16570_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16300962",
-      "http://imdb.com/title/tt16300962"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Íbúar í litlu þorpi uppgötva að djöfull sé um það bil að fæðast í bænum. Í örvæntingu reyna íbúarnir að flýja áður en hið illa lítur dagsins ljós, en mögulega er það nú þegar orðið of seint.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=YrTnV6gNzno",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-12-04T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105222&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7,
-      "link": "http://imdb.com/title/tt16300962"
-    }
-  },
-  {
     "title": "The Delinquents",
     "id": 16544,
     "alt_title": "Tröll með tíu milljónir",
@@ -843,6 +844,40 @@
     }
   },
   {
+    "title": "When Evil Lurks",
+    "id": 16570,
+    "alt_title": "Cuando acecha la maldad",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16570_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16300962",
+      "http://imdb.com/title/tt16300962"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Íbúar í litlu þorpi uppgötva að djöfull sé um það bil að fæðast í bænum. Í örvæntingu reyna íbúarnir að flýja áður en hið illa lítur dagsins ljós, en mögulega er það nú þegar orðið of seint.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=YrTnV6gNzno",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-12-04T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105222&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7,
+      "link": "http://imdb.com/title/tt16300962"
+    }
+  },
+  {
     "title": "PAW Patrol: The Mighty Movie",
     "id": 16337,
     "alt_title": "Hvolpasveitin: Ofurmyndin",
@@ -912,41 +947,6 @@
     "imdb": {
       "star": 8,
       "link": "http://imdb.com/title/tt5537002"
-    }
-  },
-  {
-    "title": "Monster",
-    "id": 16301,
-    "alt_title": "Kaibutsu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23736044",
-      "http://imdb.com/title/tt23736044"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 126,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-04T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4355",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.1,
-      "link": "http://imdb.com/title/tt23736044"
     }
   },
   {
