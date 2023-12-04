@@ -170,28 +170,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-12-04T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105465&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-12-04T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105207&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-12-04T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105219&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-12-04T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105206&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2023-12-04T19:00:00.000Z",
@@ -208,6 +186,18 @@
         {
           "time": "2023-12-04T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/371829/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-12-04T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105219&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-12-04T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105206&visLang=1",
           "hall": "Salur 2"
         }
       ]
@@ -409,34 +399,64 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-12-04T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105329&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-12-04T18:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105535&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-12-04T20:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105199&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-12-04T20:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794477/",
           "hall": "Salur B"
         }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-12-04T20:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105199&visLang=1",
+          "hall": "Salur 4"
+        }
       ]
     },
     "imdb": {
       "star": 7.2,
       "link": "http://imdb.com/title/tt10545296"
+    }
+  },
+  {
+    "title": "Jólamóðir",
+    "id": 15051,
+    "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Fyrir langa löngu í heimi hinna íslensku trölla, stuttu eftir stór tímamót í lífi þeirra eru tröllasystkinin Hurðaskellir og Skjóða skilin eftir alein heima í Grýluhelli í fyrsta skipti í sögu hellisins. Þurfa þau að vinna sig í gegnum stirt samband sitt á sama tíma og þau reyna að komast að því hvert allir hinir 98 íbúar hellisins hafa farið. Við tekur ferðalag þar sem systkinin læra nýja hluti um sig, mömmu sína Grýlu, hvernig það kom til að þau urðu að jólafjölskyldu og hvað fylgir töfrum jólanna. Grýla er einnig að glíma við sömu spurningar á meðan skyldur hennar sem jólamóðir, verndara töfra jólanna, stangast á við þá tröllskessu sem hún áður var.",
+    "genres": [
+      "Ævintýri",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 97,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=w05_GfoX114",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-04T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371698/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-12-04T16:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371699/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-12-04T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371543/",
+          "hall": "Salur 3"
+        }
+      ]
     }
   },
   {
@@ -485,46 +505,6 @@
     }
   },
   {
-    "title": "Jólamóðir",
-    "id": 15051,
-    "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Fyrir langa löngu í heimi hinna íslensku trölla, stuttu eftir stór tímamót í lífi þeirra eru tröllasystkinin Hurðaskellir og Skjóða skilin eftir alein heima í Grýluhelli í fyrsta skipti í sögu hellisins. Þurfa þau að vinna sig í gegnum stirt samband sitt á sama tíma og þau reyna að komast að því hvert allir hinir 98 íbúar hellisins hafa farið. Við tekur ferðalag þar sem systkinin læra nýja hluti um sig, mömmu sína Grýlu, hvernig það kom til að þau urðu að jólafjölskyldu og hvað fylgir töfrum jólanna. Grýla er einnig að glíma við sömu spurningar á meðan skyldur hennar sem jólamóðir, verndara töfra jólanna, stangast á við þá tröllskessu sem hún áður var.",
-    "genres": [
-      "Ævintýri",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 97,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=w05_GfoX114",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-04T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371698/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-12-04T16:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371699/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-12-04T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371543/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Trolls Band Together",
     "id": 16113,
     "alt_title": "Tröll 3",
@@ -559,13 +539,6 @@
           "time": "2023-12-04T17:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/371433/",
           "hall": "Salur A"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-12-04T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105224&visLang=1",
-          "hall": "Salur 5"
         }
       ]
     },
@@ -608,40 +581,6 @@
     "imdb": {
       "star": 8,
       "link": "http://imdb.com/title/tt5537002"
-    }
-  },
-  {
-    "title": "When Evil Lurks",
-    "id": 16570,
-    "alt_title": "Cuando acecha la maldad",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16570_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16300962",
-      "http://imdb.com/title/tt16300962"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Íbúar í litlu þorpi uppgötva að djöfull sé um það bil að fæðast í bænum. Í örvæntingu reyna íbúarnir að flýja áður en hið illa lítur dagsins ljós, en mögulega er það nú þegar orðið of seint.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=YrTnV6gNzno",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-12-04T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105222&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7,
-      "link": "http://imdb.com/title/tt16300962"
     }
   },
   {
@@ -716,6 +655,40 @@
     }
   },
   {
+    "title": "Uwierz w Mikolaja",
+    "id": 16584,
+    "alt_title": "Believe in Santa",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16584_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19631454",
+      "http://imdb.com/title/tt19631454"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Agnieszka er veðurteppt í fallegum fjallakofa og dularfullur, myndarlegur maður í Jólasveinabúningi birtist. Hin fimm ára gamla Zosia og móðir hennar eru, þrátt fyrir bágar aðstæður, að reyna að undirbúa hefðbundið aðfangadagskvöld og Robert, einmana lögregluþjónn á vakt, gæti aðstoðað. Þessi töfrandi tími er einnig tækifæri fyrir mann sem vill eyða hátíðinni með gömlu kærustunni, ef hún hefur tíma.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 96,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=WYzo6TO-iso",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-04T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4365",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 5.4,
+      "link": "http://imdb.com/title/tt19631454"
+    }
+  },
+  {
     "title": "Five Nights at Freddy's",
     "id": 16416,
     "alt_title": "Leikstjórn",
@@ -749,40 +722,6 @@
     "imdb": {
       "star": 5.5,
       "link": "http://imdb.com/title/tt4589218"
-    }
-  },
-  {
-    "title": "Uwierz w Mikolaja",
-    "id": 16584,
-    "alt_title": "Believe in Santa",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16584_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19631454",
-      "http://imdb.com/title/tt19631454"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Agnieszka er veðurteppt í fallegum fjallakofa og dularfullur, myndarlegur maður í Jólasveinabúningi birtist. Hin fimm ára gamla Zosia og móðir hennar eru, þrátt fyrir bágar aðstæður, að reyna að undirbúa hefðbundið aðfangadagskvöld og Robert, einmana lögregluþjónn á vakt, gæti aðstoðað. Þessi töfrandi tími er einnig tækifæri fyrir mann sem vill eyða hátíðinni með gömlu kærustunni, ef hún hefur tíma.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 96,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=WYzo6TO-iso",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-04T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4365",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 5.4,
-      "link": "http://imdb.com/title/tt19631454"
     }
   },
   {
