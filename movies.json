@@ -549,6 +549,58 @@
     }
   },
   {
+    "title": "Dream Scenario",
+    "id": 16493,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16493_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21942866",
+      "http://imdb.com/title/tt21942866"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Líf fjölskyldumannsins heillum horfna Paul Matthews fer allt á hvolf þegar milljónir ókunnugra fara skyndilega að sjá hann í draumum sínum. En þegar þessar birtingarmyndir breytast í martraðir neyðist Paul til að horfast í augu við nýfengna frægð.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=q3x9iUL-74w",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-09T17:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795895/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-12-09T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795876/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-12-09T22:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795877/",
+          "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-12-09T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104976&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2023-12-09T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104977&visLang=1",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Jólin hans Bangsa",
     "id": 16297,
     "alt_title": "Teddy's Christmas",
@@ -597,58 +649,6 @@
           "time": "2023-12-09T17:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105252&visLang=1",
           "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Dream Scenario",
-    "id": 16493,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16493_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21942866",
-      "http://imdb.com/title/tt21942866"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Líf fjölskyldumannsins heillum horfna Paul Matthews fer allt á hvolf þegar milljónir ókunnugra fara skyndilega að sjá hann í draumum sínum. En þegar þessar birtingarmyndir breytast í martraðir neyðist Paul til að horfast í augu við nýfengna frægð.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=q3x9iUL-74w",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-09T17:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795895/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-12-09T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795876/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-12-09T22:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795877/",
-          "hall": "AXL"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-12-09T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104976&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-12-09T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104977&visLang=1",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -765,53 +765,6 @@
     }
   },
   {
-    "title": "Silent Night",
-    "id": 16492,
-    "alt_title": "Keisarinn ríkir enn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16492_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15799866",
-      "http://imdb.com/title/tt15799866"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ósköp venjulegur faðir skorar miskunnarlaust glæpagengi úr undirheimunum á hólm til að hefna dauða ungs sonar síns á Aðfangadagskvöld.",
-    "genres": [
-      "Spenna"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=yBnTqn0lBDA",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-12-09T18:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372564/",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2023-12-09T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372616/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-09T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795894/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-12-09T22:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795893/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
     "title": "Jólamóðir",
     "id": 15051,
     "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
@@ -859,6 +812,53 @@
     }
   },
   {
+    "title": "Silent Night",
+    "id": 16492,
+    "alt_title": "Keisarinn ríkir enn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16492_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15799866",
+      "http://imdb.com/title/tt15799866"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ósköp venjulegur faðir skorar miskunnarlaust glæpagengi úr undirheimunum á hólm til að hefna dauða ungs sonar síns á Aðfangadagskvöld.",
+    "genres": [
+      "Spenna"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=yBnTqn0lBDA",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-12-09T18:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372564/",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2023-12-09T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372616/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-09T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795894/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-12-09T22:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795893/",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
     "title": "André Rieu White Christmas",
     "id": 16595,
     "alt_title": "André Rieu's White Christmas",
@@ -896,6 +896,117 @@
     }
   },
   {
+    "title": "Godzilla Minus One",
+    "id": 16568,
+    "alt_title": "Gojira -1.0",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16568_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23289160",
+      "http://imdb.com/title/tt23289160"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Risaófreskjan Godzilla, sem sækir líf sitt og kraft í ofurmátt kjarnorkusprengjunnar, birtist í Japan á eftirstríðsárunum, þegar þjóðfélagið er í sárum, og lemur landið enn lengra niður í svartnættið.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 125,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=VvSrHIX5a-0",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-12-09T18:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104979&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2023-12-09T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105617&visLang=1",
+          "hall": "MAX"
+        }
+      ]
+    }
+  },
+  {
+    "title": "PAW Patrol: The Mighty Movie",
+    "id": 16337,
+    "alt_title": "Hvolpasveitin: Ofurmyndin",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16337_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15837338",
+      "http://imdb.com/title/tt15837338"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Töfraloftsteinn fellur til jarðar í Ævintýraborg og gefur Hvolpasveitinni ofurkrafta. Fyrir Skye, yngsta meðlim sveitarinnar, eru kraftarnir draumur sem rætist. En hlutirnir taka óvænta stefnu þegar Humdinger sleppur úr fangelsi og gengur til liðs við brjálaðan vísindamann sem vill stela ofurkröftunum. Nú eru örlög Ævintýraborgar í höndum Hvolpasveitarinnar sem þarf að stöðva óþokkana áður en það verður um seinan.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UDgjJ9XzgHk",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-12-09T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371930/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-12-09T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371929/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Boy and the Heron",
+    "id": 16569,
+    "alt_title": "Kimitachi wa dô ikiru ka",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1698164534183_ho00001683-1699574017.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6587046",
+      "http://imdb.com/title/tt6587046"
+    ],
+    "content_rating": "Bönnuð innan 9 ára",
+    "description": "Í gegnum kynni af vinum og frænda sínum, fylgjumst við með sálrænum þroska unglingsdrengs. Hann fer inn í töfrandi heim með talandi gráum Hegra eftir að hafa fundið yfirgefinn turn í nýja bænum sínum",
+    "genres": [
+      "Drama",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 124,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=8g_6eXi1hq0",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-12-09T13:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105527&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2023-12-09T15:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105436&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
     "title": "Renaissance: A Film by Beyoncé",
     "id": 16566,
     "alt_title": "Leikstjórn",
@@ -927,6 +1038,43 @@
         {
           "time": "2023-12-09T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4169",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Home Alone",
+    "id": 545,
+    "alt_title": "Bestu „gervimyndir“ kvikmyndasögunnar",
+    "release_year": 1990,
+    "poster_url": "https://kvikmyndir.is/images/poster/545_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0099785",
+      "http://imdb.com/title/tt0099785",
+      "https://www.themoviedb.org/tv/771"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Það eru komin jól og McAllister fjölskyldan er að undirbúa að fara í frí til Parísar í Frakklandi.  Yngsti fjölskyldumeðlimurinn Kevin lenti í rifrildi við eldri bróður sinn Buzz og var sendur upp í herbergið sitt sem er á þriðju hæð í húsinu. Morguninn eftir, þegar fjölskyldan er á síðustu stundu að taka sig til fyrir ferðalagið til að ná út á flugvöll nógu tímanlega, þá gjörsamlega gleyma þau Kevin litla, sem núna er orðinn húsbóndinn á heimilinu.  Hann nýtur þess að vera einn heima, fær sér pítsu og stekkur í rúmi foreldra sinna og draslar til. En þá kemst hann á snoðir um illa fyrirætlun tveggja innbrotsþjófa sem hyggjast brjótast inn í húsið á aðfangadagskvöld.  Kevin er fljótur að hugsa og býr til allskyns gildrur fyrir þjófana, til að klekkja á þeim og koma þeim í hendurnar á lögreglunni.",
+    "genres": [
+      "Gaman",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=CK2Btk6Ybm0",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-09T14:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/2617",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-09T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4396",
           "hall": "Salur 1"
         }
       ]
@@ -973,154 +1121,6 @@
     }
   },
   {
-    "title": "Godzilla Minus One",
-    "id": 16568,
-    "alt_title": "Gojira -1.0",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16568_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23289160",
-      "http://imdb.com/title/tt23289160"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Risaófreskjan Godzilla, sem sækir líf sitt og kraft í ofurmátt kjarnorkusprengjunnar, birtist í Japan á eftirstríðsárunum, þegar þjóðfélagið er í sárum, og lemur landið enn lengra niður í svartnættið.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 125,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=VvSrHIX5a-0",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-12-09T18:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104979&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2023-12-09T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105617&visLang=1",
-          "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Boy and the Heron",
-    "id": 16569,
-    "alt_title": "Kimitachi wa dô ikiru ka",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1698164534183_ho00001683-1699574017.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6587046",
-      "http://imdb.com/title/tt6587046"
-    ],
-    "content_rating": "Bönnuð innan 9 ára",
-    "description": "Í gegnum kynni af vinum og frænda sínum, fylgjumst við með sálrænum þroska unglingsdrengs. Hann fer inn í töfrandi heim með talandi gráum Hegra eftir að hafa fundið yfirgefinn turn í nýja bænum sínum",
-    "genres": [
-      "Drama",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 124,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=8g_6eXi1hq0",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-12-09T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105527&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2023-12-09T15:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105436&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "PAW Patrol: The Mighty Movie",
-    "id": 16337,
-    "alt_title": "Hvolpasveitin: Ofurmyndin",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16337_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15837338",
-      "http://imdb.com/title/tt15837338"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Töfraloftsteinn fellur til jarðar í Ævintýraborg og gefur Hvolpasveitinni ofurkrafta. Fyrir Skye, yngsta meðlim sveitarinnar, eru kraftarnir draumur sem rætist. En hlutirnir taka óvænta stefnu þegar Humdinger sleppur úr fangelsi og gengur til liðs við brjálaðan vísindamann sem vill stela ofurkröftunum. Nú eru örlög Ævintýraborgar í höndum Hvolpasveitarinnar sem þarf að stöðva óþokkana áður en það verður um seinan.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UDgjJ9XzgHk",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-12-09T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371930/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-12-09T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371929/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Home Alone",
-    "id": 545,
-    "alt_title": "Bestu „gervimyndir“ kvikmyndasögunnar",
-    "release_year": 1990,
-    "poster_url": "https://kvikmyndir.is/images/poster/545_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0099785",
-      "http://imdb.com/title/tt0099785",
-      "https://www.themoviedb.org/tv/771"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Það eru komin jól og McAllister fjölskyldan er að undirbúa að fara í frí til Parísar í Frakklandi.  Yngsti fjölskyldumeðlimurinn Kevin lenti í rifrildi við eldri bróður sinn Buzz og var sendur upp í herbergið sitt sem er á þriðju hæð í húsinu. Morguninn eftir, þegar fjölskyldan er á síðustu stundu að taka sig til fyrir ferðalagið til að ná út á flugvöll nógu tímanlega, þá gjörsamlega gleyma þau Kevin litla, sem núna er orðinn húsbóndinn á heimilinu.  Hann nýtur þess að vera einn heima, fær sér pítsu og stekkur í rúmi foreldra sinna og draslar til. En þá kemst hann á snoðir um illa fyrirætlun tveggja innbrotsþjófa sem hyggjast brjótast inn í húsið á aðfangadagskvöld.  Kevin er fljótur að hugsa og býr til allskyns gildrur fyrir þjófana, til að klekkja á þeim og koma þeim í hendurnar á lögreglunni.",
-    "genres": [
-      "Gaman",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 130,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=CK2Btk6Ybm0",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-09T14:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/2617",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-09T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4396",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -1148,36 +1148,6 @@
           "time": "2023-12-09T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4414",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Florencia en el Amazonas",
-    "id": 16613,
-    "alt_title": "The Metropolitan Opera: Florencia en el Amazonas",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/2vxytcvenuwzb2crp4aitd4lmto-1701614219.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt28136660",
-      "http://imdb.com/title/tt28136660"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Florencia Grimaldi, fræg díva, er bókuð til að koma fram í óperuhúsinu í Manaus í Brasilíu. Þegar hún ferðast þangað með báti í gegn um Amazon-frumskóginn er hún heltekin af þrá eftir löngu týndum elskhuga sínum, sem hún vonar að muni bíða hennar þar.",
-    "genres": [
-      "Drama",
-      "Söngleikur"
-    ],
-    "duration_in_mins": 155,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-09T17:55:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/360271/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -1327,6 +1297,36 @@
           "time": "2023-12-09T21:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4410",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Florencia en el Amazonas",
+    "id": 16613,
+    "alt_title": "The Metropolitan Opera: Florencia en el Amazonas",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/2vxytcvenuwzb2crp4aitd4lmto-1701614219.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt28136660",
+      "http://imdb.com/title/tt28136660"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Florencia Grimaldi, fræg díva, er bókuð til að koma fram í óperuhúsinu í Manaus í Brasilíu. Þegar hún ferðast þangað með báti í gegn um Amazon-frumskóginn er hún heltekin af þrá eftir löngu týndum elskhuga sínum, sem hún vonar að muni bíða hennar þar.",
+    "genres": [
+      "Drama",
+      "Söngleikur"
+    ],
+    "duration_in_mins": 155,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-09T17:55:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/360271/",
+          "hall": "Salur 1"
         }
       ]
     }
