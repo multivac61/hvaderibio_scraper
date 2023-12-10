@@ -227,127 +227,18 @@
           "hall": "Salur B"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-12-10T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105526&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-12-10T21:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105423&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2023-12-10T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/372603/",
           "hall": "Salur 4"
         }
-      ]
-    }
-  },
-  {
-    "title": "Wonka",
-    "id": 16293,
-    "alt_title": "Dune kemur í bíó í vikunni - Leikstjórinn vill að hennar sé notið í bíósal",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6166392",
-      "http://imdb.com/title/tt6166392"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-12-10T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371954/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-10T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371956/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-12-10T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372065/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-10T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372070/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-12-10T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372622/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-10T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372626/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-10T16:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372022/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-10T18:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372024/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2023-12-10T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372054/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-10T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372056/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-10T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795266/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-12-10T20:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795267/",
-          "hall": "AXL"
-        }
       ],
       "Smárabíó": [
         {
-          "time": "2023-12-10T18:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105419&visLang=1",
-          "hall": "Salur 4"
+          "time": "2023-12-10T21:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105423&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -445,6 +336,103 @@
           "time": "2023-12-10T15:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/372569/",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wonka",
+    "id": 16293,
+    "alt_title": "Dune kemur í bíó í vikunni - Leikstjórinn vill að hennar sé notið í bíósal",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6166392",
+      "http://imdb.com/title/tt6166392"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-12-10T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371954/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-10T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371956/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-12-10T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372065/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-10T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372070/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-12-10T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372622/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-10T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372626/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-10T16:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372022/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-10T18:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372024/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2023-12-10T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372054/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-10T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372056/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-10T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795266/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-12-10T20:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795267/",
+          "hall": "AXL"
         }
       ]
     }
@@ -664,6 +652,50 @@
     }
   },
   {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "id": 2057,
+    "alt_title": "Tröll skáka veiðiferðina - 65 manns á Mentor",
+    "release_year": 2001,
+    "poster_url": "https://kvikmyndir.is/images/poster/2057_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0120737",
+      "http://imdb.com/title/tt0120737"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Fyrsti hlutinn í þessum epíska og margverðlaunaða þríleik sem byggður er á meistaraverkum J.R.R. Tolkien. Sagan segir frá magnþrunginni ferð Hobbitans Fróða að eldfjallinu hjá Mordor til að eyða hring sem að gæti dregið að sér illsku frá öllum heimshornum.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 178,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Pki6jbSbXIY",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-12-10T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372058/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-12-10T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371415/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-12-10T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371419/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Dream Scenario",
     "id": 16493,
     "alt_title": "Hluti af endurreisn Cage",
@@ -697,11 +729,6 @@
         }
       ],
       "Smárabíó": [
-        {
-          "time": "2023-12-10T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104974&visLang=1",
-          "hall": "Salur 2"
-        },
         {
           "time": "2023-12-10T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104975&visLang=1",
@@ -753,45 +780,37 @@
     }
   },
   {
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "id": 2057,
-    "alt_title": "Tröll skáka veiðiferðina - 65 manns á Mentor",
-    "release_year": 2001,
-    "poster_url": "https://kvikmyndir.is/images/poster/2057_500.jpg",
+    "title": "Jólin hans Bangsa",
+    "id": 16297,
+    "alt_title": "Teddy's Christmas",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16297_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt0120737",
-      "http://imdb.com/title/tt0120737"
+      "http://imdb.com/title/tt21054736",
+      "http://imdb.com/title/tt21054736"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Fyrsti hlutinn í þessum epíska og margverðlaunaða þríleik sem byggður er á meistaraverkum J.R.R. Tolkien. Sagan segir frá magnþrunginni ferð Hobbitans Fróða að eldfjallinu hjá Mordor til að eyða hring sem að gæti dregið að sér illsku frá öllum heimshornum.",
+    "content_rating": "Öllum leyfð",
+    "description": "Jólin eru að koma og það er ys og þys á Jólamarkaðinum í bænum. Mariann sér sætan bangsa í efstu hillunni í tombólubásnum. Er hann lifandi?  Mariann verður að eignast hann en bangsi hefur aðrar hugmyndir.  Hann vill komast í eigu ríkrar fjölskyldu sem getur kennt honum allt um undur heimsins.",
     "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
+      "Ævintýri",
+      "Fjölskylda"
     ],
-    "duration_in_mins": 178,
+    "duration_in_mins": 80,
     "language": [
-      "Enska"
+      "Norska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=Pki6jbSbXIY",
+    "trailer_url": "https://www.youtube.com/watch?v=uSAtN1eKVkM",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Laugarásbíó": [
         {
-          "time": "2023-12-10T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372058/",
-          "hall": "Salur 2"
+          "time": "2023-12-10T14:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795878/",
+          "hall": "AXL"
         },
         {
-          "time": "2023-12-10T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371415/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-12-10T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371419/",
-          "hall": "Salur 1"
+          "time": "2023-12-10T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795901/",
+          "hall": "Salur A"
         }
       ]
     }
@@ -834,79 +853,6 @@
     }
   },
   {
-    "title": "Jólin hans Bangsa",
-    "id": 16297,
-    "alt_title": "Teddy's Christmas",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16297_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21054736",
-      "http://imdb.com/title/tt21054736"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Jólin eru að koma og það er ys og þys á Jólamarkaðinum í bænum. Mariann sér sætan bangsa í efstu hillunni í tombólubásnum. Er hann lifandi?  Mariann verður að eignast hann en bangsi hefur aðrar hugmyndir.  Hann vill komast í eigu ríkrar fjölskyldu sem getur kennt honum allt um undur heimsins.",
-    "genres": [
-      "Ævintýri",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 80,
-    "language": [
-      "Norska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=uSAtN1eKVkM",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-10T14:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795878/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-12-10T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795901/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Godzilla Minus One",
-    "id": 16568,
-    "alt_title": "Gojira -1.0",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16568_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23289160",
-      "http://imdb.com/title/tt23289160"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Risaófreskjan Godzilla, sem sækir líf sitt og kraft í ofurmátt kjarnorkusprengjunnar, birtist í Japan á eftirstríðsárunum, þegar þjóðfélagið er í sárum, og lemur landið enn lengra niður í svartnættið.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 125,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=VvSrHIX5a-0",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-12-10T18:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105424&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2023-12-10T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105618&visLang=1",
-          "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
     "title": "Renaissance: A Film by Beyoncé",
     "id": 16566,
     "alt_title": "Leikstjórn",
@@ -933,12 +879,129 @@
           "purchase_url": "https://tickets.bioparadis.is/#book/4170",
           "hall": "Salur 1"
         }
-      ],
-      "Smárabíó": [
+      ]
+    }
+  },
+  {
+    "title": "Smoke Sauna Sisterhood",
+    "id": 16306,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23640230",
+      "http://imdb.com/title/tt23640230"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Eistneska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
         {
-          "time": "2023-12-10T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104815&visLang=1",
-          "hall": "MAX"
+          "time": "2023-12-10T16:40:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4422",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Peasants",
+    "id": 16302,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt10651230",
+      "http://imdb.com/title/tt10651230"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Teiknað"
+    ],
+    "duration_in_mins": 114,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-10T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4418",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "id": 16118,
+    "alt_title": "Tröll með tíu milljónir",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5537002",
+      "http://imdb.com/title/tt5537002"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
+    "genres": [
+      "Drama",
+      "Glæpa",
+      "Söguleg"
+    ],
+    "duration_in_mins": 206,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-10T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371970/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Uwierz w Mikolaja",
+    "id": 16584,
+    "alt_title": "Believe in Santa",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16584_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19631454",
+      "http://imdb.com/title/tt19631454"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Agnieszka er veðurteppt í fallegum fjallakofa og dularfullur, myndarlegur maður í Jólasveinabúningi birtist. Hin fimm ára gamla Zosia og móðir hennar eru, þrátt fyrir bágar aðstæður, að reyna að undirbúa hefðbundið aðfangadagskvöld og Robert, einmana lögregluþjónn á vakt, gæti aðstoðað. Þessi töfrandi tími er einnig tækifæri fyrir mann sem vill eyða hátíðinni með gömlu kærustunni, ef hún hefur tíma.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 96,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=WYzo6TO-iso",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-10T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4420",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -968,6 +1031,38 @@
           "time": "2023-12-10T14:40:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4421",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Godzilla Minus One",
+    "id": 16568,
+    "alt_title": "Gojira -1.0",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16568_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23289160",
+      "http://imdb.com/title/tt23289160"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Risaófreskjan Godzilla, sem sækir líf sitt og kraft í ofurmátt kjarnorkusprengjunnar, birtist í Japan á eftirstríðsárunum, þegar þjóðfélagið er í sárum, og lemur landið enn lengra niður í svartnættið.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 125,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=VvSrHIX5a-0",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-12-10T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105618&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -1155,130 +1250,6 @@
         {
           "time": "2023-12-10T15:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4419",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Smoke Sauna Sisterhood",
-    "id": 16306,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23640230",
-      "http://imdb.com/title/tt23640230"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 89,
-    "language": [
-      "Eistneska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-10T16:40:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4422",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Killers of the Flower Moon",
-    "id": 16118,
-    "alt_title": "Tröll með tíu milljónir",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16118_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5537002",
-      "http://imdb.com/title/tt5537002"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna.",
-    "genres": [
-      "Drama",
-      "Glæpa",
-      "Söguleg"
-    ],
-    "duration_in_mins": 206,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=EG0si5bSd6I",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-10T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371970/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Peasants",
-    "id": 16302,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10651230",
-      "http://imdb.com/title/tt10651230"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Teiknað"
-    ],
-    "duration_in_mins": 114,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-10T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4418",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Uwierz w Mikolaja",
-    "id": 16584,
-    "alt_title": "Believe in Santa",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16584_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19631454",
-      "http://imdb.com/title/tt19631454"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Agnieszka er veðurteppt í fallegum fjallakofa og dularfullur, myndarlegur maður í Jólasveinabúningi birtist. Hin fimm ára gamla Zosia og móðir hennar eru, þrátt fyrir bágar aðstæður, að reyna að undirbúa hefðbundið aðfangadagskvöld og Robert, einmana lögregluþjónn á vakt, gæti aðstoðað. Þessi töfrandi tími er einnig tækifæri fyrir mann sem vill eyða hátíðinni með gömlu kærustunni, ef hún hefur tíma.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 96,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=WYzo6TO-iso",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-10T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4420",
           "hall": "Salur 1"
         }
       ]
