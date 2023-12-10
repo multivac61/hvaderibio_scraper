@@ -117,13 +117,6 @@
           "hall": "Salur A"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-12-10T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104972&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2023-12-10T17:40:00.000Z",
@@ -452,13 +445,6 @@
           "hall": "Salur B"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2023-12-10T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105421&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2023-12-10T15:30:00.000Z",
@@ -611,23 +597,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=uSAtN1eKVkM",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-12-10T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104982&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-12-10T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104983&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2023-12-10T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104984&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-12-10T14:00:00.000Z",
@@ -638,6 +607,18 @@
           "time": "2023-12-10T16:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795901/",
           "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-12-10T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104983&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2023-12-10T17:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104984&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -869,6 +850,43 @@
     }
   },
   {
+    "title": "PAW Patrol: The Mighty Movie",
+    "id": 16337,
+    "alt_title": "Hvolpasveitin: Ofurmyndin",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16337_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15837338",
+      "http://imdb.com/title/tt15837338"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Töfraloftsteinn fellur til jarðar í Ævintýraborg og gefur Hvolpasveitinni ofurkrafta. Fyrir Skye, yngsta meðlim sveitarinnar, eru kraftarnir draumur sem rætist. En hlutirnir taka óvænta stefnu þegar Humdinger sleppur úr fangelsi og gengur til liðs við brjálaðan vísindamann sem vill stela ofurkröftunum. Nú eru örlög Ævintýraborgar í höndum Hvolpasveitarinnar sem þarf að stöðva óþokkana áður en það verður um seinan.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UDgjJ9XzgHk",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-12-10T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371932/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-12-10T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371931/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "André Rieu White Christmas",
     "id": 16595,
     "alt_title": "André Rieu's White Christmas",
@@ -887,11 +905,6 @@
     "trailer_url": "https://www.youtube.com/watch?v=phXiovGKJ5s",
     "cinema_showtimes": {
       "Smárabíó": [
-        {
-          "time": "2023-12-10T13:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105247&visLang=1",
-          "hall": "LÚXUS"
-        },
         {
           "time": "2023-12-10T15:20:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=104969&visLang=1",
@@ -980,38 +993,34 @@
     }
   },
   {
-    "title": "PAW Patrol: The Mighty Movie",
-    "id": 16337,
-    "alt_title": "Hvolpasveitin: Ofurmyndin",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16337_500.jpg",
+    "title": "Escape from New York",
+    "id": 724,
+    "alt_title": "Mælir með 54 hasarmyndum fyrir sóttkvína - Hvað hefur þú séð margar?",
+    "release_year": 1981,
+    "poster_url": "https://kvikmyndir.is/images/poster/724_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt15837338",
-      "http://imdb.com/title/tt15837338"
+      "http://imdb.com/title/tt0082340",
+      "http://imdb.com/title/tt0082340"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Töfraloftsteinn fellur til jarðar í Ævintýraborg og gefur Hvolpasveitinni ofurkrafta. Fyrir Skye, yngsta meðlim sveitarinnar, eru kraftarnir draumur sem rætist. En hlutirnir taka óvænta stefnu þegar Humdinger sleppur úr fangelsi og gengur til liðs við brjálaðan vísindamann sem vill stela ofurkröftunum. Nú eru örlög Ævintýraborgar í höndum Hvolpasveitarinnar sem þarf að stöðva óþokkana áður en það verður um seinan.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Árið er 1997 og Manhattan í New York hefur verið breytt í hámarks-öryggisfangelsi, enda eru menn löngu búnir að missa tökin á glæpamönnum, og versta glæpahyski heimsins dvelur í þessu risafangelsi. Þegar flugvél Bandaríkjaforseta brotlendir í Manhattan, þá er forsetinn tekinn sem gísl. Hinn eineygði málaliði Snake Plissken er fenginn til að bjarga forsetanum. Hann fær, óumbeðið, hjálp frá eitiharðri konu og kappsömum leigubílstjóra.",
     "genres": [
       "Spenna",
-      "Ævintýri",
-      "Teiknað"
+      "Spennutryllir",
+      "Vísindaskáldskapur",
+      "Ævintýri"
     ],
-    "duration_in_mins": 90,
+    "duration_in_mins": 99,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=UDgjJ9XzgHk",
+    "trailer_url": "https://www.youtube.com/watch?v=ckvDo2JHB7o",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Bíó Paradís": [
         {
-          "time": "2023-12-10T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371932/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-12-10T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371931/",
-          "hall": "Salur 3"
+          "time": "2023-12-10T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/2656",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1047,6 +1056,37 @@
     }
   },
   {
+    "title": "Fallen Leaves",
+    "id": 16299,
+    "alt_title": "Kuolleet lehdet",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21027780",
+      "http://imdb.com/title/tt21027780"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 81,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-10T22:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4416",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Four Little Adults",
     "id": 16305,
     "alt_title": "Neljä pientä aikuista",
@@ -1071,38 +1111,6 @@
           "time": "2023-12-10T18:30:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4423",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Boy and the Heron",
-    "id": 16569,
-    "alt_title": "Kimitachi wa dô ikiru ka",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1698164534183_ho00001683-1699574017.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6587046",
-      "http://imdb.com/title/tt6587046"
-    ],
-    "content_rating": "Bönnuð innan 9 ára",
-    "description": "Í gegnum kynni af vinum og frænda sínum, fylgjumst við með sálrænum þroska unglingsdrengs. Hann fer inn í töfrandi heim með talandi gráum Hegra eftir að hafa fundið yfirgefinn turn í nýja bænum sínum",
-    "genres": [
-      "Drama",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 124,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=8g_6eXi1hq0",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-12-10T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105437&visLang=1",
-          "hall": "Salur 5"
         }
       ]
     }
@@ -1172,6 +1180,37 @@
     }
   },
   {
+    "title": "Dancing Queen",
+    "id": 16519,
+    "alt_title": "Dansdrottningin",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16519_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20424066",
+      "http://imdb.com/title/tt20424066"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Mina er 12 ára. Henni bregður í brún þegar frægur götudansari byrjar í skólanum hennar. Hún ákveður í kjölfarið að taka þátt í áheyrnaprufum fyrir danshóp til þess að ganga í augun á nýja stráknum. Eina vandamálið er að hún kann ekki að dansa!",
+    "genres": [
+      "Drama",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Norska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=FudYMbvcJ8s",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-10T15:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4419",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Killers of the Flower Moon",
     "id": 16118,
     "alt_title": "Tröll með tíu milljónir",
@@ -1199,37 +1238,6 @@
           "time": "2023-12-10T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/371970/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Dancing Queen",
-    "id": 16519,
-    "alt_title": "Dansdrottningin",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16519_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20424066",
-      "http://imdb.com/title/tt20424066"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Mina er 12 ára. Henni bregður í brún þegar frægur götudansari byrjar í skólanum hennar. Hún ákveður í kjölfarið að taka þátt í áheyrnaprufum fyrir danshóp til þess að ganga í augun á nýja stráknum. Eina vandamálið er að hún kann ekki að dansa!",
-    "genres": [
-      "Drama",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Norska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=FudYMbvcJ8s",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-10T15:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4419",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -1351,70 +1359,6 @@
           "time": "2023-12-10T14:40:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4421",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Escape from New York",
-    "id": 724,
-    "alt_title": "Mælir með 54 hasarmyndum fyrir sóttkvína - Hvað hefur þú séð margar?",
-    "release_year": 1981,
-    "poster_url": "https://kvikmyndir.is/images/poster/724_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0082340",
-      "http://imdb.com/title/tt0082340"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Árið er 1997 og Manhattan í New York hefur verið breytt í hámarks-öryggisfangelsi, enda eru menn löngu búnir að missa tökin á glæpamönnum, og versta glæpahyski heimsins dvelur í þessu risafangelsi. Þegar flugvél Bandaríkjaforseta brotlendir í Manhattan, þá er forsetinn tekinn sem gísl. Hinn eineygði málaliði Snake Plissken er fenginn til að bjarga forsetanum. Hann fær, óumbeðið, hjálp frá eitiharðri konu og kappsömum leigubílstjóra.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ckvDo2JHB7o",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-10T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/2656",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Fallen Leaves",
-    "id": 16299,
-    "alt_title": "Kuolleet lehdet",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21027780",
-      "http://imdb.com/title/tt21027780"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 81,
-    "language": [
-      "Finnska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-10T22:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4416",
-          "hall": "Salur 3"
         }
       ]
     }
