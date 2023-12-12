@@ -170,18 +170,18 @@
           "hall": "Salur 1"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-12-12T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372599/",
-          "hall": "Salur 1"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-12-12T17:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795905/",
           "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-12-12T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372599/",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Keflavík": [
@@ -359,6 +359,53 @@
     }
   },
   {
+    "title": "Godzilla Minus One",
+    "id": 16568,
+    "alt_title": "Gojira -1.0",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16568_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23289160",
+      "http://imdb.com/title/tt23289160"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Risaófreskjan Godzilla, sem sækir líf sitt og kraft í ofurmátt kjarnorkusprengjunnar, birtist í Japan á eftirstríðsárunum, þegar þjóðfélagið er í sárum, og lemur landið enn lengra niður í svartnættið.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 125,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=VvSrHIX5a-0",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2023-12-12T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105607&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2023-12-12T17:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105584&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-12-12T21:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105616&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2023-12-12T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105619&visLang=1",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Dream Scenario",
     "id": 16493,
     "alt_title": "Napóleon óhagganlegur á toppnum",
@@ -406,48 +453,166 @@
     }
   },
   {
-    "title": "Godzilla Minus One",
-    "id": 16568,
-    "alt_title": "Gojira -1.0",
+    "title": "Silent Night",
+    "id": 16492,
+    "alt_title": "Keisarinn ríkir enn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16568_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16492_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt23289160",
-      "http://imdb.com/title/tt23289160"
+      "http://imdb.com/title/tt15799866",
+      "http://imdb.com/title/tt15799866"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Risaófreskjan Godzilla, sem sækir líf sitt og kraft í ofurmátt kjarnorkusprengjunnar, birtist í Japan á eftirstríðsárunum, þegar þjóðfélagið er í sárum, og lemur landið enn lengra niður í svartnættið.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ósköp venjulegur faðir skorar miskunnarlaust glæpagengi úr undirheimunum á hólm til að hefna dauða ungs sonar síns á Aðfangadagskvöld.",
     "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
+      "Spenna"
     ],
-    "duration_in_mins": 125,
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=yBnTqn0lBDA",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-12T19:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795906/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-12-12T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795907/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2023-12-12T22:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372621/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Boy and the Heron",
+    "id": 16569,
+    "alt_title": "Kimitachi wa dô ikiru ka",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1698164534183_ho00001683-1699574017.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6587046",
+      "http://imdb.com/title/tt6587046"
+    ],
+    "content_rating": "Bönnuð innan 9 ára",
+    "description": "Í gegnum kynni af vinum og frænda sínum, fylgjumst við með sálrænum þroska unglingsdrengs. Hann fer inn í töfrandi heim með talandi gráum Hegra eftir að hafa fundið yfirgefinn turn í nýja bænum sínum",
+    "genres": [
+      "Drama",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 124,
     "language": [
       "Japanska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=VvSrHIX5a-0",
+    "trailer_url": "https://www.youtube.com/watch?v=8g_6eXi1hq0",
     "cinema_showtimes": {
       "Smárabíó": [
         {
           "time": "2023-12-12T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105607&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2023-12-12T17:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105584&visLang=1",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105591&visLang=1",
           "hall": "Salur 2"
         },
         {
-          "time": "2023-12-12T21:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105616&visLang=1",
+          "time": "2023-12-12T18:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105615&visLang=1",
           "hall": "LÚXUS"
         },
         {
-          "time": "2023-12-12T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105619&visLang=1",
+          "time": "2023-12-12T19:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105601&visLang=1",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Jólamóðir",
+    "id": 15051,
+    "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Fyrir langa löngu í heimi hinna íslensku trölla, stuttu eftir stór tímamót í lífi þeirra eru tröllasystkinin Hurðaskellir og Skjóða skilin eftir alein heima í Grýluhelli í fyrsta skipti í sögu hellisins. Þurfa þau að vinna sig í gegnum stirt samband sitt á sama tíma og þau reyna að komast að því hvert allir hinir 98 íbúar hellisins hafa farið. Við tekur ferðalag þar sem systkinin læra nýja hluti um sig, mömmu sína Grýlu, hvernig það kom til að þau urðu að jólafjölskyldu og hvað fylgir töfrum jólanna. Grýla er einnig að glíma við sömu spurningar á meðan skyldur hennar sem jólamóðir, verndara töfra jólanna, stangast á við þá tröllskessu sem hún áður var.",
+    "genres": [
+      "Ævintýri",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 97,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=w05_GfoX114",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-12T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372027/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-12-12T16:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372028/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-12-12T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371958/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Marvels",
+    "id": 16139,
+    "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704522_500-1698697184.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt10676048",
+      "http://imdb.com/title/tt10676048"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Carol Danvers, eða Captain Marvel, hefur endurheimt stöðu sína frá Kree einræðisvaldinu og hefnt sín á Supreme Intelligence. En afleiðingar af því eru að Carol ber nú ábyrgð á alheimi í ójafnvægi.  Þegar hún þarf að sinna verkefni sem snýr að afbrigðilegum ormagöngum og tengjast Kree uppreisnarhópi, blandast ofurkraftar hennar við Kamala Khan, öðru nafni Ms. Marvel, og frænku Carol, S.A.B.E.R. geimfarann Captain Monica Rambeau. Saman verður þrenningin að vinna að því að bjarga alheiminum.",
+    "genres": [
+      "Spenna",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=wS_qbDztgVY",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-12-12T16:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371938/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2023-12-12T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371936/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2023-12-12T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371937/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -498,88 +663,6 @@
     }
   },
   {
-    "title": "Silent Night",
-    "id": 16492,
-    "alt_title": "Keisarinn ríkir enn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16492_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15799866",
-      "http://imdb.com/title/tt15799866"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ósköp venjulegur faðir skorar miskunnarlaust glæpagengi úr undirheimunum á hólm til að hefna dauða ungs sonar síns á Aðfangadagskvöld.",
-    "genres": [
-      "Spenna"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=yBnTqn0lBDA",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-12T19:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795906/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-12-12T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795907/",
-          "hall": "Salur A"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2023-12-12T22:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372621/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Jólamóðir",
-    "id": 15051,
-    "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Fyrir langa löngu í heimi hinna íslensku trölla, stuttu eftir stór tímamót í lífi þeirra eru tröllasystkinin Hurðaskellir og Skjóða skilin eftir alein heima í Grýluhelli í fyrsta skipti í sögu hellisins. Þurfa þau að vinna sig í gegnum stirt samband sitt á sama tíma og þau reyna að komast að því hvert allir hinir 98 íbúar hellisins hafa farið. Við tekur ferðalag þar sem systkinin læra nýja hluti um sig, mömmu sína Grýlu, hvernig það kom til að þau urðu að jólafjölskyldu og hvað fylgir töfrum jólanna. Grýla er einnig að glíma við sömu spurningar á meðan skyldur hennar sem jólamóðir, verndara töfra jólanna, stangast á við þá tröllskessu sem hún áður var.",
-    "genres": [
-      "Ævintýri",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 97,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=w05_GfoX114",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-12T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372027/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-12-12T16:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372028/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-12-12T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371958/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Jólin hans Bangsa",
     "id": 16297,
     "alt_title": "Teddy's Christmas",
@@ -618,89 +701,6 @@
           "time": "2023-12-12T18:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/795884/",
           "hall": "AXL"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Boy and the Heron",
-    "id": 16569,
-    "alt_title": "Kimitachi wa dô ikiru ka",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1698164534183_ho00001683-1699574017.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6587046",
-      "http://imdb.com/title/tt6587046"
-    ],
-    "content_rating": "Bönnuð innan 9 ára",
-    "description": "Í gegnum kynni af vinum og frænda sínum, fylgjumst við með sálrænum þroska unglingsdrengs. Hann fer inn í töfrandi heim með talandi gráum Hegra eftir að hafa fundið yfirgefinn turn í nýja bænum sínum",
-    "genres": [
-      "Drama",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 124,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=8g_6eXi1hq0",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2023-12-12T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105591&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-12-12T18:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105615&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2023-12-12T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105601&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Marvels",
-    "id": 16139,
-    "alt_title": "Danskvæði um söngfugla og slöngur vinsælust",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704522_500-1698697184.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10676048",
-      "http://imdb.com/title/tt10676048"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Carol Danvers, eða Captain Marvel, hefur endurheimt stöðu sína frá Kree einræðisvaldinu og hefnt sín á Supreme Intelligence. En afleiðingar af því eru að Carol ber nú ábyrgð á alheimi í ójafnvægi.  Þegar hún þarf að sinna verkefni sem snýr að afbrigðilegum ormagöngum og tengjast Kree uppreisnarhópi, blandast ofurkraftar hennar við Kamala Khan, öðru nafni Ms. Marvel, og frænku Carol, S.A.B.E.R. geimfarann Captain Monica Rambeau. Saman verður þrenningin að vinna að því að bjarga alheiminum.",
-    "genres": [
-      "Spenna",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=wS_qbDztgVY",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-12-12T16:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371938/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2023-12-12T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371936/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2023-12-12T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371937/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -745,6 +745,66 @@
     }
   },
   {
+    "title": "Cidade Rabat",
+    "id": 16304,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16304_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26343137",
+      "http://imdb.com/title/tt26343137"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við fylgjumst með Helenu sem vinnur hjá kvikmyndaframleiðslufyrirtæki. Eftir andlát móður hennar breytist lífið og hún fer að eyða meiri tíma í sjálfa sig, fer út að dansa og skemmta sér.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 101,
+    "language": [
+      "Portúgalska"
+    ],
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-12T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4431",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fallen Leaves",
+    "id": 16299,
+    "alt_title": "Kuolleet lehdet",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21027780",
+      "http://imdb.com/title/tt21027780"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 81,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-12T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4438",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Four Little Adults",
     "id": 16305,
     "alt_title": "Neljä pientä aikuista",
@@ -765,6 +825,11 @@
     "trailer_url": "https://www.youtube.com/watch?v=pUTe_5161fE",
     "cinema_showtimes": {
       "Bíó Paradís": [
+        {
+          "time": "2023-12-12T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4445",
+          "hall": "Salur 2"
+        },
         {
           "time": "2023-12-12T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4445",
@@ -832,39 +897,6 @@
           "time": "2023-12-12T18:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4450",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Die Hard",
-    "id": 267,
-    "alt_title": "Die Hard Jólasveinn vinsælastur",
-    "release_year": 1988,
-    "poster_url": "https://kvikmyndir.is/images/poster/267_300.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0095016",
-      "http://imdb.com/title/tt0095016",
-      "https://www.themoviedb.org/tv/562"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "New York löggan John McClane er nýkominn til Los Angeles til að eyða þar jólunum með eiginkonu sinni. Til allrar óhamingju, þá er ekki útlit fyrir gleðileg jól á þeim bænum. Hópur hryðjuverkamanna, undir forystu Hans Gruber, heldur öllum í Nakatomi Plaza byggingunni í gíslingu.  Engin leið er fyrir neinn að komast inn eða út úr byggingunni, og því verður John McClane að grípa til sinna ráða.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir",
-      "Glæpa"
-    ],
-    "duration_in_mins": 131,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=2TQ-pOvI6Xo",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-12T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371361/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -962,60 +994,33 @@
     }
   },
   {
-    "title": "Cidade Rabat",
-    "id": 16304,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16304_500.jpg",
+    "title": "Die Hard",
+    "id": 267,
+    "alt_title": "Die Hard Jólasveinn vinsælastur",
+    "release_year": 1988,
+    "poster_url": "https://kvikmyndir.is/images/poster/267_300.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt26343137",
-      "http://imdb.com/title/tt26343137"
+      "http://imdb.com/title/tt0095016",
+      "http://imdb.com/title/tt0095016",
+      "https://www.themoviedb.org/tv/562"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við fylgjumst með Helenu sem vinnur hjá kvikmyndaframleiðslufyrirtæki. Eftir andlát móður hennar breytist lífið og hún fer að eyða meiri tíma í sjálfa sig, fer út að dansa og skemmta sér.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "New York löggan John McClane er nýkominn til Los Angeles til að eyða þar jólunum með eiginkonu sinni. Til allrar óhamingju, þá er ekki útlit fyrir gleðileg jól á þeim bænum. Hópur hryðjuverkamanna, undir forystu Hans Gruber, heldur öllum í Nakatomi Plaza byggingunni í gíslingu.  Engin leið er fyrir neinn að komast inn eða út úr byggingunni, og því verður John McClane að grípa til sinna ráða.",
     "genres": [
-      "Drama"
+      "Spenna",
+      "Spennutryllir",
+      "Glæpa"
     ],
-    "duration_in_mins": 101,
+    "duration_in_mins": 131,
     "language": [
-      "Portúgalska"
+      "Enska"
     ],
+    "trailer_url": "https://www.youtube.com/watch?v=2TQ-pOvI6Xo",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2023-12-12T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4431",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Fallen Leaves",
-    "id": 16299,
-    "alt_title": "Kuolleet lehdet",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21027780",
-      "http://imdb.com/title/tt21027780"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 81,
-    "language": [
-      "Finnska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-12T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4438",
+          "time": "2023-12-12T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371361/",
           "hall": "Salur 1"
         }
       ]
