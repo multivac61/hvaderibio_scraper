@@ -219,89 +219,6 @@
     }
   },
   {
-    "title": "Wish",
-    "id": 16335,
-    "alt_title": "Ósk",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11304740",
-      "http://imdb.com/title/tt11304740"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-15T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372301/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-12-15T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372302/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2023-12-15T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372726/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2023-12-15T14:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105691&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-12-15T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372124/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-15T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372118/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-12-15T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372131/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2023-12-15T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372136/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2023-12-15T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372502/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-12-15T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372509/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Napoleon",
     "id": 16119,
     "alt_title": "Napóleon óhagganlegur á toppnum",
@@ -381,6 +298,89 @@
         {
           "time": "2023-12-15T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/372733/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wish",
+    "id": 16335,
+    "alt_title": "Ósk",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11304740",
+      "http://imdb.com/title/tt11304740"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-15T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372301/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-12-15T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372302/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2023-12-15T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372726/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2023-12-15T14:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105691&visLang=1",
+          "hall": "Salur 5"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-12-15T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372124/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-15T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372118/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-12-15T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372131/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2023-12-15T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372136/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2023-12-15T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372502/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2023-12-15T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372509/",
           "hall": "Salur 2"
         }
       ]
@@ -640,74 +640,36 @@
     }
   },
   {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
+    "title": "The Old Oak",
+    "id": 16624,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16624_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
+      "http://imdb.com/title/tt19883634",
+      "http://imdb.com/title/tt19883634"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-15T13:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372274/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2023-12-15T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372098/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Four Little Adults",
-    "id": 16305,
-    "alt_title": "Neljä pientä aikuista",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/qdhv73otx1iic2hvbkt5rbm9kpu-1686586026.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13868030",
-      "http://imdb.com/title/tt13868030"
-    ],
-    "description": "Miðaldra par ákveður að opna hjónaband sitt eftir að upp kemst um framhjáhald eiginmannsins.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Kráareigandi í litlum námubæ sem hefur verið í hnignun síðustu þrjátíu ár lendir í erfiðri stöðu þegar hópur sýrlenskra flóttamanna sest skyndilega að í bænum.",
     "genres": [
       "Drama"
     ],
-    "duration_in_mins": 122,
+    "duration_in_mins": 113,
     "language": [
-      "Finnska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=pUTe_5161fE",
+    "trailer_url": "https://www.youtube.com/watch?v=Fwb0c5zqsyM",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2023-12-15T18:35:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4473",
-          "hall": "Salur 1"
+          "time": "2023-12-15T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4471",
+          "hall": "Salur 2"
         },
         {
-          "time": "2023-12-15T18:35:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4473",
-          "hall": "Salur 1"
+          "time": "2023-12-15T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4471",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -742,77 +704,6 @@
         {
           "time": "2023-12-15T15:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/372489/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Christmas Vacation",
-    "id": 2287,
-    "alt_title": "National Lampoon's Christmas Vacation",
-    "release_year": 1989,
-    "poster_url": "https://kvikmyndir.is/images/poster/2287_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0097958",
-      "http://imdb.com/title/tt0097958",
-      "https://www.themoviedb.org/tv/5825"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Clark Wilhelm Griswold langar að halda hin fullkomnu Griswold fjölskyldujól. Eftir margra mánaða undirbúning býður hann bæði foreldrum sínum og tengdaforeldrum, og einnig frænda sínum Louis og elliærri frænku sinni Bethany. Clark að óvörum mætir hinn groddaralegi frændi konu hans, Eddie, ásamt allri fjölskyldunni í húsbílnum sínum. Clark er búinn að undirbúa húsið og skreyta með meira en 20.000 ljósaperum og búinn að ná í risastórt jólatré sem passar eiginlega ekki inn í stofuna.  Fljótlega fara að koma brestir í alla framkvæmdina, kalkúninn er ekki eins og hann átti að vera, köttur frænkunnar nagar í sundur rafmagnskapal og Louis kveikir í trénu. Til að kóróna allt saman þá fær hann ekki langþráðan jólabónus frá fyrirtækinu, og þá sýður endanlega upp úr hjá okkar manni.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 97,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=NBTTipJX-h4",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-15T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/2615",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2023-12-15T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4458",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Old Oak",
-    "id": 16624,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16624_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19883634",
-      "http://imdb.com/title/tt19883634"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Kráareigandi í litlum námubæ sem hefur verið í hnignun síðustu þrjátíu ár lendir í erfiðri stöðu þegar hópur sýrlenskra flóttamanna sest skyndilega að í bænum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 113,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Fwb0c5zqsyM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-15T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4471",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2023-12-15T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4471",
           "hall": "Salur 2"
         }
       ]
@@ -855,6 +746,177 @@
     }
   },
   {
+    "title": "Four Little Adults",
+    "id": 16305,
+    "alt_title": "Neljä pientä aikuista",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/qdhv73otx1iic2hvbkt5rbm9kpu-1686586026.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13868030",
+      "http://imdb.com/title/tt13868030"
+    ],
+    "description": "Miðaldra par ákveður að opna hjónaband sitt eftir að upp kemst um framhjáhald eiginmannsins.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 122,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pUTe_5161fE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-15T18:35:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4473",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-15T18:35:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4473",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Christmas Vacation",
+    "id": 2287,
+    "alt_title": "National Lampoon's Christmas Vacation",
+    "release_year": 1989,
+    "poster_url": "https://kvikmyndir.is/images/poster/2287_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0097958",
+      "http://imdb.com/title/tt0097958",
+      "https://www.themoviedb.org/tv/5825"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Clark Wilhelm Griswold langar að halda hin fullkomnu Griswold fjölskyldujól. Eftir margra mánaða undirbúning býður hann bæði foreldrum sínum og tengdaforeldrum, og einnig frænda sínum Louis og elliærri frænku sinni Bethany. Clark að óvörum mætir hinn groddaralegi frændi konu hans, Eddie, ásamt allri fjölskyldunni í húsbílnum sínum. Clark er búinn að undirbúa húsið og skreyta með meira en 20.000 ljósaperum og búinn að ná í risastórt jólatré sem passar eiginlega ekki inn í stofuna.  Fljótlega fara að koma brestir í alla framkvæmdina, kalkúninn er ekki eins og hann átti að vera, köttur frænkunnar nagar í sundur rafmagnskapal og Louis kveikir í trénu. Til að kóróna allt saman þá fær hann ekki langþráðan jólabónus frá fyrirtækinu, og þá sýður endanlega upp úr hjá okkar manni.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 97,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=NBTTipJX-h4",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-15T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/2615",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2023-12-15T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4458",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-15T13:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372274/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2023-12-15T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372098/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "id": 16545,
+    "alt_title": "Anatomie d'une chute",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17009710",
+      "http://imdb.com/title/tt17009710"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa"
+    ],
+    "duration_in_mins": 151,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-15T20:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4477",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Smoke Sauna Sisterhood",
+    "id": 16306,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23640230",
+      "http://imdb.com/title/tt23640230"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Eistneska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-15T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4472",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Peasants",
     "id": 16302,
     "alt_title": "Leikstjórn",
@@ -882,6 +944,38 @@
           "time": "2023-12-15T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4475",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Elf",
+    "id": 2718,
+    "alt_title": "Álfur",
+    "release_year": 2003,
+    "poster_url": "https://kvikmyndir.is/images/poster/1109397_500-1670669895.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0319343",
+      "http://imdb.com/title/tt0319343"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Buddy var á munaðarleysingjahæli sem barn en stalst í burtu í poka jólasveinsins og endaði á norðurpólnum. Seinna, þegar hann er orðinn fullvaxinn maður, sem óvart var alinn upp af álfum, þá leyfir jólasveinninn honum að koma með sér til New York til að finna föður sinn, Walter Hobbs. Hobbs, sem er á svörtum lista jólasveinsins fyrir að vera samviskulaus durtur, vissi ekkert um tilvist Buddy. Buddy, nýtur hinsvegar lífsins í New York, eins og álfi einum er lagið. Þegar Buddy fer að trufla vinnuna hjá Walter, þá neyðist hann til að endurskoða forgansröðunina hjá sér.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 97,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gW9wRNqQ_P8",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-15T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371364/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -1006,100 +1100,6 @@
           "time": "2023-12-15T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4474",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anatomy of a Fall",
-    "id": 16545,
-    "alt_title": "Anatomie d'une chute",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17009710",
-      "http://imdb.com/title/tt17009710"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa"
-    ],
-    "duration_in_mins": 151,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-15T20:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4477",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Elf",
-    "id": 2718,
-    "alt_title": "Álfur",
-    "release_year": 2003,
-    "poster_url": "https://kvikmyndir.is/images/poster/1109397_500-1670669895.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0319343",
-      "http://imdb.com/title/tt0319343"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Buddy var á munaðarleysingjahæli sem barn en stalst í burtu í poka jólasveinsins og endaði á norðurpólnum. Seinna, þegar hann er orðinn fullvaxinn maður, sem óvart var alinn upp af álfum, þá leyfir jólasveinninn honum að koma með sér til New York til að finna föður sinn, Walter Hobbs. Hobbs, sem er á svörtum lista jólasveinsins fyrir að vera samviskulaus durtur, vissi ekkert um tilvist Buddy. Buddy, nýtur hinsvegar lífsins í New York, eins og álfi einum er lagið. Þegar Buddy fer að trufla vinnuna hjá Walter, þá neyðist hann til að endurskoða forgansröðunina hjá sér.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 97,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=gW9wRNqQ_P8",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-15T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371364/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Smoke Sauna Sisterhood",
-    "id": 16306,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23640230",
-      "http://imdb.com/title/tt23640230"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 89,
-    "language": [
-      "Eistneska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2023-12-15T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4472",
-          "hall": "Salur 1"
         }
       ]
     }
