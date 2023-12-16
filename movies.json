@@ -937,32 +937,31 @@
     }
   },
   {
-    "title": "Fallen Leaves",
-    "id": 16299,
-    "alt_title": "Kuolleet lehdet",
+    "title": "Silent Night",
+    "id": 16492,
+    "alt_title": "Keisarinn ríkir enn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16492_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt21027780",
-      "http://imdb.com/title/tt21027780"
+      "http://imdb.com/title/tt15799866",
+      "http://imdb.com/title/tt15799866"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ósköp venjulegur faðir skorar miskunnarlaust glæpagengi úr undirheimunum á hólm til að hefna dauða ungs sonar síns á Aðfangadagskvöld.",
     "genres": [
-      "Gaman",
-      "Drama"
+      "Spenna"
     ],
-    "duration_in_mins": 81,
+    "duration_in_mins": 104,
     "language": [
-      "Finnska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "trailer_url": "https://www.youtube.com/watch?v=yBnTqn0lBDA",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Laugarásbíó": [
         {
-          "time": "2023-12-16T14:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4478",
-          "hall": "Salur 2"
+          "time": "2023-12-16T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796773/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -1096,40 +1095,6 @@
     }
   },
   {
-    "title": "How the Grinch Stole Christmas",
-    "id": 1866,
-    "alt_title": "The Grinch",
-    "release_year": 2000,
-    "poster_url": "https://kvikmyndir.is/images/poster/1866_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0170016",
-      "http://imdb.com/title/tt0170016",
-      "https://www.themoviedb.org/tv/8871"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin er byggð á þekktri bók eftir Dr. Seuss. Inni í snjókorni er töfralandið Whoville. Í Whoville búa the Whos, og þar elska allir jólin. En fyrir utan bæinn býr Trölli, sem óskemmtilegur náungi sem hatar jólin, og ákveður að stela jólunum frá the Whos, sem hann hefur ekki minni andstyggð á. Lítil stúlka, Cindy Lou Who, ákveður hinsvegar að reyna að vingast við Trölla.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda",
-      "Söngleikur"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=YQV5Pr7pWtM",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2023-12-16T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/371365/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Nightmare Before Christmas",
     "id": 2766,
     "alt_title": "10 ómissandi bíómyndir í hrekkjavökustíl",
@@ -1158,6 +1123,40 @@
         {
           "time": "2023-12-16T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/2619",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "How the Grinch Stole Christmas",
+    "id": 1866,
+    "alt_title": "The Grinch",
+    "release_year": 2000,
+    "poster_url": "https://kvikmyndir.is/images/poster/1866_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0170016",
+      "http://imdb.com/title/tt0170016",
+      "https://www.themoviedb.org/tv/8871"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Myndin er byggð á þekktri bók eftir Dr. Seuss. Inni í snjókorni er töfralandið Whoville. Í Whoville búa the Whos, og þar elska allir jólin. En fyrir utan bæinn býr Trölli, sem óskemmtilegur náungi sem hatar jólin, og ákveður að stela jólunum frá the Whos, sem hann hefur ekki minni andstyggð á. Lítil stúlka, Cindy Lou Who, ákveður hinsvegar að reyna að vingast við Trölla.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda",
+      "Söngleikur"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=YQV5Pr7pWtM",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2023-12-16T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/371365/",
           "hall": "Salur 1"
         }
       ]
@@ -1196,36 +1195,6 @@
     }
   },
   {
-    "title": "Dream Scenario",
-    "id": 16493,
-    "alt_title": "Napóleon óhagganlegur á toppnum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16493_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21942866",
-      "http://imdb.com/title/tt21942866"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Líf fjölskyldumannsins heillum horfna Paul Matthews fer allt á hvolf þegar milljónir ókunnugra fara skyndilega að sjá hann í draumum sínum. En þegar þessar birtingarmyndir breytast í martraðir neyðist Paul til að horfast í augu við nýfengna frægð.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=q3x9iUL-74w",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-16T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796753/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
     "title": "Dancing Queen",
     "id": 16519,
     "alt_title": "Dansdrottningin",
@@ -1257,36 +1226,6 @@
     }
   },
   {
-    "title": "Silent Night",
-    "id": 16492,
-    "alt_title": "Keisarinn ríkir enn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16492_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15799866",
-      "http://imdb.com/title/tt15799866"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ósköp venjulegur faðir skorar miskunnarlaust glæpagengi úr undirheimunum á hólm til að hefna dauða ungs sonar síns á Aðfangadagskvöld.",
-    "genres": [
-      "Spenna"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=yBnTqn0lBDA",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-16T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796773/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "Uwierz w Mikolaja",
     "id": 16584,
     "alt_title": "Believe in Santa",
@@ -1312,6 +1251,67 @@
           "time": "2023-12-16T21:25:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4485",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Dream Scenario",
+    "id": 16493,
+    "alt_title": "Napóleon óhagganlegur á toppnum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16493_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21942866",
+      "http://imdb.com/title/tt21942866"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Líf fjölskyldumannsins heillum horfna Paul Matthews fer allt á hvolf þegar milljónir ókunnugra fara skyndilega að sjá hann í draumum sínum. En þegar þessar birtingarmyndir breytast í martraðir neyðist Paul til að horfast í augu við nýfengna frægð.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=q3x9iUL-74w",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-16T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796753/",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fallen Leaves",
+    "id": 16299,
+    "alt_title": "Kuolleet lehdet",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16299_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21027780",
+      "http://imdb.com/title/tt21027780"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tvær einmana sálir mætast fyrir tilviljun eina örlagaríka nótt í Helsinki. Mun þetta verða fyrsta ástin í lífi beggja?",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 81,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AI3IASNvKeQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2023-12-16T14:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4478",
+          "hall": "Salur 2"
         }
       ]
     }
