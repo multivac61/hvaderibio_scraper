@@ -113,6 +113,23 @@
           "hall": "Salur 2"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2023-12-19T17:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796742/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-12-19T19:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796743/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2023-12-19T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796744/",
+          "hall": "AXL"
+        }
+      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2023-12-19T17:00:00.000Z",
@@ -148,23 +165,6 @@
           "time": "2023-12-19T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/372230/",
           "hall": "Lúxus VIP"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2023-12-19T17:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796742/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-12-19T19:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796743/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2023-12-19T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796744/",
-          "hall": "AXL"
         }
       ],
       "Sambíóin Akureyri": [
@@ -495,18 +495,18 @@
           "hall": "Salur 4"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2023-12-19T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372741/",
-          "hall": "Salur 1"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2023-12-19T17:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/796764/",
           "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2023-12-19T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372741/",
+          "hall": "Salur 1"
         }
       ]
     }
