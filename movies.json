@@ -171,11 +171,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-01-01T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106162&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
           "time": "2024-01-01T20:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106165&visLang=1",
           "hall": "Salur 5"
@@ -257,23 +252,6 @@
           "time": "2024-01-01T22:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/372886/",
           "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-01T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106161&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-01-01T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106356&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-01-01T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106164&visLang=1",
-          "hall": "MAX"
         }
       ],
       "Sambíóin Kringlunni": [
@@ -417,13 +395,6 @@
           "purchase_url": "http://www.sambio.is/websales/show/373147/",
           "hall": "Salur 1"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-01T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106160&visLang=1",
-          "hall": "MAX"
-        }
       ]
     }
   },
@@ -474,18 +445,57 @@
           "hall": "AXL"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-01T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106166&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2024-01-01T21:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/373245/",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Napoleon",
+    "id": 16119,
+    "alt_title": "Súkkulaðið sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13287846",
+      "http://imdb.com/title/tt13287846"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 158,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-01T19:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/372807/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-01-01T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/373128/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-01T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/373318/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -568,59 +578,6 @@
           "purchase_url": "http://www.sambio.is/websales/show/373267/",
           "hall": "Salur 3"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-01T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106167&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Napoleon",
-    "id": 16119,
-    "alt_title": "Súkkulaðið sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13287846",
-      "http://imdb.com/title/tt13287846"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 158,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-01T19:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/372807/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-01-01T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/373128/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-01T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/373318/",
-          "hall": "Salur 4"
-        }
       ]
     }
   },
@@ -657,71 +614,6 @@
           "time": "2024-01-01T18:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4656",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Lord of the Rings: The Return of the King",
-    "id": 2331,
-    "alt_title": "Lísa yfir milljarðinn",
-    "release_year": 2003,
-    "poster_url": "https://kvikmyndir.is/images/poster/2331_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0167260",
-      "http://imdb.com/title/tt0167260",
-      "https://www.themoviedb.org/tv/122"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Lokakaflinn í þríleiknum sem segir frá hinni æsispennandi baráttu gegn illskunni frá Mordor. Frodo þarf að ganga í gegnum erfiði, bæði andlega og líkamlega ef hann ætlar að eyða hringnum áður en of seint verður.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 201,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=r5X-hFf6Bwo",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-01T19:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3684",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Lord of the Rings: The Two Towers",
-    "id": 2330,
-    "alt_title": "Áramóta-Tían!",
-    "release_year": 2002,
-    "poster_url": "https://kvikmyndir.is/images/poster/2330_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0167261",
-      "http://imdb.com/title/tt0167261",
-      "https://www.themoviedb.org/tv/121"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Miðkaflinn í þessum margverðlaunaða þríleik. Frodo og Sam halda áfram för sinni til Mordor meðan að aðrir bandamenn berjast við alla þá ógn sem að stefnir að þeim. Þeir félagar taka Gollum til fanga og halda áfram til Mordor með það að markmiði að eyða hringnum.",
-    "genres": [
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 179,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=2dlRvAjU_RI",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-01T15:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3683",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -1186,6 +1078,71 @@
         {
           "time": "2024-01-01T12:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/3682",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "id": 2331,
+    "alt_title": "Lísa yfir milljarðinn",
+    "release_year": 2003,
+    "poster_url": "https://kvikmyndir.is/images/poster/2331_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0167260",
+      "http://imdb.com/title/tt0167260",
+      "https://www.themoviedb.org/tv/122"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Lokakaflinn í þríleiknum sem segir frá hinni æsispennandi baráttu gegn illskunni frá Mordor. Frodo þarf að ganga í gegnum erfiði, bæði andlega og líkamlega ef hann ætlar að eyða hringnum áður en of seint verður.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 201,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=r5X-hFf6Bwo",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-01T19:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3684",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "id": 2330,
+    "alt_title": "Áramóta-Tían!",
+    "release_year": 2002,
+    "poster_url": "https://kvikmyndir.is/images/poster/2330_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0167261",
+      "http://imdb.com/title/tt0167261",
+      "https://www.themoviedb.org/tv/121"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Miðkaflinn í þessum margverðlaunaða þríleik. Frodo og Sam halda áfram för sinni til Mordor meðan að aðrir bandamenn berjast við alla þá ógn sem að stefnir að þeim. Þeir félagar taka Gollum til fanga og halda áfram til Mordor með það að markmiði að eyða hringnum.",
+    "genres": [
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 179,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=2dlRvAjU_RI",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-01T15:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3683",
           "hall": "Salur 1"
         }
       ]
