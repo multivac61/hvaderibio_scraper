@@ -309,6 +309,67 @@
     }
   },
   {
+    "title": "Next Goal Wins",
+    "id": 16357,
+    "alt_title": "Ástin kom sá og sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1713308_500-1704546623.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt10767052",
+      "http://imdb.com/title/tt10767052"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Sagan af hinu hræðilega lélega fótboltaliði Bandarísku Samóaeyja sem þekkt varð fyrir 31-0 tap gegn Ástralíu árið 2001. Nú er undankeppni fyrir heimsmeistaramótið 2014 á næsta leiti. Nýr þjálfari er ráðinn til að hífa gengi liðsins upp.",
+    "genres": [
+      "Gaman",
+      "Drama",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pRH5u5lpArQ",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-11T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/373704/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-01-11T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/373705/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-01-11T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/373706/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-11T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/373960/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-11T19:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803585/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-01-11T21:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803586/",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -368,67 +429,6 @@
           "time": "2024-01-11T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/373917/",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Next Goal Wins",
-    "id": 16357,
-    "alt_title": "Ástin kom sá og sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1713308_500-1704546623.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10767052",
-      "http://imdb.com/title/tt10767052"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Sagan af hinu hræðilega lélega fótboltaliði Bandarísku Samóaeyja sem þekkt varð fyrir 31-0 tap gegn Ástralíu árið 2001. Nú er undankeppni fyrir heimsmeistaramótið 2014 á næsta leiti. Nýr þjálfari er ráðinn til að hífa gengi liðsins upp.",
-    "genres": [
-      "Gaman",
-      "Drama",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=pRH5u5lpArQ",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-11T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/373704/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-01-11T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/373705/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-01-11T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/373706/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-11T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/373960/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-11T19:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803585/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-01-11T21:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803586/",
-          "hall": "Salur A"
         }
       ]
     }
@@ -556,6 +556,161 @@
     }
   },
   {
+    "title": "Monster",
+    "id": 16301,
+    "alt_title": "Kaibutsu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23736044",
+      "http://imdb.com/title/tt23736044"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-11T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4735",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Night of the 12th",
+    "id": 16186,
+    "alt_title": "La nuit du 12",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16186_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16953666",
+      "http://imdb.com/title/tt16953666"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?",
+    "genres": [
+      "Drama",
+      "Glæpa",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=58s-pXvTQss",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-11T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4730",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Little Adults",
+    "id": 16305,
+    "alt_title": "Neljä pientä aikuista",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/qdhv73otx1iic2hvbkt5rbm9kpu-1686586026.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13868030",
+      "http://imdb.com/title/tt13868030"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Miðaldra par ákveður að opna hjónaband sitt eftir að upp kemst um framhjáhald eiginmannsins.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 122,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pUTe_5161fE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-11T18:35:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4739",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Jethica",
+    "id": 16484,
+    "alt_title": "Leikstjórn",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16484_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14847302",
+      "http://imdb.com/title/tt14847302"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Elena rekst á gamla vinkonu úr menntaskóla, Jessicu, þegar hún er í felum í Nýju Mexíkó eftir slys. En þegar eltihrellir Jessicu mætir á svæðið þá breytist allt.",
+    "genres": [
+      "Gaman",
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 72,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=nPMhfuZ0rCc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-11T19:40:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4736",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Smoke Sauna Sisterhood",
+    "id": 16306,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23640230",
+      "http://imdb.com/title/tt23640230"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Eistneska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-11T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4740",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Napoleon",
     "id": 16119,
     "alt_title": "Súkkulaðið sigraði",
@@ -588,31 +743,30 @@
     }
   },
   {
-    "title": "Monster",
-    "id": 16301,
-    "alt_title": "Kaibutsu",
+    "title": "The Old Oak",
+    "id": 16624,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16624_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt23736044",
-      "http://imdb.com/title/tt23736044"
+      "http://imdb.com/title/tt19883634",
+      "http://imdb.com/title/tt19883634"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "description": "Kráareigandi í litlum námubæ sem hefur verið í hnignun síðustu þrjátíu ár lendir í erfiðri stöðu þegar hópur sýrlenskra flóttamanna sest skyndilega að í bænum.",
     "genres": [
-      "Drama",
-      "Spennutryllir"
+      "Drama"
     ],
-    "duration_in_mins": 126,
+    "duration_in_mins": 113,
     "language": [
-      "Japanska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "trailer_url": "https://www.youtube.com/watch?v=Fwb0c5zqsyM",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-01-11T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4735",
+          "time": "2024-01-11T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4732",
           "hall": "Salur 3"
         }
       ]
@@ -651,33 +805,33 @@
     }
   },
   {
-    "title": "The Night of the 12th",
-    "id": 16186,
-    "alt_title": "La nuit du 12",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16186_500.jpg",
+    "title": "The Peasants",
+    "id": 16302,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt16953666",
-      "http://imdb.com/title/tt16953666"
+      "http://imdb.com/title/tt10651230",
+      "http://imdb.com/title/tt10651230"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
     "genres": [
       "Drama",
-      "Glæpa",
-      "Ráðgáta"
+      "Söguleg",
+      "Teiknað"
     ],
-    "duration_in_mins": 115,
+    "duration_in_mins": 114,
     "language": [
-      "Franska"
+      "Pólska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=58s-pXvTQss",
+    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-01-11T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4730",
-          "hall": "Salur 2"
+          "time": "2024-01-11T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4731",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -710,130 +864,6 @@
           "time": "2024-01-11T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/373579/",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Thanksgiving",
-    "id": 16426,
-    "alt_title": "Ekkert þarf að vera rökrétt",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1718083_500-1700473458.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1448754",
-      "http://imdb.com/title/tt1448754"
-    ],
-    "content_rating": "Bönnuð innan 18 ára",
-    "description": "Eftir að uppreisn á Svarta föstudeginum endar á hörmulegan hátt herjar dularfullur morðingi sem sækir innblástur í Þakkargjörðarhátíðina, á íbúa Plymouth, Massachusetts - sem er fæðingarbær hins alræmda frídags.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=KbU50SdL8zA",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-11T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/373593/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Four Little Adults",
-    "id": 16305,
-    "alt_title": "Neljä pientä aikuista",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/qdhv73otx1iic2hvbkt5rbm9kpu-1686586026.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13868030",
-      "http://imdb.com/title/tt13868030"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Miðaldra par ákveður að opna hjónaband sitt eftir að upp kemst um framhjáhald eiginmannsins.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 122,
-    "language": [
-      "Finnska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=pUTe_5161fE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-11T18:35:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4739",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Dream Scenario",
-    "id": 16493,
-    "alt_title": "Napóleon óhagganlegur á toppnum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16493_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21942866",
-      "http://imdb.com/title/tt21942866"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Líf fjölskyldumannsins heillum horfna Paul Matthews fer allt á hvolf þegar milljónir ókunnugra fara skyndilega að sjá hann í draumum sínum. En þegar þessar birtingarmyndir breytast í martraðir neyðist Paul til að horfast í augu við nýfengna frægð.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=q3x9iUL-74w",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-11T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803588/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Jethica",
-    "id": 16484,
-    "alt_title": "Leikstjórn",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16484_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14847302",
-      "http://imdb.com/title/tt14847302"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Elena rekst á gamla vinkonu úr menntaskóla, Jessicu, þegar hún er í felum í Nýju Mexíkó eftir slys. En þegar eltihrellir Jessicu mætir á svæðið þá breytist allt.",
-    "genres": [
-      "Gaman",
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 72,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=nPMhfuZ0rCc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-11T19:40:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4736",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -873,93 +903,63 @@
     }
   },
   {
-    "title": "Smoke Sauna Sisterhood",
-    "id": 16306,
-    "alt_title": "Leikstjórn",
+    "title": "Thanksgiving",
+    "id": 16426,
+    "alt_title": "Ekkert þarf að vera rökrétt",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1718083_500-1700473458.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt23640230",
-      "http://imdb.com/title/tt23640230"
+      "http://imdb.com/title/tt1448754",
+      "http://imdb.com/title/tt1448754"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
+    "content_rating": "Bönnuð innan 18 ára",
+    "description": "Eftir að uppreisn á Svarta föstudeginum endar á hörmulegan hátt herjar dularfullur morðingi sem sækir innblástur í Þakkargjörðarhátíðina, á íbúa Plymouth, Massachusetts - sem er fæðingarbær hins alræmda frídags.",
     "genres": [
-      "Heimildarmynd"
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
     ],
-    "duration_in_mins": 89,
-    "language": [
-      "Eistneska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-11T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4740",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Old Oak",
-    "id": 16624,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16624_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19883634",
-      "http://imdb.com/title/tt19883634"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Kráareigandi í litlum námubæ sem hefur verið í hnignun síðustu þrjátíu ár lendir í erfiðri stöðu þegar hópur sýrlenskra flóttamanna sest skyndilega að í bænum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 113,
+    "duration_in_mins": 107,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=Fwb0c5zqsyM",
+    "trailer_url": "https://www.youtube.com/watch?v=KbU50SdL8zA",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-01-11T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4732",
-          "hall": "Salur 3"
+          "time": "2024-01-11T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/373593/",
+          "hall": "Salur 2"
         }
       ]
     }
   },
   {
-    "title": "The Peasants",
-    "id": 16302,
-    "alt_title": "Leikstjórn",
+    "title": "Dream Scenario",
+    "id": 16493,
+    "alt_title": "Napóleon óhagganlegur á toppnum",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16493_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt10651230",
-      "http://imdb.com/title/tt10651230"
+      "http://imdb.com/title/tt21942866",
+      "http://imdb.com/title/tt21942866"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Líf fjölskyldumannsins heillum horfna Paul Matthews fer allt á hvolf þegar milljónir ókunnugra fara skyndilega að sjá hann í draumum sínum. En þegar þessar birtingarmyndir breytast í martraðir neyðist Paul til að horfast í augu við nýfengna frægð.",
     "genres": [
-      "Drama",
-      "Söguleg",
-      "Teiknað"
+      "Gaman"
     ],
-    "duration_in_mins": 114,
+    "duration_in_mins": 100,
     "language": [
-      "Pólska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
+    "trailer_url": "https://www.youtube.com/watch?v=q3x9iUL-74w",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Laugarásbíó": [
         {
-          "time": "2024-01-11T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4731",
-          "hall": "Salur 3"
+          "time": "2024-01-11T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803588/",
+          "hall": "Salur B"
         }
       ]
     }
