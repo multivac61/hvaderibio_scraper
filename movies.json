@@ -146,28 +146,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-14T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106698&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-14T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106693&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-01-14T21:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106709&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-01-14T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106708&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-01-14T18:20:00.000Z",
@@ -178,6 +156,18 @@
           "time": "2024-01-14T20:45:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803614/",
           "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-01-14T21:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106709&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-01-14T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106708&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -295,117 +285,11 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-14T18:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106695&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-01-14T19:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374458/",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anyone But You",
-    "id": 16358,
-    "alt_title": "Ástin kom sá og sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26047818",
-      "http://imdb.com/title/tt26047818"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
-    "genres": [
-      "Gaman",
-      "Rómantík"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-01-14T15:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374232/",
-          "hall": "Ásberg"
-        },
-        {
-          "time": "2024-01-14T16:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374221/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-14T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374214/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-14T21:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374215/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-14T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374498/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-14T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374471/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-14T22:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374472/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-01-14T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374589/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-14T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374520/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-14T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374517/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-14T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106694&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-01-14T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106692&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-14T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106707&visLang=1",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -503,76 +387,93 @@
           "purchase_url": "http://www.sambio.is/websales/show/374583/",
           "hall": "Salur 1"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-14T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106697&visLang=1",
-          "hall": "MAX"
-        }
       ]
     }
   },
   {
-    "title": "The Iron Claw",
-    "id": 16512,
-    "alt_title": "Mesta áskorunin - Bætti á sig sjö kílóum",
+    "title": "Anyone But You",
+    "id": 16358,
+    "alt_title": "Ástin kom sá og sigraði",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt21064584",
-      "http://imdb.com/title/tt21064584"
+      "http://imdb.com/title/tt26047818",
+      "http://imdb.com/title/tt26047818"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
+    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
     "genres": [
-      "Drama",
-      "Æviágrip",
-      "Íþróttir"
+      "Gaman",
+      "Rómantík"
     ],
-    "duration_in_mins": 130,
+    "duration_in_mins": 103,
     "language": [
       "Enska"
     ],
+    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-01-14T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374043/",
-          "hall": "Salur 1"
+          "time": "2024-01-14T15:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374232/",
+          "hall": "Ásberg"
         },
         {
-          "time": "2024-01-14T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374484/",
+          "time": "2024-01-14T16:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374221/",
           "hall": "Salur 3"
         },
         {
-          "time": "2024-01-14T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374483/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-14T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/802684/",
-          "hall": "AXL"
+          "time": "2024-01-14T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374214/",
+          "hall": "Salur 3"
         },
         {
-          "time": "2024-01-14T20:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/802685/",
-          "hall": "AXL"
+          "time": "2024-01-14T21:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374215/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-14T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374498/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-14T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374471/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-14T22:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374472/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-01-14T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374589/",
+          "hall": "Salur 2"
         }
       ],
       "Sambíóin Akureyri": [
         {
-          "time": "2024-01-14T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374526/",
-          "hall": "Salur 2"
+          "time": "2024-01-14T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374520/",
+          "hall": "Salur 1"
         },
         {
-          "time": "2024-01-14T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374527/",
+          "time": "2024-01-14T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374517/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-01-14T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106707&visLang=1",
           "hall": "Salur 2"
         }
       ]
@@ -642,6 +543,71 @@
         {
           "time": "2024-01-14T14:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374605/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Iron Claw",
+    "id": 16512,
+    "alt_title": "Mesta áskorunin - Bætti á sig sjö kílóum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21064584",
+      "http://imdb.com/title/tt21064584"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
+    "genres": [
+      "Drama",
+      "Æviágrip",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-14T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374043/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-14T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374484/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-01-14T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374483/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-14T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/802684/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-01-14T20:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/802685/",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-14T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374526/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-14T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374527/",
           "hall": "Salur 2"
         }
       ]
@@ -725,18 +691,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=FV3bqvOHRQo",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-01-14T18:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106696&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-01-14T20:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106710&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-01-14T19:50:00.000Z",
@@ -747,6 +701,13 @@
           "time": "2024-01-14T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374171/",
           "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-01-14T20:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106710&visLang=1",
+          "hall": "Salur 4"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -951,6 +912,36 @@
           "time": "2024-01-14T20:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4781",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Little Adults",
+    "id": 16305,
+    "alt_title": "Neljä pientä aikuista",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/qdhv73otx1iic2hvbkt5rbm9kpu-1686586026.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13868030",
+      "http://imdb.com/title/tt13868030"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Miðaldra par ákveður að opna hjónaband sitt eftir að upp kemst um framhjáhald eiginmannsins.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 122,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pUTe_5161fE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-14T20:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4793",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1202,36 +1193,6 @@
           "time": "2024-01-14T16:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4785",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Four Little Adults",
-    "id": 16305,
-    "alt_title": "Neljä pientä aikuista",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/qdhv73otx1iic2hvbkt5rbm9kpu-1686586026.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13868030",
-      "http://imdb.com/title/tt13868030"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Miðaldra par ákveður að opna hjónaband sitt eftir að upp kemst um framhjáhald eiginmannsins.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 122,
-    "language": [
-      "Finnska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=pUTe_5161fE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-14T20:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4793",
-          "hall": "Salur 2"
         }
       ]
     }
