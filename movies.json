@@ -559,6 +559,71 @@
     }
   },
   {
+    "title": "The Iron Claw",
+    "id": 16512,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21064584",
+      "http://imdb.com/title/tt21064584"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
+    "genres": [
+      "Drama",
+      "Æviágrip",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-14T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374043/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-14T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374484/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-01-14T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374483/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-14T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374526/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-14T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374527/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-14T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/802684/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-01-14T20:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/802685/",
+          "hall": "AXL"
+        }
+      ]
+    }
+  },
+  {
     "title": "Soul",
     "id": 12556,
     "alt_title": "Þetta eru sigurvegararnir á Óskarnum 2021",
@@ -623,71 +688,6 @@
           "time": "2024-01-14T14:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374605/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Iron Claw",
-    "id": 16512,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21064584",
-      "http://imdb.com/title/tt21064584"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
-    "genres": [
-      "Drama",
-      "Æviágrip",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 130,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-14T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374043/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-14T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374484/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-14T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374483/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-14T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374526/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-14T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374527/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-14T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/802684/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-01-14T20:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/802685/",
-          "hall": "AXL"
         }
       ]
     }
@@ -1001,6 +1001,38 @@
     }
   },
   {
+    "title": "The Night of the 12th",
+    "id": 16186,
+    "alt_title": "La nuit du 12",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16186_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16953666",
+      "http://imdb.com/title/tt16953666"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?",
+    "genres": [
+      "Drama",
+      "Glæpa",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=58s-pXvTQss",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-14T16:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4785",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Four Little Adults",
     "id": 16305,
     "alt_title": "Neljä pientä aikuista",
@@ -1025,38 +1057,6 @@
         {
           "time": "2024-01-14T20:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4793",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Thanksgiving",
-    "id": 16426,
-    "alt_title": "Ekkert þarf að vera rökrétt",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1718083_500-1700473458.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1448754",
-      "http://imdb.com/title/tt1448754"
-    ],
-    "content_rating": "Bönnuð innan 18 ára",
-    "description": "Eftir að uppreisn á Svarta föstudeginum endar á hörmulegan hátt herjar dularfullur morðingi sem sækir innblástur í Þakkargjörðarhátíðina, á íbúa Plymouth, Massachusetts - sem er fæðingarbær hins alræmda frídags.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=KbU50SdL8zA",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-14T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374119/",
           "hall": "Salur 2"
         }
       ]
@@ -1090,6 +1090,38 @@
           "time": "2024-01-14T21:40:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4790",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Napoleon",
+    "id": 16119,
+    "alt_title": "Súkkulaðið sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13287846",
+      "http://imdb.com/title/tt13287846"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 158,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-14T19:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374113/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1187,6 +1219,38 @@
     }
   },
   {
+    "title": "Thanksgiving",
+    "id": 16426,
+    "alt_title": "Ekkert þarf að vera rökrétt",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1718083_500-1700473458.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1448754",
+      "http://imdb.com/title/tt1448754"
+    ],
+    "content_rating": "Bönnuð innan 18 ára",
+    "description": "Eftir að uppreisn á Svarta föstudeginum endar á hörmulegan hátt herjar dularfullur morðingi sem sækir innblástur í Þakkargjörðarhátíðina, á íbúa Plymouth, Massachusetts - sem er fæðingarbær hins alræmda frídags.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=KbU50SdL8zA",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-14T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374119/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Monster",
     "id": 16301,
     "alt_title": "Kaibutsu",
@@ -1213,70 +1277,6 @@
           "time": "2024-01-14T19:10:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4789",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Night of the 12th",
-    "id": 16186,
-    "alt_title": "La nuit du 12",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16186_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16953666",
-      "http://imdb.com/title/tt16953666"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?",
-    "genres": [
-      "Drama",
-      "Glæpa",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=58s-pXvTQss",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-14T16:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4785",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Napoleon",
-    "id": 16119,
-    "alt_title": "Súkkulaðið sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13287846",
-      "http://imdb.com/title/tt13287846"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 158,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-14T19:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374113/",
-          "hall": "Salur 2"
         }
       ]
     }
