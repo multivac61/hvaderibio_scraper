@@ -597,18 +597,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-14T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374526/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-14T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374527/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-01-14T18:00:00.000Z",
@@ -619,6 +607,18 @@
           "time": "2024-01-14T20:45:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/802685/",
           "hall": "AXL"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-14T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374526/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-14T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374527/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -892,43 +892,6 @@
     }
   },
   {
-    "title": "Anatomy of a Fall",
-    "id": 16545,
-    "alt_title": "Anatomie d'une chute",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17009710",
-      "http://imdb.com/title/tt17009710"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa"
-    ],
-    "duration_in_mins": 151,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-14T17:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4780",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-14T20:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4781",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Trolls Band Together",
     "id": 16113,
     "alt_title": "Tröll 3",
@@ -996,6 +959,43 @@
           "time": "2024-01-14T15:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4380",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "id": 16545,
+    "alt_title": "Anatomie d'une chute",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17009710",
+      "http://imdb.com/title/tt17009710"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa"
+    ],
+    "duration_in_mins": 151,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-14T17:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4780",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-14T20:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4781",
+          "hall": "Salur 1"
         }
       ]
     }
