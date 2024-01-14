@@ -122,38 +122,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-14T14:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106683&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-14T16:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106699&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-01-14T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106698&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-14T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106693&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-01-14T21:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106709&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-01-14T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106708&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-01-14T15:30:00.000Z",
@@ -176,6 +144,28 @@
           "time": "2024-01-14T19:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374598/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-01-14T17:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106698&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-14T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106693&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-01-14T21:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106709&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-01-14T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106708&visLang=1",
+          "hall": "MAX"
         }
       ],
       "Laugarásbíó": [
@@ -298,23 +288,6 @@
           "hall": "Salur A"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-14T15:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106701&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-01-14T15:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106700&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-01-14T18:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106695&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2024-01-14T17:00:00.000Z",
@@ -322,119 +295,18 @@
           "hall": "Salur 2"
         }
       ],
+      "Smárabíó": [
+        {
+          "time": "2024-01-14T18:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106695&visLang=1",
+          "hall": "Salur 5"
+        }
+      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-01-14T19:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374458/",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-14T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374465/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-14T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374466/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-14T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374467/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-14T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374510/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-14T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374511/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-14T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374190/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-01-14T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374191/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-01-14T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374182/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-14T13:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803607/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-01-14T15:55:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803610/",
-          "hall": "AXL"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-01-14T14:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374184/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-01-14T14:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374583/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-14T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106682&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-01-14T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106697&visLang=1",
-          "hall": "MAX"
         }
       ]
     }
@@ -539,70 +411,104 @@
     }
   },
   {
-    "title": "Soul",
-    "id": 12556,
-    "alt_title": "Þetta eru sigurvegararnir á Óskarnum 2021",
-    "release_year": 2020,
-    "poster_url": "https://kvikmyndir.is/images/poster/soul-1604496121.jpg",
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt2948372",
-      "http://imdb.com/title/tt2948372",
-      "https://www.themoviedb.org/tv/508442"
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
     ],
     "content_rating": "Bönnuð innan 6 ára",
-    "description": "Tónlistarmaðurinn Joe Gardner er í tilvistarkreppu. Hann elskar djass, en er búinn að gefa drauminn um að verða sjálfur djassleikari upp á bátinn. Dag einn dettur hann niður í holræsi og lendir á ævintýralegum stað þar sem hann þarf að hugsa upp á nýtt hvað það raunverulega þýðir að hafa sál.",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
     "genres": [
       "Gaman",
       "Ævintýri",
-      "Fjölskylda",
-      "Tónlist",
       "Teiknað"
     ],
-    "duration_in_mins": 100,
+    "duration_in_mins": 92,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=4TojlZYqPUo",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-01-14T11:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374335/",
+          "time": "2024-01-14T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374465/",
           "hall": "Salur 1"
         },
         {
-          "time": "2024-01-14T14:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374346/",
+          "time": "2024-01-14T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374466/",
           "hall": "Salur 1"
         },
         {
-          "time": "2024-01-14T16:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374336/",
-          "hall": "Salur 2"
+          "time": "2024-01-14T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374467/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-14T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374510/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-14T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374511/",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-01-14T12:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374345/",
-          "hall": "Salur 1"
+          "time": "2024-01-14T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374190/",
+          "hall": "Salur A"
         },
         {
-          "time": "2024-01-14T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374334/",
-          "hall": "Salur 1"
+          "time": "2024-01-14T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374191/",
+          "hall": "Salur A"
         },
         {
-          "time": "2024-01-14T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374333/",
-          "hall": "Salur B"
+          "time": "2024-01-14T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374182/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-14T13:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803607/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-01-14T15:55:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803610/",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-01-14T14:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374184/",
+          "hall": "Salur 2"
         }
       ],
       "Sambíóin Keflavík": [
         {
-          "time": "2024-01-14T14:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374605/",
-          "hall": "Salur 2"
+          "time": "2024-01-14T14:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374583/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-01-14T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106697&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -667,6 +573,75 @@
         {
           "time": "2024-01-14T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374527/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Soul",
+    "id": 12556,
+    "alt_title": "Þetta eru sigurvegararnir á Óskarnum 2021",
+    "release_year": 2020,
+    "poster_url": "https://kvikmyndir.is/images/poster/soul-1604496121.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt2948372",
+      "http://imdb.com/title/tt2948372",
+      "https://www.themoviedb.org/tv/508442"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Tónlistarmaðurinn Joe Gardner er í tilvistarkreppu. Hann elskar djass, en er búinn að gefa drauminn um að verða sjálfur djassleikari upp á bátinn. Dag einn dettur hann niður í holræsi og lendir á ævintýralegum stað þar sem hann þarf að hugsa upp á nýtt hvað það raunverulega þýðir að hafa sál.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=4TojlZYqPUo",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-01-14T11:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374335/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-14T14:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374346/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-14T16:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374336/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-14T12:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374345/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-14T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374334/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-14T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374333/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-01-14T14:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374605/",
           "hall": "Salur 2"
         }
       ]
@@ -1012,38 +987,6 @@
     }
   },
   {
-    "title": "Napoleon",
-    "id": 16119,
-    "alt_title": "Súkkulaðið sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13287846",
-      "http://imdb.com/title/tt13287846"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 158,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-14T19:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374113/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Night of the 12th",
     "id": 16186,
     "alt_title": "La nuit du 12",
@@ -1076,32 +1019,32 @@
     }
   },
   {
-    "title": "Thanksgiving",
-    "id": 16426,
-    "alt_title": "Ekkert þarf að vera rökrétt",
+    "title": "Napoleon",
+    "id": 16119,
+    "alt_title": "Súkkulaðið sigraði",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1718083_500-1700473458.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt1448754",
-      "http://imdb.com/title/tt1448754"
+      "http://imdb.com/title/tt13287846",
+      "http://imdb.com/title/tt13287846"
     ],
-    "content_rating": "Bönnuð innan 18 ára",
-    "description": "Eftir að uppreisn á Svarta föstudeginum endar á hörmulegan hátt herjar dularfullur morðingi sem sækir innblástur í Þakkargjörðarhátíðina, á íbúa Plymouth, Massachusetts - sem er fæðingarbær hins alræmda frídags.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
     "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
+      "Spenna",
+      "Ævintýri",
+      "Æviágrip"
     ],
-    "duration_in_mins": 107,
+    "duration_in_mins": 158,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=KbU50SdL8zA",
+    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-01-14T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374119/",
+          "time": "2024-01-14T19:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374113/",
           "hall": "Salur 2"
         }
       ]
@@ -1132,6 +1075,38 @@
         {
           "time": "2024-01-14T20:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4793",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Thanksgiving",
+    "id": 16426,
+    "alt_title": "Ekkert þarf að vera rökrétt",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1718083_500-1700473458.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1448754",
+      "http://imdb.com/title/tt1448754"
+    ],
+    "content_rating": "Bönnuð innan 18 ára",
+    "description": "Eftir að uppreisn á Svarta föstudeginum endar á hörmulegan hátt herjar dularfullur morðingi sem sækir innblástur í Þakkargjörðarhátíðina, á íbúa Plymouth, Massachusetts - sem er fæðingarbær hins alræmda frídags.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=KbU50SdL8zA",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-14T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374119/",
           "hall": "Salur 2"
         }
       ]
