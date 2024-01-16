@@ -267,66 +267,6 @@
     }
   },
   {
-    "title": "The Iron Claw",
-    "id": 16512,
-    "alt_title": "Enn blómstrar ástin á toppnum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21064584",
-      "http://imdb.com/title/tt21064584"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
-    "genres": [
-      "Drama",
-      "Æviágrip",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 130,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-16T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374563/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-16T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374561/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-16T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374562/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-16T17:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803623/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-01-16T20:35:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803627/",
-          "hall": "AXL"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-16T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374529/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Wonka",
     "id": 16293,
     "alt_title": "Ástin kom sá og sigraði",
@@ -393,6 +333,66 @@
           "time": "2024-01-16T19:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374544/",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Iron Claw",
+    "id": 16512,
+    "alt_title": "Enn blómstrar ástin á toppnum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21064584",
+      "http://imdb.com/title/tt21064584"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
+    "genres": [
+      "Drama",
+      "Æviágrip",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-16T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374563/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-01-16T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374561/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-16T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374562/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-16T17:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803623/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-01-16T20:35:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803627/",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-16T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374529/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -517,6 +517,55 @@
     }
   },
   {
+    "title": "Soul",
+    "id": 12556,
+    "alt_title": "Þetta eru sigurvegararnir á Óskarnum 2021",
+    "release_year": 2020,
+    "poster_url": "https://kvikmyndir.is/images/poster/soul-1604496121.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt2948372",
+      "http://imdb.com/title/tt2948372",
+      "https://www.themoviedb.org/tv/508442"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Tónlistarmaðurinn Joe Gardner er í tilvistarkreppu. Hann elskar djass, en er búinn að gefa drauminn um að verða sjálfur djassleikari upp á bátinn. Dag einn dettur hann niður í holræsi og lendir á ævintýralegum stað þar sem hann þarf að hugsa upp á nýtt hvað það raunverulega þýðir að hafa sál.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=4TojlZYqPUo",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-01-16T14:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374341/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-16T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374352/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-01-16T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374604/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Next Goal Wins",
     "id": 16357,
     "alt_title": "Ástin kom sá og sigraði",
@@ -591,112 +640,40 @@
     }
   },
   {
-    "title": "Soul",
-    "id": 12556,
-    "alt_title": "Þetta eru sigurvegararnir á Óskarnum 2021",
-    "release_year": 2020,
-    "poster_url": "https://kvikmyndir.is/images/poster/soul-1604496121.jpg",
+    "title": "Ferrari",
+    "id": 16362,
+    "alt_title": "Wonka í þriðja sinn á toppinum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726420_500-1702892158.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt2948372",
-      "http://imdb.com/title/tt2948372",
-      "https://www.themoviedb.org/tv/508442"
+      "http://imdb.com/title/tt3758542",
+      "http://imdb.com/title/tt3758542"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Tónlistarmaðurinn Joe Gardner er í tilvistarkreppu. Hann elskar djass, en er búinn að gefa drauminn um að verða sjálfur djassleikari upp á bátinn. Dag einn dettur hann niður í holræsi og lendir á ævintýralegum stað þar sem hann þarf að hugsa upp á nýtt hvað það raunverulega þýðir að hafa sál.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin gerist sumarið 1957. Fyrrum kappakstursmaður, Ferrari, er í vanda. Gjaldþrot vofir yfir fyrirtækinu sem hann og kona hans byggðu upp úr engu tíu árum áður. Stormasamt hjónaband þeirra stendur á brauðfótum á sama tíma og þau syrgja son sinn. Ferrari ákveður að taka áhættu og fara í einn kappakstur enn, eitt þúsund mílna leið yfir Ítalíu þvera og endilanga, hinn goðsagnakennda Mille Miglia.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda",
-      "Tónlist",
-      "Teiknað"
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
     ],
-    "duration_in_mins": 100,
+    "duration_in_mins": 130,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=4TojlZYqPUo",
+    "trailer_url": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Laugarásbíó": [
         {
-          "time": "2024-01-16T14:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374341/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-16T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374352/",
+          "time": "2024-01-16T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803625/",
           "hall": "Salur B"
         }
       ],
-      "Sambíóin Keflavík": [
+      "Smárabíó": [
         {
-          "time": "2024-01-16T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374604/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Jethica",
-    "id": 16484,
-    "alt_title": "Leikstjórn",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16484_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14847302",
-      "http://imdb.com/title/tt14847302"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Elena rekst á gamla vinkonu úr menntaskóla, Jessicu, þegar hún er í felum í Nýju Mexíkó eftir slys. En þegar eltihrellir Jessicu mætir á svæðið þá breytist allt.",
-    "genres": [
-      "Gaman",
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 72,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=nPMhfuZ0rCc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-16T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4822",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Smoke Sauna Sisterhood",
-    "id": 16306,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23640230",
-      "http://imdb.com/title/tt23640230"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 89,
-    "language": [
-      "Eistneska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-16T19:40:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4813",
-          "hall": "Salur 1"
+          "time": "2024-01-16T20:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106754&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -891,45 +868,6 @@
     }
   },
   {
-    "title": "Ferrari",
-    "id": 16362,
-    "alt_title": "Wonka í þriðja sinn á toppinum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726420_500-1702892158.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt3758542",
-      "http://imdb.com/title/tt3758542"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin gerist sumarið 1957. Fyrrum kappakstursmaður, Ferrari, er í vanda. Gjaldþrot vofir yfir fyrirtækinu sem hann og kona hans byggðu upp úr engu tíu árum áður. Stormasamt hjónaband þeirra stendur á brauðfótum á sama tíma og þau syrgja son sinn. Ferrari ákveður að taka áhættu og fara í einn kappakstur enn, eitt þúsund mílna leið yfir Ítalíu þvera og endilanga, hinn goðsagnakennda Mille Miglia.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 130,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-16T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/803625/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-16T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106754&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
     "title": "Four Little Adults",
     "id": 16305,
     "alt_title": "Neljä pientä aikuista",
@@ -955,6 +893,68 @@
           "time": "2024-01-16T18:35:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4823",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Jethica",
+    "id": 16484,
+    "alt_title": "Leikstjórn",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16484_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14847302",
+      "http://imdb.com/title/tt14847302"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Elena rekst á gamla vinkonu úr menntaskóla, Jessicu, þegar hún er í felum í Nýju Mexíkó eftir slys. En þegar eltihrellir Jessicu mætir á svæðið þá breytist allt.",
+    "genres": [
+      "Gaman",
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 72,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=nPMhfuZ0rCc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-16T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4822",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Smoke Sauna Sisterhood",
+    "id": 16306,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16306_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23640230",
+      "http://imdb.com/title/tt23640230"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Eistneska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=iEwH3B2jrko",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-16T19:40:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4813",
+          "hall": "Salur 1"
         }
       ]
     }
