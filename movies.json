@@ -92,23 +92,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-18T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106821&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-18T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106816&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-18T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106803&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-01-18T18:00:00.000Z",
@@ -126,6 +109,13 @@
           "time": "2024-01-18T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374542/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-01-18T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106803&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -215,21 +205,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-01-18T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106819&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-01-18T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106817&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-01-18T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106814&visLang=1",
-          "hall": "MAX"
-        },
-        {
           "time": "2024-01-18T21:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107138&visLang=1",
           "hall": "LÚXUS"
@@ -238,67 +213,6 @@
           "time": "2024-01-18T22:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106802&visLang=1",
           "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Wonka",
-    "id": 16293,
-    "alt_title": "Ástin kom sá og sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6166392",
-      "http://imdb.com/title/tt6166392"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-18T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374120/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-01-18T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374163/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-18T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374164/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-18T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374165/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-18T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106820&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-18T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374545/",
-          "hall": "Salur 4"
         }
       ]
     }
@@ -364,6 +278,60 @@
     }
   },
   {
+    "title": "Wonka",
+    "id": 16293,
+    "alt_title": "Ástin kom sá og sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6166392",
+      "http://imdb.com/title/tt6166392"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-18T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374120/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-01-18T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374163/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-01-18T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374164/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-01-18T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374165/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-18T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374545/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Aquaman and the Lost Kingdom",
     "id": 16298,
     "alt_title": "Wonka í þriðja sinn á toppinum",
@@ -397,22 +365,17 @@
           "hall": "Salur A"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-18T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106815&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-01-18T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106801&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-01-18T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374546/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-01-18T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106801&visLang=1",
           "hall": "Salur 4"
         }
       ]
@@ -466,13 +429,6 @@
           "time": "2024-01-18T17:50:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804618/",
           "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-18T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106818&visLang=1",
-          "hall": "Salur 4"
         }
       ]
     }
@@ -547,45 +503,6 @@
           "time": "2024-01-18T18:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4766",
           "hall": "Salur 1 - BOÐSSÝNING"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Ferrari",
-    "id": 16362,
-    "alt_title": "Wonka í þriðja sinn á toppinum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726420_500-1702892158.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt3758542",
-      "http://imdb.com/title/tt3758542"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin gerist sumarið 1957. Fyrrum kappakstursmaður, Ferrari, er í vanda. Gjaldþrot vofir yfir fyrirtækinu sem hann og kona hans byggðu upp úr engu tíu árum áður. Stormasamt hjónaband þeirra stendur á brauðfótum á sama tíma og þau syrgja son sinn. Ferrari ákveður að taka áhættu og fara í einn kappakstur enn, eitt þúsund mílna leið yfir Ítalíu þvera og endilanga, hinn goðsagnakennda Mille Miglia.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 130,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-18T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804617/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-18T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106805&visLang=1",
-          "hall": "Salur 5"
         }
       ]
     }
@@ -702,6 +619,131 @@
           "time": "2024-01-18T21:30:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4827",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Thanksgiving",
+    "id": 16426,
+    "alt_title": "Ekkert þarf að vera rökrétt",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1718083_500-1700473458.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1448754",
+      "http://imdb.com/title/tt1448754"
+    ],
+    "content_rating": "Bönnuð innan 18 ára",
+    "description": "Eftir að uppreisn á Svarta föstudeginum endar á hörmulegan hátt herjar dularfullur morðingi sem sækir innblástur í Þakkargjörðarhátíðina, á íbúa Plymouth, Massachusetts - sem er fæðingarbær hins alræmda frídags.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=KbU50SdL8zA",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-18T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374114/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monster",
+    "id": 16301,
+    "alt_title": "Kaibutsu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23736044",
+      "http://imdb.com/title/tt23736044"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-18T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4829",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ferrari",
+    "id": 16362,
+    "alt_title": "Wonka í þriðja sinn á toppinum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726420_500-1702892158.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt3758542",
+      "http://imdb.com/title/tt3758542"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin gerist sumarið 1957. Fyrrum kappakstursmaður, Ferrari, er í vanda. Gjaldþrot vofir yfir fyrirtækinu sem hann og kona hans byggðu upp úr engu tíu árum áður. Stormasamt hjónaband þeirra stendur á brauðfótum á sama tíma og þau syrgja son sinn. Ferrari ákveður að taka áhættu og fara í einn kappakstur enn, eitt þúsund mílna leið yfir Ítalíu þvera og endilanga, hinn goðsagnakennda Mille Miglia.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-18T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804617/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Little Adults",
+    "id": 16305,
+    "alt_title": "Neljä pientä aikuista",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/qdhv73otx1iic2hvbkt5rbm9kpu-1686586026.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13868030",
+      "http://imdb.com/title/tt13868030"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Miðaldra par ákveður að opna hjónaband sitt eftir að upp kemst um framhjáhald eiginmannsins.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 122,
+    "language": [
+      "Finnska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pUTe_5161fE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-18T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4825",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -858,99 +900,6 @@
           "time": "2024-01-18T19:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4830",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Thanksgiving",
-    "id": 16426,
-    "alt_title": "Ekkert þarf að vera rökrétt",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1718083_500-1700473458.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1448754",
-      "http://imdb.com/title/tt1448754"
-    ],
-    "content_rating": "Bönnuð innan 18 ára",
-    "description": "Eftir að uppreisn á Svarta föstudeginum endar á hörmulegan hátt herjar dularfullur morðingi sem sækir innblástur í Þakkargjörðarhátíðina, á íbúa Plymouth, Massachusetts - sem er fæðingarbær hins alræmda frídags.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=KbU50SdL8zA",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-18T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374114/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Monster",
-    "id": 16301,
-    "alt_title": "Kaibutsu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23736044",
-      "http://imdb.com/title/tt23736044"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 126,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-18T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4829",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Four Little Adults",
-    "id": 16305,
-    "alt_title": "Neljä pientä aikuista",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/qdhv73otx1iic2hvbkt5rbm9kpu-1686586026.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13868030",
-      "http://imdb.com/title/tt13868030"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Miðaldra par ákveður að opna hjónaband sitt eftir að upp kemst um framhjáhald eiginmannsins.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 122,
-    "language": [
-      "Finnska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=pUTe_5161fE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-18T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4825",
-          "hall": "Salur 2"
         }
       ]
     }
