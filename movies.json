@@ -72,6 +72,13 @@
           "hall": "Salur 4"
         }
       ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-19T17:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374701/",
+          "hall": "Salur 1"
+        }
+      ],
       "Sambíóin Keflavík": [
         {
           "time": "2024-01-19T17:10:00.000Z",
@@ -81,13 +88,6 @@
         {
           "time": "2024-01-19T19:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374772/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-19T17:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374701/",
           "hall": "Salur 1"
         }
       ],
@@ -378,13 +378,13 @@
       "Sambíóin Álfabakka": [
         {
           "time": "2024-01-19T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374749/",
-          "hall": "Salur B"
+          "purchase_url": "http://www.sambio.is/websales/show/374755/",
+          "hall": "Lúxus VIP"
         },
         {
           "time": "2024-01-19T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374755/",
-          "hall": "Lúxus VIP"
+          "purchase_url": "http://www.sambio.is/websales/show/374749/",
+          "hall": "Salur B"
         },
         {
           "time": "2024-01-19T19:30:00.000Z",
@@ -621,6 +621,43 @@
     }
   },
   {
+    "title": "The Night of the 12th",
+    "id": 16186,
+    "alt_title": "La nuit du 12",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16186_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16953666",
+      "http://imdb.com/title/tt16953666"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?",
+    "genres": [
+      "Drama",
+      "Glæpa",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=58s-pXvTQss",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-19T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4848",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-01-19T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4848",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Strumparnir - Partýbíó",
     "id": 16692,
     "alt_title": "Leikstjórn",
@@ -758,169 +795,6 @@
           "time": "2024-01-19T21:30:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4564",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Night of the 12th",
-    "id": 16186,
-    "alt_title": "La nuit du 12",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16186_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16953666",
-      "http://imdb.com/title/tt16953666"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?",
-    "genres": [
-      "Drama",
-      "Glæpa",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=58s-pXvTQss",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-19T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4848",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-19T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4848",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Peasants",
-    "id": 16302,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10651230",
-      "http://imdb.com/title/tt10651230"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Teiknað"
-    ],
-    "duration_in_mins": 114,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-19T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4847",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Next Goal Wins",
-    "id": 16357,
-    "alt_title": "Ástin kom sá og sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1713308_500-1704546623.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10767052",
-      "http://imdb.com/title/tt10767052"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Sagan af hinu hræðilega lélega fótboltaliði Bandarísku Samóaeyja sem þekkt varð fyrir 31-0 tap gegn Ástralíu árið 2001. Nú er undankeppni fyrir heimsmeistaramótið 2014 á næsta leiti. Nýr þjálfari er ráðinn til að hífa gengi liðsins upp.",
-    "genres": [
-      "Gaman",
-      "Drama",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=pRH5u5lpArQ",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-19T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374765/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Fight Club",
-    "id": 1270,
-    "alt_title": "„Ég fagna öllum verkum okkar sem eldast illa“",
-    "release_year": 1999,
-    "poster_url": "https://kvikmyndir.is/images/poster/1270_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0137523",
-      "http://imdb.com/title/tt0137523"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Jack (Edward Norton) þjáist af svefnleysi og ofan á það lifir hann fyrir fína og flotta hluti sem hann á í dásamlegri íbúð sinni. Það verður þó ekki fyrr en að hann missir hér um bil allt saman að líf hans snýst algjörlega við. Hann kynnist sérvitrum einstaklingi að nafni Tyler Durden (Brad Pitt), og fyrr en varir hefur Durden kynnt hann fyrir bardagastað í neðanjarðarsenunni. Fltjólega dragast þeir inn í mikla hringiðu þar sem hlutirnir verða stjórnlausir, og þeir keppa um ástir og völd. En fljótt tekur \"klúbburinn\" stefnu sem enginn gat spáð fyrir um. Þegar sögumaðurinn fær að vita af leyndri áætlun bardagaklúbbs Tyler, þá þarf hann að viðurkenna fyrir sjálfum sér þann napra sannleika að Tyler er kannski ekki sá sem hann segist vera.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 139,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-19T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3668",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Wish",
-    "id": 16335,
-    "alt_title": "Ósk",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11304740",
-      "http://imdb.com/title/tt11304740"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-19T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374739/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -1080,6 +954,132 @@
           "time": "2024-01-19T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4845",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Peasants",
+    "id": 16302,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16302_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt10651230",
+      "http://imdb.com/title/tt10651230"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Teiknað"
+    ],
+    "duration_in_mins": 114,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=rcYfCa8vE9s",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-19T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4847",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Next Goal Wins",
+    "id": 16357,
+    "alt_title": "Ástin kom sá og sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1713308_500-1704546623.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt10767052",
+      "http://imdb.com/title/tt10767052"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Sagan af hinu hræðilega lélega fótboltaliði Bandarísku Samóaeyja sem þekkt varð fyrir 31-0 tap gegn Ástralíu árið 2001. Nú er undankeppni fyrir heimsmeistaramótið 2014 á næsta leiti. Nýr þjálfari er ráðinn til að hífa gengi liðsins upp.",
+    "genres": [
+      "Gaman",
+      "Drama",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pRH5u5lpArQ",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-19T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374765/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fight Club",
+    "id": 1270,
+    "alt_title": "„Ég fagna öllum verkum okkar sem eldast illa“",
+    "release_year": 1999,
+    "poster_url": "https://kvikmyndir.is/images/poster/1270_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0137523",
+      "http://imdb.com/title/tt0137523"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Jack (Edward Norton) þjáist af svefnleysi og ofan á það lifir hann fyrir fína og flotta hluti sem hann á í dásamlegri íbúð sinni. Það verður þó ekki fyrr en að hann missir hér um bil allt saman að líf hans snýst algjörlega við. Hann kynnist sérvitrum einstaklingi að nafni Tyler Durden (Brad Pitt), og fyrr en varir hefur Durden kynnt hann fyrir bardagastað í neðanjarðarsenunni. Fltjólega dragast þeir inn í mikla hringiðu þar sem hlutirnir verða stjórnlausir, og þeir keppa um ástir og völd. En fljótt tekur \"klúbburinn\" stefnu sem enginn gat spáð fyrir um. Þegar sögumaðurinn fær að vita af leyndri áætlun bardagaklúbbs Tyler, þá þarf hann að viðurkenna fyrir sjálfum sér þann napra sannleika að Tyler er kannski ekki sá sem hann segist vera.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 139,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-19T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3668",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wish",
+    "id": 16335,
+    "alt_title": "Ósk",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11304740",
+      "http://imdb.com/title/tt11304740"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-19T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374739/",
+          "hall": "Salur 3"
         }
       ]
     }
