@@ -55,23 +55,6 @@
           "hall": "Salur B"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-19T16:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106840&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-01-19T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106864&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-01-19T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106845&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2024-01-19T17:10:00.000Z",
@@ -128,6 +111,13 @@
           "time": "2024-01-19T19:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374627/",
           "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-01-19T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106845&visLang=1",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -334,138 +324,6 @@
     }
   },
   {
-    "title": "Wonka",
-    "id": 16293,
-    "alt_title": "Ástin kom sá og sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6166392",
-      "http://imdb.com/title/tt6166392"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-01-19T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106836&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-19T15:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106842&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-19T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805092/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-19T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374749/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-01-19T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374755/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2024-01-19T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374750/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-01-19T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374751/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-01-19T14:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374852/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-19T15:55:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805067/",
-          "hall": "AXL"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-19T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106838&visLang=1",
-          "hall": "MAX"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-19T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374758/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-01-19T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374760/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-19T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374624/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Piper",
     "id": 16513,
     "alt_title": "Kuldi andlegt framhald af Ég man þig",
@@ -520,6 +378,119 @@
           "time": "2024-01-19T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374788/",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-01-19T14:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374852/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-19T15:55:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805067/",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-19T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374758/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-01-19T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374760/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-19T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374624/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wonka",
+    "id": 16293,
+    "alt_title": "Ástin kom sá og sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6166392",
+      "http://imdb.com/title/tt6166392"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-19T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805092/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-19T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374749/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-01-19T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374755/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-01-19T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374750/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-01-19T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374751/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -621,30 +592,40 @@
     }
   },
   {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
+    "title": "Ferrari",
+    "id": 16362,
+    "alt_title": "Wonka í þriðja sinn á toppinum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726420_500-1702892158.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt3758542",
+      "http://imdb.com/title/tt3758542"
     ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin gerist sumarið 1957. Fyrrum kappakstursmaður, Ferrari, er í vanda. Gjaldþrot vofir yfir fyrirtækinu sem hann og kona hans byggðu upp úr engu tíu árum áður. Stormasamt hjónaband þeirra stendur á brauðfótum á sama tíma og þau syrgja son sinn. Ferrari ákveður að taka áhættu og fara í einn kappakstur enn, eitt þúsund mílna leið yfir Ítalíu þvera og endilanga, hinn goðsagnakennda Mille Miglia.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
     "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-19T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805093/",
+          "hall": "Salur B"
+        }
+      ],
       "Smárabíó": [
         {
-          "time": "2024-01-19T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106848&visLang=1",
+          "time": "2024-01-19T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106865&visLang=1",
           "hall": "Salur 4"
-        },
-        {
-          "time": "2024-01-19T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106849&visLang=1",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -761,45 +742,6 @@
     }
   },
   {
-    "title": "Ferrari",
-    "id": 16362,
-    "alt_title": "Wonka í þriðja sinn á toppinum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726420_500-1702892158.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt3758542",
-      "http://imdb.com/title/tt3758542"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin gerist sumarið 1957. Fyrrum kappakstursmaður, Ferrari, er í vanda. Gjaldþrot vofir yfir fyrirtækinu sem hann og kona hans byggðu upp úr engu tíu árum áður. Stormasamt hjónaband þeirra stendur á brauðfótum á sama tíma og þau syrgja son sinn. Ferrari ákveður að taka áhættu og fara í einn kappakstur enn, eitt þúsund mílna leið yfir Ítalíu þvera og endilanga, hinn goðsagnakennda Mille Miglia.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 130,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-19T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805093/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-19T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106865&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Wish",
     "id": 16335,
     "alt_title": "Ósk",
@@ -827,6 +769,36 @@
           "time": "2024-01-19T17:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374739/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fight Club",
+    "id": 1270,
+    "alt_title": "„Ég fagna öllum verkum okkar sem eldast illa“",
+    "release_year": 1999,
+    "poster_url": "https://kvikmyndir.is/images/poster/1477491_500-1705657605.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0137523",
+      "http://imdb.com/title/tt0137523"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Jack (Edward Norton) þjáist af svefnleysi og ofan á það lifir hann fyrir fína og flotta hluti sem hann á í dásamlegri íbúð sinni. Það verður þó ekki fyrr en að hann missir hér um bil allt saman að líf hans snýst algjörlega við. Hann kynnist sérvitrum einstaklingi að nafni Tyler Durden (Brad Pitt), og fyrr en varir hefur Durden kynnt hann fyrir bardagastað í neðanjarðarsenunni. Fltjólega dragast þeir inn í mikla hringiðu þar sem hlutirnir verða stjórnlausir, og þeir keppa um ástir og völd. En fljótt tekur \"klúbburinn\" stefnu sem enginn gat spáð fyrir um. Þegar sögumaðurinn fær að vita af leyndri áætlun bardagaklúbbs Tyler, þá þarf hann að viðurkenna fyrir sjálfum sér þann napra sannleika að Tyler er kannski ekki sá sem hann segist vera.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 139,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-19T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3668",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -862,36 +834,6 @@
           "time": "2024-01-19T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374786/",
           "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Fight Club",
-    "id": 1270,
-    "alt_title": "„Ég fagna öllum verkum okkar sem eldast illa“",
-    "release_year": 1999,
-    "poster_url": "https://kvikmyndir.is/images/poster/1477491_500-1705657605.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0137523",
-      "http://imdb.com/title/tt0137523"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Jack (Edward Norton) þjáist af svefnleysi og ofan á það lifir hann fyrir fína og flotta hluti sem hann á í dásamlegri íbúð sinni. Það verður þó ekki fyrr en að hann missir hér um bil allt saman að líf hans snýst algjörlega við. Hann kynnist sérvitrum einstaklingi að nafni Tyler Durden (Brad Pitt), og fyrr en varir hefur Durden kynnt hann fyrir bardagastað í neðanjarðarsenunni. Fltjólega dragast þeir inn í mikla hringiðu þar sem hlutirnir verða stjórnlausir, og þeir keppa um ástir og völd. En fljótt tekur \"klúbburinn\" stefnu sem enginn gat spáð fyrir um. Þegar sögumaðurinn fær að vita af leyndri áætlun bardagaklúbbs Tyler, þá þarf hann að viðurkenna fyrir sjálfum sér þann napra sannleika að Tyler er kannski ekki sá sem hann segist vera.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 139,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-19T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3668",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -988,6 +930,30 @@
           "time": "2024-01-19T21:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4849",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Strumparnir - Partýbíó",
+    "id": 16692,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
+    "genres": [],
+    "duration_in_mins": 60,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-01-19T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106849&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
