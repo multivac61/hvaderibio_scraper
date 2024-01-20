@@ -368,12 +368,14 @@
           "hall": "AXL"
         }
       ],
-      "Smárabíó": [
+      "Sambíóin Keflavík": [
         {
-          "time": "2024-01-20T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106876&visLang=1",
+          "time": "2024-01-20T14:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374764/",
           "hall": "Salur 2"
-        },
+        }
+      ],
+      "Smárabíó": [
         {
           "time": "2024-01-20T15:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106877&visLang=1",
@@ -382,13 +384,6 @@
         {
           "time": "2024-01-20T17:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106878&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-01-20T14:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374764/",
           "hall": "Salur 2"
         }
       ]
@@ -471,23 +466,18 @@
           "hall": "Salur B"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-01-20T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106891&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-01-20T15:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106892&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-01-20T14:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374967/",
           "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-01-20T15:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106892&visLang=1",
+          "hall": "Salur 5"
         }
       ],
       "Sambíóin Keflavík": [
@@ -629,6 +619,60 @@
     }
   },
   {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-20T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374631/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-20T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374632/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-20T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374705/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-20T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374706/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-20T17:35:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374707/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Iron Claw",
     "id": 16512,
     "alt_title": "Enn blómstrar ástin á toppnum",
@@ -740,94 +784,55 @@
     }
   },
   {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "title": "Soul",
+    "id": 12556,
+    "alt_title": "Þetta eru sigurvegararnir á Óskarnum 2021",
+    "release_year": 2020,
+    "poster_url": "https://kvikmyndir.is/images/poster/soul-1604496121.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
+      "http://imdb.com/title/tt2948372",
+      "http://imdb.com/title/tt2948372",
+      "https://www.themoviedb.org/tv/508442"
     ],
     "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "description": "Tónlistarmaðurinn Joe Gardner er í tilvistarkreppu. Hann elskar djass, en er búinn að gefa drauminn um að verða sjálfur djassleikari upp á bátinn. Dag einn dettur hann niður í holræsi og lendir á ævintýralegum stað þar sem hann þarf að hugsa upp á nýtt hvað það raunverulega þýðir að hafa sál.",
     "genres": [
       "Gaman",
       "Ævintýri",
+      "Fjölskylda",
+      "Tónlist",
       "Teiknað"
     ],
-    "duration_in_mins": 92,
+    "duration_in_mins": 100,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "trailer_url": "https://www.youtube.com/watch?v=4TojlZYqPUo",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-01-20T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374631/",
+          "time": "2024-01-20T12:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374940/",
           "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-20T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374632/",
-          "hall": "Salur 3"
         }
       ],
-      "Sambíóin Akureyri": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-01-20T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374705/",
-          "hall": "Salur 2"
+          "time": "2024-01-20T12:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374939/",
+          "hall": "Salur A"
         },
         {
-          "time": "2024-01-20T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374706/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-20T17:35:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374707/",
-          "hall": "Salur 2"
+          "time": "2024-01-20T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374932/",
+          "hall": "Salur A"
         }
-      ]
-    }
-  },
-  {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
+      ],
+      "Sambíóin Keflavík": [
         {
-          "time": "2024-01-20T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106635&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-01-20T14:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106636&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-01-20T16:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106637&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-01-20T18:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106638&visLang=1",
-          "hall": "MAX"
+          "time": "2024-01-20T14:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374787/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -881,55 +886,35 @@
     }
   },
   {
-    "title": "Soul",
-    "id": 12556,
-    "alt_title": "Þetta eru sigurvegararnir á Óskarnum 2021",
-    "release_year": 2020,
-    "poster_url": "https://kvikmyndir.is/images/poster/soul-1604496121.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt2948372",
-      "http://imdb.com/title/tt2948372",
-      "https://www.themoviedb.org/tv/508442"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Tónlistarmaðurinn Joe Gardner er í tilvistarkreppu. Hann elskar djass, en er búinn að gefa drauminn um að verða sjálfur djassleikari upp á bátinn. Dag einn dettur hann niður í holræsi og lendir á ævintýralegum stað þar sem hann þarf að hugsa upp á nýtt hvað það raunverulega þýðir að hafa sál.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda",
-      "Tónlist",
-      "Teiknað"
-    ],
-    "duration_in_mins": 100,
+    "title": "Strumparnir - Partýbíó",
+    "id": 16692,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
+    "genres": [],
+    "duration_in_mins": 60,
     "language": [
-      "Enska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=4TojlZYqPUo",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Smárabíó": [
         {
-          "time": "2024-01-20T12:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374940/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-20T12:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374939/",
-          "hall": "Salur A"
+          "time": "2024-01-20T14:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106636&visLang=1",
+          "hall": "MAX"
         },
         {
-          "time": "2024-01-20T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374932/",
-          "hall": "Salur A"
-        }
-      ],
-      "Sambíóin Keflavík": [
+          "time": "2024-01-20T16:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106637&visLang=1",
+          "hall": "MAX"
+        },
         {
-          "time": "2024-01-20T14:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374787/",
-          "hall": "Salur 1"
+          "time": "2024-01-20T18:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106638&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
