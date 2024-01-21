@@ -186,6 +186,18 @@
           "hall": "Salur 2"
         }
       ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-01-21T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374968/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-21T16:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374855/",
+          "hall": "Salur 2"
+        }
+      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-01-21T13:00:00.000Z",
@@ -208,18 +220,6 @@
           "time": "2024-01-21T13:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374715/",
           "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-01-21T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374968/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-21T16:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374855/",
-          "hall": "Salur 2"
         }
       ],
       "Laugarásbíó": [
@@ -286,13 +286,13 @@
       "Sambíóin Álfabakka": [
         {
           "time": "2024-01-21T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374823/",
-          "hall": "Salur B"
+          "purchase_url": "http://www.sambio.is/websales/show/374754/",
+          "hall": "Lúxus VIP"
         },
         {
           "time": "2024-01-21T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374754/",
-          "hall": "Lúxus VIP"
+          "purchase_url": "http://www.sambio.is/websales/show/374823/",
+          "hall": "Salur B"
         },
         {
           "time": "2024-01-21T15:20:00.000Z",
@@ -657,18 +657,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-21T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374809/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-21T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374741/",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-01-21T13:00:00.000Z",
@@ -679,6 +667,18 @@
           "time": "2024-01-21T15:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374638/",
           "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-21T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374809/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-21T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374741/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -917,43 +917,6 @@
     }
   },
   {
-    "title": "Napoleon",
-    "id": 16119,
-    "alt_title": "Súkkulaðið sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13287846",
-      "http://imdb.com/title/tt13287846"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 158,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-21T16:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374817/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2024-01-21T19:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374816/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Three Musketeers: D'Artagnan",
     "id": 16648,
     "alt_title": "Les trois mousquetaires: D'Artagnan",
@@ -986,6 +949,43 @@
           "time": "2024-01-21T18:30:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4581",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Napoleon",
+    "id": 16119,
+    "alt_title": "Súkkulaðið sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13287846",
+      "http://imdb.com/title/tt13287846"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 158,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-21T16:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374817/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-01-21T19:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374816/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1028,6 +1028,42 @@
     }
   },
   {
+    "title": "Just the Two of Us",
+    "id": 16645,
+    "alt_title": "L'amour et les forêts",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16645_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23049206",
+      "http://imdb.com/title/tt23049206"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar Blance hittir Grégoire þá finnst henni hún hafa fundið þann eina rétta. Böndin sem binda þau saman styrkjast með hverjum deginum og ástríðufullt samband hefst. Þau koma sér fyrir á nýjum stað. Blanche hefur nýtt líf langt í burtu frá fjölskyldu sinni, og tvíburasysturinni Rose. En smátt og smátt herðir Grégoire tökin og hún áttar sig á að hann er hrikalega drottnunargjarn og hættulegur maður.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0j-jsIK_wYc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-21T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4582",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-21T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4582",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Ferrari",
     "id": 16362,
     "alt_title": "Wonka í þriðja sinn á toppinum",
@@ -1062,42 +1098,6 @@
           "time": "2024-01-21T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106913&visLang=1",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Just the Two of Us",
-    "id": 16645,
-    "alt_title": "L'amour et les forêts",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16645_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23049206",
-      "http://imdb.com/title/tt23049206"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar Blance hittir Grégoire þá finnst henni hún hafa fundið þann eina rétta. Böndin sem binda þau saman styrkjast með hverjum deginum og ástríðufullt samband hefst. Þau koma sér fyrir á nýjum stað. Blanche hefur nýtt líf langt í burtu frá fjölskyldu sinni, og tvíburasysturinni Rose. En smátt og smátt herðir Grégoire tökin og hún áttar sig á að hann er hrikalega drottnunargjarn og hættulegur maður.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0j-jsIK_wYc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-21T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4582",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-21T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4582",
-          "hall": "Salur 2"
         }
       ]
     }
