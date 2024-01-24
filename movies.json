@@ -152,18 +152,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-24T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374718/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-24T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374719/",
-          "hall": "Salur 1"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-01-24T17:30:00.000Z",
@@ -174,6 +162,18 @@
           "time": "2024-01-24T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374676/",
           "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-24T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374718/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-24T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374719/",
+          "hall": "Salur 1"
         }
       ],
       "Smárabíó": [
@@ -425,51 +425,6 @@
     }
   },
   {
-    "title": "The Iron Claw",
-    "id": 16512,
-    "alt_title": "Enn blómstrar ástin á toppnum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21064584",
-      "http://imdb.com/title/tt21064584"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
-    "genres": [
-      "Drama",
-      "Æviágrip",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 130,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-24T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374685/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-24T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374726/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-24T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805807/",
-          "hall": "AXL"
-        }
-      ]
-    }
-  },
-  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -515,6 +470,117 @@
     }
   },
   {
+    "title": "The Iron Claw",
+    "id": 16512,
+    "alt_title": "Enn blómstrar ástin á toppnum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21064584",
+      "http://imdb.com/title/tt21064584"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
+    "genres": [
+      "Drama",
+      "Æviágrip",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-24T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374685/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-24T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374726/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-24T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805807/",
+          "hall": "AXL"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Night of the 12th",
+    "id": 16186,
+    "alt_title": "La nuit du 12",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16186_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16953666",
+      "http://imdb.com/title/tt16953666"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?",
+    "genres": [
+      "Drama",
+      "Glæpa",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=58s-pXvTQss",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-24T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4879",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-01-24T21:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4881",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Strumparnir - Partýbíó",
+    "id": 16692,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
+    "genres": [],
+    "duration_in_mins": 60,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-01-24T15:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106983&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-01-24T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106989&visLang=1",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Ferrari",
     "id": 16362,
     "alt_title": "Wonka í þriðja sinn á toppinum",
@@ -549,35 +615,6 @@
           "time": "2024-01-24T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106997&visLang=1",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-01-24T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106983&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-01-24T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106989&visLang=1",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -730,38 +767,33 @@
     }
   },
   {
-    "title": "The Night of the 12th",
-    "id": 16186,
-    "alt_title": "La nuit du 12",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16186_500.jpg",
+    "title": "Next Goal Wins",
+    "id": 16357,
+    "alt_title": "Ástin kom sá og sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1713308_500-1704546623.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt16953666",
-      "http://imdb.com/title/tt16953666"
+      "http://imdb.com/title/tt10767052",
+      "http://imdb.com/title/tt10767052"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?",
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Sagan af hinu hræðilega lélega fótboltaliði Bandarísku Samóaeyja sem þekkt varð fyrir 31-0 tap gegn Ástralíu árið 2001. Nú er undankeppni fyrir heimsmeistaramótið 2014 á næsta leiti. Nýr þjálfari er ráðinn til að hífa gengi liðsins upp.",
     "genres": [
+      "Gaman",
       "Drama",
-      "Glæpa",
-      "Ráðgáta"
+      "Íþróttir"
     ],
-    "duration_in_mins": 115,
+    "duration_in_mins": 104,
     "language": [
-      "Franska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=58s-pXvTQss",
+    "trailer_url": "https://www.youtube.com/watch?v=pRH5u5lpArQ",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-01-24T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4879",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-24T21:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4881",
-          "hall": "Salur 1"
+          "time": "2024-01-24T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374869/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -797,6 +829,37 @@
     }
   },
   {
+    "title": "Monster",
+    "id": 16301,
+    "alt_title": "Kaibutsu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23736044",
+      "http://imdb.com/title/tt23736044"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-24T16:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4880",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Wish",
     "id": 16335,
     "alt_title": "Ósk",
@@ -824,37 +887,6 @@
           "time": "2024-01-24T17:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/374807/",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Monster",
-    "id": 16301,
-    "alt_title": "Kaibutsu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23736044",
-      "http://imdb.com/title/tt23736044"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 126,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-24T16:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4880",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -957,38 +989,6 @@
     }
   },
   {
-    "title": "The Dark Knight Rises",
-    "id": 7190,
-    "alt_title": "Batman 3",
-    "release_year": 2012,
-    "poster_url": "https://kvikmyndir.is/images/poster/l_1345836_09361feb-1343172143.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1345836",
-      "http://imdb.com/title/tt1345836",
-      "https://www.themoviedb.org/tv/49026"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Átta ár eru liðin síðan Batman tók á sig ábyrgðina fyrir glæpi glæpaforingjans Two Face. Nú er kominn nýr hryðjuverkaleiðtogi fram á sjónarsviðið, Bane. Hann veldur ógn og skelfingu í Gotham borg, og svarti riddarinn, Dark Knight, ákveður að snúa aftur til borgarinnar sem lítur á hann sem óvin, og hjálpa lögregluliði Gotham að hindra að illar fyrirætlanir Bane nái fram að ganga.",
-    "genres": [
-      "Spenna",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 165,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=g8evyE9TuYk",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-24T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374617/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Smoke Sauna Sisterhood",
     "id": 16306,
     "alt_title": "Leikstjórn",
@@ -1019,33 +1019,33 @@
     }
   },
   {
-    "title": "Next Goal Wins",
-    "id": 16357,
-    "alt_title": "Ástin kom sá og sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1713308_500-1704546623.jpg",
+    "title": "The Dark Knight Rises",
+    "id": 7190,
+    "alt_title": "Batman 3",
+    "release_year": 2012,
+    "poster_url": "https://kvikmyndir.is/images/poster/l_1345836_09361feb-1343172143.jpeg",
     "rating_urls": [
-      "http://imdb.com/title/tt10767052",
-      "http://imdb.com/title/tt10767052"
+      "http://imdb.com/title/tt1345836",
+      "http://imdb.com/title/tt1345836",
+      "https://www.themoviedb.org/tv/49026"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Sagan af hinu hræðilega lélega fótboltaliði Bandarísku Samóaeyja sem þekkt varð fyrir 31-0 tap gegn Ástralíu árið 2001. Nú er undankeppni fyrir heimsmeistaramótið 2014 á næsta leiti. Nýr þjálfari er ráðinn til að hífa gengi liðsins upp.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Átta ár eru liðin síðan Batman tók á sig ábyrgðina fyrir glæpi glæpaforingjans Two Face. Nú er kominn nýr hryðjuverkaleiðtogi fram á sjónarsviðið, Bane. Hann veldur ógn og skelfingu í Gotham borg, og svarti riddarinn, Dark Knight, ákveður að snúa aftur til borgarinnar sem lítur á hann sem óvin, og hjálpa lögregluliði Gotham að hindra að illar fyrirætlanir Bane nái fram að ganga.",
     "genres": [
-      "Gaman",
-      "Drama",
-      "Íþróttir"
+      "Spenna",
+      "Ævintýri"
     ],
-    "duration_in_mins": 104,
+    "duration_in_mins": 165,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=pRH5u5lpArQ",
+    "trailer_url": "https://www.youtube.com/watch?v=g8evyE9TuYk",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-01-24T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/374869/",
-          "hall": "Salur 2"
+          "time": "2024-01-24T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/374617/",
+          "hall": "Salur 1"
         }
       ]
     }
