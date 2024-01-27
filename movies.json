@@ -20,6 +20,43 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
     "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-27T14:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805824/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-01-27T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804500/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-01-27T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804501/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-01-27T19:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805825/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-01-27T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804502/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-01-27T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805826/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-01-27T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804503/",
+          "hall": "AXL"
+        }
+      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-01-27T14:00:00.000Z",
@@ -60,43 +97,6 @@
           "time": "2024-01-27T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375018/",
           "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-27T14:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805824/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-01-27T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804500/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-01-27T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804501/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-01-27T19:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805825/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-01-27T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804502/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-01-27T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805826/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-01-27T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804503/",
-          "hall": "AXL"
         }
       ],
       "Bíó Paradís": [
@@ -440,75 +440,6 @@
     }
   },
   {
-    "title": "Wonka",
-    "id": 16293,
-    "alt_title": "Ástin kom sá og sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6166392",
-      "http://imdb.com/title/tt6166392"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-27T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375151/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2024-01-27T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375141/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-01-27T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375140/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-01-27T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375058/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-01-27T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375149/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-01-27T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375067/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-01-27T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375068/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-01-27T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375386/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Poor Things",
     "id": 16355,
     "alt_title": "Anyone But You komin í 28 milljónir",
@@ -574,6 +505,75 @@
           "time": "2024-01-27T21:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375241/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wonka",
+    "id": 16293,
+    "alt_title": "Ástin kom sá og sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6166392",
+      "http://imdb.com/title/tt6166392"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-27T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375151/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-01-27T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375141/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-01-27T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375140/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-01-27T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375058/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-01-27T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375149/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-01-27T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375067/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-01-27T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375068/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-01-27T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375386/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -834,6 +834,38 @@
           "time": "2024-01-27T16:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805829/",
           "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Nature of Love",
+    "id": 16644,
+    "alt_title": "Simple comme Sylvain",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16644_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22487338",
+      "http://imdb.com/title/tt22487338"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sophia er heimspekiprófessor í Montreal í Kanada og hefur búið með Xavier í tíu ár. Sylvain er smiður í Laurentians og er fenginn til að gera við sumarbústaðinn. Þegar Sophia hittir Sylvain í fyrsta skipti er það ást við fyrstu sýn. Andstæður laðast að hvor annarri, en mun það endast?",
+    "genres": [
+      "Gaman",
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=LJEGwAIcKIY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-27T16:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4595",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1210,38 +1242,6 @@
           "time": "2024-01-27T16:30:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4576",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Nature of Love",
-    "id": 16644,
-    "alt_title": "Simple comme Sylvain",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16644_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22487338",
-      "http://imdb.com/title/tt22487338"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sophia er heimspekiprófessor í Montreal í Kanada og hefur búið með Xavier í tíu ár. Sylvain er smiður í Laurentians og er fenginn til að gera við sumarbústaðinn. Þegar Sophia hittir Sylvain í fyrsta skipti er það ást við fyrstu sýn. Andstæður laðast að hvor annarri, en mun það endast?",
-    "genres": [
-      "Gaman",
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=LJEGwAIcKIY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-27T16:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4595",
-          "hall": "Salur 2"
         }
       ]
     }
