@@ -67,6 +67,33 @@
           "hall": "MAX"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-28T14:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805833/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-01-28T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804504/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-01-28T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804505/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-01-28T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804506/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-01-28T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804507/",
+          "hall": "AXL"
+        }
+      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-01-28T14:00:00.000Z",
@@ -107,33 +134,6 @@
           "time": "2024-01-28T21:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375008/",
           "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-28T14:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805833/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-01-28T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804504/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-01-28T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804505/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-01-28T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804506/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-01-28T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/804507/",
-          "hall": "AXL"
         }
       ],
       "Sambíóin Akureyri": [
@@ -759,6 +759,57 @@
     }
   },
   {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-28T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375280/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-28T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375278/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-28T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375279/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-01-28T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375384/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Iron Claw",
     "id": 16512,
     "alt_title": "Enn blómstrar ástin á toppnum",
@@ -807,52 +858,35 @@
     }
   },
   {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
+    "title": "Strumparnir - Partýbíó",
+    "id": 16692,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
+    "genres": [],
+    "duration_in_mins": 60,
     "language": [
-      "Enska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
     "cinema_showtimes": {
-      "Sambíóin Akureyri": [
+      "Smárabíó": [
         {
           "time": "2024-01-28T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375280/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-28T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375278/",
-          "hall": "Salur 2"
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106611&visLang=1",
+          "hall": "Salur 5"
         },
         {
-          "time": "2024-01-28T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375279/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Keflavík": [
+          "time": "2024-01-28T14:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106612&visLang=1",
+          "hall": "Salur 5"
+        },
         {
-          "time": "2024-01-28T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375384/",
-          "hall": "Salur 2"
+          "time": "2024-01-28T16:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107326&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -948,40 +982,6 @@
     }
   },
   {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-01-28T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106611&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-01-28T14:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106612&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-01-28T16:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107326&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Piper",
     "id": 16513,
     "alt_title": "Kuldi andlegt framhald af Ég man þig",
@@ -1017,6 +1017,165 @@
     }
   },
   {
+    "title": "Quantum of Solace",
+    "id": 3876,
+    "alt_title": "James Bond 22, B22, Bond 22",
+    "release_year": 2008,
+    "poster_url": "https://kvikmyndir.is/images/poster/3876_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0830515",
+      "http://imdb.com/title/tt0830515"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Bond er búinn að handsama manninn sem kúgaði Vesper Lynd og hefur rannsókn á glæpasamtökunum sem hann er hluti af.  Engar upplýsingar eru til um þessi samtök hjá bresku leyniþjónustunni.  Þegar það kemur síðan í ljós að hátt settir aðilar innan MI5 eru á mála hjá samtökunum verður það augljóst hversu öflug þessi samtök eru.  Á sama tíma eru yfirmenn MI5 ekki vissir um að þeir geti treyst James Bond sem virðist hafa meiri áhuga á að hefna fyrir dauða Vesper.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 106,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Q4jY8WxcFMo",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-28T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375036/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Black Pharaoh, the Savage and the Princess",
+    "id": 16647,
+    "alt_title": "Le pharaon, le sauvage et la princesse",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16647_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt18260116",
+      "http://imdb.com/title/tt18260116"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Þrjár sögur, þrjár aldir, þrír heimar. Á tímum Forn-egypta verður ungur konungur fyrsti svarti faraóinn til að verðskulda að giftast þeirri sem hann elskar. Á miðöldum í Frakklandi stelur dularfullur villi-drengur frá hinum ríku og gefur þeim fátæku. Í Tyrklandi á 18. öld flýr bakaraprins og rósaprinsessa höllina til að geta lifað lífinu saman.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 83,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=bOIjqC2rJek",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-28T14:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4594",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Next Goal Wins",
+    "id": 16357,
+    "alt_title": "Ástin kom sá og sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1713308_500-1704546623.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt10767052",
+      "http://imdb.com/title/tt10767052"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Sagan af hinu hræðilega lélega fótboltaliði Bandarísku Samóaeyja sem þekkt varð fyrir 31-0 tap gegn Ástralíu árið 2001. Nú er undankeppni fyrir heimsmeistaramótið 2014 á næsta leiti. Nýr þjálfari er ráðinn til að hífa gengi liðsins upp.",
+    "genres": [
+      "Gaman",
+      "Drama",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=pRH5u5lpArQ",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-28T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375085/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Night of the 12th",
+    "id": 16186,
+    "alt_title": "La nuit du 12",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16186_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16953666",
+      "http://imdb.com/title/tt16953666"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?",
+    "genres": [
+      "Drama",
+      "Glæpa",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=58s-pXvTQss",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-28T21:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4905",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ferrari",
+    "id": 16362,
+    "alt_title": "Wonka í þriðja sinn á toppinum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726420_500-1702892158.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt3758542",
+      "http://imdb.com/title/tt3758542"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin gerist sumarið 1957. Fyrrum kappakstursmaður, Ferrari, er í vanda. Gjaldþrot vofir yfir fyrirtækinu sem hann og kona hans byggðu upp úr engu tíu árum áður. Stormasamt hjónaband þeirra stendur á brauðfótum á sama tíma og þau syrgja son sinn. Ferrari ákveður að taka áhættu og fara í einn kappakstur enn, eitt þúsund mílna leið yfir Ítalíu þvera og endilanga, hinn goðsagnakennda Mille Miglia.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-28T20:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/806111/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
     "title": "Suddenly",
     "id": 16651,
     "alt_title": "Soudain seuls",
@@ -1043,38 +1202,6 @@
           "time": "2024-01-28T19:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4598",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Napoleon",
-    "id": 16119,
-    "alt_title": "Súkkulaðið sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13287846",
-      "http://imdb.com/title/tt13287846"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 158,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-28T19:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375056/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -1144,6 +1271,38 @@
     }
   },
   {
+    "title": "Napoleon",
+    "id": 16119,
+    "alt_title": "Súkkulaðið sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13287846",
+      "http://imdb.com/title/tt13287846"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 158,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-28T19:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375056/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Time That Remains",
     "id": 16679,
     "alt_title": "Leikstjórn",
@@ -1170,38 +1329,6 @@
           "time": "2024-01-28T19:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4754",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Quantum of Solace",
-    "id": 3876,
-    "alt_title": "James Bond 22, B22, Bond 22",
-    "release_year": 2008,
-    "poster_url": "https://kvikmyndir.is/images/poster/3876_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0830515",
-      "http://imdb.com/title/tt0830515"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Bond er búinn að handsama manninn sem kúgaði Vesper Lynd og hefur rannsókn á glæpasamtökunum sem hann er hluti af.  Engar upplýsingar eru til um þessi samtök hjá bresku leyniþjónustunni.  Þegar það kemur síðan í ljós að hátt settir aðilar innan MI5 eru á mála hjá samtökunum verður það augljóst hversu öflug þessi samtök eru.  Á sama tíma eru yfirmenn MI5 ekki vissir um að þeir geti treyst James Bond sem virðist hafa meiri áhuga á að hefna fyrir dauða Vesper.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 106,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Q4jY8WxcFMo",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-28T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375036/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -1238,38 +1365,6 @@
     }
   },
   {
-    "title": "Next Goal Wins",
-    "id": 16357,
-    "alt_title": "Ástin kom sá og sigraði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1713308_500-1704546623.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10767052",
-      "http://imdb.com/title/tt10767052"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Sagan af hinu hræðilega lélega fótboltaliði Bandarísku Samóaeyja sem þekkt varð fyrir 31-0 tap gegn Ástralíu árið 2001. Nú er undankeppni fyrir heimsmeistaramótið 2014 á næsta leiti. Nýr þjálfari er ráðinn til að hífa gengi liðsins upp.",
-    "genres": [
-      "Gaman",
-      "Drama",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=pRH5u5lpArQ",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-28T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375085/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -1297,101 +1392,6 @@
           "time": "2024-01-28T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4900",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Black Pharaoh, the Savage and the Princess",
-    "id": 16647,
-    "alt_title": "Le pharaon, le sauvage et la princesse",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16647_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt18260116",
-      "http://imdb.com/title/tt18260116"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Þrjár sögur, þrjár aldir, þrír heimar. Á tímum Forn-egypta verður ungur konungur fyrsti svarti faraóinn til að verðskulda að giftast þeirri sem hann elskar. Á miðöldum í Frakklandi stelur dularfullur villi-drengur frá hinum ríku og gefur þeim fátæku. Í Tyrklandi á 18. öld flýr bakaraprins og rósaprinsessa höllina til að geta lifað lífinu saman.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 83,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=bOIjqC2rJek",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-28T14:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4594",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Night of the 12th",
-    "id": 16186,
-    "alt_title": "La nuit du 12",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16186_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16953666",
-      "http://imdb.com/title/tt16953666"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?",
-    "genres": [
-      "Drama",
-      "Glæpa",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=58s-pXvTQss",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-01-28T21:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4905",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Ferrari",
-    "id": 16362,
-    "alt_title": "Wonka í þriðja sinn á toppinum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726420_500-1702892158.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt3758542",
-      "http://imdb.com/title/tt3758542"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin gerist sumarið 1957. Fyrrum kappakstursmaður, Ferrari, er í vanda. Gjaldþrot vofir yfir fyrirtækinu sem hann og kona hans byggðu upp úr engu tíu árum áður. Stormasamt hjónaband þeirra stendur á brauðfótum á sama tíma og þau syrgja son sinn. Ferrari ákveður að taka áhættu og fara í einn kappakstur enn, eitt þúsund mílna leið yfir Ítalíu þvera og endilanga, hinn goðsagnakennda Mille Miglia.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 130,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ERIBTIlVVJQ",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-28T20:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/806111/",
-          "hall": "Salur B"
         }
       ]
     }
