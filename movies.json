@@ -520,6 +520,13 @@
       "Enska"
     ],
     "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-30T20:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805854/",
+          "hall": "Salur A"
+        }
+      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-01-30T20:30:00.000Z",
@@ -530,13 +537,6 @@
           "time": "2024-01-30T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375669/",
           "hall": "Salur 4"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-30T20:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805854/",
-          "hall": "Salur A"
         }
       ]
     }
