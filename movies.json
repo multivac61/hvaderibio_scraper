@@ -57,17 +57,14 @@
           "hall": "Salur 1"
         }
       ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-30T17:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375363/",
+          "hall": "Salur 1"
+        }
+      ],
       "Smárabíó": [
-        {
-          "time": "2024-01-30T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107184&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-01-30T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107186&visLang=1",
-          "hall": "LÚXUS"
-        },
         {
           "time": "2024-01-30T17:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107189&visLang=1",
@@ -97,13 +94,6 @@
           "time": "2024-01-30T21:50:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107196&visLang=1",
           "hall": "MAX"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-30T17:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375363/",
-          "hall": "Salur 1"
         }
       ],
       "Laugarásbíó": [
@@ -139,6 +129,88 @@
         {
           "time": "2024-01-30T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375402/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Poor Things",
+    "id": 16355,
+    "alt_title": "Fullt hús fór beint á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14230458",
+      "http://imdb.com/title/tt14230458"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
+    "genres": [
+      "Rómantík",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 141,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-01-30T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375252/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-01-30T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375253/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-01-30T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375254/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-30T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375247/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-30T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375125/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-01-30T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375248/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-01-30T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375126/",
+          "hall": "Lúxus VIP"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-01-30T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375679/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-01-30T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375680/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-01-30T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375364/",
           "hall": "Salur 1"
         }
       ]
@@ -315,88 +387,6 @@
     }
   },
   {
-    "title": "Poor Things",
-    "id": 16355,
-    "alt_title": "Fullt hús fór beint á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14230458",
-      "http://imdb.com/title/tt14230458"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
-    "genres": [
-      "Rómantík",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 141,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-01-30T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375252/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-30T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375253/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-30T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375254/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-30T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375247/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-30T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375125/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2024-01-30T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375248/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-01-30T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375126/",
-          "hall": "Lúxus VIP"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-01-30T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375679/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-01-30T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375680/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-01-30T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375364/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -418,13 +408,6 @@
       "Enska"
     ],
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-01-30T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107330&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-01-30T17:00:00.000Z",
@@ -498,92 +481,6 @@
     }
   },
   {
-    "title": "Aquaman and the Lost Kingdom",
-    "id": 16298,
-    "alt_title": "Wonka í þriðja sinn á toppinum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726470_500-1700665469.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt9663764",
-      "http://imdb.com/title/tt9663764"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Black Manta, sem mistókst að sigra Aquaman í fyrstu atrennu, er enn ákafur í að hefna föður síns, og mun ekki hætta fyrr en Aquaman er allur. Black Manta er óárennilegri en nokkru sinni fyrr og hefur öðlast krafta hins goðsagnakennda svarta þríforks, sem leysir úr læðingi ævaforna og illa orku. Til að sigra í þessari baráttu snýr Aquaman sér til bróður síns Orm, fyrrum konungs Atlantis, og biður um aðstoð. Saman þurfa þeir að leggja eigin ágreiningsmál til hliðar til að vernda konungsríkið og bjarga fjölskyldu Aquaman og heiminum öllum frá gereyðingu.",
-    "genres": [
-      "Spenna",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=FV3bqvOHRQo",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-01-30T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107199&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-30T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375152/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-01-30T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375153/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-01-30T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107185&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-01-30T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107188&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-01-30T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805852/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Iron Claw",
     "id": 16512,
     "alt_title": "Enn blómstrar ástin á toppnum",
@@ -627,38 +524,44 @@
     }
   },
   {
-    "title": "Godzilla Minus One",
-    "id": 16568,
-    "alt_title": "Gojira -1.0",
+    "title": "Aquaman and the Lost Kingdom",
+    "id": 16298,
+    "alt_title": "Wonka í þriðja sinn á toppinum",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16568_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1726470_500-1700665469.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt23289160",
-      "http://imdb.com/title/tt23289160"
+      "http://imdb.com/title/tt9663764",
+      "http://imdb.com/title/tt9663764"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Risaófreskjan Godzilla, sem sækir líf sitt og kraft í ofurmátt kjarnorkusprengjunnar, birtist í Japan á eftirstríðsárunum, þegar þjóðfélagið er í sárum, og lemur landið enn lengra niður í svartnættið.",
+    "description": "Black Manta, sem mistókst að sigra Aquaman í fyrstu atrennu, er enn ákafur í að hefna föður síns, og mun ekki hætta fyrr en Aquaman er allur. Black Manta er óárennilegri en nokkru sinni fyrr og hefur öðlast krafta hins goðsagnakennda svarta þríforks, sem leysir úr læðingi ævaforna og illa orku. Til að sigra í þessari baráttu snýr Aquaman sér til bróður síns Orm, fyrrum konungs Atlantis, og biður um aðstoð. Saman þurfa þeir að leggja eigin ágreiningsmál til hliðar til að vernda konungsríkið og bjarga fjölskyldu Aquaman og heiminum öllum frá gereyðingu.",
     "genres": [
       "Spenna",
-      "Drama",
       "Ævintýri"
     ],
-    "duration_in_mins": 125,
+    "duration_in_mins": 115,
     "language": [
-      "Japanska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=VvSrHIX5a-0",
+    "trailer_url": "https://www.youtube.com/watch?v=FV3bqvOHRQo",
     "cinema_showtimes": {
       "Smárabíó": [
         {
+          "time": "2024-01-30T17:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107199&visLang=1",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
           "time": "2024-01-30T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107352&visLang=1",
-          "hall": "Salur 2"
+          "purchase_url": "http://www.sambio.is/websales/show/375152/",
+          "hall": "Salur A"
         },
         {
-          "time": "2024-01-30T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107353&visLang=1",
-          "hall": "Salur 2"
+          "time": "2024-01-30T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375153/",
+          "hall": "Salur A"
         }
       ]
     }
@@ -701,130 +604,76 @@
     }
   },
   {
-    "title": "Soul",
-    "id": 12556,
-    "alt_title": "Þetta eru sigurvegararnir á Óskarnum 2021",
-    "release_year": 2020,
-    "poster_url": "https://kvikmyndir.is/images/poster/soul-1604496121.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt2948372",
-      "http://imdb.com/title/tt2948372",
-      "https://www.themoviedb.org/tv/508442"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Tónlistarmaðurinn Joe Gardner er í tilvistarkreppu. Hann elskar djass, en er búinn að gefa drauminn um að verða sjálfur djassleikari upp á bátinn. Dag einn dettur hann niður í holræsi og lendir á ævintýralegum stað þar sem hann þarf að hugsa upp á nýtt hvað það raunverulega þýðir að hafa sál.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda",
-      "Tónlist",
-      "Teiknað"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=4TojlZYqPUo",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-30T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375203/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Napoleon",
-    "id": 16119,
-    "alt_title": "Súkkulaðið sigraði",
+    "title": "Godzilla Minus One",
+    "id": 16568,
+    "alt_title": "Gojira -1.0",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16568_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13287846",
-      "http://imdb.com/title/tt13287846"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 158,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-01-30T19:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375132/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Monster",
-    "id": 16301,
-    "alt_title": "Kaibutsu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23736044",
-      "http://imdb.com/title/tt23736044"
+      "http://imdb.com/title/tt23289160",
+      "http://imdb.com/title/tt23289160"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "description": "Risaófreskjan Godzilla, sem sækir líf sitt og kraft í ofurmátt kjarnorkusprengjunnar, birtist í Japan á eftirstríðsárunum, þegar þjóðfélagið er í sárum, og lemur landið enn lengra niður í svartnættið.",
     "genres": [
+      "Spenna",
       "Drama",
-      "Spennutryllir"
+      "Ævintýri"
     ],
-    "duration_in_mins": 126,
+    "duration_in_mins": 125,
     "language": [
       "Japanska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "trailer_url": "https://www.youtube.com/watch?v=VvSrHIX5a-0",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Smárabíó": [
         {
-          "time": "2024-01-30T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4931",
+          "time": "2024-01-30T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107352&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-01-30T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107353&visLang=1",
           "hall": "Salur 2"
         }
       ]
     }
   },
   {
-    "title": "Suddenly",
-    "id": 16651,
-    "alt_title": "Soudain seuls",
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16651_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14904622",
-      "http://imdb.com/title/tt14904622"
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ben og Laura eru ástríðufullt en viðkvæmt par sem fer í siglingu í kringum heiminn til að endurnýja samband sitt. Á leiðinni ákveða þau að skoða eyðieyju undan ströndum Síle. Þau lenda í óveðri og leita skjóls í yfirgefinni hvalstöð. Næsta morgun uppgötva þau að báturinn er horfinn. Nú eru þau strand í óvinveittu umhverfi án fjarskipta. Birgðir eru fljótt á þrotum og veturinn nálgast. Nú reynir á þau og samband þeirra.",
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
     "genres": [
-      "Drama",
-      "Spennutryllir"
+      "Fjölskylda",
+      "Teiknað"
     ],
-    "duration_in_mins": 113,
+    "duration_in_mins": 90,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=uDJHiLUcjYI",
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Smárabíó": [
         {
-          "time": "2024-01-30T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4928",
-          "hall": "Salur 3"
+          "time": "2024-01-30T17:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107188&visLang=1",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-01-30T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/805852/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -862,6 +711,135 @@
     }
   },
   {
+    "title": "Monster",
+    "id": 16301,
+    "alt_title": "Kaibutsu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23736044",
+      "http://imdb.com/title/tt23736044"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-30T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4931",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Soul",
+    "id": 12556,
+    "alt_title": "Þetta eru sigurvegararnir á Óskarnum 2021",
+    "release_year": 2020,
+    "poster_url": "https://kvikmyndir.is/images/poster/soul-1604496121.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt2948372",
+      "http://imdb.com/title/tt2948372",
+      "https://www.themoviedb.org/tv/508442"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Tónlistarmaðurinn Joe Gardner er í tilvistarkreppu. Hann elskar djass, en er búinn að gefa drauminn um að verða sjálfur djassleikari upp á bátinn. Dag einn dettur hann niður í holræsi og lendir á ævintýralegum stað þar sem hann þarf að hugsa upp á nýtt hvað það raunverulega þýðir að hafa sál.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=4TojlZYqPUo",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-30T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375203/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Suddenly",
+    "id": 16651,
+    "alt_title": "Soudain seuls",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16651_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14904622",
+      "http://imdb.com/title/tt14904622"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Ben og Laura eru ástríðufullt en viðkvæmt par sem fer í siglingu í kringum heiminn til að endurnýja samband sitt. Á leiðinni ákveða þau að skoða eyðieyju undan ströndum Síle. Þau lenda í óveðri og leita skjóls í yfirgefinni hvalstöð. Næsta morgun uppgötva þau að báturinn er horfinn. Nú eru þau strand í óvinveittu umhverfi án fjarskipta. Birgðir eru fljótt á þrotum og veturinn nálgast. Nú reynir á þau og samband þeirra.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=uDJHiLUcjYI",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-01-30T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4928",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Napoleon",
+    "id": 16119,
+    "alt_title": "Súkkulaðið sigraði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16119_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13287846",
+      "http://imdb.com/title/tt13287846"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 158,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-01-30T19:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375132/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Nature of Love",
     "id": 16644,
     "alt_title": "Simple comme Sylvain",
@@ -889,6 +867,36 @@
           "time": "2024-01-30T21:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4927",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Piper",
+    "id": 16513,
+    "alt_title": "Kuldi andlegt framhald af Ég man þig",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1701981820500_ho00001673-1702574231.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14197038",
+      "http://imdb.com/title/tt14197038"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar tónskáldi er falið að klára einleikskonsert læriföður síns sem fallið hefur frá, kemst hún fljótt að því að tónlistin kallar fram banvænar afleiðingar. Það leiðir til þess að hún afhjúpar hræðilegan uppruna laglínunnar og þá illsku sem vakin hefur verið upp.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3m4qf9MasGk",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-01-30T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107202&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -926,30 +934,6 @@
     }
   },
   {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-01-30T15:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107200&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Disco Boy",
     "id": 16646,
     "alt_title": "Leikstjórn",
@@ -975,36 +959,6 @@
           "time": "2024-01-30T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4926",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Piper",
-    "id": 16513,
-    "alt_title": "Kuldi andlegt framhald af Ég man þig",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1701981820500_ho00001673-1702574231.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14197038",
-      "http://imdb.com/title/tt14197038"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar tónskáldi er falið að klára einleikskonsert læriföður síns sem fallið hefur frá, kemst hún fljótt að því að tónlistin kallar fram banvænar afleiðingar. Það leiðir til þess að hún afhjúpar hræðilegan uppruna laglínunnar og þá illsku sem vakin hefur verið upp.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3m4qf9MasGk",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-01-30T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107202&visLang=1",
-          "hall": "Salur 5"
         }
       ]
     }
