@@ -116,12 +116,14 @@
           "hall": "AXL"
         }
       ],
-      "Smárabíó": [
+      "Sambíóin Akureyri": [
         {
-          "time": "2024-02-02T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107288&visLang=1",
-          "hall": "MAX"
-        },
+          "time": "2024-02-02T20:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375808/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
         {
           "time": "2024-02-02T21:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107290&visLang=1",
@@ -131,13 +133,6 @@
           "time": "2024-02-02T21:50:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107291&visLang=1",
           "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-02T20:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375808/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -219,33 +214,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-02T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107283&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-02T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107282&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-02T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107281&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-02T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107264&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-02T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107279&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2024-02-02T19:00:00.000Z",
@@ -263,6 +231,13 @@
           "time": "2024-02-02T19:35:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4965",
           "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-02T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107279&visLang=1",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -318,23 +293,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-02T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107292&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-02T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107265&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-02T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107482&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-02-02T19:40:00.000Z",
@@ -345,6 +303,13 @@
           "time": "2024-02-02T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375750/",
           "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-02T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107482&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -412,61 +377,6 @@
     }
   },
   {
-    "title": "Mean Girls",
-    "id": 16571,
-    "alt_title": "Anyone But You komin í 28 milljónir",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11762114",
-      "http://imdb.com/title/tt11762114"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
-    "genres": [
-      "Gaman",
-      "Söngleikur"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-02T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375716/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-02T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375419/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-02T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375420/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-02T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375418/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-02T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107280&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -514,6 +424,54 @@
           "time": "2024-02-02T17:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375417/",
           "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Mean Girls",
+    "id": 16571,
+    "alt_title": "Anyone But You komin í 28 milljónir",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11762114",
+      "http://imdb.com/title/tt11762114"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
+    "genres": [
+      "Gaman",
+      "Söngleikur"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-02T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375716/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-02T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375419/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-02T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375420/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-02T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375418/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -604,80 +562,6 @@
     }
   },
   {
-    "title": "Aquaman and the Lost Kingdom",
-    "id": 16298,
-    "alt_title": "Wonka í þriðja sinn á toppinum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726470_500-1700665469.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt9663764",
-      "http://imdb.com/title/tt9663764"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Black Manta, sem mistókst að sigra Aquaman í fyrstu atrennu, er enn ákafur í að hefna föður síns, og mun ekki hætta fyrr en Aquaman er allur. Black Manta er óárennilegri en nokkru sinni fyrr og hefur öðlast krafta hins goðsagnakennda svarta þríforks, sem leysir úr læðingi ævaforna og illa orku. Til að sigra í þessari baráttu snýr Aquaman sér til bróður síns Orm, fyrrum konungs Atlantis, og biður um aðstoð. Saman þurfa þeir að leggja eigin ágreiningsmál til hliðar til að vernda konungsríkið og bjarga fjölskyldu Aquaman og heiminum öllum frá gereyðingu.",
-    "genres": [
-      "Spenna",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=FV3bqvOHRQo",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-02T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375416/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2024-02-02T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375415/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-02T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/807056/",
-          "hall": "Salur A"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-02T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107284&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Nature of Love",
     "id": 16644,
     "alt_title": "Simple comme Sylvain",
@@ -715,31 +599,37 @@
     }
   },
   {
-    "title": "Baby boom, czyli kogel mogel 5",
-    "id": 16707,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fxku7cjqxnhucdr4p65qarmxxrz-1706174951.jpg",
+    "title": "Aquaman and the Lost Kingdom",
+    "id": 16298,
+    "alt_title": "Wonka í þriðja sinn á toppinum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726470_500-1700665469.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt30971027",
-      "http://imdb.com/title/tt30971027"
+      "http://imdb.com/title/tt9663764",
+      "http://imdb.com/title/tt9663764"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Piotruś flytur ásamt eiginkonu sinni og tengdamóður og Leopold í sögufrægt stórhýsi. Marlenka ákveður að finna sér ákjósanlegan forfaðir sem passar fjölskyldunni og hinu nýja og fína heimili. Agnieszka hinsvegar er á framabraut í háskólanum en rétt eftir að hún ver doktorsritgerð sína kemst hún að því að hún er ófrísk. Og þegar Kuba litla fæðist byrja vandamálin fyrir alvöru!  Piotruś fer með systur sinni á fæðingardeildina og langar nú sjálfan í barn – sem Marlenka er lítt hrifin af. Marcin, nýbakaður faðir, fer á taugum og hverfur skyndilega. Þar að auki birtist dularfull ófrísk stúlka í Brzózki sem er að leita að Zawada…",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Black Manta, sem mistókst að sigra Aquaman í fyrstu atrennu, er enn ákafur í að hefna föður síns, og mun ekki hætta fyrr en Aquaman er allur. Black Manta er óárennilegri en nokkru sinni fyrr og hefur öðlast krafta hins goðsagnakennda svarta þríforks, sem leysir úr læðingi ævaforna og illa orku. Til að sigra í þessari baráttu snýr Aquaman sér til bróður síns Orm, fyrrum konungs Atlantis, og biður um aðstoð. Saman þurfa þeir að leggja eigin ágreiningsmál til hliðar til að vernda konungsríkið og bjarga fjölskyldu Aquaman og heiminum öllum frá gereyðingu.",
     "genres": [
-      "Gaman"
+      "Spenna",
+      "Ævintýri"
     ],
-    "duration_in_mins": 95,
+    "duration_in_mins": 115,
     "language": [
-      "Pólska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=OkI5JJJw5MU",
+    "trailer_url": "https://www.youtube.com/watch?v=FV3bqvOHRQo",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-02-02T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4906",
-          "hall": "Salur 1"
+          "time": "2024-02-02T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375416/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-02-02T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375415/",
+          "hall": "Salur A"
         }
       ]
     }
@@ -807,6 +697,37 @@
           "time": "2024-02-02T21:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4963",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-02T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/807056/",
+          "hall": "Salur A"
         }
       ]
     }
@@ -899,6 +820,36 @@
           "time": "2024-02-02T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4971",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Baby boom, czyli kogel mogel 5",
+    "id": 16707,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fxku7cjqxnhucdr4p65qarmxxrz-1706174951.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt30971027",
+      "http://imdb.com/title/tt30971027"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Piotruś flytur ásamt eiginkonu sinni og tengdamóður og Leopold í sögufrægt stórhýsi. Marlenka ákveður að finna sér ákjósanlegan forfaðir sem passar fjölskyldunni og hinu nýja og fína heimili. Agnieszka hinsvegar er á framabraut í háskólanum en rétt eftir að hún ver doktorsritgerð sína kemst hún að því að hún er ófrísk. Og þegar Kuba litla fæðist byrja vandamálin fyrir alvöru!  Piotruś fer með systur sinni á fæðingardeildina og langar nú sjálfan í barn – sem Marlenka er lítt hrifin af. Marcin, nýbakaður faðir, fer á taugum og hverfur skyndilega. Þar að auki birtist dularfull ófrísk stúlka í Brzózki sem er að leita að Zawada…",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 95,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=OkI5JJJw5MU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-02T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4906",
+          "hall": "Salur 1"
         }
       ]
     }
