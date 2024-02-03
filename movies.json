@@ -124,28 +124,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-03T16:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107317&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-03T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107316&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-03T21:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107314&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-03T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107313&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2024-02-03T17:30:00.000Z",
@@ -168,6 +146,23 @@
           "time": "2024-02-03T21:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/807062/",
           "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-03T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107316&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-02-03T21:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107314&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-03T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107313&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -269,17 +264,19 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
+      "Sambíóin Keflavík": [
         {
-          "time": "2024-02-03T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107298&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-03T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107296&visLang=1",
+          "time": "2024-02-03T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375694/",
           "hall": "Salur 2"
         },
+        {
+          "time": "2024-02-03T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375693/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
         {
           "time": "2024-02-03T17:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107321&visLang=1",
@@ -306,23 +303,100 @@
           "hall": "Salur 4"
         }
       ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-02-03T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375694/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-03T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375693/",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-02-03T19:50:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375800/",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anyone But You",
+    "id": 16358,
+    "alt_title": "Fullt hús fór beint á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26047818",
+      "http://imdb.com/title/tt26047818"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
+    "genres": [
+      "Gaman",
+      "Rómantík"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-02-03T16:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375480/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-03T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375481/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-03T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375732/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-03T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375752/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-03T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375753/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-03T18:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107312&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-02-03T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107300&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-02-03T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107474&visLang=1",
+          "hall": "Salur 5"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-02-03T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375748/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-03T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375755/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-02-03T21:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375689/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -414,102 +488,6 @@
           "time": "2024-02-03T15:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375746/",
           "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-03T16:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107664&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anyone But You",
-    "id": 16358,
-    "alt_title": "Fullt hús fór beint á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26047818",
-      "http://imdb.com/title/tt26047818"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
-    "genres": [
-      "Gaman",
-      "Rómantík"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-02-03T16:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375480/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-03T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375481/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-03T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375732/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-03T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375752/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-03T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375753/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-03T18:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107312&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-02-03T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107300&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-03T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107474&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-03T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375748/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-03T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375755/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-02-03T21:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375689/",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -746,11 +724,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-02-03T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107297&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
           "time": "2024-02-03T17:20:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107320&visLang=1",
           "hall": "Salur 4"
@@ -841,41 +814,6 @@
           "time": "2024-02-03T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376049/",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "National Theatre Live: Dear England",
-    "id": 16612,
-    "alt_title": "Dear England",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/mv56ejt8buyzhezzznw8dokdsv1-1701613467.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt29640718",
-      "http://imdb.com/title/tt29640718"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Landið sem gaf heiminum fótbolta hefur þróað með sér sársaukafullt mynstur tapleikja. Afhverju á karlalið Englands svo erfitt með að sigra í sínum eigin leik?  Með verstu tölfræði í vítaspyrnum í heimi veit Gareth Southgate landsliðsþjálfari að hann þarf að horfast í augu við sársaukaárin og leiða liðið og landið í átt til sigurs.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 160,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UkDiUifHoAc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-03T15:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4383",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-03T15:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4383",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -994,31 +932,36 @@
     }
   },
   {
-    "title": "Baby boom, czyli kogel mogel 5",
-    "id": 16707,
-    "alt_title": "Leikstjórn",
+    "title": "National Theatre Live: Dear England",
+    "id": 16612,
+    "alt_title": "Dear England",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fxku7cjqxnhucdr4p65qarmxxrz-1706174951.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/mv56ejt8buyzhezzznw8dokdsv1-1701613467.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt30971027",
-      "http://imdb.com/title/tt30971027"
+      "http://imdb.com/title/tt29640718",
+      "http://imdb.com/title/tt29640718"
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Piotruś flytur ásamt eiginkonu sinni og tengdamóður og Leopold í sögufrægt stórhýsi. Marlenka ákveður að finna sér ákjósanlegan forfaðir sem passar fjölskyldunni og hinu nýja og fína heimili. Agnieszka hinsvegar er á framabraut í háskólanum en rétt eftir að hún ver doktorsritgerð sína kemst hún að því að hún er ófrísk. Og þegar Kuba litla fæðist byrja vandamálin fyrir alvöru!  Piotruś fer með systur sinni á fæðingardeildina og langar nú sjálfan í barn – sem Marlenka er lítt hrifin af. Marcin, nýbakaður faðir, fer á taugum og hverfur skyndilega. Þar að auki birtist dularfull ófrísk stúlka í Brzózki sem er að leita að Zawada…",
+    "description": "Landið sem gaf heiminum fótbolta hefur þróað með sér sársaukafullt mynstur tapleikja. Afhverju á karlalið Englands svo erfitt með að sigra í sínum eigin leik?  Með verstu tölfræði í vítaspyrnum í heimi veit Gareth Southgate landsliðsþjálfari að hann þarf að horfast í augu við sársaukaárin og leiða liðið og landið í átt til sigurs.",
     "genres": [
-      "Gaman"
+      "Drama"
     ],
-    "duration_in_mins": 95,
+    "duration_in_mins": 160,
     "language": [
-      "Pólska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=OkI5JJJw5MU",
+    "trailer_url": "https://www.youtube.com/watch?v=UkDiUifHoAc",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-02-03T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4907",
-          "hall": "Salur 1"
+          "time": "2024-02-03T15:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4383",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-03T15:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4383",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1149,30 +1092,6 @@
     }
   },
   {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-03T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107315&visLang=1",
-          "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
     "title": "Soul",
     "id": 12556,
     "alt_title": "Þetta eru sigurvegararnir á Óskarnum 2021",
@@ -1203,6 +1122,36 @@
           "time": "2024-02-03T13:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375504/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Baby boom, czyli kogel mogel 5",
+    "id": 16707,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fxku7cjqxnhucdr4p65qarmxxrz-1706174951.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt30971027",
+      "http://imdb.com/title/tt30971027"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Piotruś flytur ásamt eiginkonu sinni og tengdamóður og Leopold í sögufrægt stórhýsi. Marlenka ákveður að finna sér ákjósanlegan forfaðir sem passar fjölskyldunni og hinu nýja og fína heimili. Agnieszka hinsvegar er á framabraut í háskólanum en rétt eftir að hún ver doktorsritgerð sína kemst hún að því að hún er ófrísk. Og þegar Kuba litla fæðist byrja vandamálin fyrir alvöru!  Piotruś fer með systur sinni á fæðingardeildina og langar nú sjálfan í barn – sem Marlenka er lítt hrifin af. Marcin, nýbakaður faðir, fer á taugum og hverfur skyndilega. Þar að auki birtist dularfull ófrísk stúlka í Brzózki sem er að leita að Zawada…",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 95,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=OkI5JJJw5MU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-03T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4907",
+          "hall": "Salur 1"
         }
       ]
     }
