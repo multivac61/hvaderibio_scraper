@@ -136,12 +136,14 @@
           "hall": "Salur A"
         }
       ],
-      "Smárabíó": [
+      "Sambíóin Akureyri": [
         {
-          "time": "2024-02-04T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107479&visLang=1",
-          "hall": "MAX"
-        },
+          "time": "2024-02-04T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375818/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
         {
           "time": "2024-02-04T21:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107481&visLang=1",
@@ -150,13 +152,6 @@
         {
           "time": "2024-02-04T21:50:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107480&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-04T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375818/",
           "hall": "Salur 2"
         }
       ]
@@ -271,37 +266,99 @@
           "hall": "Salur 1"
         }
       ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-02-04T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375692/",
+          "hall": "Salur 2"
+        }
+      ],
       "Smárabíó": [
-        {
-          "time": "2024-02-04T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107489&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-04T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107504&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-04T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107502&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-04T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107499&visLang=1",
-          "hall": "Salur 2"
-        },
         {
           "time": "2024-02-04T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107510&visLang=1",
           "hall": "Salur 4"
         }
+      ]
+    }
+  },
+  {
+    "title": "Mean Girls",
+    "id": 16571,
+    "alt_title": "Anyone But You komin í 28 milljónir",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11762114",
+      "http://imdb.com/title/tt11762114"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
+    "genres": [
+      "Gaman",
+      "Söngleikur"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
+    "cinema_showtimes": {
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-02-04T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375787/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-04T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375786/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-04T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376055/",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-02-04T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376056/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-04T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376057/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-04T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375496/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-04T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375486/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-04T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375494/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-04T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375495/",
+          "hall": "Salur 2"
+        }
       ],
       "Sambíóin Keflavík": [
         {
-          "time": "2024-02-04T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375692/",
+          "time": "2024-02-04T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375709/",
           "hall": "Salur 2"
         }
       ]
@@ -392,165 +449,6 @@
     }
   },
   {
-    "title": "Mean Girls",
-    "id": 16571,
-    "alt_title": "Anyone But You komin í 28 milljónir",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11762114",
-      "http://imdb.com/title/tt11762114"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
-    "genres": [
-      "Gaman",
-      "Söngleikur"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
-    "cinema_showtimes": {
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-04T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375787/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-04T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375786/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-04T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376055/",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-04T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376056/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-04T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376057/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-04T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375496/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-04T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375486/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-04T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375494/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-04T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375495/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-02-04T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375709/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anyone But You",
-    "id": 16358,
-    "alt_title": "Fullt hús fór beint á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26047818",
-      "http://imdb.com/title/tt26047818"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
-    "genres": [
-      "Gaman",
-      "Rómantík"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-02-04T16:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375482/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-04T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375483/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-04T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376046/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-04T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376047/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-04T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376048/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-04T18:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107662&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-02-04T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107500&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-04T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107498&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-04T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375759/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Poor Things",
     "id": 16355,
     "alt_title": "Fullt hús fór beint á toppinn",
@@ -613,6 +511,73 @@
           "time": "2024-02-04T21:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375596/",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anyone But You",
+    "id": 16358,
+    "alt_title": "Fullt hús fór beint á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26047818",
+      "http://imdb.com/title/tt26047818"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
+    "genres": [
+      "Gaman",
+      "Rómantík"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-02-04T16:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375482/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-04T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375483/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-04T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376046/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-04T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376047/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-04T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376048/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-02-04T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375759/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-04T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107498&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -723,49 +688,6 @@
           "time": "2024-02-04T15:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375740/",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-04T14:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/807074/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-02-04T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/807077/",
-          "hall": "Salur A"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-04T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107503&visLang=1",
-          "hall": "Salur 4"
         }
       ]
     }
@@ -922,6 +844,135 @@
           "time": "2024-02-04T15:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375742/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-04T14:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/807074/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-02-04T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/807077/",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Suddenly",
+    "id": 16651,
+    "alt_title": "Soudain seuls",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16651_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14904622",
+      "http://imdb.com/title/tt14904622"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Ben og Laura eru ástríðufullt en viðkvæmt par sem fer í siglingu í kringum heiminn til að endurnýja samband sitt. Á leiðinni ákveða þau að skoða eyðieyju undan ströndum Síle. Þau lenda í óveðri og leita skjóls í yfirgefinni hvalstöð. Næsta morgun uppgötva þau að báturinn er horfinn. Nú eru þau strand í óvinveittu umhverfi án fjarskipta. Birgðir eru fljótt á þrotum og veturinn nálgast. Nú reynir á þau og samband þeirra.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=uDJHiLUcjYI",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-04T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4974",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "id": 16545,
+    "alt_title": "Anatomie d'une chute",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17009710",
+      "http://imdb.com/title/tt17009710"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa"
+    ],
+    "duration_in_mins": 151,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-04T21:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4958",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Disco Boy",
+    "id": 16646,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16646_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22180518",
+      "http://imdb.com/title/tt22180518"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Eftir erfitt ferðalag um Evrópu gengur Hvít Rússinn Alex í Frönsku útlendingahersveitina. Hin nígeríski Jomo vill berjast fyrir þjóð sína í Niger Delta og er tilbúinn að láta lífið fyrir hugsjónir sínar. Þessi tveir hittast og örlög þeirra samtvinnast og halda áfram yfir landamæri, líf og dauða.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=dIFnEGhVMWY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-04T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4953",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1112,99 +1163,6 @@
         {
           "time": "2024-02-04T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4747",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Suddenly",
-    "id": 16651,
-    "alt_title": "Soudain seuls",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16651_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14904622",
-      "http://imdb.com/title/tt14904622"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ben og Laura eru ástríðufullt en viðkvæmt par sem fer í siglingu í kringum heiminn til að endurnýja samband sitt. Á leiðinni ákveða þau að skoða eyðieyju undan ströndum Síle. Þau lenda í óveðri og leita skjóls í yfirgefinni hvalstöð. Næsta morgun uppgötva þau að báturinn er horfinn. Nú eru þau strand í óvinveittu umhverfi án fjarskipta. Birgðir eru fljótt á þrotum og veturinn nálgast. Nú reynir á þau og samband þeirra.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 113,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=uDJHiLUcjYI",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-04T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4974",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anatomy of a Fall",
-    "id": 16545,
-    "alt_title": "Anatomie d'une chute",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17009710",
-      "http://imdb.com/title/tt17009710"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa"
-    ],
-    "duration_in_mins": 151,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-04T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4958",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Disco Boy",
-    "id": 16646,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16646_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22180518",
-      "http://imdb.com/title/tt22180518"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Eftir erfitt ferðalag um Evrópu gengur Hvít Rússinn Alex í Frönsku útlendingahersveitina. Hin nígeríski Jomo vill berjast fyrir þjóð sína í Niger Delta og er tilbúinn að láta lífið fyrir hugsjónir sínar. Þessi tveir hittast og örlög þeirra samtvinnast og halda áfram yfir landamæri, líf og dauða.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=dIFnEGhVMWY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-04T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4953",
           "hall": "Salur 2"
         }
       ]
