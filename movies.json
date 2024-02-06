@@ -519,48 +519,6 @@
     }
   },
   {
-    "title": "Wonka",
-    "id": 16293,
-    "alt_title": "Fullt hús fór beint á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6166392",
-      "http://imdb.com/title/tt6166392"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-06T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375431/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-02-06T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375446/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-02-06T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375447/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "Bestu vinir",
     "id": 16577,
     "alt_title": "The Inseparables",
@@ -598,6 +556,48 @@
         {
           "time": "2024-02-06T18:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/807098/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wonka",
+    "id": 16293,
+    "alt_title": "Fullt hús fór beint á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6166392",
+      "http://imdb.com/title/tt6166392"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-06T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375431/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-02-06T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375446/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-02-06T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375447/",
           "hall": "Salur B"
         }
       ]
@@ -661,18 +661,18 @@
       "Enska"
     ],
     "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-06T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/807099/",
-          "hall": "Salur B"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-02-06T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376052/",
           "hall": "Salur 4"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-06T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/807099/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -708,30 +708,6 @@
           "time": "2024-02-06T21:30:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4996",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-06T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107541&visLang=1",
-          "hall": "MAX"
         }
       ]
     }
@@ -921,6 +897,30 @@
           "time": "2024-02-06T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/4989",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Strumparnir - Partýbíó",
+    "id": 16692,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
+    "genres": [],
+    "duration_in_mins": 60,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-06T15:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107541&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
