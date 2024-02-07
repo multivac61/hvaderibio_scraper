@@ -35,13 +35,13 @@
       "Sambíóin Kringlunni": [
         {
           "time": "2024-02-07T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375623/",
-          "hall": "Salur 3"
+          "purchase_url": "http://www.sambio.is/websales/show/375629/",
+          "hall": "Ásberg"
         },
         {
           "time": "2024-02-07T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375629/",
-          "hall": "Ásberg"
+          "purchase_url": "http://www.sambio.is/websales/show/375623/",
+          "hall": "Salur 3"
         },
         {
           "time": "2024-02-07T17:00:00.000Z",
@@ -417,18 +417,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-07T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375591/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-02-07T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375585/",
-          "hall": "Salur 3"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-02-07T17:00:00.000Z",
@@ -441,11 +429,66 @@
           "hall": "Salur 3"
         }
       ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-07T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375591/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-02-07T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375585/",
+          "hall": "Salur 3"
+        }
+      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-02-07T21:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375651/",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-07T15:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107586&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-02-07T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107592&visLang=1",
+          "hall": "Salur 5"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-07T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808705/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -538,44 +581,36 @@
     }
   },
   {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "title": "Baby boom, czyli kogel mogel 5",
+    "id": 16707,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fxku7cjqxnhucdr4p65qarmxxrz-1706174951.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
+      "http://imdb.com/title/tt30971027",
+      "http://imdb.com/title/tt30971027"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Piotruś flytur ásamt eiginkonu sinni og tengdamóður og Leopold í sögufrægt stórhýsi. Marlenka ákveður að finna sér ákjósanlegan forfaðir sem passar fjölskyldunni og hinu nýja og fína heimili. Agnieszka hinsvegar er á framabraut í háskólanum en rétt eftir að hún ver doktorsritgerð sína kemst hún að því að hún er ófrísk. Og þegar Kuba litla fæðist byrja vandamálin fyrir alvöru!  Piotruś fer með systur sinni á fæðingardeildina og langar nú sjálfan í barn – sem Marlenka er lítt hrifin af. Marcin, nýbakaður faðir, fer á taugum og hverfur skyndilega. Þar að auki birtist dularfull ófrísk stúlka í Brzózki sem er að leita að Zawada…",
     "genres": [
-      "Fjölskylda",
-      "Teiknað"
+      "Gaman"
     ],
-    "duration_in_mins": 90,
+    "duration_in_mins": 95,
     "language": [
-      "Enska"
+      "Pólska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "trailer_url": "https://www.youtube.com/watch?v=OkI5JJJw5MU",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2024-02-07T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107586&visLang=1",
-          "hall": "Salur 4"
+          "time": "2024-02-07T19:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5005",
+          "hall": "Salur 2"
         },
         {
-          "time": "2024-02-07T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107592&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-07T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808705/",
-          "hall": "Salur B"
+          "time": "2024-02-07T19:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5005",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -612,41 +647,6 @@
           "time": "2024-02-07T19:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375454/",
           "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Baby boom, czyli kogel mogel 5",
-    "id": 16707,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fxku7cjqxnhucdr4p65qarmxxrz-1706174951.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt30971027",
-      "http://imdb.com/title/tt30971027"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Piotruś flytur ásamt eiginkonu sinni og tengdamóður og Leopold í sögufrægt stórhýsi. Marlenka ákveður að finna sér ákjósanlegan forfaðir sem passar fjölskyldunni og hinu nýja og fína heimili. Agnieszka hinsvegar er á framabraut í háskólanum en rétt eftir að hún ver doktorsritgerð sína kemst hún að því að hún er ófrísk. Og þegar Kuba litla fæðist byrja vandamálin fyrir alvöru!  Piotruś fer með systur sinni á fæðingardeildina og langar nú sjálfan í barn – sem Marlenka er lítt hrifin af. Marcin, nýbakaður faðir, fer á taugum og hverfur skyndilega. Þar að auki birtist dularfull ófrísk stúlka í Brzózki sem er að leita að Zawada…",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=OkI5JJJw5MU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-07T19:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5005",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-07T19:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5005",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -727,6 +727,38 @@
     }
   },
   {
+    "title": "Anatomy of a Fall",
+    "id": 16545,
+    "alt_title": "Anatomie d'une chute",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17009710",
+      "http://imdb.com/title/tt17009710"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa"
+    ],
+    "duration_in_mins": 151,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-07T20:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5003",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "National Theatre Live: Dear England",
     "id": 16612,
     "alt_title": "Dear England",
@@ -757,6 +789,36 @@
     }
   },
   {
+    "title": "Carmen",
+    "id": 16329,
+    "alt_title": "Þegar leikarar spreyta sig í söng - Annar hluti",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16329_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6875952",
+      "http://imdb.com/title/tt6875952"
+    ],
+    "description": "Ung sjálfstæð kona, Carmen, neyðist til að flýja heimili sitt í eyðimörkinni í Mexíkó eftir að bróðir hennar er myrtur á hrottalegan hátt af dópgengi. Hún kemst ólöglega yfir til Bandaríkjanna en hittir svo landamæravörð og félaga hans Aidan. Þegar þeir tveir blandast inn í stórhættulega pattstöðu, verða Carmen og Aidan að leggja á flótta.",
+    "genres": [
+      "Drama",
+      "Söngleikur"
+    ],
+    "duration_in_mins": 116,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SE7DePPLcpI",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-02-07T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375927/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Disco Boy",
     "id": 16646,
     "alt_title": "Leikstjórn",
@@ -782,6 +844,30 @@
           "time": "2024-02-07T17:20:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5004",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Strumparnir - Partýbíó",
+    "id": 16692,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
+    "genres": [],
+    "duration_in_mins": 60,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-07T15:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107569&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -876,92 +962,6 @@
           "time": "2024-02-07T16:30:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5007",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Carmen",
-    "id": 16329,
-    "alt_title": "Þegar leikarar spreyta sig í söng - Annar hluti",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16329_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6875952",
-      "http://imdb.com/title/tt6875952"
-    ],
-    "description": "Ung sjálfstæð kona, Carmen, neyðist til að flýja heimili sitt í eyðimörkinni í Mexíkó eftir að bróðir hennar er myrtur á hrottalegan hátt af dópgengi. Hún kemst ólöglega yfir til Bandaríkjanna en hittir svo landamæravörð og félaga hans Aidan. Þegar þeir tveir blandast inn í stórhættulega pattstöðu, verða Carmen og Aidan að leggja á flótta.",
-    "genres": [
-      "Drama",
-      "Söngleikur"
-    ],
-    "duration_in_mins": 116,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SE7DePPLcpI",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-02-07T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375927/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-07T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107569&visLang=1",
-          "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Anatomy of a Fall",
-    "id": 16545,
-    "alt_title": "Anatomie d'une chute",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17009710",
-      "http://imdb.com/title/tt17009710"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa"
-    ],
-    "duration_in_mins": 151,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-07T20:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5003",
-          "hall": "Salur 1"
         }
       ]
     }
