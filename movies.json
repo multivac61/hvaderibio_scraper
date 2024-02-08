@@ -227,13 +227,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-08T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375798/",
-          "hall": "Salur 1"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-02-08T17:30:00.000Z",
@@ -244,6 +237,13 @@
           "time": "2024-02-08T21:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808708/",
           "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-02-08T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375798/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -431,48 +431,6 @@
     }
   },
   {
-    "title": "Wonka",
-    "id": 16293,
-    "alt_title": "Fullt hús fór beint á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6166392",
-      "http://imdb.com/title/tt6166392"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-08T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375430/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-02-08T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375438/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-02-08T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375439/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "Bestu vinir",
     "id": 16577,
     "alt_title": "The Inseparables",
@@ -510,6 +468,48 @@
         {
           "time": "2024-02-08T18:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808711/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wonka",
+    "id": 16293,
+    "alt_title": "Fullt hús fór beint á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6166392",
+      "http://imdb.com/title/tt6166392"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-08T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375430/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-02-08T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375438/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-02-08T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375439/",
           "hall": "Salur B"
         }
       ]
@@ -694,37 +694,6 @@
     }
   },
   {
-    "title": "The Iron Claw",
-    "id": 16512,
-    "alt_title": "Enn blómstrar ástin á toppnum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21064584",
-      "http://imdb.com/title/tt21064584"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
-    "genres": [
-      "Drama",
-      "Æviágrip",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 130,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-08T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376054/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Club Zero",
     "id": 16289,
     "alt_title": "Leikstjórn",
@@ -751,6 +720,37 @@
           "time": "2024-02-08T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5011",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Iron Claw",
+    "id": 16512,
+    "alt_title": "Enn blómstrar ástin á toppnum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21064584",
+      "http://imdb.com/title/tt21064584"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
+    "genres": [
+      "Drama",
+      "Æviágrip",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 130,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-08T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376054/",
+          "hall": "Salur 4"
         }
       ]
     }
