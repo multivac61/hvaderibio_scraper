@@ -248,6 +248,13 @@
           "hall": "Lúxus VIP"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-09T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808719/",
+          "hall": "Salur B"
+        }
+      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-02-09T18:00:00.000Z",
@@ -258,13 +265,6 @@
           "time": "2024-02-09T21:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376191/",
           "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-09T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808719/",
-          "hall": "Salur B"
         }
       ],
       "Smárabíó": [
@@ -284,6 +284,65 @@
           "time": "2024-02-09T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376289/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Ekkert tal"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-09T16:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107713&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-09T17:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107705&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-09T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107708&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-09T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107710&visLang=1",
+          "hall": "Salur 2"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-09T18:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5018",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-09T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5019",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -349,60 +408,50 @@
     }
   },
   {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "title": "Dune",
+    "id": 13016,
+    "alt_title": "Mannfólkið er vondi kallinn",
+    "release_year": 2021,
+    "poster_url": "https://kvikmyndir.is/images/poster/13016_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
+      "http://imdb.com/title/tt1160419",
+      "http://imdb.com/title/tt1160419"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "description": "Dune fjallar um Paul Atreides, fjölskyldu hans og baráttu þeirra við Harkonnen-ættina um plánetuna Arrakis, sem einnig kallast Dune. Sagan gerist í ítarlegum söguheimi. Heilar mannfólks eru þjálfaðir í að framkvæma gífurlega flókna útreikninga og menn hafa náð mun meiri stjórn á hugsunum sínum og líkömum. Á plánetunni Arrakkis finnst Kryddið svonefnda, sem gerir mönnum kleift að efla heila sína enn frekar og meðal annars stýra geimskipum langar vegalengdir. Plánetum í þessum söguheimi er stjórnað af aðalsættum og þeim er stýrt af keisara. Atreides-ættin tekur við stjórn Arrakis af Harkonnen-ættinni að skipan keisarans og á Leto Atreides að auka framleiðslu krydds en keisaraveldið stendur og fellur með því að tryggja framleiðslu efnisins.",
     "genres": [
       "Drama",
-      "Tónlist",
-      "Æviágrip"
+      "Vísindaskáldskapur",
+      "Ævintýri"
     ],
-    "duration_in_mins": 113,
+    "duration_in_mins": 155,
     "language": [
-      "Ekkert tal"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "trailer_url": "https://www.youtube.com/watch?v=8g18jFHCLXk",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-02-09T16:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107713&visLang=1",
-          "hall": "LÚXUS"
+          "time": "2024-02-09T14:45:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376232/",
+          "hall": "Ásberg"
         },
         {
-          "time": "2024-02-09T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107705&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-09T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107708&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-09T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107710&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-09T18:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5018",
-          "hall": "Salur 1"
+          "time": "2024-02-09T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376233/",
+          "hall": "Ásberg"
         },
         {
           "time": "2024-02-09T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5019",
-          "hall": "Salur 2"
+          "purchase_url": "http://www.sambio.is/websales/show/376234/",
+          "hall": "Ásberg"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-09T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376293/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -455,98 +504,6 @@
           "time": "2024-02-09T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376285/",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Dune",
-    "id": 13016,
-    "alt_title": "Mannfólkið er vondi kallinn",
-    "release_year": 2021,
-    "poster_url": "https://kvikmyndir.is/images/poster/13016_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1160419",
-      "http://imdb.com/title/tt1160419"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Dune fjallar um Paul Atreides, fjölskyldu hans og baráttu þeirra við Harkonnen-ættina um plánetuna Arrakis, sem einnig kallast Dune. Sagan gerist í ítarlegum söguheimi. Heilar mannfólks eru þjálfaðir í að framkvæma gífurlega flókna útreikninga og menn hafa náð mun meiri stjórn á hugsunum sínum og líkömum. Á plánetunni Arrakkis finnst Kryddið svonefnda, sem gerir mönnum kleift að efla heila sína enn frekar og meðal annars stýra geimskipum langar vegalengdir. Plánetum í þessum söguheimi er stjórnað af aðalsættum og þeim er stýrt af keisara. Atreides-ættin tekur við stjórn Arrakis af Harkonnen-ættinni að skipan keisarans og á Leto Atreides að auka framleiðslu krydds en keisaraveldið stendur og fellur með því að tryggja framleiðslu efnisins.",
-    "genres": [
-      "Drama",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 155,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=8g18jFHCLXk",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-02-09T14:45:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376232/",
-          "hall": "Ásberg"
-        },
-        {
-          "time": "2024-02-09T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376233/",
-          "hall": "Ásberg"
-        },
-        {
-          "time": "2024-02-09T21:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376234/",
-          "hall": "Ásberg"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-09T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376293/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Poor Things",
-    "id": 16355,
-    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14230458",
-      "http://imdb.com/title/tt14230458"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
-    "genres": [
-      "Rómantík",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 141,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-09T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376124/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-02-09T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376125/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-09T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376294/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -635,75 +592,44 @@
     }
   },
   {
-    "title": "Mean Girls",
-    "id": 16571,
-    "alt_title": "Anyone But You komin í 28 milljónir",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
+    "title": "Poor Things",
+    "id": 16355,
+    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt11762114",
-      "http://imdb.com/title/tt11762114"
+      "http://imdb.com/title/tt14230458",
+      "http://imdb.com/title/tt14230458"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
     "genres": [
-      "Gaman",
-      "Söngleikur"
+      "Rómantík",
+      "Vísindaskáldskapur"
     ],
-    "duration_in_mins": 112,
+    "duration_in_mins": 141,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
+    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-02-09T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376087/",
-          "hall": "Salur 2"
+          "time": "2024-02-09T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376124/",
+          "hall": "Salur 3"
         },
         {
-          "time": "2024-02-09T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376090/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Iron Claw",
-    "id": 16512,
-    "alt_title": "Enn blómstrar ástin á toppnum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21064584",
-      "http://imdb.com/title/tt21064584"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
-    "genres": [
-      "Drama",
-      "Æviágrip",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 132,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-09T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808720/",
-          "hall": "Salur B"
+          "time": "2024-02-09T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376125/",
+          "hall": "Salur 3"
         }
       ],
       "Sambíóin Egilshöll": [
         {
-          "time": "2024-02-09T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376288/",
-          "hall": "Salur 4"
+          "time": "2024-02-09T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376294/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -749,38 +675,38 @@
     }
   },
   {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
+    "title": "The Iron Claw",
+    "id": 16512,
+    "alt_title": "Enn blómstrar ástin á toppnum",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
+      "http://imdb.com/title/tt21064584",
+      "http://imdb.com/title/tt21064584"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
     "genres": [
-      "Fjölskylda",
-      "Teiknað"
+      "Drama",
+      "Æviágrip",
+      "Íþróttir"
     ],
-    "duration_in_mins": 90,
+    "duration_in_mins": 132,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
     "cinema_showtimes": {
       "Laugarásbíó": [
         {
-          "time": "2024-02-09T15:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808714/",
-          "hall": "Salur A"
+          "time": "2024-02-09T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808720/",
+          "hall": "Salur B"
         }
       ],
-      "Smárabíó": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-02-09T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107697&visLang=1",
+          "time": "2024-02-09T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376288/",
           "hall": "Salur 4"
         }
       ]
@@ -823,65 +749,75 @@
     }
   },
   {
-    "title": "The Notebook",
-    "id": 2903,
-    "alt_title": "Áreitni í Hollywood-rómantík - Sex dæmi um tímaskekkjur",
-    "release_year": 2004,
-    "poster_url": "https://kvikmyndir.is/images/poster/2903_500.jpg",
+    "title": "Mean Girls",
+    "id": 16571,
+    "alt_title": "Anyone But You komin í 28 milljónir",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt0332280",
-      "http://imdb.com/title/tt0332280",
-      "https://www.themoviedb.org/tv/11036"
+      "http://imdb.com/title/tt11762114",
+      "http://imdb.com/title/tt11762114"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eldri maður að nafni Duke les rómantíska sögu fyrir eldri konu á elliheimili, sem er komin með elliglöp og þjáist af minnisleysi. Rómantíska sagan fjallar um elskendurna Allie Hamilton og Noah Calhoun, sem hittast kvöld eitt á útiskemmtun. Noah fer með Allie að gömlu húsi sem hann hann dreymir um að endurbyggja. En leiðir þeirra skilja því foreldrar Allie eru ósáttir við að Noah er af litlum efnum. Eftir að Allie er búin að bíða í nokkur ár eftir að heyra frá Noah, trúlofast hún myndarlegum ungum hermanni að nafni Lon. Allie, sem enn ber tilfinningar til Noah, sér mynd af Noah í dagblaði ásamt húsinu sem hann hefur nú lokið við að endurgera. Ljóst er að hún ber enn tilfinningar til hans, og Allie þarf nú að velja á milli unnustans og fyrstu ástarinnar.",
+    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
     "genres": [
-      "Rómantík",
-      "Drama"
+      "Gaman",
+      "Söngleikur"
     ],
-    "duration_in_mins": 123,
+    "duration_in_mins": 112,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=S3G3fILPQAU",
+    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-02-09T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3671",
-          "hall": "Salur 1"
+          "time": "2024-02-09T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376087/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-09T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376090/",
+          "hall": "Salur 2"
         }
       ]
     }
   },
   {
-    "title": "Anatomy of a Fall",
-    "id": 16545,
-    "alt_title": "Anatomie d'une chute",
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt17009710",
-      "http://imdb.com/title/tt17009710"
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
     "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa"
+      "Fjölskylda",
+      "Teiknað"
     ],
-    "duration_in_mins": 151,
+    "duration_in_mins": 90,
     "language": [
-      "Franska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Laugarásbíó": [
         {
-          "time": "2024-02-09T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5022",
-          "hall": "Salur 3"
+          "time": "2024-02-09T15:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808714/",
+          "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-09T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107697&visLang=1",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -998,6 +934,70 @@
         {
           "time": "2024-02-09T19:35:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5023",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Notebook",
+    "id": 2903,
+    "alt_title": "Áreitni í Hollywood-rómantík - Sex dæmi um tímaskekkjur",
+    "release_year": 2004,
+    "poster_url": "https://kvikmyndir.is/images/poster/2903_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0332280",
+      "http://imdb.com/title/tt0332280",
+      "https://www.themoviedb.org/tv/11036"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Eldri maður að nafni Duke les rómantíska sögu fyrir eldri konu á elliheimili, sem er komin með elliglöp og þjáist af minnisleysi. Rómantíska sagan fjallar um elskendurna Allie Hamilton og Noah Calhoun, sem hittast kvöld eitt á útiskemmtun. Noah fer með Allie að gömlu húsi sem hann hann dreymir um að endurbyggja. En leiðir þeirra skilja því foreldrar Allie eru ósáttir við að Noah er af litlum efnum. Eftir að Allie er búin að bíða í nokkur ár eftir að heyra frá Noah, trúlofast hún myndarlegum ungum hermanni að nafni Lon. Allie, sem enn ber tilfinningar til Noah, sér mynd af Noah í dagblaði ásamt húsinu sem hann hefur nú lokið við að endurgera. Ljóst er að hún ber enn tilfinningar til hans, og Allie þarf nú að velja á milli unnustans og fyrstu ástarinnar.",
+    "genres": [
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=S3G3fILPQAU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-09T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3671",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "id": 16545,
+    "alt_title": "Anatomie d'une chute",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17009710",
+      "http://imdb.com/title/tt17009710"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa"
+    ],
+    "duration_in_mins": 151,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-09T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5022",
           "hall": "Salur 3"
         }
       ]
