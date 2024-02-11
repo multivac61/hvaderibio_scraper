@@ -93,13 +93,6 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808742/",
           "hall": "Salur B"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-11T21:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107769&visLang=1",
-          "hall": "Salur 4"
-        }
       ]
     }
   },
@@ -340,17 +333,57 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808737/",
           "hall": "AXL"
         }
-      ],
-      "Smárabíó": [
+      ]
+    }
+  },
+  {
+    "title": "Wonka",
+    "id": 16293,
+    "alt_title": "Fullt hús áfram á fullu skriði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6166392",
+      "http://imdb.com/title/tt6166392"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-02-11T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107755&visLang=1",
-          "hall": "LÚXUS"
+          "time": "2024-02-11T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376135/",
+          "hall": "Salur B"
         },
         {
-          "time": "2024-02-11T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107767&visLang=1",
-          "hall": "MAX"
+          "time": "2024-02-11T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376065/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-02-11T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376139/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-02-11T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376073/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-02-11T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376074/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -409,108 +442,51 @@
     }
   },
   {
-    "title": "Anyone But You",
-    "id": 16358,
-    "alt_title": "Fullt hús áfram á fullu skriði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
+    "title": "Turning Red",
+    "id": 13670,
+    "alt_title": "Hafmeyjurnar eru djöflarnir",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/1588850_500-1704198808.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt26047818",
-      "http://imdb.com/title/tt26047818"
+      "http://imdb.com/title/tt8097030",
+      "http://imdb.com/title/tt8097030",
+      "https://www.themoviedb.org/tv/508947"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
-    "genres": [
-      "Gaman",
-      "Rómantík"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
-    "cinema_showtimes": {
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-11T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376382/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-11T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376383/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-11T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376314/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-11T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376315/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-11T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107775&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Wonka",
-    "id": 16293,
-    "alt_title": "Fullt hús áfram á fullu skriði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6166392",
-      "http://imdb.com/title/tt6166392"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "content_rating": "Öllum leyfð",
+    "description": "Þrettán ára stúlka, Mei Lee, breytist í risastóran rauðan pandabjörn alltaf þegar hún verður of æst. Mamma hennar, Ming, ofverndar hana aðeins meira en Lee þolir og það hjálpar ekki til.",
     "genres": [
       "Gaman",
       "Ævintýri",
-      "Fjölskylda"
+      "Teiknað"
     ],
-    "duration_in_mins": 112,
+    "duration_in_mins": 100,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "trailer_url": "https://www.youtube.com/watch?v=XdKzUbAiswE",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
           "time": "2024-02-11T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376135/",
-          "hall": "Salur B"
+          "purchase_url": "http://www.sambio.is/websales/show/376220/",
+          "hall": "Salur 2"
         },
         {
-          "time": "2024-02-11T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376065/",
-          "hall": "Salur B"
+          "time": "2024-02-11T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376118/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-02-11T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376221/",
+          "hall": "Salur 3"
         },
         {
-          "time": "2024-02-11T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376139/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-02-11T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376073/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-02-11T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376074/",
-          "hall": "Salur B"
+          "time": "2024-02-11T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376215/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -613,136 +589,49 @@
     }
   },
   {
-    "title": "Turning Red",
-    "id": 13670,
-    "alt_title": "Hafmeyjurnar eru djöflarnir",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/1588850_500-1704198808.jpg",
+    "title": "Anyone But You",
+    "id": 16358,
+    "alt_title": "Fullt hús áfram á fullu skriði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt8097030",
-      "http://imdb.com/title/tt8097030",
-      "https://www.themoviedb.org/tv/508947"
+      "http://imdb.com/title/tt26047818",
+      "http://imdb.com/title/tt26047818"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Þrettán ára stúlka, Mei Lee, breytist í risastóran rauðan pandabjörn alltaf þegar hún verður of æst. Mamma hennar, Ming, ofverndar hana aðeins meira en Lee þolir og það hjálpar ekki til.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
     "genres": [
       "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Rómantík"
     ],
-    "duration_in_mins": 100,
+    "duration_in_mins": 103,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=XdKzUbAiswE",
+    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Sambíóin Akureyri": [
         {
-          "time": "2024-02-11T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376220/",
+          "time": "2024-02-11T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376382/",
           "hall": "Salur 2"
         },
         {
-          "time": "2024-02-11T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376118/",
+          "time": "2024-02-11T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376383/",
           "hall": "Salur 2"
         }
       ],
-      "Sambíóin Kringlunni": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-02-11T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376221/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-02-11T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376215/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Holdovers",
-    "id": 16580,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14849194",
-      "http://imdb.com/title/tt14849194"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 133,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-02-11T16:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376183/",
+          "time": "2024-02-11T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376314/",
           "hall": "Salur 2"
         },
         {
-          "time": "2024-02-11T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376184/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-11T21:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376185/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 113,
-    "language": [
-      "Ekkert tal"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-11T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5042",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-11T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5043",
-          "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-11T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107750&visLang=1",
-          "hall": "Salur 2"
+          "time": "2024-02-11T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376315/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -836,6 +725,47 @@
     }
   },
   {
+    "title": "The Holdovers",
+    "id": 16580,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14849194",
+      "http://imdb.com/title/tt14849194"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 133,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-02-11T16:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376183/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-11T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376184/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-11T21:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376185/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Club Zero",
     "id": 16289,
     "alt_title": "Leikstjórn",
@@ -867,6 +797,107 @@
           "time": "2024-02-11T19:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5027",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Ekkert tal"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-11T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5042",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-11T21:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5043",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Mitt liv som hund",
+    "id": 16715,
+    "alt_title": "Leikstjórn",
+    "release_year": 1985,
+    "poster_url": "https://kvikmyndir.is/images/poster/16715_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0089606",
+      "http://imdb.com/title/tt0089606",
+      "https://www.themoviedb.org/tv/8816"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hinn ungi Ingemar lærir margt um lífið og sjálfan sig þegar hann er sendur á sjötta áratug tuttugustu aldarinnar frá veikri móður sinni til að búa með frænku sinni í bæ fullum af sérvitringum.",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 101,
+    "language": [
+      "Sænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=QSqlvZy339s",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-11T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4977",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Innocent",
+    "id": 16187,
+    "alt_title": "L'innocent",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16187_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19841734",
+      "http://imdb.com/title/tt19841734"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við fylgjumst með Abel sem kemst að því að móðir hans er í þann mund að fara giftast fanga sem er að losna úr fangelsi. Hann tekur því vægast sagt illa og reynir allt til þess að afstýra sambandinu. Þangað til að hann hittir nýja stjúpföður sinn. Þá breytist allt …",
+    "genres": [
+      "Gaman",
+      "Rómantík",
+      "Glæpa"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=A2kjh2Z1K0A",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-11T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5039",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -1084,70 +1115,6 @@
           "time": "2024-02-11T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376327/",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Mitt liv som hund",
-    "id": 16715,
-    "alt_title": "Leikstjórn",
-    "release_year": 1985,
-    "poster_url": "https://kvikmyndir.is/images/poster/16715_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0089606",
-      "http://imdb.com/title/tt0089606",
-      "https://www.themoviedb.org/tv/8816"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hinn ungi Ingemar lærir margt um lífið og sjálfan sig þegar hann er sendur á sjötta áratug tuttugustu aldarinnar frá veikri móður sinni til að búa með frænku sinni í bæ fullum af sérvitringum.",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 101,
-    "language": [
-      "Sænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=QSqlvZy339s",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-11T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4977",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Innocent",
-    "id": 16187,
-    "alt_title": "L'innocent",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16187_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19841734",
-      "http://imdb.com/title/tt19841734"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við fylgjumst með Abel sem kemst að því að móðir hans er í þann mund að fara giftast fanga sem er að losna úr fangelsi. Hann tekur því vægast sagt illa og reynir allt til þess að afstýra sambandinu. Þangað til að hann hittir nýja stjúpföður sinn. Þá breytist allt …",
-    "genres": [
-      "Gaman",
-      "Rómantík",
-      "Glæpa"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=A2kjh2Z1K0A",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-11T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5039",
-          "hall": "Salur 3"
         }
       ]
     }
