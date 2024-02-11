@@ -291,13 +291,6 @@
           "hall": "Salur 4"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-11T14:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808741/",
-          "hall": "Salur B"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-02-11T14:00:00.000Z",
@@ -313,6 +306,13 @@
           "time": "2024-02-11T17:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376147/",
           "hall": "Salur 3"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-11T14:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808741/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -958,35 +958,6 @@
     }
   },
   {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-11T13:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107765&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-11T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107779&visLang=1",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Club Zero",
     "id": 16289,
     "alt_title": "Leikstjórn",
@@ -1017,6 +988,35 @@
         {
           "time": "2024-02-11T19:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5027",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Strumparnir - Partýbíó",
+    "id": 16692,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
+    "genres": [],
+    "duration_in_mins": 60,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-11T13:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107765&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-02-11T15:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107779&visLang=1",
           "hall": "Salur 2"
         }
       ]
@@ -1149,6 +1149,37 @@
     }
   },
   {
+    "title": "Aquaman and the Lost Kingdom",
+    "id": 16298,
+    "alt_title": "Wonka í þriðja sinn á toppinum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726470_500-1700665469.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt9663764",
+      "http://imdb.com/title/tt9663764"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Black Manta, sem mistókst að sigra Aquaman í fyrstu atrennu, er enn ákafur í að hefna föður síns, og mun ekki hætta fyrr en Aquaman er allur. Black Manta er óárennilegri en nokkru sinni fyrr og hefur öðlast krafta hins goðsagnakennda svarta þríforks, sem leysir úr læðingi ævaforna og illa orku. Til að sigra í þessari baráttu snýr Aquaman sér til bróður síns Orm, fyrrum konungs Atlantis, og biður um aðstoð. Saman þurfa þeir að leggja eigin ágreiningsmál til hliðar til að vernda konungsríkið og bjarga fjölskyldu Aquaman og heiminum öllum frá gereyðingu.",
+    "genres": [
+      "Spenna",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=FV3bqvOHRQo",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-11T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376078/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Disco Boy",
     "id": 16646,
     "alt_title": "Leikstjórn",
@@ -1174,6 +1205,37 @@
           "time": "2024-02-11T22:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5038",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Iron Claw",
+    "id": 16512,
+    "alt_title": "Enn blómstrar ástin á toppnum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21064584",
+      "http://imdb.com/title/tt21064584"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
+    "genres": [
+      "Drama",
+      "Æviágrip",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 132,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-11T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376327/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -1206,68 +1268,6 @@
           "time": "2024-02-11T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5035",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Aquaman and the Lost Kingdom",
-    "id": 16298,
-    "alt_title": "Wonka í þriðja sinn á toppinum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726470_500-1700665469.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt9663764",
-      "http://imdb.com/title/tt9663764"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Black Manta, sem mistókst að sigra Aquaman í fyrstu atrennu, er enn ákafur í að hefna föður síns, og mun ekki hætta fyrr en Aquaman er allur. Black Manta er óárennilegri en nokkru sinni fyrr og hefur öðlast krafta hins goðsagnakennda svarta þríforks, sem leysir úr læðingi ævaforna og illa orku. Til að sigra í þessari baráttu snýr Aquaman sér til bróður síns Orm, fyrrum konungs Atlantis, og biður um aðstoð. Saman þurfa þeir að leggja eigin ágreiningsmál til hliðar til að vernda konungsríkið og bjarga fjölskyldu Aquaman og heiminum öllum frá gereyðingu.",
-    "genres": [
-      "Spenna",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=FV3bqvOHRQo",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-11T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376078/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Iron Claw",
-    "id": 16512,
-    "alt_title": "Enn blómstrar ástin á toppnum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21064584",
-      "http://imdb.com/title/tt21064584"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
-    "genres": [
-      "Drama",
-      "Æviágrip",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 132,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-11T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376327/",
-          "hall": "Salur 4"
         }
       ]
     }
