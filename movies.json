@@ -163,6 +163,13 @@
           "hall": "MAX"
         }
       ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-02-12T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376411/",
+          "hall": "Salur 1"
+        }
+      ],
       "Laugarásbíó": [
         {
           "time": "2024-02-12T20:00:00.000Z",
@@ -173,13 +180,6 @@
           "time": "2024-02-12T22:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808745/",
           "hall": "AXL"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-12T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376411/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -233,13 +233,6 @@
           "hall": "Lúxus VIP"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-12T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808749/",
-          "hall": "Salur B"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-02-12T18:00:00.000Z",
@@ -250,6 +243,13 @@
           "time": "2024-02-12T21:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376204/",
           "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-12T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808749/",
+          "hall": "Salur B"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -437,6 +437,51 @@
     }
   },
   {
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-12T15:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107800&visLang=1",
+          "hall": "Salur 5"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-12T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376086/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-12T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376312/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Wonka",
     "id": 16293,
     "alt_title": "Fullt hús áfram á fullu skriði",
@@ -517,51 +562,6 @@
           "time": "2024-02-12T18:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376366/",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-12T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107800&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-12T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376086/",
-          "hall": "Salur A"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-12T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376312/",
-          "hall": "Salur 4"
         }
       ]
     }
@@ -682,6 +682,44 @@
     }
   },
   {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-12T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107803&visLang=1",
+          "hall": "Salur 4"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-12T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808746/",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
     "title": "Turning Red",
     "id": 13670,
     "alt_title": "Hafmeyjurnar eru djöflarnir",
@@ -722,44 +760,6 @@
     }
   },
   {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-12T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107803&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-12T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808746/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
     "title": "Aquaman and the Lost Kingdom",
     "id": 16298,
     "alt_title": "Wonka í þriðja sinn á toppinum",
@@ -791,6 +791,37 @@
           "time": "2024-02-12T19:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376075/",
           "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Club Zero",
+    "id": 16289,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16289_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt18235146",
+      "http://imdb.com/title/tt18235146"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Ungfrú Novak gengur til liðs við starfsfólk alþjóðlegs heimavistarskóla til að kenna meðvitaða matarhegðun og hvetur nemendur sína til þess að borða minna.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AzxWBX8T4sc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-12T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5051",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -972,37 +1003,6 @@
           "time": "2024-02-12T15:20:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107801&visLang=1",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Club Zero",
-    "id": 16289,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16289_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt18235146",
-      "http://imdb.com/title/tt18235146"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ungfrú Novak gengur til liðs við starfsfólk alþjóðlegs heimavistarskóla til að kenna meðvitaða matarhegðun og hvetur nemendur sína til þess að borða minna.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AzxWBX8T4sc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-12T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5051",
-          "hall": "Salur 1"
         }
       ]
     }
