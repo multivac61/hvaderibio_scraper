@@ -48,13 +48,6 @@
           "hall": "Salur A"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-13T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808756/",
-          "hall": "Salur B"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-02-13T18:00:00.000Z",
@@ -65,6 +58,13 @@
           "time": "2024-02-13T21:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376270/",
           "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-13T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808756/",
+          "hall": "Salur B"
         }
       ],
       "Sambíóin Akureyri": [
@@ -86,6 +86,93 @@
           "time": "2024-02-13T21:40:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107828&visLang=1",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Beekeeper",
+    "id": 16576,
+    "alt_title": "Persónulegri en Hollywood",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15314262",
+      "http://imdb.com/title/tt15314262"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum stjórnandi valdamikilla og leynilegra samtaka sem þekkt eru undir nafninu Beekeepers, eða Býflugnabændurnir.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-13T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376357/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-13T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376358/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-13T22:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376359/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-13T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107822&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-02-13T19:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107843&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-13T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107847&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-02-13T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107829&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-13T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107832&visLang=1",
+          "hall": "MAX"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-02-13T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376412/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-13T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808754/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-02-13T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808753/",
+          "hall": "AXL"
         }
       ]
     }
@@ -172,93 +259,6 @@
           "time": "2024-02-13T22:15:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808755/",
           "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Beekeeper",
-    "id": 16576,
-    "alt_title": "Persónulegri en Hollywood",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15314262",
-      "http://imdb.com/title/tt15314262"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum stjórnandi valdamikilla og leynilegra samtaka sem þekkt eru undir nafninu Beekeepers, eða Býflugnabændurnir.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-13T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376357/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-13T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376358/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-13T22:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376359/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-13T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107822&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-13T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107843&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-13T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107847&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-13T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107829&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-13T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107832&visLang=1",
-          "hall": "MAX"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-13T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808754/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-02-13T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808753/",
-          "hall": "AXL"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-13T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376412/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -603,84 +603,6 @@
     }
   },
   {
-    "title": "Turning Red",
-    "id": 13670,
-    "alt_title": "Hafmeyjurnar eru djöflarnir",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/1588850_500-1704198808.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt8097030",
-      "http://imdb.com/title/tt8097030",
-      "https://www.themoviedb.org/tv/508947"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Þrettán ára stúlka, Mei Lee, breytist í risastóran rauðan pandabjörn alltaf þegar hún verður of æst. Mamma hennar, Ming, ofverndar hana aðeins meira en Lee þolir og það hjálpar ekki til.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=XdKzUbAiswE",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-02-13T15:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376272/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-13T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376217/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Iron Claw",
-    "id": 16512,
-    "alt_title": "Enn blómstrar ástin á toppnum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21064584",
-      "http://imdb.com/title/tt21064584"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
-    "genres": [
-      "Drama",
-      "Æviágrip",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 132,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-13T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808757/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-13T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376329/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Aquaman and the Lost Kingdom",
     "id": 16298,
     "alt_title": "Wonka í þriðja sinn á toppinum",
@@ -753,6 +675,84 @@
     }
   },
   {
+    "title": "The Iron Claw",
+    "id": 16512,
+    "alt_title": "Enn blómstrar ástin á toppnum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21064584",
+      "http://imdb.com/title/tt21064584"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
+    "genres": [
+      "Drama",
+      "Æviágrip",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 132,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-13T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808757/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-13T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376329/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Turning Red",
+    "id": 13670,
+    "alt_title": "Hafmeyjurnar eru djöflarnir",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/1588850_500-1704198808.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt8097030",
+      "http://imdb.com/title/tt8097030",
+      "https://www.themoviedb.org/tv/508947"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Þrettán ára stúlka, Mei Lee, breytist í risastóran rauðan pandabjörn alltaf þegar hún verður of æst. Mamma hennar, Ming, ofverndar hana aðeins meira en Lee þolir og það hjálpar ekki til.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=XdKzUbAiswE",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-02-13T15:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376272/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-13T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376217/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Bestu vinir",
     "id": 16577,
     "alt_title": "The Inseparables",
@@ -786,6 +786,30 @@
           "time": "2024-02-13T18:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808758/",
           "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Strumparnir - Partýbíó",
+    "id": 16692,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
+    "genres": [],
+    "duration_in_mins": 60,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-13T15:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107835&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -941,30 +965,6 @@
           "time": "2024-02-13T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5061",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-13T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107835&visLang=1",
-          "hall": "Salur 2"
         }
       ]
     }
