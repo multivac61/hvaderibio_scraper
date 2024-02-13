@@ -1,92 +1,5 @@
 [
   {
-    "title": "The Beekeeper",
-    "id": 16576,
-    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15314262",
-      "http://imdb.com/title/tt15314262"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum stjórnandi valdamikilla og leynilegra samtaka sem þekkt eru undir nafninu Beekeepers, eða Býflugnabændurnir.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-13T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376357/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-13T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376358/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-13T22:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376359/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-13T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107822&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-13T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107843&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-13T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107847&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-13T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107829&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-13T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107832&visLang=1",
-          "hall": "MAX"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-13T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376412/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-13T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808754/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-02-13T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808753/",
-          "hall": "AXL"
-        }
-      ]
-    }
-  },
-  {
     "title": "Fullt hús",
     "id": 16655,
     "alt_title": "Grand Finale",
@@ -221,6 +134,13 @@
           "hall": "Salur A"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-13T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808756/",
+          "hall": "Salur B"
+        }
+      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-02-13T18:00:00.000Z",
@@ -231,13 +151,6 @@
           "time": "2024-02-13T21:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376270/",
           "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-13T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808756/",
-          "hall": "Salur B"
         }
       ],
       "Sambíóin Akureyri": [
@@ -259,6 +172,152 @@
           "time": "2024-02-13T21:40:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107828&visLang=1",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Beekeeper",
+    "id": 16576,
+    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15314262",
+      "http://imdb.com/title/tt15314262"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum stjórnandi valdamikilla og leynilegra samtaka sem þekkt eru undir nafninu Beekeepers, eða Býflugnabændurnir.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-13T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376357/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-13T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376358/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-13T22:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376359/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-13T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107822&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-02-13T19:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107843&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-13T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107847&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-02-13T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107829&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-13T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107832&visLang=1",
+          "hall": "MAX"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-13T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808754/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-02-13T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808753/",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-02-13T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376412/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Ekkert tal"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-13T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5048",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-13T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5049",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-13T16:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107819&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-13T17:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107820&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-13T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107846&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-13T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107831&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -319,65 +378,6 @@
           "time": "2024-02-13T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107830&visLang=1",
           "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 113,
-    "language": [
-      "Ekkert tal"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-13T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5048",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-13T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5049",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-13T16:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107819&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-13T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107820&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-13T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107846&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-13T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107831&visLang=1",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -717,44 +717,6 @@
     }
   },
   {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-13T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107833&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-13T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808758/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
     "title": "Aquaman and the Lost Kingdom",
     "id": 16298,
     "alt_title": "Wonka í þriðja sinn á toppinum",
@@ -791,93 +753,39 @@
     }
   },
   {
-    "title": "Baby boom, czyli kogel mogel 5",
-    "id": 16707,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fxku7cjqxnhucdr4p65qarmxxrz-1706174951.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt30971027",
-      "http://imdb.com/title/tt30971027"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Piotruś flytur ásamt eiginkonu sinni og tengdamóður og Leopold í sögufrægt stórhýsi. Marlenka ákveður að finna sér ákjósanlegan forfaðir sem passar fjölskyldunni og hinu nýja og fína heimili. Agnieszka hinsvegar er á framabraut í háskólanum en rétt eftir að hún ver doktorsritgerð sína kemst hún að því að hún er ófrísk. Og þegar Kuba litla fæðist byrja vandamálin fyrir alvöru!  Piotruś fer með systur sinni á fæðingardeildina og langar nú sjálfan í barn – sem Marlenka er lítt hrifin af. Marcin, nýbakaður faðir, fer á taugum og hverfur skyndilega. Þar að auki birtist dularfull ófrísk stúlka í Brzózki sem er að leita að Zawada…",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=OkI5JJJw5MU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-13T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5059",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Disco Boy",
-    "id": 16646,
-    "alt_title": "Leikstjórn",
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16646_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt22180518",
-      "http://imdb.com/title/tt22180518"
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Eftir erfitt ferðalag um Evrópu gengur Hvít Rússinn Alex í Frönsku útlendingahersveitina. Hin nígeríski Jomo vill berjast fyrir þjóð sína í Niger Delta og er tilbúinn að láta lífið fyrir hugsjónir sínar. Þessi tveir hittast og örlög þeirra samtvinnast og halda áfram yfir landamæri, líf og dauða.",
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
     "genres": [
-      "Drama"
+      "Fjölskylda",
+      "Teiknað"
     ],
-    "duration_in_mins": 92,
+    "duration_in_mins": 90,
     "language": [
-      "Franska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=dIFnEGhVMWY",
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Smárabíó": [
         {
-          "time": "2024-02-13T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5061",
-          "hall": "Salur 3"
+          "time": "2024-02-13T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107833&visLang=1",
+          "hall": "Salur 4"
         }
-      ]
-    }
-  },
-  {
-    "title": "The Nature of Love",
-    "id": 16644,
-    "alt_title": "Simple comme Sylvain",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16644_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22487338",
-      "http://imdb.com/title/tt22487338"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sophia er heimspekiprófessor í Montreal í Kanada og hefur búið með Xavier í tíu ár. Sylvain er smiður í Laurentians og er fenginn til að gera við sumarbústaðinn. Þegar Sophia hittir Sylvain í fyrsta skipti er það ást við fyrstu sýn. Andstæður laðast að hvor annarri, en mun það endast?",
-    "genres": [
-      "Gaman",
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=LJEGwAIcKIY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
+      ],
+      "Laugarásbíó": [
         {
-          "time": "2024-02-13T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5056",
-          "hall": "Salur 2"
+          "time": "2024-02-13T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/808758/",
+          "hall": "Salur A"
         }
       ]
     }
@@ -997,6 +905,98 @@
           "time": "2024-02-13T18:35:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5062",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Baby boom, czyli kogel mogel 5",
+    "id": 16707,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fxku7cjqxnhucdr4p65qarmxxrz-1706174951.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt30971027",
+      "http://imdb.com/title/tt30971027"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Piotruś flytur ásamt eiginkonu sinni og tengdamóður og Leopold í sögufrægt stórhýsi. Marlenka ákveður að finna sér ákjósanlegan forfaðir sem passar fjölskyldunni og hinu nýja og fína heimili. Agnieszka hinsvegar er á framabraut í háskólanum en rétt eftir að hún ver doktorsritgerð sína kemst hún að því að hún er ófrísk. Og þegar Kuba litla fæðist byrja vandamálin fyrir alvöru!  Piotruś fer með systur sinni á fæðingardeildina og langar nú sjálfan í barn – sem Marlenka er lítt hrifin af. Marcin, nýbakaður faðir, fer á taugum og hverfur skyndilega. Þar að auki birtist dularfull ófrísk stúlka í Brzózki sem er að leita að Zawada…",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 95,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=OkI5JJJw5MU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-13T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5059",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Disco Boy",
+    "id": 16646,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16646_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22180518",
+      "http://imdb.com/title/tt22180518"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Eftir erfitt ferðalag um Evrópu gengur Hvít Rússinn Alex í Frönsku útlendingahersveitina. Hin nígeríski Jomo vill berjast fyrir þjóð sína í Niger Delta og er tilbúinn að láta lífið fyrir hugsjónir sínar. Þessi tveir hittast og örlög þeirra samtvinnast og halda áfram yfir landamæri, líf og dauða.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=dIFnEGhVMWY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-13T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5061",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Nature of Love",
+    "id": 16644,
+    "alt_title": "Simple comme Sylvain",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16644_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22487338",
+      "http://imdb.com/title/tt22487338"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sophia er heimspekiprófessor í Montreal í Kanada og hefur búið með Xavier í tíu ár. Sylvain er smiður í Laurentians og er fenginn til að gera við sumarbústaðinn. Þegar Sophia hittir Sylvain í fyrsta skipti er það ást við fyrstu sýn. Andstæður laðast að hvor annarri, en mun það endast?",
+    "genres": [
+      "Gaman",
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=LJEGwAIcKIY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-13T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5056",
+          "hall": "Salur 2"
         }
       ]
     }
