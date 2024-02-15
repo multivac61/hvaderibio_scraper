@@ -52,13 +52,13 @@
       "Sambíóin Álfabakka": [
         {
           "time": "2024-02-15T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376230/",
-          "hall": "Lúxus VIP"
+          "purchase_url": "http://www.sambio.is/websales/show/376225/",
+          "hall": "Salur 1"
         },
         {
           "time": "2024-02-15T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376225/",
-          "hall": "Salur 1"
+          "purchase_url": "http://www.sambio.is/websales/show/376230/",
+          "hall": "Lúxus VIP"
         },
         {
           "time": "2024-02-15T19:30:00.000Z",
@@ -242,13 +242,6 @@
           "hall": "MAX"
         }
       ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-15T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375411/",
-          "hall": "Salur 1"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-02-15T20:00:00.000Z",
@@ -265,6 +258,13 @@
         {
           "time": "2024-02-15T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/375925/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-15T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375411/",
           "hall": "Salur 1"
         }
       ],
@@ -502,6 +502,47 @@
     }
   },
   {
+    "title": "The Holdovers",
+    "id": 16580,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14849194",
+      "http://imdb.com/title/tt14849194"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 133,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-02-15T15:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376264/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-15T18:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376262/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-15T21:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376263/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Wonka",
     "id": 16293,
     "alt_title": "Fullt hús áfram á fullu skriði",
@@ -544,80 +585,38 @@
     }
   },
   {
-    "title": "The Holdovers",
-    "id": 16580,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
+    "title": "Dune",
+    "id": 13016,
+    "alt_title": "Mannfólkið er vondi kallinn",
+    "release_year": 2021,
+    "poster_url": "https://kvikmyndir.is/images/poster/13016_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14849194",
-      "http://imdb.com/title/tt14849194"
+      "http://imdb.com/title/tt1160419",
+      "http://imdb.com/title/tt1160419"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
+    "description": "Dune fjallar um Paul Atreides, fjölskyldu hans og baráttu þeirra við Harkonnen-ættina um plánetuna Arrakis, sem einnig kallast Dune. Sagan gerist í ítarlegum söguheimi. Heilar mannfólks eru þjálfaðir í að framkvæma gífurlega flókna útreikninga og menn hafa náð mun meiri stjórn á hugsunum sínum og líkömum. Á plánetunni Arrakkis finnst Kryddið svonefnda, sem gerir mönnum kleift að efla heila sína enn frekar og meðal annars stýra geimskipum langar vegalengdir. Plánetum í þessum söguheimi er stjórnað af aðalsættum og þeim er stýrt af keisara. Atreides-ættin tekur við stjórn Arrakis af Harkonnen-ættinni að skipan keisarans og á Leto Atreides að auka framleiðslu krydds en keisaraveldið stendur og fellur með því að tryggja framleiðslu efnisins.",
     "genres": [
-      "Gaman",
-      "Drama"
+      "Drama",
+      "Vísindaskáldskapur",
+      "Ævintýri"
     ],
-    "duration_in_mins": 133,
+    "duration_in_mins": 155,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
+    "trailer_url": "https://www.youtube.com/watch?v=8g18jFHCLXk",
     "cinema_showtimes": {
       "Sambíóin Kringlunni": [
         {
-          "time": "2024-02-15T15:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376264/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-15T18:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376262/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-15T21:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376263/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
           "time": "2024-02-15T15:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107904&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Egilshöll": [
+          "purchase_url": "http://www.sambio.is/websales/show/376283/",
+          "hall": "Ásberg"
+        },
         {
-          "time": "2024-02-15T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376309/",
-          "hall": "Salur 4"
+          "time": "2024-02-15T21:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376284/",
+          "hall": "Ásberg"
         }
       ]
     }
@@ -656,79 +655,6 @@
           "time": "2024-02-15T18:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/809559/",
           "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Mean Girls",
-    "id": 16571,
-    "alt_title": "Anyone But You komin í 28 milljónir",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11762114",
-      "http://imdb.com/title/tt11762114"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
-    "genres": [
-      "Gaman",
-      "Söngleikur"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-15T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376159/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-15T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376160/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Dune",
-    "id": 13016,
-    "alt_title": "Mannfólkið er vondi kallinn",
-    "release_year": 2021,
-    "poster_url": "https://kvikmyndir.is/images/poster/13016_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1160419",
-      "http://imdb.com/title/tt1160419"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Dune fjallar um Paul Atreides, fjölskyldu hans og baráttu þeirra við Harkonnen-ættina um plánetuna Arrakis, sem einnig kallast Dune. Sagan gerist í ítarlegum söguheimi. Heilar mannfólks eru þjálfaðir í að framkvæma gífurlega flókna útreikninga og menn hafa náð mun meiri stjórn á hugsunum sínum og líkömum. Á plánetunni Arrakkis finnst Kryddið svonefnda, sem gerir mönnum kleift að efla heila sína enn frekar og meðal annars stýra geimskipum langar vegalengdir. Plánetum í þessum söguheimi er stjórnað af aðalsættum og þeim er stýrt af keisara. Atreides-ættin tekur við stjórn Arrakis af Harkonnen-ættinni að skipan keisarans og á Leto Atreides að auka framleiðslu krydds en keisaraveldið stendur og fellur með því að tryggja framleiðslu efnisins.",
-    "genres": [
-      "Drama",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 155,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=8g18jFHCLXk",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-02-15T15:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376283/",
-          "hall": "Ásberg"
-        },
-        {
-          "time": "2024-02-15T21:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376284/",
-          "hall": "Ásberg"
         }
       ]
     }
@@ -810,6 +736,80 @@
     }
   },
   {
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-15T15:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107904&visLang=1",
+          "hall": "Salur 5"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-15T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376309/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Mean Girls",
+    "id": 16571,
+    "alt_title": "Anyone But You komin í 28 milljónir",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11762114",
+      "http://imdb.com/title/tt11762114"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
+    "genres": [
+      "Gaman",
+      "Söngleikur"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-15T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376159/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-15T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376160/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Disco Boy",
     "id": 16646,
     "alt_title": "Leikstjórn",
@@ -835,6 +835,37 @@
           "time": "2024-02-15T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5078",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Iron Claw",
+    "id": 16512,
+    "alt_title": "Enn blómstrar ástin á toppnum",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21064584",
+      "http://imdb.com/title/tt21064584"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
+    "genres": [
+      "Drama",
+      "Æviágrip",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 132,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-15T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376331/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -867,37 +898,6 @@
           "time": "2024-02-15T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5079",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Iron Claw",
-    "id": 16512,
-    "alt_title": "Enn blómstrar ástin á toppnum",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1726340_500-1703377465.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21064584",
-      "http://imdb.com/title/tt21064584"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sönn saga hinna óaðskiljanlegu Von Erich bræðra en þeir sköpuðu sér nafn í bandarískri fjölbragðaglímu snemma á níunda áratug tuttugustu aldarinnar. Í sorg og í gleði og í skugga stjórnsams föður og þjálfara urðu þeir goðsagnir í glímuhringnum.",
-    "genres": [
-      "Drama",
-      "Æviágrip",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 132,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-15T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376331/",
-          "hall": "Salur 4"
         }
       ]
     }
