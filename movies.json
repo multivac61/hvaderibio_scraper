@@ -278,65 +278,6 @@
     }
   },
   {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 113,
-    "language": [
-      "Ekkert tal"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-15T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107400&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-15T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107394&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-15T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5082",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-15T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5082",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-15T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5083",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-15T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5083",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Beekeeper",
     "id": 16576,
     "alt_title": "Flugurnar þorðu ekki að stinga Statham",
@@ -392,6 +333,65 @@
           "time": "2024-02-15T21:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107905&visLang=1",
           "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Ekkert tal"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-15T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107400&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-02-15T17:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107394&visLang=1",
+          "hall": "Salur 2"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-15T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5082",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-15T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5082",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-15T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5083",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-15T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5083",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -585,6 +585,117 @@
     }
   },
   {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-15T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107402&visLang=1",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-15T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/809559/",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Dune",
+    "id": 13016,
+    "alt_title": "Mannfólkið er vondi kallinn",
+    "release_year": 2021,
+    "poster_url": "https://kvikmyndir.is/images/poster/13016_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1160419",
+      "http://imdb.com/title/tt1160419"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Dune fjallar um Paul Atreides, fjölskyldu hans og baráttu þeirra við Harkonnen-ættina um plánetuna Arrakis, sem einnig kallast Dune. Sagan gerist í ítarlegum söguheimi. Heilar mannfólks eru þjálfaðir í að framkvæma gífurlega flókna útreikninga og menn hafa náð mun meiri stjórn á hugsunum sínum og líkömum. Á plánetunni Arrakkis finnst Kryddið svonefnda, sem gerir mönnum kleift að efla heila sína enn frekar og meðal annars stýra geimskipum langar vegalengdir. Plánetum í þessum söguheimi er stjórnað af aðalsættum og þeim er stýrt af keisara. Atreides-ættin tekur við stjórn Arrakis af Harkonnen-ættinni að skipan keisarans og á Leto Atreides að auka framleiðslu krydds en keisaraveldið stendur og fellur með því að tryggja framleiðslu efnisins.",
+    "genres": [
+      "Drama",
+      "Vísindaskáldskapur",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 155,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=8g18jFHCLXk",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-02-15T15:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376283/",
+          "hall": "Ásberg"
+        },
+        {
+          "time": "2024-02-15T21:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376284/",
+          "hall": "Ásberg"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Mean Girls",
+    "id": 16571,
+    "alt_title": "Anyone But You komin í 28 milljónir",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11762114",
+      "http://imdb.com/title/tt11762114"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
+    "genres": [
+      "Gaman",
+      "Söngleikur"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-15T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376159/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-15T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376160/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Turning Red",
     "id": 13670,
     "alt_title": "Hafmeyjurnar eru djöflarnir",
@@ -661,44 +772,6 @@
     }
   },
   {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-15T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107402&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-15T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/809559/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -737,73 +810,62 @@
     }
   },
   {
-    "title": "Dune",
-    "id": 13016,
-    "alt_title": "Mannfólkið er vondi kallinn",
-    "release_year": 2021,
-    "poster_url": "https://kvikmyndir.is/images/poster/13016_500.jpg",
+    "title": "Disco Boy",
+    "id": 16646,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16646_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt1160419",
-      "http://imdb.com/title/tt1160419"
+      "http://imdb.com/title/tt22180518",
+      "http://imdb.com/title/tt22180518"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Dune fjallar um Paul Atreides, fjölskyldu hans og baráttu þeirra við Harkonnen-ættina um plánetuna Arrakis, sem einnig kallast Dune. Sagan gerist í ítarlegum söguheimi. Heilar mannfólks eru þjálfaðir í að framkvæma gífurlega flókna útreikninga og menn hafa náð mun meiri stjórn á hugsunum sínum og líkömum. Á plánetunni Arrakkis finnst Kryddið svonefnda, sem gerir mönnum kleift að efla heila sína enn frekar og meðal annars stýra geimskipum langar vegalengdir. Plánetum í þessum söguheimi er stjórnað af aðalsættum og þeim er stýrt af keisara. Atreides-ættin tekur við stjórn Arrakis af Harkonnen-ættinni að skipan keisarans og á Leto Atreides að auka framleiðslu krydds en keisaraveldið stendur og fellur með því að tryggja framleiðslu efnisins.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Eftir erfitt ferðalag um Evrópu gengur Hvít Rússinn Alex í Frönsku útlendingahersveitina. Hin nígeríski Jomo vill berjast fyrir þjóð sína í Niger Delta og er tilbúinn að láta lífið fyrir hugsjónir sínar. Þessi tveir hittast og örlög þeirra samtvinnast og halda áfram yfir landamæri, líf og dauða.",
     "genres": [
-      "Drama",
-      "Vísindaskáldskapur",
-      "Ævintýri"
+      "Drama"
     ],
-    "duration_in_mins": 155,
+    "duration_in_mins": 92,
     "language": [
-      "Enska"
+      "Franska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=8g18jFHCLXk",
+    "trailer_url": "https://www.youtube.com/watch?v=dIFnEGhVMWY",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Bíó Paradís": [
         {
-          "time": "2024-02-15T15:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376283/",
-          "hall": "Ásberg"
-        },
-        {
-          "time": "2024-02-15T21:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376284/",
-          "hall": "Ásberg"
+          "time": "2024-02-15T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5078",
+          "hall": "Salur 3"
         }
       ]
     }
   },
   {
-    "title": "Mean Girls",
-    "id": 16571,
-    "alt_title": "Anyone But You komin í 28 milljónir",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
+    "title": "The Nature of Love",
+    "id": 16644,
+    "alt_title": "Simple comme Sylvain",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16644_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt11762114",
-      "http://imdb.com/title/tt11762114"
+      "http://imdb.com/title/tt22487338",
+      "http://imdb.com/title/tt22487338"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
+    "description": "Sophia er heimspekiprófessor í Montreal í Kanada og hefur búið með Xavier í tíu ár. Sylvain er smiður í Laurentians og er fenginn til að gera við sumarbústaðinn. Þegar Sophia hittir Sylvain í fyrsta skipti er það ást við fyrstu sýn. Andstæður laðast að hvor annarri, en mun það endast?",
     "genres": [
       "Gaman",
-      "Söngleikur"
+      "Rómantík",
+      "Drama"
     ],
-    "duration_in_mins": 112,
+    "duration_in_mins": 110,
     "language": [
-      "Enska"
+      "Franska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
+    "trailer_url": "https://www.youtube.com/watch?v=LJEGwAIcKIY",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Bíó Paradís": [
         {
-          "time": "2024-02-15T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376159/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-15T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376160/",
+          "time": "2024-02-15T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5079",
           "hall": "Salur 2"
         }
       ]
@@ -960,68 +1022,6 @@
         {
           "time": "2024-02-15T19:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5093",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Disco Boy",
-    "id": 16646,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16646_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22180518",
-      "http://imdb.com/title/tt22180518"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Eftir erfitt ferðalag um Evrópu gengur Hvít Rússinn Alex í Frönsku útlendingahersveitina. Hin nígeríski Jomo vill berjast fyrir þjóð sína í Niger Delta og er tilbúinn að láta lífið fyrir hugsjónir sínar. Þessi tveir hittast og örlög þeirra samtvinnast og halda áfram yfir landamæri, líf og dauða.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=dIFnEGhVMWY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-15T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5078",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Nature of Love",
-    "id": 16644,
-    "alt_title": "Simple comme Sylvain",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16644_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22487338",
-      "http://imdb.com/title/tt22487338"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sophia er heimspekiprófessor í Montreal í Kanada og hefur búið með Xavier í tíu ár. Sylvain er smiður í Laurentians og er fenginn til að gera við sumarbústaðinn. Þegar Sophia hittir Sylvain í fyrsta skipti er það ást við fyrstu sýn. Andstæður laðast að hvor annarri, en mun það endast?",
-    "genres": [
-      "Gaman",
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=LJEGwAIcKIY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-15T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5079",
           "hall": "Salur 2"
         }
       ]
