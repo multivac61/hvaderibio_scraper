@@ -366,6 +366,13 @@
           "hall": "Salur 2"
         }
       ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-02-19T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376750/",
+          "hall": "Salur 2"
+        }
+      ],
       "Laugarásbíó": [
         {
           "time": "2024-02-19T20:00:00.000Z",
@@ -376,13 +383,6 @@
           "time": "2024-02-19T22:15:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/809600/",
           "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-19T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376750/",
-          "hall": "Salur 2"
         }
       ],
       "Smárabíó": [
@@ -493,49 +493,6 @@
     }
   },
   {
-    "title": "Argylle",
-    "id": 16409,
-    "alt_title": "Fullt hús áfram á fullu skriði",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16409_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15009428",
-      "http://imdb.com/title/tt15009428"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar söguþráður njósnasögu rithöfundarins Elly Conway fer ískyggilega mikið að líkjast leynilegum aðgerðum raunverulegra njósnasamtaka, þá heyra róleg kvöld á heimilinu sögunni til. Ásamt kettinum Alfie og njósnaranum Aiden, sem er með ofnæmi fyrir kisum, ferðast Elly um heiminn þveran og endilangan til að vera einu skrefi á undan morðingjum sem bíða við hvert götuhorn. En ekkert er sem sýnist og mörkin milli skáldskapar og veruleika minnka í sífellu.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 139,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Sy6eNs3EW3E",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-19T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376507/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-19T20:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376508/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-19T22:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376640/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Anyone But You",
     "id": 16358,
     "alt_title": "Fullt hús áfram á fullu skriði",
@@ -574,6 +531,49 @@
           "time": "2024-02-19T20:50:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107954&visLang=1",
           "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Argylle",
+    "id": 16409,
+    "alt_title": "Fullt hús áfram á fullu skriði",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16409_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15009428",
+      "http://imdb.com/title/tt15009428"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar söguþráður njósnasögu rithöfundarins Elly Conway fer ískyggilega mikið að líkjast leynilegum aðgerðum raunverulegra njósnasamtaka, þá heyra róleg kvöld á heimilinu sögunni til. Ásamt kettinum Alfie og njósnaranum Aiden, sem er með ofnæmi fyrir kisum, ferðast Elly um heiminn þveran og endilangan til að vera einu skrefi á undan morðingjum sem bíða við hvert götuhorn. En ekkert er sem sýnist og mörkin milli skáldskapar og veruleika minnka í sífellu.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 139,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Sy6eNs3EW3E",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-19T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376507/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-19T20:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376508/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-19T22:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376640/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -658,42 +658,6 @@
     }
   },
   {
-    "title": "Poor Things",
-    "id": 16355,
-    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14230458",
-      "http://imdb.com/title/tt14230458"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
-    "genres": [
-      "Rómantík",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 141,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-19T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376591/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-02-19T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376592/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Strumparnir - Partýbíó",
     "id": 16692,
     "alt_title": "Leikstjórn",
@@ -760,6 +724,42 @@
     }
   },
   {
+    "title": "Poor Things",
+    "id": 16355,
+    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14230458",
+      "http://imdb.com/title/tt14230458"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
+    "genres": [
+      "Rómantík",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 141,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-19T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376591/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-02-19T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376592/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -816,37 +816,6 @@
         {
           "time": "2024-02-19T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5136",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Holdovers",
-    "id": 16580,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14849194",
-      "http://imdb.com/title/tt14849194"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 133,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-02-19T18:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376496/",
           "hall": "Salur 2"
         }
       ]
@@ -917,64 +886,65 @@
     }
   },
   {
-    "title": "Young Frankenstein",
-    "id": 2912,
-    "alt_title": "Tarantino nefnir sjö fullkomnar bíómyndir",
-    "release_year": 1974,
-    "poster_url": "https://kvikmyndir.is/images/poster/2912_500.jpg",
+    "title": "Turning Red",
+    "id": 13670,
+    "alt_title": "Hafmeyjurnar eru djöflarnir",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/1588850_500-1704198808.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt0072431",
-      "http://imdb.com/title/tt0072431",
-      "https://www.themoviedb.org/tv/3034"
+      "http://imdb.com/title/tt8097030",
+      "http://imdb.com/title/tt8097030",
+      "https://www.themoviedb.org/tv/508947"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ungur taugaskurðlæknir erfir kastala afa síns, hins víðfræga Dr. Victor von Frankenstein. Í kastalanum finnur hann kroppinbakinn Igor, fallega aðstoðarkonu að nafni Inga og gamla ráðskonu að nafni frau Blucher -iiiiihhh!-.  Hinn ungi Frankenstein hefur ekki mikið álit á starfi afa síns, en þegar hann finnur bók þar sem hinn brjálaði læknir lýsir í smáaatriðum rannsóknum sínum, þá snýst honum hugur …",
+    "content_rating": "Öllum leyfð",
+    "description": "Þrettán ára stúlka, Mei Lee, breytist í risastóran rauðan pandabjörn alltaf þegar hún verður of æst. Mamma hennar, Ming, ofverndar hana aðeins meira en Lee þolir og það hjálpar ekki til.",
     "genres": [
       "Gaman",
-      "Hrollvekja"
+      "Ævintýri",
+      "Teiknað"
     ],
-    "duration_in_mins": 106,
+    "duration_in_mins": 100,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=mOPTriLG5cU",
+    "trailer_url": "https://www.youtube.com/watch?v=XdKzUbAiswE",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-02-19T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375404/",
-          "hall": "Salur 1"
+          "time": "2024-02-19T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376515/",
+          "hall": "Salur 3"
         }
       ]
     }
   },
   {
-    "title": "Mean Girls",
-    "id": 16571,
-    "alt_title": "Anyone But You komin í 28 milljónir",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
+    "title": "The Holdovers",
+    "id": 16580,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt11762114",
-      "http://imdb.com/title/tt11762114"
+      "http://imdb.com/title/tt14849194",
+      "http://imdb.com/title/tt14849194"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
+    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
     "genres": [
       "Gaman",
-      "Söngleikur"
+      "Drama"
     ],
-    "duration_in_mins": 112,
+    "duration_in_mins": 133,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
+    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-02-19T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376480/",
-          "hall": "Salur B"
+          "time": "2024-02-19T18:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376496/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1011,34 +981,33 @@
     }
   },
   {
-    "title": "Turning Red",
-    "id": 13670,
-    "alt_title": "Hafmeyjurnar eru djöflarnir",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/1588850_500-1704198808.jpg",
+    "title": "Young Frankenstein",
+    "id": 2912,
+    "alt_title": "Tarantino nefnir sjö fullkomnar bíómyndir",
+    "release_year": 1974,
+    "poster_url": "https://kvikmyndir.is/images/poster/2912_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt8097030",
-      "http://imdb.com/title/tt8097030",
-      "https://www.themoviedb.org/tv/508947"
+      "http://imdb.com/title/tt0072431",
+      "http://imdb.com/title/tt0072431",
+      "https://www.themoviedb.org/tv/3034"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Þrettán ára stúlka, Mei Lee, breytist í risastóran rauðan pandabjörn alltaf þegar hún verður of æst. Mamma hennar, Ming, ofverndar hana aðeins meira en Lee þolir og það hjálpar ekki til.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Ungur taugaskurðlæknir erfir kastala afa síns, hins víðfræga Dr. Victor von Frankenstein. Í kastalanum finnur hann kroppinbakinn Igor, fallega aðstoðarkonu að nafni Inga og gamla ráðskonu að nafni frau Blucher -iiiiihhh!-.  Hinn ungi Frankenstein hefur ekki mikið álit á starfi afa síns, en þegar hann finnur bók þar sem hinn brjálaði læknir lýsir í smáaatriðum rannsóknum sínum, þá snýst honum hugur …",
     "genres": [
       "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Hrollvekja"
     ],
-    "duration_in_mins": 100,
+    "duration_in_mins": 106,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=XdKzUbAiswE",
+    "trailer_url": "https://www.youtube.com/watch?v=mOPTriLG5cU",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-02-19T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376515/",
-          "hall": "Salur 3"
+          "time": "2024-02-19T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375404/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -1102,6 +1071,37 @@
           "time": "2024-02-19T21:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5132",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Mean Girls",
+    "id": 16571,
+    "alt_title": "Anyone But You komin í 28 milljónir",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11762114",
+      "http://imdb.com/title/tt11762114"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
+    "genres": [
+      "Gaman",
+      "Söngleikur"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-19T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376480/",
+          "hall": "Salur B"
         }
       ]
     }
