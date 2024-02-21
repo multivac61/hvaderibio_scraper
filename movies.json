@@ -52,33 +52,6 @@
           "hall": "Ásberg"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-21T16:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108393&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-21T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108392&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-21T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108010&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-02-21T21:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108009&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-21T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108023&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-02-21T17:00:00.000Z",
@@ -128,6 +101,28 @@
           "time": "2024-02-21T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376667/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-21T19:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108392&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-21T20:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108010&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-02-21T21:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108009&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-21T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108023&visLang=1",
+          "hall": "Salur 2"
         }
       ],
       "Sambíóin Akureyri": [
@@ -277,13 +272,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-21T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108005&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-02-21T16:30:00.000Z",
@@ -425,50 +413,6 @@
     }
   },
   {
-    "title": "Magda og töfraskógurinn",
-    "id": 16721,
-    "alt_title": "Mavka: The Forest Song",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6685538",
-      "http://imdb.com/title/tt6685538"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-21T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108004&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-21T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108014&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-21T17:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811179/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "Argylle",
     "id": 16409,
     "alt_title": "Fullt hús áfram á fullu skriði",
@@ -512,80 +456,6 @@
     }
   },
   {
-    "title": "Anyone But You",
-    "id": 16358,
-    "alt_title": "Fullt hús áfram á fullu skriði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26047818",
-      "http://imdb.com/title/tt26047818"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
-    "genres": [
-      "Gaman",
-      "Rómantík"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-21T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376644/",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-21T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376645/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-02-21T14:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377027/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-21T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108001&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
     "title": "Poor Things",
     "id": 16355,
     "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
@@ -617,6 +487,45 @@
           "time": "2024-02-21T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376584/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Magda og töfraskógurinn",
+    "id": 16721,
+    "alt_title": "Mavka: The Forest Song",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6685538",
+      "http://imdb.com/title/tt6685538"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-21T17:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811179/",
+          "hall": "Salur B"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-21T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108014&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -659,63 +568,196 @@
     }
   },
   {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
+    "title": "Anyone But You",
+    "id": 16358,
+    "alt_title": "Fullt hús áfram á fullu skriði",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
+      "http://imdb.com/title/tt26047818",
+      "http://imdb.com/title/tt26047818"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
     "genres": [
-      "Fjölskylda",
-      "Teiknað"
+      "Gaman",
+      "Rómantík"
     ],
-    "duration_in_mins": 90,
+    "duration_in_mins": 103,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-02-21T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108002&visLang=1",
+          "time": "2024-02-21T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376644/",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-02-21T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376645/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Romeo   Juliet",
+    "id": 570,
+    "alt_title": "William Shakespeares Romeo and Juliet",
+    "release_year": 1996,
+    "poster_url": "https://kvikmyndir.is/images/poster/570_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0117509",
+      "http://imdb.com/title/tt0117509",
+      "https://www.themoviedb.org/tv/454"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þessi frægasta ástarsaga allra tíma eftir William Shakespeare er hér færð til nútímans og gerist í úthverfi Verona á Ítalíu, en texti sögunnar er allur sá sami og í upprunalegu útgáfunni.  Tvær fjölskyldur berast á banaspjót á götum borgarinnar, en elskendurnir Rómeó og Júlía tilheyra hvort sinni fjölskyldunni, sem eru hin sorglegu örlög þeirra.",
+    "genres": [
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 120,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5ZqxOb2tJIo",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-21T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4752",
           "hall": "Salur 2"
         }
       ]
     }
   },
   {
-    "title": "The Holdovers",
-    "id": 16580,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
+    "title": "Mean Girls",
+    "id": 16571,
+    "alt_title": "Anyone But You komin í 28 milljónir",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14849194",
-      "http://imdb.com/title/tt14849194"
+      "http://imdb.com/title/tt11762114",
+      "http://imdb.com/title/tt11762114"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
+    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
     "genres": [
       "Gaman",
-      "Drama"
+      "Söngleikur"
     ],
-    "duration_in_mins": 133,
+    "duration_in_mins": 112,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
+    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-21T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376482/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wish",
+    "id": 16335,
+    "alt_title": "Ósk",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11304740",
+      "http://imdb.com/title/tt11304740"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
     "cinema_showtimes": {
       "Sambíóin Kringlunni": [
         {
-          "time": "2024-02-21T18:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376609/",
+          "time": "2024-02-21T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377023/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-02-21T14:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377027/",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Turning Red",
+    "id": 13670,
+    "alt_title": "Hafmeyjurnar eru djöflarnir",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/1588850_500-1704198808.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt8097030",
+      "http://imdb.com/title/tt8097030",
+      "https://www.themoviedb.org/tv/508947"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Þrettán ára stúlka, Mei Lee, breytist í risastóran rauðan pandabjörn alltaf þegar hún verður of æst. Mamma hennar, Ming, ofverndar hana aðeins meira en Lee þolir og það hjálpar ekki til.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=XdKzUbAiswE",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-21T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376517/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -783,37 +825,6 @@
     }
   },
   {
-    "title": "Mean Girls",
-    "id": 16571,
-    "alt_title": "Anyone But You komin í 28 milljónir",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11762114",
-      "http://imdb.com/title/tt11762114"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
-    "genres": [
-      "Gaman",
-      "Söngleikur"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-21T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376482/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -846,98 +857,32 @@
     }
   },
   {
-    "title": "Romeo   Juliet",
-    "id": 570,
-    "alt_title": "William Shakespeares Romeo and Juliet",
-    "release_year": 1996,
-    "poster_url": "https://kvikmyndir.is/images/poster/570_500.jpg",
+    "title": "The Holdovers",
+    "id": 16580,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt0117509",
-      "http://imdb.com/title/tt0117509",
-      "https://www.themoviedb.org/tv/454"
+      "http://imdb.com/title/tt14849194",
+      "http://imdb.com/title/tt14849194"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þessi frægasta ástarsaga allra tíma eftir William Shakespeare er hér færð til nútímans og gerist í úthverfi Verona á Ítalíu, en texti sögunnar er allur sá sami og í upprunalegu útgáfunni.  Tvær fjölskyldur berast á banaspjót á götum borgarinnar, en elskendurnir Rómeó og Júlía tilheyra hvort sinni fjölskyldunni, sem eru hin sorglegu örlög þeirra.",
-    "genres": [
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 120,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5ZqxOb2tJIo",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-21T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4752",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Wish",
-    "id": 16335,
-    "alt_title": "Ósk",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11304740",
-      "http://imdb.com/title/tt11304740"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
+    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
     "genres": [
       "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Drama"
     ],
-    "duration_in_mins": 92,
+    "duration_in_mins": 133,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
+    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
     "cinema_showtimes": {
       "Sambíóin Kringlunni": [
         {
-          "time": "2024-02-21T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377023/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Turning Red",
-    "id": 13670,
-    "alt_title": "Hafmeyjurnar eru djöflarnir",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/1588850_500-1704198808.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt8097030",
-      "http://imdb.com/title/tt8097030",
-      "https://www.themoviedb.org/tv/508947"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Þrettán ára stúlka, Mei Lee, breytist í risastóran rauðan pandabjörn alltaf þegar hún verður of æst. Mamma hennar, Ming, ofverndar hana aðeins meira en Lee þolir og það hjálpar ekki til.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=XdKzUbAiswE",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-21T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376517/",
-          "hall": "Salur 3"
+          "time": "2024-02-21T18:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376609/",
+          "hall": "Salur 2"
         }
       ]
     }
