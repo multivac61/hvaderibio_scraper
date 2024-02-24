@@ -108,18 +108,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108212&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-24T21:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108204&visLang=1",
-          "hall": "LÚXUS"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-02-24T20:00:00.000Z",
@@ -137,6 +125,13 @@
           "time": "2024-02-24T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377170/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-24T21:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108204&visLang=1",
+          "hall": "LÚXUS"
         }
       ]
     }
@@ -436,13 +431,6 @@
           "purchase_url": "http://www.sambio.is/websales/show/377031/",
           "hall": "Salur 2"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108213&visLang=1",
-          "hall": "Salur 5"
-        }
       ]
     }
   },
@@ -585,67 +573,6 @@
     }
   },
   {
-    "title": "Natatorium",
-    "id": 16318,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/nata-1687538482.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt24177962",
-      "http://imdb.com/title/tt24177962"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ung stúlka dvelur hjá ömmu sinni og afa í borginni á meðan hún þreytir inntökupróf í listhóp. Þegar fjölskyldan, sem hefur ekki hist í langan tíma, kemur saman til að fagna inntöku hennar í hópinn koma ljót fjölskylduleyndarmál upp á yfirborðið og kvöldið endar með hræðilegum harmleik.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=B9vcFwM0u_M",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-24T17:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811210/",
-          "hall": "Salur A"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107865&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-24T19:45:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107863&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-24T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107860&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-24T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5179",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-24T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5179",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Zone of Interest",
     "id": 16722,
     "alt_title": "Leikstjórn",
@@ -754,6 +681,57 @@
     }
   },
   {
+    "title": "Natatorium",
+    "id": 16318,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/nata-1687538482.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt24177962",
+      "http://imdb.com/title/tt24177962"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Ung stúlka dvelur hjá ömmu sinni og afa í borginni á meðan hún þreytir inntökupróf í listhóp. Þegar fjölskyldan, sem hefur ekki hist í langan tíma, kemur saman til að fagna inntöku hennar í hópinn koma ljót fjölskylduleyndarmál upp á yfirborðið og kvöldið endar með hræðilegum harmleik.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=B9vcFwM0u_M",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-24T17:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811210/",
+          "hall": "Salur A"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-24T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5179",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-24T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5179",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-24T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107860&visLang=1",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Anyone But You",
     "id": 16358,
     "alt_title": "Fullt hús áfram á fullu skriði",
@@ -799,95 +777,6 @@
           "time": "2024-02-24T22:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108225&visLang=1",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
-    "id": 16720,
-    "alt_title": "Kimetsu no Yaiba Kizuna no Kiseki, Soshite Hashira Geiko e",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16720_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt30395619",
-      "http://imdb.com/title/tt30395619"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tanjiro fer í stranga þjálfun hjá steina-Hashira, Himejima, á leið sinni í átt að þvi að verða Hashira. Í millitíðinni heldur Muzan áfram að leita að Nezuko og Ubuyashiki.",
-    "genres": [
-      "Teiknað"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SXcCdQdcBtw",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107864&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-24T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108078&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-24T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107862&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-24T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107861&visLang=1",
-          "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-24T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377061/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-02-24T15:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377062/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-24T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377152/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -977,6 +866,50 @@
     }
   },
   {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-24T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377061/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-02-24T15:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377062/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-02-24T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377152/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Wish",
     "id": 16335,
     "alt_title": "Ósk",
@@ -1014,40 +947,37 @@
     }
   },
   {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "title": "The Forger",
+    "id": 16756,
+    "alt_title": "Der Passfälscher",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16756_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
+      "http://imdb.com/title/tt15403362",
+      "http://imdb.com/title/tt15403362"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "description": "Fagurkerinn og gyðingurinn Cioma, 21 árs, lætur engan ræna sig gleðinni og þaðan af síður Nasista.  Árið 1942 þarf hann að finna nýja leið til afla sér tekna í Berlín og komast undan hermönnunum. Á þeirri vegferð kemst hann að því að hann hefur hæfileika á sviði fölsunar: ekki bara á vegabréfum heldur á eigin persónu líka.",
     "genres": [
       "Drama",
-      "Tónlist",
       "Æviágrip"
     ],
-    "duration_in_mins": 113,
+    "duration_in_mins": 116,
     "language": [
-      "Ekkert tal"
+      "Þýska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "trailer_url": "https://www.youtube.com/watch?v=LCCjX5Rn-g0",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108206&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Bíó Paradís": [
         {
           "time": "2024-02-24T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5190",
-          "hall": "Salur 3"
+          "purchase_url": "https://tickets.bioparadis.is/#book/5165",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-24T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5165",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1090,6 +1020,41 @@
     }
   },
   {
+    "title": "The Teachers’ Lounge",
+    "id": 16755,
+    "alt_title": "Das Lehrerzimmer",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16755_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26612950",
+      "http://imdb.com/title/tt26612950"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar einn af nemendum hennar er grunaður um þjófnað ákveður kennarinn Carla Nowak að komast til botns í málinu. Hugsjónir hennar og reglur skólakerfsinsins togast á og málið verður að krefjandi verkefni.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 98,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6YgQBGqhTcM",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-24T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5164",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-24T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5164",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Bestu vinir",
     "id": 16577,
     "alt_title": "The Inseparables",
@@ -1126,72 +1091,33 @@
     }
   },
   {
-    "title": "The Forger",
-    "id": 16756,
-    "alt_title": "Der Passfälscher",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16756_500.jpg",
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt15403362",
-      "http://imdb.com/title/tt15403362"
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Fagurkerinn og gyðingurinn Cioma, 21 árs, lætur engan ræna sig gleðinni og þaðan af síður Nasista.  Árið 1942 þarf hann að finna nýja leið til afla sér tekna í Berlín og komast undan hermönnunum. Á þeirri vegferð kemst hann að því að hann hefur hæfileika á sviði fölsunar: ekki bara á vegabréfum heldur á eigin persónu líka.",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
     "genres": [
       "Drama",
+      "Tónlist",
       "Æviágrip"
     ],
-    "duration_in_mins": 116,
+    "duration_in_mins": 113,
     "language": [
-      "Þýska"
+      "Ekkert tal"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=LCCjX5Rn-g0",
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
           "time": "2024-02-24T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5165",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-24T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5165",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Teachers’ Lounge",
-    "id": 16755,
-    "alt_title": "Das Lehrerzimmer",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16755_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26612950",
-      "http://imdb.com/title/tt26612950"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar einn af nemendum hennar er grunaður um þjófnað ákveður kennarinn Carla Nowak að komast til botns í málinu. Hugsjónir hennar og reglur skólakerfsinsins togast á og málið verður að krefjandi verkefni.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 98,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6YgQBGqhTcM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-24T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5164",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-24T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5164",
-          "hall": "Salur 1"
+          "purchase_url": "https://tickets.bioparadis.is/#book/5190",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -1224,6 +1150,36 @@
           "time": "2024-02-24T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5189",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
+    "id": 16720,
+    "alt_title": "Kimetsu no Yaiba Kizuna no Kiseki, Soshite Hashira Geiko e",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16720_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt30395619",
+      "http://imdb.com/title/tt30395619"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tanjiro fer í stranga þjálfun hjá steina-Hashira, Himejima, á leið sinni í átt að þvi að verða Hashira. Í millitíðinni heldur Muzan áfram að leita að Nezuko og Ubuyashiki.",
+    "genres": [
+      "Teiknað"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SXcCdQdcBtw",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-24T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107861&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -1291,63 +1247,6 @@
     }
   },
   {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108221&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Turning Red",
-    "id": 13670,
-    "alt_title": "Hafmeyjurnar eru djöflarnir",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/1588850_500-1704198808.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt8097030",
-      "http://imdb.com/title/tt8097030",
-      "https://www.themoviedb.org/tv/508947"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Þrettán ára stúlka, Mei Lee, breytist í risastóran rauðan pandabjörn alltaf þegar hún verður of æst. Mamma hennar, Ming, ofverndar hana aðeins meira en Lee þolir og það hjálpar ekki til.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=XdKzUbAiswE",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-24T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376906/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Club Zero",
     "id": 16289,
     "alt_title": "Leikstjórn",
@@ -1406,6 +1305,39 @@
           "time": "2024-02-24T15:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5159",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Turning Red",
+    "id": 13670,
+    "alt_title": "Hafmeyjurnar eru djöflarnir",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/1588850_500-1704198808.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt8097030",
+      "http://imdb.com/title/tt8097030",
+      "https://www.themoviedb.org/tv/508947"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Þrettán ára stúlka, Mei Lee, breytist í risastóran rauðan pandabjörn alltaf þegar hún verður of æst. Mamma hennar, Ming, ofverndar hana aðeins meira en Lee þolir og það hjálpar ekki til.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=XdKzUbAiswE",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-24T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376906/",
+          "hall": "Salur 3"
         }
       ]
     }
