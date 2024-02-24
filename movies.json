@@ -223,18 +223,6 @@
           "hall": "Lúxus VIP"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T14:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108224&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-24T21:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108211&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-02-24T15:10:00.000Z",
@@ -264,6 +252,13 @@
           "time": "2024-02-24T21:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376921/",
           "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-24T21:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108211&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -511,18 +506,6 @@
           "hall": "Salur B"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108098&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-24T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108209&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-02-24T14:10:00.000Z",
@@ -535,6 +518,13 @@
           "time": "2024-02-24T15:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377030/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-24T15:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108209&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -663,60 +653,6 @@
     }
   },
   {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-24T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5180",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-24T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5180",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-24T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5181",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-24T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5181",
-          "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-24T17:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811202/",
-          "hall": "AXL"
-        }
-      ]
-    }
-  },
-  {
     "title": "Wonka",
     "id": 16293,
     "alt_title": "Fullt hús áfram á fullu skriði",
@@ -821,98 +757,55 @@
     }
   },
   {
-    "title": "Magda og töfraskógurinn",
-    "id": 16721,
-    "alt_title": "Mavka: The Forest Song",
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt6685538",
-      "http://imdb.com/title/tt6685538"
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Drama",
+      "Stríð",
+      "Söguleg"
     ],
-    "duration_in_mins": 99,
+    "duration_in_mins": 105,
     "language": [
-      "Enska"
+      "Þýska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Bíó Paradís": [
         {
-          "time": "2024-02-24T13:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811200/",
-          "hall": "AXL"
+          "time": "2024-02-24T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5180",
+          "hall": "Salur 1"
         },
         {
-          "time": "2024-02-24T15:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811201/",
-          "hall": "AXL"
+          "time": "2024-02-24T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5180",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-24T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5181",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-24T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5181",
+          "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108110&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-24T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108218&visLang=1",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
       "Laugarásbíó": [
         {
-          "time": "2024-02-24T13:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811208/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-02-24T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811209/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108220&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-24T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108219&visLang=1",
-          "hall": "Salur 4"
+          "time": "2024-02-24T17:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811202/",
+          "hall": "AXL"
         }
       ]
     }
@@ -963,47 +856,6 @@
           "time": "2024-02-24T22:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108225&visLang=1",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Poor Things",
-    "id": 16355,
-    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14230458",
-      "http://imdb.com/title/tt14230458"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
-    "genres": [
-      "Rómantík",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 141,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-24T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376967/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-02-24T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376965/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-02-24T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376966/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -1096,6 +948,50 @@
     }
   },
   {
+    "title": "Magda og töfraskógurinn",
+    "id": 16721,
+    "alt_title": "Mavka: The Forest Song",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6685538",
+      "http://imdb.com/title/tt6685538"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-24T13:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811200/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-02-24T15:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811201/",
+          "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-24T15:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108218&visLang=1",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Trolls Band Together",
     "id": 16113,
     "alt_title": "Tröll 3",
@@ -1135,6 +1031,90 @@
           "time": "2024-02-24T15:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377152/",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-24T13:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811208/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-02-24T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811209/",
+          "hall": "Salur B"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-24T15:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108219&visLang=1",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Poor Things",
+    "id": 16355,
+    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14230458",
+      "http://imdb.com/title/tt14230458"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
+    "genres": [
+      "Rómantík",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 141,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-24T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376967/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-02-24T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376965/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-02-24T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376966/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -1211,35 +1191,6 @@
     }
   },
   {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-24T13:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108223&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-02-24T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108221&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
     "title": "Wish",
     "id": 16335,
     "alt_title": "Ósk",
@@ -1277,6 +1228,38 @@
     }
   },
   {
+    "title": "My Name Is Happy",
+    "id": 16757,
+    "alt_title": "Leikstjórn",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16757_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23129396",
+      "http://imdb.com/title/tt23129396"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sem unglingur var Mutlu Kaya mjög efnileg söngkona. Þegar hún var komin nær takmarkinu, að komast í úrslitakeppnina í Turkey's Got Talent árið 2015, hlaut hún lífshættulega áverka vegna skotárásar tilvonandi brúðguma hennar, sem hún hafði áður hafnað að ganga í hjónaband með.",
+    "genres": [
+      "Tónlist",
+      "Heimildarmynd",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 82,
+    "language": [
+      "Tyrkneska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=_CXxyRLL-rM",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-24T15:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5159",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Holdovers",
     "id": 16580,
     "alt_title": "Leikstjórn",
@@ -1303,37 +1286,6 @@
           "time": "2024-02-24T18:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376876/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Mean Girls",
-    "id": 16571,
-    "alt_title": "Anyone But You komin í 28 milljónir",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11762114",
-      "http://imdb.com/title/tt11762114"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
-    "genres": [
-      "Gaman",
-      "Söngleikur"
-    ],
-    "duration_in_mins": 112,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-02-24T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376829/",
-          "hall": "Salur B"
         }
       ]
     }
@@ -1366,6 +1318,37 @@
           "time": "2024-02-24T21:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5192",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Mean Girls",
+    "id": 16571,
+    "alt_title": "Anyone But You komin í 28 milljónir",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1730754_500-1704364790.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11762114",
+      "http://imdb.com/title/tt11762114"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar nýja stelpan í skólanum, Cady Heron, gerir þau mistök að verða skotin í Aaron Samuels, lendir hún í skotlínu Regina George, leiðtoga aðal stelpugengisins í skólanum sem kallast \"The Plastics\". Á sama tíma og Cady gerir sig klára í að berjast við aðal rándýrið með hjálp lúðanna Janis og Damian, þarf hún að læra að vera trú sjálfri sér á sama tíma og hún þarf að reyna að lifa af í erfiðasta frumskóginum: menntaskólanum.",
+    "genres": [
+      "Gaman",
+      "Söngleikur"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fFtdbEgnUOk",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-02-24T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376829/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -1436,6 +1419,30 @@
     }
   },
   {
+    "title": "Strumparnir - Partýbíó",
+    "id": 16692,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
+    "genres": [],
+    "duration_in_mins": 60,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-24T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108221&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
     "title": "Club Zero",
     "id": 16289,
     "alt_title": "Leikstjórn",
@@ -1462,38 +1469,6 @@
           "time": "2024-02-24T16:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5188",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "My Name Is Happy",
-    "id": 16757,
-    "alt_title": "Leikstjórn",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16757_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23129396",
-      "http://imdb.com/title/tt23129396"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sem unglingur var Mutlu Kaya mjög efnileg söngkona. Þegar hún var komin nær takmarkinu, að komast í úrslitakeppnina í Turkey's Got Talent árið 2015, hlaut hún lífshættulega áverka vegna skotárásar tilvonandi brúðguma hennar, sem hún hafði áður hafnað að ganga í hjónaband með.",
-    "genres": [
-      "Tónlist",
-      "Heimildarmynd",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 82,
-    "language": [
-      "Tyrkneska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=_CXxyRLL-rM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-24T15:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5159",
-          "hall": "Salur 1"
         }
       ]
     }
