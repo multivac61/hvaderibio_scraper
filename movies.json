@@ -290,13 +290,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-02-25T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377179/",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-02-25T13:00:00.000Z",
@@ -319,6 +312,13 @@
           "time": "2024-02-25T15:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377068/",
           "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-02-25T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377179/",
+          "hall": "Salur 2"
         }
       ],
       "Smárabíó": [
@@ -492,23 +492,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-25T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377149/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-25T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377150/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-25T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377151/",
-          "hall": "Salur 3"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-02-25T13:00:00.000Z",
@@ -524,6 +507,23 @@
           "time": "2024-02-25T15:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376957/",
           "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-25T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377149/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-25T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377150/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-25T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377151/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -666,18 +666,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-25T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377123/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-02-25T22:25:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377115/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-02-25T20:00:00.000Z",
@@ -690,11 +678,73 @@
           "hall": "Salur B"
         }
       ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-25T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377123/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-02-25T22:25:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377115/",
+          "hall": "Salur 2"
+        }
+      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-02-25T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377194/",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
+    "id": 16720,
+    "alt_title": "Kimetsu no Yaiba Kizuna no Kiseki, Soshite Hashira Geiko e",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16720_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt30395619",
+      "http://imdb.com/title/tt30395619"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tanjiro fer í stranga þjálfun hjá steina-Hashira, Himejima, á leið sinni í átt að þvi að verða Hashira. Í millitíðinni heldur Muzan áfram að leita að Nezuko og Ubuyashiki.",
+    "genres": [
+      "Teiknað"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SXcCdQdcBtw",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-25T16:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108083&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-25T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107869&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-02-25T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107871&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-25T21:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108081&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-02-25T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107872&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -803,56 +853,6 @@
           "time": "2024-02-25T18:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811216/",
           "hall": "AXL"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
-    "id": 16720,
-    "alt_title": "Kimetsu no Yaiba Kizuna no Kiseki, Soshite Hashira Geiko e",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16720_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt30395619",
-      "http://imdb.com/title/tt30395619"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tanjiro fer í stranga þjálfun hjá steina-Hashira, Himejima, á leið sinni í átt að þvi að verða Hashira. Í millitíðinni heldur Muzan áfram að leita að Nezuko og Ubuyashiki.",
-    "genres": [
-      "Teiknað"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SXcCdQdcBtw",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-25T16:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108083&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-25T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107869&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-25T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107871&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-25T21:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108081&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-25T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107872&visLang=1",
-          "hall": "MAX"
         }
       ]
     }
@@ -1085,43 +1085,6 @@
     }
   },
   {
-    "title": "Afire",
-    "id": 16752,
-    "alt_title": "Roter Himmel",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16752_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26440619",
-      "http://imdb.com/title/tt26440619"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Rithöfundurinn Leon fer með besta vini sínum í sumarfrí nálægt Eystrasalti til að klára skáldsögu. Þegar í húsið er komið, hitta þeir konu sem fær hann til þess að opna sig upp á gátt! En þegar skógareldar geisa allt um kring og yfirvofandi hörmungar eru yfirvofandi, breytist allt ...",
-    "genres": [
-      "Gaman",
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 102,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=YHzpUE_FCeI",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-25T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5166",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-25T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5166",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "When Will It Be Again Like It Never Was Before",
     "id": 16754,
     "alt_title": "Wann wird es endlich wieder so, wie es nie war",
@@ -1197,25 +1160,98 @@
     }
   },
   {
-    "title": "Strumparnir - Partýbíó",
-    "id": 16692,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
-    "genres": [],
-    "duration_in_mins": 60,
+    "title": "Afire",
+    "id": 16752,
+    "alt_title": "Roter Himmel",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16752_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26440619",
+      "http://imdb.com/title/tt26440619"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Rithöfundurinn Leon fer með besta vini sínum í sumarfrí nálægt Eystrasalti til að klára skáldsögu. Þegar í húsið er komið, hitta þeir konu sem fær hann til þess að opna sig upp á gátt! En þegar skógareldar geisa allt um kring og yfirvofandi hörmungar eru yfirvofandi, breytist allt ...",
+    "genres": [
+      "Gaman",
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 102,
     "language": [
-      "Íslenska"
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=YHzpUE_FCeI",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-25T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5166",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-25T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5166",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ken ki",
+    "id": 16676,
+    "alt_title": "Leikstjórn",
+    "release_year": 1965,
+    "poster_url": "https://kvikmyndir.is/images/poster/16676_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0200769",
+      "http://imdb.com/title/tt0200769"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Maður með óvissa fortíð, Hanpai, ræktar blóm af natni, en eftir að hann nær fulllkomnum tökum á sverðabardagatækni tekur líf hans myrkari stefnu. Nú fer ofbeldið stigvaxandi.",
+    "genres": [
+      "Spenna",
+      "Drama"
+    ],
+    "duration_in_mins": 83,
+    "language": [
+      "Japanska"
     ],
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2024-02-25T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108228&visLang=1",
-          "hall": "Salur 5"
+          "time": "2024-02-25T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4757",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Kiru",
+    "id": 16678,
+    "alt_title": "Sæluvíman stoppar ekki: Dúndur díselpönk á hestasterum",
+    "release_year": 1962,
+    "poster_url": "https://kvikmyndir.is/images/poster/16678_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0056144",
+      "http://imdb.com/title/tt0056144"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Samúræji leitar hefndar og endurlausnar eftir að fjölskylda hans er tekin af lífi af andstæðingum.",
+    "genres": [
+      "Spenna",
+      "Drama"
+    ],
+    "duration_in_mins": 71,
+    "language": [
+      "Japanska"
+    ],
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-25T15:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4756",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -1253,30 +1289,27 @@
     }
   },
   {
-    "title": "Ken ki",
-    "id": 16676,
-    "alt_title": "Leikstjórn",
-    "release_year": 1965,
-    "poster_url": "https://kvikmyndir.is/images/poster/16676_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0200769",
-      "http://imdb.com/title/tt0200769"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Maður með óvissa fortíð, Hanpai, ræktar blóm af natni, en eftir að hann nær fulllkomnum tökum á sverðabardagatækni tekur líf hans myrkari stefnu. Nú fer ofbeldið stigvaxandi.",
+    "title": "Varði fer á vertíð",
+    "id": 8204,
+    "alt_title": "Varði Goes On Tour",
+    "release_year": 2001,
+    "poster_url": "https://kvikmyndir.is/images/poster/vardi-1349616213.jpg",
+    "rating_urls": [],
+    "description": "Varði er atvinnulaus tónlistarmaður i miðborg Reykjavíkur sem ákveður að ganga til liðs við sveitaballahljómsveit til að drýgja tekjurnar.",
     "genres": [
-      "Spenna",
-      "Drama"
+      "Tónlist",
+      "Heimildarmynd",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 83,
+    "duration_in_mins": 42,
     "language": [
-      "Japanska"
+      "Íslenska"
     ],
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-02-25T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4757",
+          "time": "2024-02-25T19:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4758",
           "hall": "Salur 1"
         }
       ]
@@ -1314,36 +1347,6 @@
     }
   },
   {
-    "title": "Kiru",
-    "id": 16678,
-    "alt_title": "Sæluvíman stoppar ekki: Dúndur díselpönk á hestasterum",
-    "release_year": 1962,
-    "poster_url": "https://kvikmyndir.is/images/poster/16678_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0056144",
-      "http://imdb.com/title/tt0056144"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Samúræji leitar hefndar og endurlausnar eftir að fjölskylda hans er tekin af lífi af andstæðingum.",
-    "genres": [
-      "Spenna",
-      "Drama"
-    ],
-    "duration_in_mins": 71,
-    "language": [
-      "Japanska"
-    ],
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-25T15:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4756",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Mean Girls",
     "id": 16571,
     "alt_title": "Anyone But You komin í 28 milljónir",
@@ -1370,33 +1373,6 @@
           "time": "2024-02-25T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/376830/",
           "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Varði fer á vertíð",
-    "id": 8204,
-    "alt_title": "Varði Goes On Tour",
-    "release_year": 2001,
-    "poster_url": "https://kvikmyndir.is/images/poster/vardi-1349616213.jpg",
-    "rating_urls": [],
-    "description": "Varði er atvinnulaus tónlistarmaður i miðborg Reykjavíkur sem ákveður að ganga til liðs við sveitaballahljómsveit til að drýgja tekjurnar.",
-    "genres": [
-      "Tónlist",
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 42,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-25T19:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4758",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -1461,6 +1437,30 @@
           "time": "2024-02-25T19:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5191",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Strumparnir - Partýbíó",
+    "id": 16692,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1704229794382_ho00001723-1705257948.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Smárabíó heldur skemmtilegar Strumpa-Partý-Sýningar næstu helgar og verður fyrsta sýningin laugardaginn 20. janúar n.k. Sýndir verða 5 sérvaldir þættir og allir með íslensku tali. Þættirnir sem verða sýndir heita: Mannasiðir! - Bara strumpur - Strumpanóra flytur út - Hvar er strumpahjólið? - Frauð í fáti",
+    "genres": [],
+    "duration_in_mins": 60,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-25T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108228&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
