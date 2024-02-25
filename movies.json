@@ -651,18 +651,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-02-25T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377123/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-02-25T22:25:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377115/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-02-25T20:00:00.000Z",
@@ -673,6 +661,18 @@
           "time": "2024-02-25T22:15:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811227/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-02-25T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377123/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-02-25T22:25:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377115/",
+          "hall": "Salur 2"
         }
       ],
       "Sambíóin Akureyri": [
