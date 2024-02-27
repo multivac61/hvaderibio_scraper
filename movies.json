@@ -86,23 +86,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-27T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108641&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-02-27T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108284&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-27T21:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108283&visLang=1",
-          "hall": "LÚXUS"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-02-27T20:00:00.000Z",
@@ -122,6 +105,13 @@
           "time": "2024-02-27T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377190/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-27T21:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108283&visLang=1",
+          "hall": "LÚXUS"
         }
       ]
     },
@@ -229,136 +219,6 @@
     "imdb": {
       "star": 3.8,
       "link": "http://imdb.com/title/tt11057302"
-    }
-  },
-  {
-    "title": "Natatorium",
-    "id": 16318,
-    "alt_title": "Natatorium: Á suðupunkti í sundlaug dauðans",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/nata-1687538482.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt24177962",
-      "http://imdb.com/title/tt24177962"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ung stúlka dvelur hjá ömmu sinni og afa í borginni á meðan hún þreytir inntökupróf í listhóp. Þegar fjölskyldan, sem hefur ekki hist í langan tíma, kemur saman til að fagna inntöku hennar í hópinn koma ljót fjölskylduleyndarmál upp á yfirborðið og kvöldið endar með hræðilegum harmleik.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=B9vcFwM0u_M",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-27T17:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811239/",
-          "hall": "Salur A"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-27T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108280&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-02-27T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108285&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-02-27T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108293&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-27T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5211",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-27T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5211",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.3,
-      "link": "http://imdb.com/title/tt24177962"
-    }
-  },
-  {
-    "title": "Fullt hús",
-    "id": 16655,
-    "alt_title": "Grand Finale",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27581865",
-      "http://imdb.com/title/tt27581865"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-02-27T16:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376983/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-27T21:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/376984/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-27T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5208",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-02-27T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108282&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-02-27T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811237/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-02-27T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811238/",
-          "hall": "AXL"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.2,
-      "link": "http://imdb.com/title/tt27581865"
     }
   },
   {
@@ -477,6 +337,64 @@
     }
   },
   {
+    "title": "Fullt hús",
+    "id": 16655,
+    "alt_title": "Grand Finale",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27581865",
+      "http://imdb.com/title/tt27581865"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-02-27T16:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376983/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-27T21:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/376984/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-27T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5208",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-27T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811237/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-02-27T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811238/",
+          "hall": "AXL"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8.2,
+      "link": "http://imdb.com/title/tt27581865"
+    }
+  },
+  {
     "title": "Frozen",
     "id": 8645,
     "alt_title": "Frosinn",
@@ -591,6 +509,61 @@
     }
   },
   {
+    "title": "Natatorium",
+    "id": 16318,
+    "alt_title": "Natatorium: Á suðupunkti í sundlaug dauðans",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/nata-1687538482.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt24177962",
+      "http://imdb.com/title/tt24177962"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Ung stúlka dvelur hjá ömmu sinni og afa í borginni á meðan hún þreytir inntökupróf í listhóp. Þegar fjölskyldan, sem hefur ekki hist í langan tíma, kemur saman til að fagna inntöku hennar í hópinn koma ljót fjölskylduleyndarmál upp á yfirborðið og kvöldið endar með hræðilegum harmleik.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=B9vcFwM0u_M",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-02-27T17:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/811239/",
+          "hall": "Salur A"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-27T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5211",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-02-27T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5211",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-02-27T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108293&visLang=1",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.2,
+      "link": "http://imdb.com/title/tt24177962"
+    }
+  },
+  {
     "title": "Argylle",
     "id": 16409,
     "alt_title": "Fullt hús áfram á fullu skriði",
@@ -635,89 +608,6 @@
     "imdb": {
       "star": 6,
       "link": "http://imdb.com/title/tt15009428"
-    }
-  },
-  {
-    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
-    "id": 16720,
-    "alt_title": "Kimetsu no Yaiba Kizuna no Kiseki, Soshite Hashira Geiko e",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16720_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt30395619",
-      "http://imdb.com/title/tt30395619"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tanjiro fer í stranga þjálfun hjá steina-Hashira, Himejima, á leið sinni í átt að þvi að verða Hashira. Í millitíðinni heldur Muzan áfram að leita að Nezuko og Ubuyashiki.",
-    "genres": [
-      "Teiknað"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SXcCdQdcBtw",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-27T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108281&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-27T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108286&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-02-27T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108291&visLang=1",
-          "hall": "MAX"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.8,
-      "link": "http://imdb.com/title/tt30395619"
-    }
-  },
-  {
-    "title": "The Teachers’ Lounge",
-    "id": 16755,
-    "alt_title": "Das Lehrerzimmer",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16755_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26612950",
-      "http://imdb.com/title/tt26612950"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar einn af nemendum hennar er grunaður um þjófnað ákveður kennarinn Carla Nowak að komast til botns í málinu. Hugsjónir hennar og reglur skólakerfsinsins togast á og málið verður að krefjandi verkefni.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 98,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6YgQBGqhTcM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-02-27T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5168",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-02-27T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5168",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.5,
-      "link": "http://imdb.com/title/tt26612950"
     }
   },
   {
@@ -797,51 +687,47 @@
       ]
     },
     "imdb": {
-      "star": 8.3,
+      "star": 8.4,
       "link": "http://imdb.com/title/tt14230458"
     }
   },
   {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
+    "title": "The Teachers’ Lounge",
+    "id": 16755,
+    "alt_title": "Das Lehrerzimmer",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16755_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
+      "http://imdb.com/title/tt26612950",
+      "http://imdb.com/title/tt26612950"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "description": "Þegar einn af nemendum hennar er grunaður um þjófnað ákveður kennarinn Carla Nowak að komast til botns í málinu. Hugsjónir hennar og reglur skólakerfsinsins togast á og málið verður að krefjandi verkefni.",
     "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
+      "Drama"
     ],
-    "duration_in_mins": 113,
+    "duration_in_mins": 98,
     "language": [
-      "Ekkert tal"
+      "Þýska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "trailer_url": "https://www.youtube.com/watch?v=6YgQBGqhTcM",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-02-27T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108299&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Bíó Paradís": [
         {
-          "time": "2024-02-27T19:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5213",
-          "hall": "Salur 3"
+          "time": "2024-02-27T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5168",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-02-27T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5168",
+          "hall": "Salur 1"
         }
       ]
     },
     "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt22041854"
+      "star": 7.5,
+      "link": "http://imdb.com/title/tt26612950"
     }
   },
   {
@@ -881,6 +767,42 @@
     }
   },
   {
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Ekkert tal"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-02-27T19:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5213",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt22041854"
+    }
+  },
+  {
     "title": "The Innocent",
     "id": 16187,
     "alt_title": "L'innocent",
@@ -914,6 +836,40 @@
     "imdb": {
       "star": 6.7,
       "link": "http://imdb.com/title/tt19841734"
+    }
+  },
+  {
+    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
+    "id": 16720,
+    "alt_title": "Kimetsu no Yaiba Kizuna no Kiseki, Soshite Hashira Geiko e",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16720_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt30395619",
+      "http://imdb.com/title/tt30395619"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tanjiro fer í stranga þjálfun hjá steina-Hashira, Himejima, á leið sinni í átt að þvi að verða Hashira. Í millitíðinni heldur Muzan áfram að leita að Nezuko og Ubuyashiki.",
+    "genres": [
+      "Teiknað"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SXcCdQdcBtw",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-02-27T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108291&visLang=1",
+          "hall": "MAX"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.8,
+      "link": "http://imdb.com/title/tt30395619"
     }
   },
   {
