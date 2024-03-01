@@ -151,16 +151,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-01T18:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107671&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-01T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107667&visLang=1",
-          "hall": "MAX"
-        },
-        {
           "time": "2024-03-01T21:50:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=107670&visLang=1",
           "hall": "LÚXUS"
@@ -173,7 +163,7 @@
       ]
     },
     "imdb": {
-      "star": 9.1,
+      "star": 9,
       "link": "http://imdb.com/title/tt15239678"
     }
   },
@@ -247,13 +237,6 @@
           "time": "2024-03-01T19:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377215/",
           "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-01T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108523&visLang=1",
-          "hall": "Salur 2"
         }
       ],
       "Sambíóin Akureyri": [
@@ -338,13 +321,6 @@
           "time": "2024-03-01T18:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377214/",
           "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-01T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108367&visLang=1",
-          "hall": "Salur 4"
         }
       ]
     },
@@ -445,11 +421,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-01T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108359&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
           "time": "2024-03-01T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108522&visLang=1",
           "hall": "Salur 4"
@@ -459,86 +430,6 @@
     "imdb": {
       "star": 7.4,
       "link": "http://imdb.com/title/tt24177962"
-    }
-  },
-  {
-    "title": "Milosc jak miód",
-    "id": 16735,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/vabdfgvirbn4rrtcj5to1up7qmb-1707481636.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt30985335",
-      "http://imdb.com/title/tt30985335"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Majka og Agata eiga jafn margt sameiginlegt og þær eru ólíkar. Þær eru báðar yfir fimmtugt og að ganga í gegnum tíðahvörf og trúa því ekki að hlutirnir muni batna neitt úr þessu. Önnur býr við Eystrasaltið en hin í Tatra fjöllum. Önnur rekur sælgætisverslun en hin er farsæll innanhússarkitekt. Önnur er ekkja en hin er nýbúinn að horfa á eftir eiginmanninum til yngri konu. Önnur helgar sig börnum og barnabörnum, og sinnir sjálfri sér ekki neitt, en hin á enga fjölskyldu og einbeitir sér að sjálfsrækt. Dag einn hittast þær í útför sameiginlegs vinar og ákveða í kjölfarið að skiptast á hlutverkum.",
-    "genres": [
-      "Gaman",
-      "Rómantík"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3GQ0SC_VnS0",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-01T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5086",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-03-01T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5086",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.1,
-      "link": "http://imdb.com/title/tt30985335"
-    }
-  },
-  {
-    "title": "Argylle",
-    "id": 16409,
-    "alt_title": "Fullt hús áfram á fullu skriði",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16409_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15009428",
-      "http://imdb.com/title/tt15009428"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar söguþráður njósnasögu rithöfundarins Elly Conway fer ískyggilega mikið að líkjast leynilegum aðgerðum raunverulegra njósnasamtaka, þá heyra róleg kvöld á heimilinu sögunni til. Ásamt kettinum Alfie og njósnaranum Aiden, sem er með ofnæmi fyrir kisum, ferðast Elly um heiminn þveran og endilangan til að vera einu skrefi á undan morðingjum sem bíða við hvert götuhorn. En ekkert er sem sýnist og mörkin milli skáldskapar og veruleika minnka í sífellu.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 139,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Sy6eNs3EW3E",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-01T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377264/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-01T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377265/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6,
-      "link": "http://imdb.com/title/tt15009428"
     }
   },
   {
@@ -667,46 +558,84 @@
     }
   },
   {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "title": "Mamma Mia",
+    "id": 4184,
+    "alt_title": "Mamma Mia!, Mamma Mia! The Movie",
+    "release_year": 2008,
+    "poster_url": "https://kvikmyndir.is/images/poster/mamma_mia-1547210991.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
+      "http://imdb.com/title/tt0795421",
+      "http://imdb.com/title/tt0795421"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "content_rating": "Öllum leyfð",
+    "description": "Mamma Mia er saga sem á sér stað á grískri eyju og segir frá dóttur í leit að föður sínum til þess að leiða sig upp að altarinu. Ævintýrið er fléttað inn í 27 af vinsælustu lögum hljómsveitarinnar ABBA en þar má nefna lög eins og Dancing Queen, Knowing Me Knowing You, Super Trouper og Mamma Mia!",
     "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
+      "Gaman",
+      "Rómantík",
+      "Söngleikur"
     ],
-    "duration_in_mins": 113,
+    "duration_in_mins": 108,
     "language": [
-      "Ekkert tal"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "trailer_url": "https://www.youtube.com/watch?v=lkN-A00WLYE",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-03-01T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5251",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
+          "time": "2024-03-01T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3674",
+          "hall": "Salur 1"
+        },
         {
-          "time": "2024-03-01T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108349&visLang=1",
-          "hall": "Salur 4"
+          "time": "2024-03-01T21:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5000",
+          "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt22041854"
+      "star": 6.5,
+      "link": "http://imdb.com/title/tt0795421"
+    }
+  },
+  {
+    "title": "Milosc jak miód",
+    "id": 16735,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/vabdfgvirbn4rrtcj5to1up7qmb-1707481636.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt30985335",
+      "http://imdb.com/title/tt30985335"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Majka og Agata eiga jafn margt sameiginlegt og þær eru ólíkar. Þær eru báðar yfir fimmtugt og að ganga í gegnum tíðahvörf og trúa því ekki að hlutirnir muni batna neitt úr þessu. Önnur býr við Eystrasaltið en hin í Tatra fjöllum. Önnur rekur sælgætisverslun en hin er farsæll innanhússarkitekt. Önnur er ekkja en hin er nýbúinn að horfa á eftir eiginmanninum til yngri konu. Önnur helgar sig börnum og barnabörnum, og sinnir sjálfri sér ekki neitt, en hin á enga fjölskyldu og einbeitir sér að sjálfsrækt. Dag einn hittast þær í útför sameiginlegs vinar og ákveða í kjölfarið að skiptast á hlutverkum.",
+    "genres": [
+      "Gaman",
+      "Rómantík"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3GQ0SC_VnS0",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-01T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5086",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-03-01T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5086",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.1,
+      "link": "http://imdb.com/title/tt30985335"
     }
   },
   {
@@ -756,47 +685,6 @@
     }
   },
   {
-    "title": "Mamma Mia",
-    "id": 4184,
-    "alt_title": "Mamma Mia!, Mamma Mia! The Movie",
-    "release_year": 2008,
-    "poster_url": "https://kvikmyndir.is/images/poster/mamma_mia-1547210991.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0795421",
-      "http://imdb.com/title/tt0795421"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Mamma Mia er saga sem á sér stað á grískri eyju og segir frá dóttur í leit að föður sínum til þess að leiða sig upp að altarinu. Ævintýrið er fléttað inn í 27 af vinsælustu lögum hljómsveitarinnar ABBA en þar má nefna lög eins og Dancing Queen, Knowing Me Knowing You, Super Trouper og Mamma Mia!",
-    "genres": [
-      "Gaman",
-      "Rómantík",
-      "Söngleikur"
-    ],
-    "duration_in_mins": 108,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lkN-A00WLYE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-01T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3674",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-03-01T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5000",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.5,
-      "link": "http://imdb.com/title/tt0795421"
-    }
-  },
-  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -839,109 +727,43 @@
     }
   },
   {
-    "title": "Wonka",
-    "id": 16293,
+    "title": "Argylle",
+    "id": 16409,
     "alt_title": "Fullt hús áfram á fullu skriði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16409_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt6166392",
-      "http://imdb.com/title/tt6166392"
+      "http://imdb.com/title/tt15009428",
+      "http://imdb.com/title/tt15009428"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar söguþráður njósnasögu rithöfundarins Elly Conway fer ískyggilega mikið að líkjast leynilegum aðgerðum raunverulegra njósnasamtaka, þá heyra róleg kvöld á heimilinu sögunni til. Ásamt kettinum Alfie og njósnaranum Aiden, sem er með ofnæmi fyrir kisum, ferðast Elly um heiminn þveran og endilangan til að vera einu skrefi á undan morðingjum sem bíða við hvert götuhorn. En ekkert er sem sýnist og mörkin milli skáldskapar og veruleika minnka í sífellu.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda"
+      "Spenna",
+      "Spennutryllir"
     ],
-    "duration_in_mins": 112,
+    "duration_in_mins": 139,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "trailer_url": "https://www.youtube.com/watch?v=Sy6eNs3EW3E",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
           "time": "2024-03-01T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377237/",
-          "hall": "Salur B"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.1,
-      "link": "http://imdb.com/title/tt6166392"
-    }
-  },
-  {
-    "title": "Magda og töfraskógurinn",
-    "id": 16721,
-    "alt_title": "Mavka: The Forest Song",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6685538",
-      "http://imdb.com/title/tt6685538"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-01T15:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/812920/",
-          "hall": "Salur A"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt6685538"
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16762_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-01T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5232",
+          "purchase_url": "http://www.sambio.is/websales/show/377264/",
           "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-01T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377265/",
+          "hall": "Salur 3"
         }
       ]
     },
     "imdb": {
-      "star": 7.9,
-      "link": "http://imdb.com/title/tt27503384"
+      "star": 6,
+      "link": "http://imdb.com/title/tt15009428"
     }
   },
   {
@@ -977,40 +799,6 @@
     "imdb": {
       "star": 6.3,
       "link": "http://imdb.com/title/tt20221460"
-    }
-  },
-  {
-    "title": "The Teachers’ Lounge",
-    "id": 16755,
-    "alt_title": "Das Lehrerzimmer",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16755_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26612950",
-      "http://imdb.com/title/tt26612950"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar einn af nemendum hennar er grunaður um þjófnað ákveður kennarinn Carla Nowak að komast til botns í málinu. Hugsjónir hennar og reglur skólakerfsinsins togast á og málið verður að krefjandi verkefni.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 98,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6YgQBGqhTcM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-01T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5172",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.5,
-      "link": "http://imdb.com/title/tt26612950"
     }
   },
   {
@@ -1084,37 +872,38 @@
     }
   },
   {
-    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
-    "id": 16720,
-    "alt_title": "Kimetsu no Yaiba Kizuna no Kiseki, Soshite Hashira Geiko e",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16720_500.jpg",
+    "title": "Manodrome",
+    "id": 16725,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16725_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt30395619",
-      "http://imdb.com/title/tt30395619"
+      "http://imdb.com/title/tt14813150",
+      "http://imdb.com/title/tt14813150"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tanjiro fer í stranga þjálfun hjá steina-Hashira, Himejima, á leið sinni í átt að þvi að verða Hashira. Í millitíðinni heldur Muzan áfram að leita að Nezuko og Ubuyashiki.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ralphie er Uber leigubílstjóri, duglegur í ræktinni og með barn á leiðinni. Hann fær inngöngu í frjálslyndan karlmennskuklúbb og missir öll tök á raunveruleikanum þegar bældar þrár leysast úr læðingi.",
     "genres": [
-      "Teiknað"
+      "Drama",
+      "Spennutryllir"
     ],
-    "duration_in_mins": 104,
+    "duration_in_mins": 95,
     "language": [
-      "Japanska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=SXcCdQdcBtw",
+    "trailer_url": "https://www.youtube.com/watch?v=GjHIUBplrUw",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2024-03-01T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108520&visLang=1",
+          "time": "2024-03-01T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5250",
           "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 6.7,
-      "link": "http://imdb.com/title/tt30395619"
+      "star": 4.8,
+      "link": "http://imdb.com/title/tt14813150"
     }
   },
   {
@@ -1154,38 +943,179 @@
     }
   },
   {
-    "title": "Manodrome",
-    "id": 16725,
+    "title": "Perfect Days",
+    "id": 16762,
     "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16725_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16762_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14813150",
-      "http://imdb.com/title/tt14813150"
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ralphie er Uber leigubílstjóri, duglegur í ræktinni og með barn á leiðinni. Hann fær inngöngu í frjálslyndan karlmennskuklúbb og missir öll tök á raunveruleikanum þegar bældar þrár leysast úr læðingi.",
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
     "genres": [
-      "Drama",
-      "Spennutryllir"
+      "Drama"
     ],
-    "duration_in_mins": 95,
+    "duration_in_mins": 123,
     "language": [
-      "Enska"
+      "Japanska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=GjHIUBplrUw",
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-03-01T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5250",
+          "time": "2024-03-01T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5232",
           "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 4.8,
-      "link": "http://imdb.com/title/tt14813150"
+      "star": 7.9,
+      "link": "http://imdb.com/title/tt27503384"
+    }
+  },
+  {
+    "title": "Wonka",
+    "id": 16293,
+    "alt_title": "Fullt hús áfram á fullu skriði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6166392",
+      "http://imdb.com/title/tt6166392"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-01T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377237/",
+          "hall": "Salur B"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.1,
+      "link": "http://imdb.com/title/tt6166392"
+    }
+  },
+  {
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Ekkert tal"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-01T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5251",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt22041854"
+    }
+  },
+  {
+    "title": "Magda og töfraskógurinn",
+    "id": 16721,
+    "alt_title": "Mavka: The Forest Song",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6685538",
+      "http://imdb.com/title/tt6685538"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-01T15:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/812920/",
+          "hall": "Salur A"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt6685538"
+    }
+  },
+  {
+    "title": "The Teachers’ Lounge",
+    "id": 16755,
+    "alt_title": "Das Lehrerzimmer",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16755_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26612950",
+      "http://imdb.com/title/tt26612950"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar einn af nemendum hennar er grunaður um þjófnað ákveður kennarinn Carla Nowak að komast til botns í málinu. Hugsjónir hennar og reglur skólakerfsinsins togast á og málið verður að krefjandi verkefni.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 98,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6YgQBGqhTcM",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-01T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5172",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.5,
+      "link": "http://imdb.com/title/tt26612950"
     }
   }
 ]
