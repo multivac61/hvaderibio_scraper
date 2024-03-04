@@ -451,6 +451,49 @@
     }
   },
   {
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "genres": [
+      "Drama",
+      "Stríð",
+      "Söguleg"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-04T17:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/812949/",
+          "hall": "Salur A"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-04T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5303",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.6,
+      "link": "http://imdb.com/title/tt7160372"
+    }
+  },
+  {
     "title": "Anyone But You",
     "id": 16358,
     "alt_title": "Fullt hús áfram á fullu skriði",
@@ -534,89 +577,6 @@
     }
   },
   {
-    "title": "Argylle",
-    "id": 16409,
-    "alt_title": "Fullt hús áfram á fullu skriði",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16409_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15009428",
-      "http://imdb.com/title/tt15009428"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar söguþráður njósnasögu rithöfundarins Elly Conway fer ískyggilega mikið að líkjast leynilegum aðgerðum raunverulegra njósnasamtaka, þá heyra róleg kvöld á heimilinu sögunni til. Ásamt kettinum Alfie og njósnaranum Aiden, sem er með ofnæmi fyrir kisum, ferðast Elly um heiminn þveran og endilangan til að vera einu skrefi á undan morðingjum sem bíða við hvert götuhorn. En ekkert er sem sýnist og mörkin milli skáldskapar og veruleika minnka í sífellu.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 139,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Sy6eNs3EW3E",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-04T19:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377262/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-04T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377263/",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6,
-      "link": "http://imdb.com/title/tt15009428"
-    }
-  },
-  {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-04T17:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/812949/",
-          "hall": "Salur A"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-04T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5303",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.6,
-      "link": "http://imdb.com/title/tt7160372"
-    }
-  },
-  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -659,39 +619,43 @@
     }
   },
   {
-    "title": "Wonka",
-    "id": 16293,
+    "title": "Argylle",
+    "id": 16409,
     "alt_title": "Fullt hús áfram á fullu skriði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16409_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt6166392",
-      "http://imdb.com/title/tt6166392"
+      "http://imdb.com/title/tt15009428",
+      "http://imdb.com/title/tt15009428"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar söguþráður njósnasögu rithöfundarins Elly Conway fer ískyggilega mikið að líkjast leynilegum aðgerðum raunverulegra njósnasamtaka, þá heyra róleg kvöld á heimilinu sögunni til. Ásamt kettinum Alfie og njósnaranum Aiden, sem er með ofnæmi fyrir kisum, ferðast Elly um heiminn þveran og endilangan til að vera einu skrefi á undan morðingjum sem bíða við hvert götuhorn. En ekkert er sem sýnist og mörkin milli skáldskapar og veruleika minnka í sífellu.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Fjölskylda"
+      "Spenna",
+      "Spennutryllir"
     ],
-    "duration_in_mins": 112,
+    "duration_in_mins": 139,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "trailer_url": "https://www.youtube.com/watch?v=Sy6eNs3EW3E",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-04T16:45:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377236/",
+          "time": "2024-03-04T19:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377262/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-04T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377263/",
           "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 7.1,
-      "link": "http://imdb.com/title/tt6166392"
+      "star": 6,
+      "link": "http://imdb.com/title/tt15009428"
     }
   },
   {
@@ -726,6 +690,146 @@
     "imdb": {
       "star": 7.9,
       "link": "http://imdb.com/title/tt27503384"
+    }
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "id": 16545,
+    "alt_title": "Anatomie d'une chute",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17009710",
+      "http://imdb.com/title/tt17009710"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa"
+    ],
+    "duration_in_mins": 151,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-04T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5289",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.8,
+      "link": "http://imdb.com/title/tt17009710"
+    }
+  },
+  {
+    "title": "The Teachers’ Lounge",
+    "id": 16755,
+    "alt_title": "Das Lehrerzimmer",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16755_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26612950",
+      "http://imdb.com/title/tt26612950"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar einn af nemendum hennar er grunaður um þjófnað ákveður kennarinn Carla Nowak að komast til botns í málinu. Hugsjónir hennar og reglur skólakerfsinsins togast á og málið verður að krefjandi verkefni.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 98,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6YgQBGqhTcM",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-04T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5290",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.5,
+      "link": "http://imdb.com/title/tt26612950"
+    }
+  },
+  {
+    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
+    "id": 16720,
+    "alt_title": "Kimetsu no Yaiba Kizuna no Kiseki, Soshite Hashira Geiko e",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16720_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt30395619",
+      "http://imdb.com/title/tt30395619"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tanjiro fer í stranga þjálfun hjá steina-Hashira, Himejima, á leið sinni í átt að þvi að verða Hashira. Í millitíðinni heldur Muzan áfram að leita að Nezuko og Ubuyashiki.",
+    "genres": [
+      "Teiknað"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SXcCdQdcBtw",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-03-04T17:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108569&visLang=1",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.7,
+      "link": "http://imdb.com/title/tt30395619"
+    }
+  },
+  {
+    "title": "Wonka",
+    "id": 16293,
+    "alt_title": "Fullt hús áfram á fullu skriði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16293_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6166392",
+      "http://imdb.com/title/tt6166392"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hinn ungi Willy Wonka leggur af stað í þá vegferð að breiða út gleði í gegnum súkkulaði, og slær fljótlega í gegn.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 112,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-04T16:45:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377236/",
+          "hall": "Salur 2"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.1,
+      "link": "http://imdb.com/title/tt6166392"
     }
   },
   {
@@ -768,42 +872,6 @@
     }
   },
   {
-    "title": "Anatomy of a Fall",
-    "id": 16545,
-    "alt_title": "Anatomie d'une chute",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17009710",
-      "http://imdb.com/title/tt17009710"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa"
-    ],
-    "duration_in_mins": 151,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-04T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5289",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.8,
-      "link": "http://imdb.com/title/tt17009710"
-    }
-  },
-  {
     "title": "The Holdovers",
     "id": 16580,
     "alt_title": "Leikstjórn",
@@ -836,40 +904,6 @@
     "imdb": {
       "star": 8,
       "link": "http://imdb.com/title/tt14849194"
-    }
-  },
-  {
-    "title": "The Teachers’ Lounge",
-    "id": 16755,
-    "alt_title": "Das Lehrerzimmer",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16755_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26612950",
-      "http://imdb.com/title/tt26612950"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar einn af nemendum hennar er grunaður um þjófnað ákveður kennarinn Carla Nowak að komast til botns í málinu. Hugsjónir hennar og reglur skólakerfsinsins togast á og málið verður að krefjandi verkefni.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 98,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6YgQBGqhTcM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-04T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5290",
-          "hall": "Salur 2"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.5,
-      "link": "http://imdb.com/title/tt26612950"
     }
   },
   {
@@ -908,37 +942,38 @@
     }
   },
   {
-    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
-    "id": 16720,
-    "alt_title": "Kimetsu no Yaiba Kizuna no Kiseki, Soshite Hashira Geiko e",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16720_500.jpg",
+    "title": "Club Zero",
+    "id": 16289,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16289_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt30395619",
-      "http://imdb.com/title/tt30395619"
+      "http://imdb.com/title/tt18235146",
+      "http://imdb.com/title/tt18235146"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tanjiro fer í stranga þjálfun hjá steina-Hashira, Himejima, á leið sinni í átt að þvi að verða Hashira. Í millitíðinni heldur Muzan áfram að leita að Nezuko og Ubuyashiki.",
+    "description": "Ungfrú Novak gengur til liðs við starfsfólk alþjóðlegs heimavistarskóla til að kenna meðvitaða matarhegðun og hvetur nemendur sína til þess að borða minna.",
     "genres": [
-      "Teiknað"
+      "Drama",
+      "Spennutryllir"
     ],
-    "duration_in_mins": 104,
+    "duration_in_mins": 110,
     "language": [
-      "Japanska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=SXcCdQdcBtw",
+    "trailer_url": "https://www.youtube.com/watch?v=AzxWBX8T4sc",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2024-03-04T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108569&visLang=1",
-          "hall": "Salur 2"
+          "time": "2024-03-04T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5280",
+          "hall": "Salur 3"
         }
       ]
     },
     "imdb": {
-      "star": 6.7,
-      "link": "http://imdb.com/title/tt30395619"
+      "star": 5.9,
+      "link": "http://imdb.com/title/tt18235146"
     }
   },
   {
@@ -974,41 +1009,6 @@
     "imdb": {
       "star": 6.4,
       "link": "http://imdb.com/title/tt15314262"
-    }
-  },
-  {
-    "title": "Club Zero",
-    "id": 16289,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16289_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt18235146",
-      "http://imdb.com/title/tt18235146"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ungfrú Novak gengur til liðs við starfsfólk alþjóðlegs heimavistarskóla til að kenna meðvitaða matarhegðun og hvetur nemendur sína til þess að borða minna.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AzxWBX8T4sc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-04T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5280",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 5.9,
-      "link": "http://imdb.com/title/tt18235146"
     }
   },
   {
