@@ -134,16 +134,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-04T18:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108170&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-04T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108169&visLang=1",
-          "hall": "MAX"
-        },
-        {
           "time": "2024-03-04T21:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108167&visLang=1",
           "hall": "Salur 2"
@@ -232,13 +222,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-04T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108566&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-03-04T21:00:00.000Z",
@@ -319,13 +302,6 @@
           "time": "2024-03-04T22:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/812951/",
           "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-04T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108565&visLang=1",
-          "hall": "Salur 2"
         }
       ]
     },
@@ -418,11 +394,6 @@
         }
       ],
       "Smárabíó": [
-        {
-          "time": "2024-03-04T18:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108567&visLang=1",
-          "hall": "Salur 5"
-        },
         {
           "time": "2024-03-04T22:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108576&visLang=1",
@@ -559,46 +530,37 @@
     }
   },
   {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16762_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
     "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
+      "Drama"
     ],
-    "duration_in_mins": 113,
+    "duration_in_mins": 123,
     "language": [
-      "Ekkert tal"
+      "Japanska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-03-04T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5276",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-04T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108568&visLang=1",
-          "hall": "Salur 4"
+          "time": "2024-03-04T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5275",
+          "hall": "Salur 1"
         }
       ]
     },
     "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt22041854"
+      "star": 7.9,
+      "link": "http://imdb.com/title/tt27503384"
     }
   },
   {
@@ -638,38 +600,39 @@
     }
   },
   {
-    "title": "Manodrome",
-    "id": 16725,
-    "alt_title": "Leikstjórn",
+    "title": "Anatomy of a Fall",
+    "id": 16545,
+    "alt_title": "Anatomie d'une chute",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16725_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14813150",
-      "http://imdb.com/title/tt14813150"
+      "http://imdb.com/title/tt17009710",
+      "http://imdb.com/title/tt17009710"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ralphie er Uber leigubílstjóri, duglegur í ræktinni og með barn á leiðinni. Hann fær inngöngu í frjálslyndan karlmennskuklúbb og missir öll tök á raunveruleikanum þegar bældar þrár leysast úr læðingi.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
     "genres": [
       "Drama",
-      "Spennutryllir"
+      "Spennutryllir",
+      "Glæpa"
     ],
-    "duration_in_mins": 95,
+    "duration_in_mins": 151,
     "language": [
-      "Enska"
+      "Franska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=GjHIUBplrUw",
+    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
           "time": "2024-03-04T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5282",
-          "hall": "Salur 3"
+          "purchase_url": "https://tickets.bioparadis.is/#book/5289",
+          "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 4.8,
-      "link": "http://imdb.com/title/tt14813150"
+      "star": 7.8,
+      "link": "http://imdb.com/title/tt17009710"
     }
   },
   {
@@ -712,73 +675,39 @@
     }
   },
   {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16762_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-04T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5275",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.9,
-      "link": "http://imdb.com/title/tt27503384"
-    }
-  },
-  {
-    "title": "Anatomy of a Fall",
-    "id": 16545,
-    "alt_title": "Anatomie d'une chute",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16545_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17009710",
-      "http://imdb.com/title/tt17009710"
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
     "genres": [
       "Drama",
-      "Spennutryllir",
-      "Glæpa"
+      "Tónlist",
+      "Æviágrip"
     ],
-    "duration_in_mins": 151,
+    "duration_in_mins": 113,
     "language": [
-      "Franska"
+      "Ekkert tal"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-03-04T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5289",
+          "time": "2024-03-04T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5276",
           "hall": "Salur 2"
         }
       ]
     },
     "imdb": {
-      "star": 7.8,
-      "link": "http://imdb.com/title/tt17009710"
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt22041854"
     }
   },
   {
@@ -921,6 +850,41 @@
     }
   },
   {
+    "title": "Club Zero",
+    "id": 16289,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16289_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt18235146",
+      "http://imdb.com/title/tt18235146"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Ungfrú Novak gengur til liðs við starfsfólk alþjóðlegs heimavistarskóla til að kenna meðvitaða matarhegðun og hvetur nemendur sína til þess að borða minna.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AzxWBX8T4sc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-04T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5280",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 5.9,
+      "link": "http://imdb.com/title/tt18235146"
+    }
+  },
+  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -956,38 +920,38 @@
     }
   },
   {
-    "title": "Club Zero",
-    "id": 16289,
+    "title": "Manodrome",
+    "id": 16725,
     "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16289_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16725_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt18235146",
-      "http://imdb.com/title/tt18235146"
+      "http://imdb.com/title/tt14813150",
+      "http://imdb.com/title/tt14813150"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ungfrú Novak gengur til liðs við starfsfólk alþjóðlegs heimavistarskóla til að kenna meðvitaða matarhegðun og hvetur nemendur sína til þess að borða minna.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ralphie er Uber leigubílstjóri, duglegur í ræktinni og með barn á leiðinni. Hann fær inngöngu í frjálslyndan karlmennskuklúbb og missir öll tök á raunveruleikanum þegar bældar þrár leysast úr læðingi.",
     "genres": [
       "Drama",
       "Spennutryllir"
     ],
-    "duration_in_mins": 110,
+    "duration_in_mins": 95,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=AzxWBX8T4sc",
+    "trailer_url": "https://www.youtube.com/watch?v=GjHIUBplrUw",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-03-04T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5280",
+          "time": "2024-03-04T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5282",
           "hall": "Salur 3"
         }
       ]
     },
     "imdb": {
-      "star": 5.9,
-      "link": "http://imdb.com/title/tt18235146"
+      "star": 4.8,
+      "link": "http://imdb.com/title/tt14813150"
     }
   }
 ]
