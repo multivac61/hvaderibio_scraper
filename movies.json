@@ -122,17 +122,14 @@
           "hall": "AXL"
         }
       ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-03-08T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377775/",
+          "hall": "Salur 1"
+        }
+      ],
       "Smárabíó": [
-        {
-          "time": "2024-03-08T18:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108432&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-08T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108445&visLang=1",
-          "hall": "MAX"
-        },
         {
           "time": "2024-03-08T21:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108441&visLang=1",
@@ -142,13 +139,6 @@
           "time": "2024-03-08T21:40:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108443&visLang=1",
           "hall": "LÚXUS"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-03-08T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377775/",
-          "hall": "Salur 1"
         }
       ]
     },
@@ -268,21 +258,6 @@
         }
       ],
       "Smárabíó": [
-        {
-          "time": "2024-03-08T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108686&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-08T17:25:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108449&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-03-08T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108687&visLang=1",
-          "hall": "Salur 2"
-        },
         {
           "time": "2024-03-08T21:50:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108710&visLang=1",
@@ -427,59 +402,6 @@
     }
   },
   {
-    "title": "Fullt hús",
-    "id": 16655,
-    "alt_title": "Grand Finale",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27581865",
-      "http://imdb.com/title/tt27581865"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-08T14:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377504/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-08T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813766/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-03-08T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813767/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-08T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108707&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.2,
-      "link": "http://imdb.com/title/tt27581865"
-    }
-  },
-  {
     "title": "All of Us Strangers",
     "id": 16456,
     "alt_title": "Leikstjórn",
@@ -525,86 +447,91 @@
     }
   },
   {
-    "title": "Madame Web",
-    "id": 16591,
-    "alt_title": "Græðgi að segja sögur allra",
+    "title": "Fullt hús",
+    "id": 16655,
+    "alt_title": "Grand Finale",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1732471_500-1705600341.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt11057302",
-      "http://imdb.com/title/tt11057302"
+      "http://imdb.com/title/tt27581865",
+      "http://imdb.com/title/tt27581865"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sjúkraflutningamaðurinn Cassandra Webb byrjar að finna fyrir skyggnigáfu og getur séð framtíðina. Hún þarf nú að horfast í augu við atburði úr fortíðinni og vernda þrjár ungar konur fyrir dularfullum fjandmanni sem vill þær feigar.",
+    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
     "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
+      "Gaman"
     ],
-    "duration_in_mins": 117,
+    "duration_in_mins": 100,
     "language": [
-      "Enska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=s_76M4c4LTo",
+    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-03-08T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377698/",
+          "time": "2024-03-08T14:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377504/",
           "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-08T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813766/",
+          "hall": "Salur B"
         },
         {
-          "time": "2024-03-08T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377699/",
-          "hall": "Salur 3"
+          "time": "2024-03-08T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813767/",
+          "hall": "Salur B"
         }
       ]
     },
     "imdb": {
-      "star": 3.7,
-      "link": "http://imdb.com/title/tt11057302"
+      "star": 8.2,
+      "link": "http://imdb.com/title/tt27581865"
     }
   },
   {
-    "title": "Anyone But You",
-    "id": 16358,
-    "alt_title": "Fullt hús áfram á fullu skriði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
+    "title": "The Beekeeper",
+    "id": 16576,
+    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt26047818",
-      "http://imdb.com/title/tt26047818"
+      "http://imdb.com/title/tt15314262",
+      "http://imdb.com/title/tt15314262"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
     "genres": [
-      "Gaman",
-      "Rómantík"
+      "Spenna",
+      "Spennutryllir"
     ],
-    "duration_in_mins": 103,
+    "duration_in_mins": 105,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
+    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Laugarásbíó": [
         {
-          "time": "2024-03-08T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377607/",
-          "hall": "Salur 4"
+          "time": "2024-03-08T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813768/",
+          "hall": "Salur B"
         }
       ],
-      "Smárabíó": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-03-08T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108723&visLang=1",
-          "hall": "Salur 5"
+          "time": "2024-03-08T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377610/",
+          "hall": "Salur 4"
         }
       ]
     },
     "imdb": {
-      "star": 6.2,
-      "link": "http://imdb.com/title/tt26047818"
+      "star": 6.4,
+      "link": "http://imdb.com/title/tt15314262"
     }
   },
   {
@@ -651,45 +578,44 @@
     }
   },
   {
-    "title": "The Beekeeper",
-    "id": 16576,
-    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
+    "title": "Madame Web",
+    "id": 16591,
+    "alt_title": "Græðgi að segja sögur allra",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1732471_500-1705600341.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt15314262",
-      "http://imdb.com/title/tt15314262"
+      "http://imdb.com/title/tt11057302",
+      "http://imdb.com/title/tt11057302"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sjúkraflutningamaðurinn Cassandra Webb byrjar að finna fyrir skyggnigáfu og getur séð framtíðina. Hún þarf nú að horfast í augu við atburði úr fortíðinni og vernda þrjár ungar konur fyrir dularfullum fjandmanni sem vill þær feigar.",
     "genres": [
       "Spenna",
-      "Spennutryllir"
+      "Vísindaskáldskapur",
+      "Ævintýri"
     ],
-    "duration_in_mins": 105,
+    "duration_in_mins": 117,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
+    "trailer_url": "https://www.youtube.com/watch?v=s_76M4c4LTo",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-08T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813768/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Egilshöll": [
+          "time": "2024-03-08T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377698/",
+          "hall": "Salur 2"
+        },
         {
-          "time": "2024-03-08T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377610/",
-          "hall": "Salur 4"
+          "time": "2024-03-08T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377699/",
+          "hall": "Salur 3"
         }
       ]
     },
     "imdb": {
-      "star": 6.4,
-      "link": "http://imdb.com/title/tt15314262"
+      "star": 3.7,
+      "link": "http://imdb.com/title/tt11057302"
     }
   },
   {
@@ -727,6 +653,113 @@
           "hall": "Salur 1"
         }
       ]
+    }
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "id": 16545,
+    "alt_title": "Anatomie d'une chute",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/cd5d34c9-c30f-4977-8f81-03a12c160e06-1709721690.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17009710",
+      "http://imdb.com/title/tt17009710"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Glæpa"
+    ],
+    "duration_in_mins": 151,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-08T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5340",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 7.8,
+      "link": "http://imdb.com/title/tt17009710"
+    }
+  },
+  {
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Ekkert tal"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-08T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5329",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt22041854"
+    }
+  },
+  {
+    "title": "The Holdovers",
+    "id": 16580,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14849194",
+      "http://imdb.com/title/tt14849194"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 133,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-08T16:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377644/",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8,
+      "link": "http://imdb.com/title/tt14849194"
     }
   },
   {
@@ -836,6 +869,41 @@
     }
   },
   {
+    "title": "Anyone But You",
+    "id": 16358,
+    "alt_title": "Fullt hús áfram á fullu skriði",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26047818",
+      "http://imdb.com/title/tt26047818"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
+    "genres": [
+      "Gaman",
+      "Rómantík"
+    ],
+    "duration_in_mins": 103,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-03-08T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377607/",
+          "hall": "Salur 4"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.2,
+      "link": "http://imdb.com/title/tt26047818"
+    }
+  },
+  {
     "title": "Bestu vinir",
     "id": 16577,
     "alt_title": "The Inseparables",
@@ -906,40 +974,6 @@
     }
   },
   {
-    "title": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
-    "id": 16720,
-    "alt_title": "Kimetsu no Yaiba Kizuna no Kiseki, Soshite Hashira Geiko e",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16720_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt30395619",
-      "http://imdb.com/title/tt30395619"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tanjiro fer í stranga þjálfun hjá steina-Hashira, Himejima, á leið sinni í átt að þvi að verða Hashira. Í millitíðinni heldur Muzan áfram að leita að Nezuko og Ubuyashiki.",
-    "genres": [
-      "Teiknað"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SXcCdQdcBtw",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-03-08T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108722&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt30395619"
-    }
-  },
-  {
     "title": "Death Becomes Her",
     "id": 871,
     "alt_title": "Ekki gott lúkk, Zemeckis",
@@ -970,10 +1004,6 @@
           "hall": "Salur 1"
         }
       ]
-    },
-    "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt0104070"
     }
   },
   {
@@ -1008,113 +1038,6 @@
     "imdb": {
       "star": 7.9,
       "link": "http://imdb.com/title/tt27503384"
-    }
-  },
-  {
-    "title": "Anatomy of a Fall",
-    "id": 16545,
-    "alt_title": "Anatomie d'une chute",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/cd5d34c9-c30f-4977-8f81-03a12c160e06-1709721690.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17009710",
-      "http://imdb.com/title/tt17009710"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Glæpa"
-    ],
-    "duration_in_mins": 151,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0x3bEQA9EWU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-08T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5340",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 7.8,
-      "link": "http://imdb.com/title/tt17009710"
-    }
-  },
-  {
-    "title": "The Holdovers",
-    "id": 16580,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14849194",
-      "http://imdb.com/title/tt14849194"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 133,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-08T16:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377644/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8,
-      "link": "http://imdb.com/title/tt14849194"
-    }
-  },
-  {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 113,
-    "language": [
-      "Ekkert tal"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-08T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5329",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt22041854"
     }
   }
 ]
