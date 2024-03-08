@@ -108,6 +108,13 @@
           "hall": "Lúxus VIP"
         }
       ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-03-08T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377868/",
+          "hall": "Salur 1"
+        }
+      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-03-08T17:30:00.000Z",
@@ -128,13 +135,6 @@
           "time": "2024-03-08T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377611/",
           "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-03-08T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377868/",
-          "hall": "Salur 1"
         }
       ],
       "Laugarásbíó": [
@@ -257,6 +257,18 @@
           "hall": "Salur 2"
         }
       ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-03-08T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377874/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-08T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377880/",
+          "hall": "Salur 2"
+        }
+      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-03-08T17:30:00.000Z",
@@ -279,18 +291,6 @@
           "hall": "Salur B"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-03-08T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377874/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-08T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377880/",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-03-08T17:40:00.000Z",
@@ -305,7 +305,7 @@
       ]
     },
     "imdb": {
-      "star": 7,
+      "star": 6.9,
       "link": "http://imdb.com/title/tt21692408"
     }
   },
@@ -436,7 +436,7 @@
       ]
     },
     "imdb": {
-      "star": 4.9,
+      "star": 4.7,
       "link": "http://imdb.com/title/tt26658104"
     }
   },
@@ -536,89 +536,6 @@
     "imdb": {
       "star": 7.8,
       "link": "http://imdb.com/title/tt21192142"
-    }
-  },
-  {
-    "title": "Madame Web",
-    "id": 16591,
-    "alt_title": "Græðgi að segja sögur allra",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1732471_500-1705600341.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11057302",
-      "http://imdb.com/title/tt11057302"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sjúkraflutningamaðurinn Cassandra Webb byrjar að finna fyrir skyggnigáfu og getur séð framtíðina. Hún þarf nú að horfast í augu við atburði úr fortíðinni og vernda þrjár ungar konur fyrir dularfullum fjandmanni sem vill þær feigar.",
-    "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 117,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=s_76M4c4LTo",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-08T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377698/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-08T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377699/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 3.7,
-      "link": "http://imdb.com/title/tt11057302"
-    }
-  },
-  {
-    "title": "Anyone But You",
-    "id": 16358,
-    "alt_title": "Fullt hús áfram á fullu skriði",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26047818",
-      "http://imdb.com/title/tt26047818"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
-    "genres": [
-      "Gaman",
-      "Rómantík"
-    ],
-    "duration_in_mins": 103,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-08T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377607/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-08T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108723&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.2,
-      "link": "http://imdb.com/title/tt26047818"
     }
   },
   {
@@ -744,181 +661,86 @@
     }
   },
   {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
+    "title": "Anyone But You",
+    "id": 16358,
+    "alt_title": "Fullt hús áfram á fullu skriði",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16358_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
+      "http://imdb.com/title/tt26047818",
+      "http://imdb.com/title/tt26047818"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Bea og Ben líta út sem hið fullkomna par, en eftir frábært fyrsta stefnumót gerist eitthvað sem breytir ástríðuhitanum yfir í algjört frost - þar til þau hittast óvænt í brúðkaupi í Ástralíu. Þau ákveða því að gera það sem allir þroskaðir fullorðnir einstaklingar gera: þykjast vera par.",
     "genres": [
       "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Rómantík"
     ],
-    "duration_in_mins": 92,
+    "duration_in_mins": 103,
     "language": [
       "Enska"
     ],
+    "trailer_url": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs",
     "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-03-08T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377607/",
+          "hall": "Salur 4"
+        }
+      ],
       "Smárabíó": [
         {
-          "time": "2024-03-08T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108648&visLang=1",
+          "time": "2024-03-08T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108723&visLang=1",
           "hall": "Salur 5"
         }
       ]
     },
     "imdb": {
-      "star": 6.7,
-      "link": "http://imdb.com/title/tt6495056"
+      "star": 6.2,
+      "link": "http://imdb.com/title/tt26047818"
     }
   },
   {
-    "title": "Magda og töfraskógurinn",
-    "id": 16721,
-    "alt_title": "Mavka: The Forest Song",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "title": "Madame Web",
+    "id": 16591,
+    "alt_title": "Græðgi að segja sögur allra",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1732471_500-1705600341.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt6685538",
-      "http://imdb.com/title/tt6685538"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-08T15:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813761/",
-          "hall": "Salur A"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt6685538"
-    }
-  },
-  {
-    "title": "The Holdovers",
-    "id": 16580,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14849194",
-      "http://imdb.com/title/tt14849194"
+      "http://imdb.com/title/tt11057302",
+      "http://imdb.com/title/tt11057302"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
+    "description": "Sjúkraflutningamaðurinn Cassandra Webb byrjar að finna fyrir skyggnigáfu og getur séð framtíðina. Hún þarf nú að horfast í augu við atburði úr fortíðinni og vernda þrjár ungar konur fyrir dularfullum fjandmanni sem vill þær feigar.",
     "genres": [
-      "Gaman",
-      "Drama"
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
     ],
-    "duration_in_mins": 133,
+    "duration_in_mins": 117,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
+    "trailer_url": "https://www.youtube.com/watch?v=s_76M4c4LTo",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-08T16:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377644/",
+          "time": "2024-03-08T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377698/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-08T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377699/",
           "hall": "Salur 3"
         }
       ]
     },
     "imdb": {
-      "star": 8,
-      "link": "http://imdb.com/title/tt14849194"
-    }
-  },
-  {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-08T15:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813762/",
-          "hall": "Salur B"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.2,
-      "link": "http://imdb.com/title/tt20221460"
-    }
-  },
-  {
-    "title": "Death Becomes Her",
-    "id": 871,
-    "alt_title": "Ekki gott lúkk, Zemeckis",
-    "release_year": 1992,
-    "poster_url": "https://kvikmyndir.is/images/poster/871_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0104070",
-      "http://imdb.com/title/tt0104070",
-      "https://www.themoviedb.org/tv/9374"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Helen er rithöfundur og Madeline er leikkona. Þær hafa hatað hvora aðra í mörg ár. Madeline er gift Ernest, sem var eitt sinn kærasti Helen. Eftir að hún jafnar sig á taugaáfalli, þá heitir Helen því að hefna sín, með því að stela Ernest og drepa Madeline. Báðar hafa þær á leyni drukkið yngingarmeðal og komast að því fyrir tilviljun, þegar þær eru að reyna að drepa hvora aðra, að þær eru ódrepandi og lífið muni aldrei verða samt aftur.",
-    "genres": [
-      "Gaman",
-      "Hrollvekja",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=NFXQQ2uAeHM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-08T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/3518",
-          "hall": "Salur 1"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 6.6,
-      "link": "http://imdb.com/title/tt0104070"
+      "star": 3.7,
+      "link": "http://imdb.com/title/tt11057302"
     }
   },
   {
@@ -953,41 +775,6 @@
     "imdb": {
       "star": 7.9,
       "link": "http://imdb.com/title/tt27503384"
-    }
-  },
-  {
-    "title": "Poor Things",
-    "id": 16355,
-    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14230458",
-      "http://imdb.com/title/tt14230458"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
-    "genres": [
-      "Rómantík",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 141,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-08T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377760/",
-          "hall": "Salur 3"
-        }
-      ]
-    },
-    "imdb": {
-      "star": 8.2,
-      "link": "http://imdb.com/title/tt14230458"
     }
   },
   {
@@ -1027,6 +814,42 @@
     }
   },
   {
+    "title": "Magda og töfraskógurinn",
+    "id": 16721,
+    "alt_title": "Mavka: The Forest Song",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6685538",
+      "http://imdb.com/title/tt6685538"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-08T15:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813761/",
+          "hall": "Salur A"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt6685538"
+    }
+  },
+  {
     "title": "Priscilla",
     "id": 16559,
     "alt_title": "Kóngurinn hylltur í Cannes",
@@ -1060,6 +883,41 @@
     "imdb": {
       "star": 6.6,
       "link": "http://imdb.com/title/tt22041854"
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-08T15:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813762/",
+          "hall": "Salur B"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.2,
+      "link": "http://imdb.com/title/tt20221460"
     }
   },
   {
@@ -1164,6 +1022,148 @@
     "imdb": {
       "star": 7.6,
       "link": "http://imdb.com/title/tt7160372"
+    }
+  },
+  {
+    "title": "The Holdovers",
+    "id": 16580,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14849194",
+      "http://imdb.com/title/tt14849194"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 133,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-08T16:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377644/",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8,
+      "link": "http://imdb.com/title/tt14849194"
+    }
+  },
+  {
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-03-08T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108648&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.7,
+      "link": "http://imdb.com/title/tt6495056"
+    }
+  },
+  {
+    "title": "Death Becomes Her",
+    "id": 871,
+    "alt_title": "Ekki gott lúkk, Zemeckis",
+    "release_year": 1992,
+    "poster_url": "https://kvikmyndir.is/images/poster/871_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0104070",
+      "http://imdb.com/title/tt0104070",
+      "https://www.themoviedb.org/tv/9374"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Helen er rithöfundur og Madeline er leikkona. Þær hafa hatað hvora aðra í mörg ár. Madeline er gift Ernest, sem var eitt sinn kærasti Helen. Eftir að hún jafnar sig á taugaáfalli, þá heitir Helen því að hefna sín, með því að stela Ernest og drepa Madeline. Báðar hafa þær á leyni drukkið yngingarmeðal og komast að því fyrir tilviljun, þegar þær eru að reyna að drepa hvora aðra, að þær eru ódrepandi og lífið muni aldrei verða samt aftur.",
+    "genres": [
+      "Gaman",
+      "Hrollvekja",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=NFXQQ2uAeHM",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-08T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/3518",
+          "hall": "Salur 1"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 6.6,
+      "link": "http://imdb.com/title/tt0104070"
+    }
+  },
+  {
+    "title": "Poor Things",
+    "id": 16355,
+    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14230458",
+      "http://imdb.com/title/tt14230458"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
+    "genres": [
+      "Rómantík",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 141,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-08T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377760/",
+          "hall": "Salur 3"
+        }
+      ]
+    },
+    "imdb": {
+      "star": 8.2,
+      "link": "http://imdb.com/title/tt14230458"
     }
   }
 ]
