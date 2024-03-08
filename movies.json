@@ -113,6 +113,11 @@
           "time": "2024-03-08T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377868/",
           "hall": "Salur 1"
+        },
+        {
+          "time": "2024-03-08T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377869/",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -379,6 +384,10 @@
           "hall": "Salur 2"
         }
       ]
+    },
+    "imdb": {
+      "star": 6.5,
+      "link": "http://imdb.com/title/tt8521778"
     }
   },
   {
@@ -400,18 +409,6 @@
     "language": [],
     "trailer_url": "https://www.youtube.com/watch?v=-3EpotMWQu8",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-08T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377742/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-08T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377743/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-03-08T20:00:00.000Z",
@@ -422,6 +419,18 @@
           "time": "2024-03-08T22:15:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813765/",
           "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-08T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377742/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-08T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377743/",
+          "hall": "Salur 2"
         }
       ],
       "Sambíóin Akureyri": [
