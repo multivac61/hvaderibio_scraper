@@ -120,18 +120,6 @@
           "hall": "AXL"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-03-12T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377893/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-12T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377892/",
-          "hall": "Salur 1"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-03-12T17:30:00.000Z",
@@ -152,6 +140,18 @@
           "time": "2024-03-12T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377850/",
           "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-03-12T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377893/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-12T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377892/",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Keflavík": [
@@ -201,13 +201,13 @@
       "Smárabíó": [
         {
           "time": "2024-03-12T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108781&visLang=1",
-          "hall": "MAX"
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108767&visLang=1",
+          "hall": "Salur 2"
         },
         {
           "time": "2024-03-12T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108767&visLang=1",
-          "hall": "Salur 2"
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108781&visLang=1",
+          "hall": "MAX"
         },
         {
           "time": "2024-03-12T16:00:00.000Z",
@@ -269,6 +269,13 @@
           "hall": "Salur 2"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-12T17:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813801/",
+          "hall": "Salur A"
+        }
+      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-03-12T17:30:00.000Z",
@@ -279,13 +286,6 @@
           "time": "2024-03-12T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377906/",
           "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-12T17:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813801/",
-          "hall": "Salur A"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -463,6 +463,44 @@
     }
   },
   {
+    "title": "The Beekeeper",
+    "id": 16576,
+    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15314262",
+      "http://imdb.com/title/tt15314262"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-12T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813806/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-03-12T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377835/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Natatorium",
     "id": 16318,
     "alt_title": "Natatorium: Á suðupunkti í sundlaug dauðans",
@@ -613,38 +651,31 @@
     }
   },
   {
-    "title": "The Beekeeper",
-    "id": 16576,
-    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
+    "title": "Poor Things",
+    "id": 16355,
+    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt15314262",
-      "http://imdb.com/title/tt15314262"
+      "http://imdb.com/title/tt14230458",
+      "http://imdb.com/title/tt14230458"
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
+    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
     "genres": [
-      "Spenna",
-      "Spennutryllir"
+      "Rómantík",
+      "Vísindaskáldskapur"
     ],
-    "duration_in_mins": 105,
+    "duration_in_mins": 141,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
+    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-12T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/813806/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-12T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377835/",
+          "time": "2024-03-12T19:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377757/",
           "hall": "Salur 3"
         }
       ]
@@ -707,37 +738,6 @@
           "time": "2024-03-12T15:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108766&visLang=1",
           "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Holdovers",
-    "id": 16580,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14849194",
-      "http://imdb.com/title/tt14849194"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 133,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-12T16:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377648/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -836,6 +836,37 @@
     }
   },
   {
+    "title": "The Holdovers",
+    "id": 16580,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14849194",
+      "http://imdb.com/title/tt14849194"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 133,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-12T16:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377648/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -894,37 +925,6 @@
         {
           "time": "2024-03-12T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5363",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Poor Things",
-    "id": 16355,
-    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14230458",
-      "http://imdb.com/title/tt14230458"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
-    "genres": [
-      "Rómantík",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 141,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-12T19:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377757/",
           "hall": "Salur 3"
         }
       ]
