@@ -184,13 +184,13 @@
       "Smárabíó": [
         {
           "time": "2024-03-18T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109050&visLang=1",
-          "hall": "MAX"
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109049&visLang=1",
+          "hall": "Salur 2"
         },
         {
           "time": "2024-03-18T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109049&visLang=1",
-          "hall": "Salur 2"
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109050&visLang=1",
+          "hall": "MAX"
         },
         {
           "time": "2024-03-18T17:15:00.000Z",
@@ -318,55 +318,6 @@
     }
   },
   {
-    "title": "Nightwatch: Demons Are Forever",
-    "id": 16719,
-    "alt_title": "Nattevagten - Dæmoner går i arv",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6318608",
-      "http://imdb.com/title/tt6318608"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-18T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377995/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-18T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377996/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-18T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109061&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-03-18T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109055&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "One Life",
     "id": 16697,
     "alt_title": "Hopkins segir atburðina geta endurtekið sig",
@@ -455,6 +406,55 @@
         {
           "time": "2024-03-18T17:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378213/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nightwatch: Demons Are Forever",
+    "id": 16719,
+    "alt_title": "Nattevagten - Dæmoner går i arv",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6318608",
+      "http://imdb.com/title/tt6318608"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-18T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377995/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-18T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377996/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-18T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109061&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-03-18T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109055&visLang=1",
           "hall": "Salur 4"
         }
       ]
@@ -574,6 +574,42 @@
     }
   },
   {
+    "title": "All of Us Strangers",
+    "id": 16456,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21192142",
+      "http://imdb.com/title/tt21192142"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
+    "genres": [
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-03-18T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378115/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-18T21:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378116/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Zone of Interest",
     "id": 16722,
     "alt_title": "Leikstjórn",
@@ -611,37 +647,63 @@
     }
   },
   {
-    "title": "All of Us Strangers",
-    "id": 16456,
-    "alt_title": "Pandan sigraði Dune",
+    "title": "Manodrome",
+    "id": 16725,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16725_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt21192142",
-      "http://imdb.com/title/tt21192142"
+      "http://imdb.com/title/tt14813150",
+      "http://imdb.com/title/tt14813150"
     ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ralphie er Uber leigubílstjóri, duglegur í ræktinni og með barn á leiðinni. Hann fær inngöngu í frjálslyndan karlmennskuklúbb og missir öll tök á raunveruleikanum þegar bældar þrár leysast úr læðingi.",
     "genres": [
       "Drama",
-      "Ævintýri"
+      "Spennutryllir"
     ],
-    "duration_in_mins": 105,
+    "duration_in_mins": 95,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    "trailer_url": "https://www.youtube.com/watch?v=GjHIUBplrUw",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Bíó Paradís": [
         {
-          "time": "2024-03-18T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378115/",
+          "time": "2024-03-18T21:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5443",
           "hall": "Salur 2"
-        },
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Holdovers",
+    "id": 16580,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14849194",
+      "http://imdb.com/title/tt14849194"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 133,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-18T21:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378116/",
-          "hall": "Salur 2"
+          "time": "2024-03-18T16:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377997/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -677,37 +739,6 @@
     }
   },
   {
-    "title": "Poor Things",
-    "id": 16355,
-    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14230458",
-      "http://imdb.com/title/tt14230458"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
-    "genres": [
-      "Rómantík",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 141,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-18T19:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377998/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Natatorium",
     "id": 16318,
     "alt_title": "Natatorium: Á suðupunkti í sundlaug dauðans",
@@ -735,39 +766,6 @@
           "time": "2024-03-18T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5435",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Stargate",
-    "id": 2604,
-    "alt_title": "17 flottar \"SCI FI\" kökur",
-    "release_year": 1994,
-    "poster_url": "https://kvikmyndir.is/images/poster/2604_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0111282",
-      "http://imdb.com/title/tt0111282",
-      "https://www.themoviedb.org/tv/2164"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar fornleifafræðingar uppgötva stóran málmhring við uppgröft í Egyptalandi átta þeir sig strax á því að hér er ekki um neinn venjulegan fund að ræða. Það á síðan eftir að koma í ljós að hringinn er hægt að nota til að ferðast í gegnum geiminn og komast til plánetu þar sem fólk lifir eins og Fornegyptar sem dýrka sólguðinn Ra ...",
-    "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 116,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=kiJtZUPvJxY",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-18T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377763/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -829,6 +827,37 @@
         {
           "time": "2024-03-18T18:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5436",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Poor Things",
+    "id": 16355,
+    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14230458",
+      "http://imdb.com/title/tt14230458"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
+    "genres": [
+      "Rómantík",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 141,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-18T19:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377998/",
           "hall": "Salur 3"
         }
       ]
@@ -897,63 +926,34 @@
     }
   },
   {
-    "title": "The Holdovers",
-    "id": 16580,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
+    "title": "Stargate",
+    "id": 2604,
+    "alt_title": "17 flottar \"SCI FI\" kökur",
+    "release_year": 1994,
+    "poster_url": "https://kvikmyndir.is/images/poster/2604_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14849194",
-      "http://imdb.com/title/tt14849194"
+      "http://imdb.com/title/tt0111282",
+      "http://imdb.com/title/tt0111282",
+      "https://www.themoviedb.org/tv/2164"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
+    "description": "Þegar fornleifafræðingar uppgötva stóran málmhring við uppgröft í Egyptalandi átta þeir sig strax á því að hér er ekki um neinn venjulegan fund að ræða. Það á síðan eftir að koma í ljós að hringinn er hægt að nota til að ferðast í gegnum geiminn og komast til plánetu þar sem fólk lifir eins og Fornegyptar sem dýrka sólguðinn Ra ...",
     "genres": [
-      "Gaman",
-      "Drama"
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
     ],
-    "duration_in_mins": 133,
+    "duration_in_mins": 116,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
+    "trailer_url": "https://www.youtube.com/watch?v=kiJtZUPvJxY",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-03-18T16:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377997/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Manodrome",
-    "id": 16725,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16725_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14813150",
-      "http://imdb.com/title/tt14813150"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ralphie er Uber leigubílstjóri, duglegur í ræktinni og með barn á leiðinni. Hann fær inngöngu í frjálslyndan karlmennskuklúbb og missir öll tök á raunveruleikanum þegar bældar þrár leysast úr læðingi.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GjHIUBplrUw",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-18T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5443",
-          "hall": "Salur 2"
+          "time": "2024-03-18T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377763/",
+          "hall": "Salur 1"
         }
       ]
     }
