@@ -61,6 +61,11 @@
           "hall": "LÚXUS"
         },
         {
+          "time": "2024-03-19T16:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109072&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
           "time": "2024-03-19T19:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109093&visLang=1",
           "hall": "LÚXUS"
@@ -200,7 +205,7 @@
           "hall": "Salur 2"
         },
         {
-          "time": "2024-03-19T20:30:00.000Z",
+          "time": "2024-03-19T20:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109080&visLang=1",
           "hall": "Salur 5"
         }
@@ -244,6 +249,13 @@
           "hall": "Salur 2"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-19T17:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/816494/",
+          "hall": "Salur A"
+        }
+      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-03-19T17:30:00.000Z",
@@ -254,13 +266,6 @@
           "time": "2024-03-19T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378269/",
           "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-19T17:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/816494/",
-          "hall": "Salur A"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -330,55 +335,6 @@
     }
   },
   {
-    "title": "Arthur the King",
-    "id": 16610,
-    "alt_title": "Baltasar segir skilið við hundamynd Wahlbergs",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16610_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt10720352",
-      "http://imdb.com/title/tt10720352"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Mikael Lindnord, fyrirliði sænsk þríþrautarliðs, kynnist meiddum hundi þegar hann er að keppa í 650 km langri þraut í frumskógum Ecuador. Fyrstu kynnin urðu þegar hann gaf honum að borða en svo elti hundurinn liðið í gegnum einhver erfiðustu landsvæði á Jörðinni. Lindnord ákveður að taka hundinn að sér og fara með hann heim til Svíþjóðar.",
-    "genres": [
-      "Ævintýri"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=wjDJNEPghNY",
-    "cinema_showtimes": {
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-03-19T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378266/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-19T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378584/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-03-19T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378221/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-19T18:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109504&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
     "title": "One Life",
     "id": 16697,
     "alt_title": "Hopkins segir atburðina geta endurtekið sig",
@@ -420,6 +376,48 @@
         {
           "time": "2024-03-19T21:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378126/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Arthur the King",
+    "id": 16610,
+    "alt_title": "Baltasar segir skilið við hundamynd Wahlbergs",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16610_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt10720352",
+      "http://imdb.com/title/tt10720352"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Mikael Lindnord, fyrirliði sænsk þríþrautarliðs, kynnist meiddum hundi þegar hann er að keppa í 650 km langri þraut í frumskógum Ecuador. Fyrstu kynnin urðu þegar hann gaf honum að borða en svo elti hundurinn liðið í gegnum einhver erfiðustu landsvæði á Jörðinni. Lindnord ákveður að taka hundinn að sér og fara með hann heim til Svíþjóðar.",
+    "genres": [
+      "Ævintýri"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=wjDJNEPghNY",
+    "cinema_showtimes": {
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-03-19T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378266/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-03-19T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378584/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-03-19T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378221/",
           "hall": "Salur 3"
         }
       ]
@@ -690,6 +688,36 @@
     }
   },
   {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-19T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5424",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -905,36 +933,6 @@
           "time": "2024-03-19T19:15:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378015/",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-19T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5424",
-          "hall": "Salur 1"
         }
       ]
     }
