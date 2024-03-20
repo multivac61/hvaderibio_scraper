@@ -174,23 +174,23 @@
       "Smárabíó": [
         {
           "time": "2024-03-20T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109108&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-20T15:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109107&visLang=1",
           "hall": "MAX"
         },
         {
-          "time": "2024-03-20T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109098&visLang=1",
+          "time": "2024-03-20T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109108&visLang=1",
           "hall": "Salur 2"
         },
         {
           "time": "2024-03-20T17:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109113&visLang=1",
           "hall": "MAX"
+        },
+        {
+          "time": "2024-03-20T17:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109098&visLang=1",
+          "hall": "Salur 2"
         },
         {
           "time": "2024-03-20T19:40:00.000Z",
@@ -225,18 +225,18 @@
           "hall": "Salur B"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-03-20T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378270/",
-          "hall": "Salur 1"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-03-20T17:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817346/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-03-20T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378270/",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -486,6 +486,42 @@
     }
   },
   {
+    "title": "All of Us Strangers",
+    "id": 16456,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21192142",
+      "http://imdb.com/title/tt21192142"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
+    "genres": [
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-03-20T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378143/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-20T21:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378144/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Zone of Interest",
     "id": 16722,
     "alt_title": "Leikstjórn",
@@ -518,6 +554,44 @@
           "time": "2024-03-20T18:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5420",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Beekeeper",
+    "id": 16576,
+    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15314262",
+      "http://imdb.com/title/tt15314262"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-20T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817351/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-03-20T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378233/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -587,113 +661,6 @@
           "time": "2024-03-20T14:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5260",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "All of Us Strangers",
-    "id": 16456,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21192142",
-      "http://imdb.com/title/tt21192142"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
-    "genres": [
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-20T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378143/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-20T21:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378144/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Beekeeper",
-    "id": 16576,
-    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15314262",
-      "http://imdb.com/title/tt15314262"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-20T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817351/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-20T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378233/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Greatest Showman",
-    "id": 11209,
-    "alt_title": "Þéttasti Bíóbær til þessa - Egg, Bros, Krókódíll, hjón og börn",
-    "release_year": 2017,
-    "poster_url": "https://kvikmyndir.is/images/poster/11209_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1485796",
-      "http://imdb.com/title/tt1485796",
-      "https://www.themoviedb.org/tv/316029"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin sækir innblástur í líf hins stórmerka frumkvöðuls, heimspekings og gleðigjafa P.T. Barnum. Hann stofnaði m.a. fjölleikahús sem naut mikilla vinsælda á vesturströnd Bandaríkjanna og víðar um miðbik 19. aldar.",
-    "genres": [
-      "Drama",
-      "Söngleikur",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-03-20T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108703&visLang=1",
-          "hall": "MAX"
         }
       ]
     }
@@ -791,34 +758,6 @@
     }
   },
   {
-    "title": "Ásgeir - Maðurinn með Hattinn",
-    "id": 16812,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/640w-1710591646.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Ásgeir Elíasson var einn sigursælasti knattspyrnuþjálfari landsins en hann lést fyrir aldur fram 2007. Hann gerði Fram að stórveldi og vann glæsta sigra með íslenska landsliðinu. Samferðamann hans fara í gegnum sögu hans, innan sem utan vallar, þjálfun, vináttu, keppnisskap, fjölskyldustemningu og þá sýn að það yrði að vera gaman í fótbolta.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 46,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-20T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378608/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -846,6 +785,34 @@
           "time": "2024-03-20T18:10:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5429",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ásgeir - Maðurinn með Hattinn",
+    "id": 16812,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/640w-1710591646.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Ásgeir Elíasson var einn sigursælasti knattspyrnuþjálfari landsins en hann lést fyrir aldur fram 2007. Hann gerði Fram að stórveldi og vann glæsta sigra með íslenska landsliðinu. Samferðamann hans fara í gegnum sögu hans, innan sem utan vallar, þjálfun, vináttu, keppnisskap, fjölskyldustemningu og þá sýn að það yrði að vera gaman í fótbolta.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 46,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-03-20T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378608/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -883,6 +850,36 @@
     }
   },
   {
+    "title": "Our Folks: The Beginning",
+    "id": 16783,
+    "alt_title": "Sami swoi. Poczatek",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/dp1asrqqk3i8xr7kb13ymk1p7vc-1709982723.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27578313",
+      "http://imdb.com/title/tt27578313"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Pawlak og Kargul söguhetjurnar í hinum þekkta þríleik Our Folks höfðu verið nágrannar í þorpi í Podolia í Póllandi áður en þeir enduðu á hinum endurheimtu svæðum í landinu. En jafnvel á þeim tíma var ástandið eldfimt.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 118,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ZodUvQEI23k",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-20T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5428",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Poor Things",
     "id": 16355,
     "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
@@ -909,36 +906,6 @@
           "time": "2024-03-20T19:15:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378032/",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Our Folks: The Beginning",
-    "id": 16783,
-    "alt_title": "Sami swoi. Poczatek",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/dp1asrqqk3i8xr7kb13ymk1p7vc-1709982723.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27578313",
-      "http://imdb.com/title/tt27578313"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Pawlak og Kargul söguhetjurnar í hinum þekkta þríleik Our Folks höfðu verið nágrannar í þorpi í Podolia í Póllandi áður en þeir enduðu á hinum endurheimtu svæðum í landinu. En jafnvel á þeim tíma var ástandið eldfimt.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 118,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZodUvQEI23k",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-20T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5428",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -971,6 +938,38 @@
           "time": "2024-03-20T14:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5261",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 102,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-20T16:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5434",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1011,38 +1010,6 @@
     }
   },
   {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Teiknað"
-    ],
-    "duration_in_mins": 102,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-20T16:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5434",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Teachers’ Lounge",
     "id": 16755,
     "alt_title": "Das Lehrerzimmer",
@@ -1068,6 +1035,39 @@
           "time": "2024-03-20T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5445",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Greatest Showman",
+    "id": 11209,
+    "alt_title": "Þéttasti Bíóbær til þessa - Egg, Bros, Krókódíll, hjón og börn",
+    "release_year": 2017,
+    "poster_url": "https://kvikmyndir.is/images/poster/11209_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1485796",
+      "http://imdb.com/title/tt1485796",
+      "https://www.themoviedb.org/tv/316029"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin sækir innblástur í líf hins stórmerka frumkvöðuls, heimspekings og gleðigjafa P.T. Barnum. Hann stofnaði m.a. fjölleikahús sem naut mikilla vinsælda á vesturströnd Bandaríkjanna og víðar um miðbik 19. aldar.",
+    "genres": [
+      "Drama",
+      "Söngleikur",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-03-20T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108703&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
