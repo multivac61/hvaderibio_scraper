@@ -77,28 +77,6 @@
           "hall": "Ásberg"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-20T15:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109106&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-20T16:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109110&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-03-20T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109114&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-20T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109117&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-03-20T17:00:00.000Z",
@@ -155,6 +133,18 @@
           "hall": "AXL"
         }
       ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-20T19:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109114&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-03-20T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109117&visLang=1",
+          "hall": "Salur 2"
+        }
+      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-03-20T20:00:00.000Z",
@@ -199,38 +189,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-20T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109107&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-03-20T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109108&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-20T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109113&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-03-20T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109098&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-20T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109116&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-03-20T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109101&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-03-20T17:00:00.000Z",
@@ -273,6 +231,28 @@
           "purchase_url": "http://www.sambio.is/websales/show/378226/",
           "hall": "Salur 1"
         }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-20T17:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109113&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-03-20T17:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109098&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-20T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109116&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-03-20T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109101&visLang=1",
+          "hall": "Salur 4"
+        }
       ]
     }
   },
@@ -297,18 +277,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=wjDJNEPghNY",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-03-20T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109100&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-03-20T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109097&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-03-20T17:40:00.000Z",
@@ -319,6 +287,13 @@
           "time": "2024-03-20T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378232/",
           "hall": "Salur 4"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-20T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109097&visLang=1",
+          "hall": "Salur 5"
         }
       ],
       "Sambíóin Akureyri": [
@@ -378,53 +353,6 @@
     }
   },
   {
-    "title": "One Life",
-    "id": 16697,
-    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13097932",
-      "http://imdb.com/title/tt13097932"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-20T14:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378137/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-03-20T16:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378138/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-03-20T19:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378139/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-03-20T21:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378140/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Nightwatch: Demons Are Forever",
     "id": 16719,
     "alt_title": "Nattevagten - Dæmoner går i arv",
@@ -474,6 +402,53 @@
     }
   },
   {
+    "title": "One Life",
+    "id": 16697,
+    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13097932",
+      "http://imdb.com/title/tt13097932"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-03-20T14:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378137/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-03-20T16:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378138/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-03-20T19:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378139/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-03-20T21:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378140/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Bob Marley: One Love",
     "id": 16360,
     "alt_title": "Pandan sigraði Dune",
@@ -508,6 +483,41 @@
         {
           "time": "2024-03-20T19:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378021/",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fullt hús",
+    "id": 16655,
+    "alt_title": "Grand Finale",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27581865",
+      "http://imdb.com/title/tt27581865"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-20T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817349/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-03-20T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817350/",
           "hall": "Salur A"
         }
       ]
@@ -552,36 +562,37 @@
     }
   },
   {
-    "title": "Fullt hús",
-    "id": 16655,
-    "alt_title": "Grand Finale",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
+    "title": "All of Us Strangers",
+    "id": 16456,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt27581865",
-      "http://imdb.com/title/tt27581865"
+      "http://imdb.com/title/tt21192142",
+      "http://imdb.com/title/tt21192142"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
     "genres": [
-      "Gaman"
+      "Drama",
+      "Ævintýri"
     ],
-    "duration_in_mins": 100,
+    "duration_in_mins": 105,
     "language": [
-      "Íslenska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
+    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-03-20T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817349/",
-          "hall": "Salur A"
+          "time": "2024-03-20T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378143/",
+          "hall": "Salur 2"
         },
         {
-          "time": "2024-03-20T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817350/",
-          "hall": "Salur A"
+          "time": "2024-03-20T21:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378144/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -621,42 +632,6 @@
     }
   },
   {
-    "title": "All of Us Strangers",
-    "id": 16456,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21192142",
-      "http://imdb.com/title/tt21192142"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
-    "genres": [
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-20T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378143/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-20T21:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378144/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Zone of Interest",
     "id": 16722,
     "alt_title": "Leikstjórn",
@@ -689,37 +664,6 @@
           "time": "2024-03-20T18:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5420",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Holdovers",
-    "id": 16580,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14849194",
-      "http://imdb.com/title/tt14849194"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 133,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-20T16:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378031/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -849,37 +793,6 @@
     }
   },
   {
-    "title": "Manodrome",
-    "id": 16725,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16725_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14813150",
-      "http://imdb.com/title/tt14813150"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ralphie er Uber leigubílstjóri, duglegur í ræktinni og með barn á leiðinni. Hann fær inngöngu í frjálslyndan karlmennskuklúbb og missir öll tök á raunveruleikanum þegar bældar þrár leysast úr læðingi.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GjHIUBplrUw",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-20T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5446",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Poor Things",
     "id": 16355,
     "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
@@ -905,6 +818,37 @@
         {
           "time": "2024-03-20T19:15:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378032/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Manodrome",
+    "id": 16725,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16725_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14813150",
+      "http://imdb.com/title/tt14813150"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ralphie er Uber leigubílstjóri, duglegur í ræktinni og með barn á leiðinni. Hann fær inngöngu í frjálslyndan karlmennskuklúbb og missir öll tök á raunveruleikanum þegar bældar þrár leysast úr læðingi.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 95,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GjHIUBplrUw",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-20T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5446",
           "hall": "Salur 3"
         }
       ]
@@ -941,34 +885,36 @@
     }
   },
   {
-    "title": "The Greatest Showman",
-    "id": 11209,
-    "alt_title": "Þéttasti Bíóbær til þessa - Egg, Bros, Krókódíll, hjón og börn",
-    "release_year": 2017,
-    "poster_url": "https://kvikmyndir.is/images/poster/11209_500.jpg",
+    "title": "Gladiator",
+    "id": 1840,
+    "alt_title": "Nístingskaldir vindar á vígvellinum",
+    "release_year": 2000,
+    "poster_url": "https://kvikmyndir.is/images/poster/249649_500-1700757274.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt1485796",
-      "http://imdb.com/title/tt1485796",
-      "https://www.themoviedb.org/tv/316029"
+      "http://imdb.com/title/tt0172495",
+      "http://imdb.com/title/tt0172495",
+      "https://www.themoviedb.org/tv/98"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin sækir innblástur í líf hins stórmerka frumkvöðuls, heimspekings og gleðigjafa P.T. Barnum. Hann stofnaði m.a. fjölleikahús sem naut mikilla vinsælda á vesturströnd Bandaríkjanna og víðar um miðbik 19. aldar.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Maximus er valdamikill rómverskur hershöfðingi, sem er elskaður af fólkinu og hinum roskna keisara, Markúsi Árelíusi.  Fyrir dauða sinn útnefnir keisarinn Maximus sem arftaka sinn og tekur hann þar með fram yfir son sinn Commodus, en eftir valdatafl er Maximus hnepptur í varðhald og fjölskylda hans er dauðadæmd.  Maximus getur ekki bjargað fjölskyldu sinni, sem er myrt á hrottalegan hátt, og Maximus er látinn verða skylmingaþræll þar sem hann þarf að berjast fyrir lífi sínu.  Hið eina sem heldur í honum lífinu er löngun hans til að hefna fjölskyldannar.",
     "genres": [
+      "Spenna",
       "Drama",
-      "Söngleikur",
-      "Æviágrip"
+      "Ævintýri",
+      "Stríð",
+      "Bardaga"
     ],
-    "duration_in_mins": 105,
+    "duration_in_mins": 155,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
+    "trailer_url": "https://www.youtube.com/watch?v=owK1qxDselE",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-03-20T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108703&visLang=1",
-          "hall": "MAX"
+          "time": "2024-03-20T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377764/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -1006,36 +952,65 @@
     }
   },
   {
-    "title": "Gladiator",
-    "id": 1840,
-    "alt_title": "Nístingskaldir vindar á vígvellinum",
-    "release_year": 2000,
-    "poster_url": "https://kvikmyndir.is/images/poster/249649_500-1700757274.jpg",
+    "title": "The Holdovers",
+    "id": 16580,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16580_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt0172495",
-      "http://imdb.com/title/tt0172495",
-      "https://www.themoviedb.org/tv/98"
+      "http://imdb.com/title/tt14849194",
+      "http://imdb.com/title/tt14849194"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Maximus er valdamikill rómverskur hershöfðingi, sem er elskaður af fólkinu og hinum roskna keisara, Markúsi Árelíusi.  Fyrir dauða sinn útnefnir keisarinn Maximus sem arftaka sinn og tekur hann þar með fram yfir son sinn Commodus, en eftir valdatafl er Maximus hnepptur í varðhald og fjölskylda hans er dauðadæmd.  Maximus getur ekki bjargað fjölskyldu sinni, sem er myrt á hrottalegan hátt, og Maximus er látinn verða skylmingaþræll þar sem hann þarf að berjast fyrir lífi sínu.  Hið eina sem heldur í honum lífinu er löngun hans til að hefna fjölskyldannar.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Úrillur kennari í skóla í New England neyðist til að vera í vinnunni í Jólafríinu til að passa nokkra nemendur sem eiga í engin hús að venda. Að lokum tengist hann einum þeirra - skemmdum en klárum vandræðagemsa - og yfirkokki skólans sem er nýbúinn að missa son sinn í Víetnamstríðinu.",
     "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri",
-      "Stríð",
-      "Bardaga"
+      "Gaman",
+      "Drama"
     ],
-    "duration_in_mins": 155,
+    "duration_in_mins": 133,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=owK1qxDselE",
+    "trailer_url": "https://www.youtube.com/watch?v=AhKLpJmHhIg",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-20T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377764/",
-          "hall": "Salur 1"
+          "time": "2024-03-20T16:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378031/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Greatest Showman",
+    "id": 11209,
+    "alt_title": "Þéttasti Bíóbær til þessa - Egg, Bros, Krókódíll, hjón og börn",
+    "release_year": 2017,
+    "poster_url": "https://kvikmyndir.is/images/poster/11209_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1485796",
+      "http://imdb.com/title/tt1485796",
+      "https://www.themoviedb.org/tv/316029"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin sækir innblástur í líf hins stórmerka frumkvöðuls, heimspekings og gleðigjafa P.T. Barnum. Hann stofnaði m.a. fjölleikahús sem naut mikilla vinsælda á vesturströnd Bandaríkjanna og víðar um miðbik 19. aldar.",
+    "genres": [
+      "Drama",
+      "Söngleikur",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-03-20T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108703&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
