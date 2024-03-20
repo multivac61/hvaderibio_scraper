@@ -225,18 +225,18 @@
           "hall": "Salur B"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-20T17:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817346/",
-          "hall": "Salur B"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-03-20T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378270/",
           "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-20T17:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817346/",
+          "hall": "Salur B"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -298,55 +298,6 @@
           "time": "2024-03-20T18:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378272/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nightwatch: Demons Are Forever",
-    "id": 16719,
-    "alt_title": "Nattevagten - Dæmoner går i arv",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6318608",
-      "http://imdb.com/title/tt6318608"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-20T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378029/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-20T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378030/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-20T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109115&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-03-20T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109102&visLang=1",
-          "hall": "MAX"
         }
       ]
     }
@@ -446,6 +397,55 @@
     }
   },
   {
+    "title": "Nightwatch: Demons Are Forever",
+    "id": 16719,
+    "alt_title": "Nattevagten - Dæmoner går i arv",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6318608",
+      "http://imdb.com/title/tt6318608"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-20T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378029/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-20T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378030/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-20T20:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109115&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-03-20T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109102&visLang=1",
+          "hall": "MAX"
+        }
+      ]
+    }
+  },
+  {
     "title": "Bob Marley: One Love",
     "id": 16360,
     "alt_title": "Pandan sigraði Dune",
@@ -486,6 +486,40 @@
     }
   },
   {
+    "title": "Afsakið meðanað ég æli",
+    "id": 16776,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-03-02_100814-1709374114.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": ",,Afsakið meðanað ég æli” fjallar um æfingaferli fyrir tónleika til heiðurs Megasi í Eldborgarsal Hörpu.\nTónlist Megasar spilar lykilhlutverk í myndinni þar sem við fylgjum honum og völdum listamönnum í æfingaferli fyrir tónleika sem voru í mars 2019. \nMyndin hefur tvær tímalínur, annars vegar tuttugu daga æfingatímabil og hins vegar sú tímalína sem tuttugu dagarnir opna inn í fortíðina, lengri tímalínan er fjörutíu ár og þar er skyggnst á bakvið tjöldin þegar talað er bæði við Megas og þá listamenn sem hann vann með á hverjum tíma. Viðmælendur í myndinni hlífa Megasi ekki og við fáum að sjá uppreisnar manninn og pönkarann sem var og fólkið sem hann vann með á hverjum tíma en við fáum einnig að sjá sjaldséða einlægni.",
+    "genres": [
+      "Tónlist",
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UomYKtD3mno",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-20T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5260",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-20T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5260",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "All of Us Strangers",
     "id": 16456,
     "alt_title": "Pandan sigraði Dune",
@@ -517,43 +551,6 @@
           "time": "2024-03-20T21:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378144/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-20T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5259",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-03-20T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5420",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -632,35 +629,38 @@
     }
   },
   {
-    "title": "Afsakið meðanað ég æli",
-    "id": 16776,
+    "title": "The Zone of Interest",
+    "id": 16722,
     "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-03-02_100814-1709374114.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": ",,Afsakið meðanað ég æli” fjallar um æfingaferli fyrir tónleika til heiðurs Megasi í Eldborgarsal Hörpu.\nTónlist Megasar spilar lykilhlutverk í myndinni þar sem við fylgjum honum og völdum listamönnum í æfingaferli fyrir tónleika sem voru í mars 2019. \nMyndin hefur tvær tímalínur, annars vegar tuttugu daga æfingatímabil og hins vegar sú tímalína sem tuttugu dagarnir opna inn í fortíðina, lengri tímalínan er fjörutíu ár og þar er skyggnst á bakvið tjöldin þegar talað er bæði við Megas og þá listamenn sem hann vann með á hverjum tíma. Viðmælendur í myndinni hlífa Megasi ekki og við fáum að sjá uppreisnar manninn og pönkarann sem var og fólkið sem hann vann með á hverjum tíma en við fáum einnig að sjá sjaldséða einlægni.",
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
     "genres": [
-      "Tónlist",
-      "Heimildarmynd",
-      "Íslensk mynd"
+      "Drama",
+      "Stríð",
+      "Söguleg"
     ],
-    "duration_in_mins": 90,
+    "duration_in_mins": 105,
     "language": [
-      "Íslenska"
+      "Þýska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=UomYKtD3mno",
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
           "time": "2024-03-20T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5260",
-          "hall": "Salur 2"
+          "purchase_url": "https://tickets.bioparadis.is/#book/5259",
+          "hall": "Salur 1"
         },
         {
-          "time": "2024-03-20T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5260",
-          "hall": "Salur 2"
+          "time": "2024-03-20T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5420",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -758,6 +758,34 @@
     }
   },
   {
+    "title": "Ásgeir - Maðurinn með Hattinn",
+    "id": 16812,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/640w-1710591646.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Ásgeir Elíasson var einn sigursælasti knattspyrnuþjálfari landsins en hann lést fyrir aldur fram 2007. Hann gerði Fram að stórveldi og vann glæsta sigra með íslenska landsliðinu. Samferðamann hans fara í gegnum sögu hans, innan sem utan vallar, þjálfun, vináttu, keppnisskap, fjölskyldustemningu og þá sýn að það yrði að vera gaman í fótbolta.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 46,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-03-20T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378608/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -785,34 +813,6 @@
           "time": "2024-03-20T18:10:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5429",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Ásgeir - Maðurinn með Hattinn",
-    "id": 16812,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/640w-1710591646.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Ásgeir Elíasson var einn sigursælasti knattspyrnuþjálfari landsins en hann lést fyrir aldur fram 2007. Hann gerði Fram að stórveldi og vann glæsta sigra með íslenska landsliðinu. Samferðamann hans fara í gegnum sögu hans, innan sem utan vallar, þjálfun, vináttu, keppnisskap, fjölskyldustemningu og þá sýn að það yrði að vera gaman í fótbolta.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 46,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-20T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378608/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -850,6 +850,37 @@
     }
   },
   {
+    "title": "Poor Things",
+    "id": 16355,
+    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14230458",
+      "http://imdb.com/title/tt14230458"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
+    "genres": [
+      "Rómantík",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 141,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-20T19:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378032/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Our Folks: The Beginning",
     "id": 16783,
     "alt_title": "Sami swoi. Poczatek",
@@ -880,32 +911,69 @@
     }
   },
   {
-    "title": "Poor Things",
-    "id": 16355,
-    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
+    "title": "Gladiator",
+    "id": 1840,
+    "alt_title": "Nístingskaldir vindar á vígvellinum",
+    "release_year": 2000,
+    "poster_url": "https://kvikmyndir.is/images/poster/249649_500-1700757274.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14230458",
-      "http://imdb.com/title/tt14230458"
+      "http://imdb.com/title/tt0172495",
+      "http://imdb.com/title/tt0172495",
+      "https://www.themoviedb.org/tv/98"
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
+    "description": "Maximus er valdamikill rómverskur hershöfðingi, sem er elskaður af fólkinu og hinum roskna keisara, Markúsi Árelíusi.  Fyrir dauða sinn útnefnir keisarinn Maximus sem arftaka sinn og tekur hann þar með fram yfir son sinn Commodus, en eftir valdatafl er Maximus hnepptur í varðhald og fjölskylda hans er dauðadæmd.  Maximus getur ekki bjargað fjölskyldu sinni, sem er myrt á hrottalegan hátt, og Maximus er látinn verða skylmingaþræll þar sem hann þarf að berjast fyrir lífi sínu.  Hið eina sem heldur í honum lífinu er löngun hans til að hefna fjölskyldannar.",
     "genres": [
-      "Rómantík",
-      "Vísindaskáldskapur"
+      "Spenna",
+      "Drama",
+      "Ævintýri",
+      "Stríð",
+      "Bardaga"
     ],
-    "duration_in_mins": 141,
+    "duration_in_mins": 155,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
+    "trailer_url": "https://www.youtube.com/watch?v=owK1qxDselE",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-03-20T19:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378032/",
-          "hall": "Salur 3"
+          "time": "2024-03-20T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377764/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Greatest Showman",
+    "id": 11209,
+    "alt_title": "Þéttasti Bíóbær til þessa - Egg, Bros, Krókódíll, hjón og börn",
+    "release_year": 2017,
+    "poster_url": "https://kvikmyndir.is/images/poster/11209_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1485796",
+      "http://imdb.com/title/tt1485796",
+      "https://www.themoviedb.org/tv/316029"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin sækir innblástur í líf hins stórmerka frumkvöðuls, heimspekings og gleðigjafa P.T. Barnum. Hann stofnaði m.a. fjölleikahús sem naut mikilla vinsælda á vesturströnd Bandaríkjanna og víðar um miðbik 19. aldar.",
+    "genres": [
+      "Drama",
+      "Söngleikur",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-03-20T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108703&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -975,41 +1043,6 @@
     }
   },
   {
-    "title": "Gladiator",
-    "id": 1840,
-    "alt_title": "Nístingskaldir vindar á vígvellinum",
-    "release_year": 2000,
-    "poster_url": "https://kvikmyndir.is/images/poster/249649_500-1700757274.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0172495",
-      "http://imdb.com/title/tt0172495",
-      "https://www.themoviedb.org/tv/98"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Maximus er valdamikill rómverskur hershöfðingi, sem er elskaður af fólkinu og hinum roskna keisara, Markúsi Árelíusi.  Fyrir dauða sinn útnefnir keisarinn Maximus sem arftaka sinn og tekur hann þar með fram yfir son sinn Commodus, en eftir valdatafl er Maximus hnepptur í varðhald og fjölskylda hans er dauðadæmd.  Maximus getur ekki bjargað fjölskyldu sinni, sem er myrt á hrottalegan hátt, og Maximus er látinn verða skylmingaþræll þar sem hann þarf að berjast fyrir lífi sínu.  Hið eina sem heldur í honum lífinu er löngun hans til að hefna fjölskyldannar.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri",
-      "Stríð",
-      "Bardaga"
-    ],
-    "duration_in_mins": 155,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=owK1qxDselE",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-20T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377764/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Teachers’ Lounge",
     "id": 16755,
     "alt_title": "Das Lehrerzimmer",
@@ -1035,39 +1068,6 @@
           "time": "2024-03-20T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5445",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Greatest Showman",
-    "id": 11209,
-    "alt_title": "Þéttasti Bíóbær til þessa - Egg, Bros, Krókódíll, hjón og börn",
-    "release_year": 2017,
-    "poster_url": "https://kvikmyndir.is/images/poster/11209_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1485796",
-      "http://imdb.com/title/tt1485796",
-      "https://www.themoviedb.org/tv/316029"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin sækir innblástur í líf hins stórmerka frumkvöðuls, heimspekings og gleðigjafa P.T. Barnum. Hann stofnaði m.a. fjölleikahús sem naut mikilla vinsælda á vesturströnd Bandaríkjanna og víðar um miðbik 19. aldar.",
-    "genres": [
-      "Drama",
-      "Söngleikur",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-03-20T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108703&visLang=1",
-          "hall": "MAX"
         }
       ]
     }
