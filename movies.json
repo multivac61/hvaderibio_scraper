@@ -174,23 +174,23 @@
       "Smárabíó": [
         {
           "time": "2024-03-20T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109107&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-03-20T15:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109108&visLang=1",
           "hall": "Salur 2"
         },
         {
-          "time": "2024-03-20T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109113&visLang=1",
+          "time": "2024-03-20T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109107&visLang=1",
           "hall": "MAX"
         },
         {
           "time": "2024-03-20T17:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109098&visLang=1",
           "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-20T17:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109113&visLang=1",
+          "hall": "MAX"
         },
         {
           "time": "2024-03-20T19:40:00.000Z",
@@ -303,53 +303,6 @@
     }
   },
   {
-    "title": "Imaginary",
-    "id": 16609,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16609_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26658104",
-      "http://imdb.com/title/tt26658104"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar Jessica flytur aftur á æskuheimilið með fjölskyldunni þá tengist stjúpdóttir hennar Alice bangsanum Chauncey á óhuganlegan hátt, eftir að hún finnur hann ofaní kjallara. Alice byrjar að leika við Chauncey, fyrst mjög saklaust en svo verða leikirnir skuggalegri og skuggalegri. Eftir því sem ástandið versnar ákveður Jessica að skerast í leikinn og kemst þá að því að Chauncey er miklu meira en bara venjulegur tuskubangsi.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 0,
-    "language": [],
-    "trailer_url": "https://www.youtube.com/watch?v=-3EpotMWQu8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-20T19:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817347/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-03-20T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817348/",
-          "hall": "Salur A"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-03-20T20:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378273/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-20T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378025/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Nightwatch: Demons Are Forever",
     "id": 16719,
     "alt_title": "Nattevagten - Dæmoner går i arv",
@@ -440,6 +393,53 @@
         {
           "time": "2024-03-20T21:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378140/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Imaginary",
+    "id": 16609,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16609_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26658104",
+      "http://imdb.com/title/tt26658104"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar Jessica flytur aftur á æskuheimilið með fjölskyldunni þá tengist stjúpdóttir hennar Alice bangsanum Chauncey á óhuganlegan hátt, eftir að hún finnur hann ofaní kjallara. Alice byrjar að leika við Chauncey, fyrst mjög saklaust en svo verða leikirnir skuggalegri og skuggalegri. Eftir því sem ástandið versnar ákveður Jessica að skerast í leikinn og kemst þá að því að Chauncey er miklu meira en bara venjulegur tuskubangsi.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 0,
+    "language": [],
+    "trailer_url": "https://www.youtube.com/watch?v=-3EpotMWQu8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-20T19:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817347/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-03-20T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817348/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-03-20T20:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378273/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-20T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378025/",
           "hall": "Salur 3"
         }
       ]
@@ -560,41 +560,6 @@
     }
   },
   {
-    "title": "Fullt hús",
-    "id": 16655,
-    "alt_title": "Grand Finale",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27581865",
-      "http://imdb.com/title/tt27581865"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-20T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817349/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-03-20T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817350/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Zone of Interest",
     "id": 16722,
     "alt_title": "Leikstjórn",
@@ -632,6 +597,41 @@
     }
   },
   {
+    "title": "Fullt hús",
+    "id": 16655,
+    "alt_title": "Grand Finale",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27581865",
+      "http://imdb.com/title/tt27581865"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-20T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817349/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-03-20T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817350/",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
     "title": "Afsakið meðanað ég æli",
     "id": 16776,
     "alt_title": "Leikstjórn",
@@ -661,95 +661,6 @@
           "time": "2024-03-20T14:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5260",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Manodrome",
-    "id": 16725,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16725_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14813150",
-      "http://imdb.com/title/tt14813150"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ralphie er Uber leigubílstjóri, duglegur í ræktinni og með barn á leiðinni. Hann fær inngöngu í frjálslyndan karlmennskuklúbb og missir öll tök á raunveruleikanum þegar bældar þrár leysast úr læðingi.",
-    "genres": [
-      "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 95,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GjHIUBplrUw",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-20T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5446",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-20T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5423",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Ásgeir - Maðurinn með Hattinn",
-    "id": 16812,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/640w-1710591646.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Ásgeir Elíasson var einn sigursælasti knattspyrnuþjálfari landsins en hann lést fyrir aldur fram 2007. Hann gerði Fram að stórveldi og vann glæsta sigra með íslenska landsliðinu. Samferðamann hans fara í gegnum sögu hans, innan sem utan vallar, þjálfun, vináttu, keppnisskap, fjölskyldustemningu og þá sýn að það yrði að vera gaman í fótbolta.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 46,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-20T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378608/",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -880,6 +791,38 @@
     }
   },
   {
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Ekkert tal"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-20T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5261",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Gladiator",
     "id": 1840,
     "alt_title": "Nístingskaldir vindar á vígvellinum",
@@ -910,71 +853,6 @@
           "time": "2024-03-20T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377764/",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Greatest Showman",
-    "id": 11209,
-    "alt_title": "Þéttasti Bíóbær til þessa - Egg, Bros, Krókódíll, hjón og börn",
-    "release_year": 2017,
-    "poster_url": "https://kvikmyndir.is/images/poster/11209_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1485796",
-      "http://imdb.com/title/tt1485796",
-      "https://www.themoviedb.org/tv/316029"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin sækir innblástur í líf hins stórmerka frumkvöðuls, heimspekings og gleðigjafa P.T. Barnum. Hann stofnaði m.a. fjölleikahús sem naut mikilla vinsælda á vesturströnd Bandaríkjanna og víðar um miðbik 19. aldar.",
-    "genres": [
-      "Drama",
-      "Söngleikur",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-03-20T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108703&visLang=1",
-          "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 113,
-    "language": [
-      "Ekkert tal"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-20T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5261",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -1042,6 +920,39 @@
     }
   },
   {
+    "title": "The Greatest Showman",
+    "id": 11209,
+    "alt_title": "Þéttasti Bíóbær til þessa - Egg, Bros, Krókódíll, hjón og börn",
+    "release_year": 2017,
+    "poster_url": "https://kvikmyndir.is/images/poster/11209_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1485796",
+      "http://imdb.com/title/tt1485796",
+      "https://www.themoviedb.org/tv/316029"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin sækir innblástur í líf hins stórmerka frumkvöðuls, heimspekings og gleðigjafa P.T. Barnum. Hann stofnaði m.a. fjölleikahús sem naut mikilla vinsælda á vesturströnd Bandaríkjanna og víðar um miðbik 19. aldar.",
+    "genres": [
+      "Drama",
+      "Söngleikur",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-03-20T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108703&visLang=1",
+          "hall": "MAX"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Holdovers",
     "id": 16580,
     "alt_title": "Leikstjórn",
@@ -1068,6 +979,95 @@
           "time": "2024-03-20T16:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378031/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Manodrome",
+    "id": 16725,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16725_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14813150",
+      "http://imdb.com/title/tt14813150"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ralphie er Uber leigubílstjóri, duglegur í ræktinni og með barn á leiðinni. Hann fær inngöngu í frjálslyndan karlmennskuklúbb og missir öll tök á raunveruleikanum þegar bældar þrár leysast úr læðingi.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 95,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GjHIUBplrUw",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-20T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5446",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-20T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5423",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ásgeir - Maðurinn með Hattinn",
+    "id": 16812,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/640w-1710591646.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Ásgeir Elíasson var einn sigursælasti knattspyrnuþjálfari landsins en hann lést fyrir aldur fram 2007. Hann gerði Fram að stórveldi og vann glæsta sigra með íslenska landsliðinu. Samferðamann hans fara í gegnum sögu hans, innan sem utan vallar, þjálfun, vináttu, keppnisskap, fjölskyldustemningu og þá sýn að það yrði að vera gaman í fótbolta.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 46,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-03-20T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378608/",
+          "hall": "Salur 1"
         }
       ]
     }
