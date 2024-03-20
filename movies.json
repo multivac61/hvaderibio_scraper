@@ -225,18 +225,18 @@
           "hall": "Salur B"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-03-20T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378270/",
-          "hall": "Salur 1"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-03-20T17:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817346/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-03-20T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378270/",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -666,34 +666,6 @@
     }
   },
   {
-    "title": "Ásgeir - Maðurinn með Hattinn",
-    "id": 16812,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/640w-1710591646.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Ásgeir Elíasson var einn sigursælasti knattspyrnuþjálfari landsins en hann lést fyrir aldur fram 2007. Hann gerði Fram að stórveldi og vann glæsta sigra með íslenska landsliðinu. Samferðamann hans fara í gegnum sögu hans, innan sem utan vallar, þjálfun, vináttu, keppnisskap, fjölskyldustemningu og þá sýn að það yrði að vera gaman í fótbolta.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 46,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-20T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378608/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Perfect Days",
     "id": 16762,
     "alt_title": "Leikstjórn",
@@ -718,6 +690,34 @@
         {
           "time": "2024-03-20T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5423",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ásgeir - Maðurinn með Hattinn",
+    "id": 16812,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/640w-1710591646.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Ásgeir Elíasson var einn sigursælasti knattspyrnuþjálfari landsins en hann lést fyrir aldur fram 2007. Hann gerði Fram að stórveldi og vann glæsta sigra með íslenska landsliðinu. Samferðamann hans fara í gegnum sögu hans, innan sem utan vallar, þjálfun, vináttu, keppnisskap, fjölskyldustemningu og þá sýn að það yrði að vera gaman í fótbolta.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 46,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-03-20T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378608/",
           "hall": "Salur 1"
         }
       ]
@@ -756,37 +756,6 @@
     }
   },
   {
-    "title": "Poor Things",
-    "id": 16355,
-    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14230458",
-      "http://imdb.com/title/tt14230458"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
-    "genres": [
-      "Rómantík",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 141,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-20T19:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378032/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Natatorium",
     "id": 16318,
     "alt_title": "Natatorium: Á suðupunkti í sundlaug dauðans",
@@ -814,6 +783,37 @@
           "time": "2024-03-20T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5433",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Poor Things",
+    "id": 16355,
+    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14230458",
+      "http://imdb.com/title/tt14230458"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
+    "genres": [
+      "Rómantík",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 141,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-20T19:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378032/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -849,6 +849,38 @@
     }
   },
   {
+    "title": "Priscilla",
+    "id": 16559,
+    "alt_title": "Kóngurinn hylltur í Cannes",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22041854",
+      "http://imdb.com/title/tt22041854"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 113,
+    "language": [
+      "Ekkert tal"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-20T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5261",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Gladiator",
     "id": 1840,
     "alt_title": "Nístingskaldir vindar á vígvellinum",
@@ -879,38 +911,6 @@
           "time": "2024-03-20T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/377764/",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Priscilla",
-    "id": 16559,
-    "alt_title": "Kóngurinn hylltur í Cannes",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16559_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22041854",
-      "http://imdb.com/title/tt22041854"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Unglingsstúlkan Priscilla Beaulieu hittir Elvis Presley í partýi, manninn sem var þá þegar orðin rokkstjarna en var allt öðru vísi heima fyrir. Hún verður kærasta, félagi og besti vinur. Hér er sagan sögð í gegnum augu Priscillu.",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 113,
-    "language": [
-      "Ekkert tal"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=gxbZyvCJc6U",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-20T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5261",
-          "hall": "Salur 3"
         }
       ]
     }
