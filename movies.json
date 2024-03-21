@@ -39,33 +39,6 @@
           "hall": "Ásberg"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-21T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109579&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-03-21T15:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109126&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-21T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109134&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-21T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109137&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-21T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109543&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-03-21T17:00:00.000Z",
@@ -133,6 +106,23 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817353/",
           "hall": "AXL"
         }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-21T19:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109134&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-03-21T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109137&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-21T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109543&visLang=1",
+          "hall": "Salur 4"
+        }
       ]
     }
   },
@@ -169,38 +159,6 @@
           "time": "2024-03-21T16:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378155/",
           "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-21T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109148&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-03-21T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109128&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-21T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109127&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-03-21T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109131&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-21T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109136&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-03-21T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109139&visLang=1",
-          "hall": "Salur 5"
         }
       ],
       "Sambíóin Álfabakka": [
@@ -245,52 +203,76 @@
           "purchase_url": "http://www.sambio.is/websales/show/378234/",
           "hall": "Salur 1"
         }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-21T17:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109127&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-03-21T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109131&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-21T20:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109136&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-03-21T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109139&visLang=1",
+          "hall": "Salur 5"
+        }
       ]
     }
   },
   {
-    "title": "Bob Marley: One Love",
-    "id": 16360,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
+    "title": "Nightwatch: Demons Are Forever",
+    "id": 16719,
+    "alt_title": "Nattevagten - Dæmoner går i arv",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt8521778",
-      "http://imdb.com/title/tt8521778"
+      "http://imdb.com/title/tt6318608",
+      "http://imdb.com/title/tt6318608"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
     "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
     ],
-    "duration_in_mins": 0,
-    "language": [],
-    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
+    "duration_in_mins": 110,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-21T16:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378051/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2024-03-21T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378295/",
+          "time": "2024-03-21T19:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378046/",
           "hall": "Salur 2"
         },
         {
-          "time": "2024-03-21T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378038/",
-          "hall": "Salur A"
+          "time": "2024-03-21T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378047/",
+          "hall": "Salur 2"
         }
       ],
-      "Sambíóin Egilshöll": [
+      "Smárabíó": [
         {
-          "time": "2024-03-21T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378239/",
+          "time": "2024-03-21T19:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109135&visLang=1",
           "hall": "Salur 4"
+        },
+        {
+          "time": "2024-03-21T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109140&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -343,50 +325,88 @@
     }
   },
   {
-    "title": "Nightwatch: Demons Are Forever",
-    "id": 16719,
-    "alt_title": "Nattevagten - Dæmoner går i arv",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
+    "title": "Bob Marley: One Love",
+    "id": 16360,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt6318608",
-      "http://imdb.com/title/tt6318608"
+      "http://imdb.com/title/tt8521778",
+      "http://imdb.com/title/tt8521778"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
     "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
     ],
-    "duration_in_mins": 110,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
+    "duration_in_mins": 0,
+    "language": [],
+    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-21T19:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378046/",
+          "time": "2024-03-21T16:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378051/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-03-21T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378295/",
           "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-21T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378038/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-03-21T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378239/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Imaginary",
+    "id": 16609,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16609_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26658104",
+      "http://imdb.com/title/tt26658104"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar Jessica flytur aftur á æskuheimilið með fjölskyldunni þá tengist stjúpdóttir hennar Alice bangsanum Chauncey á óhuganlegan hátt, eftir að hún finnur hann ofaní kjallara. Alice byrjar að leika við Chauncey, fyrst mjög saklaust en svo verða leikirnir skuggalegri og skuggalegri. Eftir því sem ástandið versnar ákveður Jessica að skerast í leikinn og kemst þá að því að Chauncey er miklu meira en bara venjulegur tuskubangsi.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 0,
+    "language": [],
+    "trailer_url": "https://www.youtube.com/watch?v=-3EpotMWQu8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-21T19:45:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817355/",
+          "hall": "Salur B"
         },
         {
           "time": "2024-03-21T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378047/",
-          "hall": "Salur 2"
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817356/",
+          "hall": "Salur A"
         }
       ],
-      "Smárabíó": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-21T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109135&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-03-21T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109140&visLang=1",
-          "hall": "MAX"
+          "time": "2024-03-21T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378042/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -455,13 +475,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
     "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-21T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5447",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-03-21T19:00:00.000Z",
@@ -473,78 +486,48 @@
           "purchase_url": "http://www.sambio.is/websales/show/378296/",
           "hall": "Salur 2"
         }
-      ]
-    }
-  },
-  {
-    "title": "Imaginary",
-    "id": 16609,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16609_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26658104",
-      "http://imdb.com/title/tt26658104"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar Jessica flytur aftur á æskuheimilið með fjölskyldunni þá tengist stjúpdóttir hennar Alice bangsanum Chauncey á óhuganlegan hátt, eftir að hún finnur hann ofaní kjallara. Alice byrjar að leika við Chauncey, fyrst mjög saklaust en svo verða leikirnir skuggalegri og skuggalegri. Eftir því sem ástandið versnar ákveður Jessica að skerast í leikinn og kemst þá að því að Chauncey er miklu meira en bara venjulegur tuskubangsi.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 0,
-    "language": [],
-    "trailer_url": "https://www.youtube.com/watch?v=-3EpotMWQu8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-21T19:45:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817355/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-03-21T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817356/",
-          "hall": "Salur A"
-        }
       ],
-      "Sambíóin Álfabakka": [
+      "Bíó Paradís": [
         {
-          "time": "2024-03-21T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378042/",
-          "hall": "Salur 3"
+          "time": "2024-03-21T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5447",
+          "hall": "Salur 2"
         }
       ]
     }
   },
   {
-    "title": "Afsakið meðanað ég æli",
-    "id": 16776,
+    "title": "The Zone of Interest",
+    "id": 16722,
     "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-03-02_100814-1709374114.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": ",,Afsakið meðanað ég æli” fjallar um æfingaferli fyrir tónleika til heiðurs Megasi í Eldborgarsal Hörpu.\nTónlist Megasar spilar lykilhlutverk í myndinni þar sem við fylgjum honum og völdum listamönnum í æfingaferli fyrir tónleika sem voru í mars 2019. \nMyndin hefur tvær tímalínur, annars vegar tuttugu daga æfingatímabil og hins vegar sú tímalína sem tuttugu dagarnir opna inn í fortíðina, lengri tímalínan er fjörutíu ár og þar er skyggnst á bakvið tjöldin þegar talað er bæði við Megas og þá listamenn sem hann vann með á hverjum tíma. Viðmælendur í myndinni hlífa Megasi ekki og við fáum að sjá uppreisnar manninn og pönkarann sem var og fólkið sem hann vann með á hverjum tíma en við fáum einnig að sjá sjaldséða einlægni.",
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
     "genres": [
-      "Tónlist",
-      "Heimildarmynd",
-      "Íslensk mynd"
+      "Drama",
+      "Stríð",
+      "Söguleg"
     ],
-    "duration_in_mins": 90,
+    "duration_in_mins": 105,
     "language": [
-      "Íslenska"
+      "Þýska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=UomYKtD3mno",
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-03-21T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5448",
+          "time": "2024-03-21T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5421",
           "hall": "Salur 1"
         },
         {
-          "time": "2024-03-21T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5448",
+          "time": "2024-03-21T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5453",
           "hall": "Salur 1"
         }
       ]
@@ -624,70 +607,35 @@
     }
   },
   {
-    "title": "The Zone of Interest",
-    "id": 16722,
+    "title": "Afsakið meðanað ég æli",
+    "id": 16776,
     "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-03-02_100814-1709374114.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": ",,Afsakið meðanað ég æli” fjallar um æfingaferli fyrir tónleika til heiðurs Megasi í Eldborgarsal Hörpu.\nTónlist Megasar spilar lykilhlutverk í myndinni þar sem við fylgjum honum og völdum listamönnum í æfingaferli fyrir tónleika sem voru í mars 2019. \nMyndin hefur tvær tímalínur, annars vegar tuttugu daga æfingatímabil og hins vegar sú tímalína sem tuttugu dagarnir opna inn í fortíðina, lengri tímalínan er fjörutíu ár og þar er skyggnst á bakvið tjöldin þegar talað er bæði við Megas og þá listamenn sem hann vann með á hverjum tíma. Viðmælendur í myndinni hlífa Megasi ekki og við fáum að sjá uppreisnar manninn og pönkarann sem var og fólkið sem hann vann með á hverjum tíma en við fáum einnig að sjá sjaldséða einlægni.",
     "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
+      "Tónlist",
+      "Heimildarmynd",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 105,
+    "duration_in_mins": 90,
     "language": [
-      "Þýska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "trailer_url": "https://www.youtube.com/watch?v=UomYKtD3mno",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-03-21T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5421",
+          "time": "2024-03-21T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5448",
           "hall": "Salur 1"
         },
         {
-          "time": "2024-03-21T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5453",
+          "time": "2024-03-21T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5448",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Madame Web",
-    "id": 16591,
-    "alt_title": "Græðgi að segja sögur allra",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1732471_500-1705600341.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11057302",
-      "http://imdb.com/title/tt11057302"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sjúkraflutningamaðurinn Cassandra Webb byrjar að finna fyrir skyggnigáfu og getur séð framtíðina. Hún þarf nú að horfast í augu við atburði úr fortíðinni og vernda þrjár ungar konur fyrir dularfullum fjandmanni sem vill þær feigar.",
-    "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 117,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=s_76M4c4LTo",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-03-21T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109578&visLang=1",
-          "hall": "Salur 5"
         }
       ]
     }
@@ -754,6 +702,42 @@
     }
   },
   {
+    "title": "Polite Society",
+    "id": 16799,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16799_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt18257464",
+      "http://imdb.com/title/tt18257464"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Bardagalistakonan Ria Khan tekur völdin í sínar eigin hendur, til að bjarga eldri systur sinni Lenu frá yfirvofandi hjónabandi. Hún fær vini sína með sér í lið og nú upphefst eitt metnaðarfyllsta brúðarrán í manna minnum!",
+    "genres": [
+      "Spenna",
+      "Gaman"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=IjWsvsSAT4A",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-21T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5450",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-21T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5450",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Saving Private Ryan",
     "id": 175,
     "alt_title": "Ómissandi „'90s“ myndir: „Besti áratugurinn og það af ýmsum ástæðum“",
@@ -786,32 +770,33 @@
     }
   },
   {
-    "title": "Polite Society",
-    "id": 16799,
-    "alt_title": "Leikstjórn",
+    "title": "Natatorium",
+    "id": 16318,
+    "alt_title": "Natatorium: Á suðupunkti í sundlaug dauðans",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16799_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/nata-1687538482.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt18257464",
-      "http://imdb.com/title/tt18257464"
+      "http://imdb.com/title/tt24177962",
+      "http://imdb.com/title/tt24177962"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Bardagalistakonan Ria Khan tekur völdin í sínar eigin hendur, til að bjarga eldri systur sinni Lenu frá yfirvofandi hjónabandi. Hún fær vini sína með sér í lið og nú upphefst eitt metnaðarfyllsta brúðarrán í manna minnum!",
+    "description": "Ung stúlka dvelur hjá ömmu sinni og afa í borginni á meðan hún þreytir inntökupróf í listhóp. Þegar fjölskyldan, sem hefur ekki hist í langan tíma, kemur saman til að fagna inntöku hennar í hópinn koma ljót fjölskylduleyndarmál upp á yfirborðið og kvöldið endar með hræðilegum harmleik.",
     "genres": [
-      "Spenna",
-      "Gaman"
+      "Drama",
+      "Spennutryllir",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 104,
+    "duration_in_mins": 105,
     "language": [
-      "Enska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=IjWsvsSAT4A",
+    "trailer_url": "https://www.youtube.com/watch?v=B9vcFwM0u_M",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-03-21T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5450",
-          "hall": "Salur 2"
+          "time": "2024-03-21T18:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5455",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -851,38 +836,6 @@
     }
   },
   {
-    "title": "Natatorium",
-    "id": 16318,
-    "alt_title": "Natatorium: Á suðupunkti í sundlaug dauðans",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/nata-1687538482.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt24177962",
-      "http://imdb.com/title/tt24177962"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ung stúlka dvelur hjá ömmu sinni og afa í borginni á meðan hún þreytir inntökupróf í listhóp. Þegar fjölskyldan, sem hefur ekki hist í langan tíma, kemur saman til að fagna inntöku hennar í hópinn koma ljót fjölskylduleyndarmál upp á yfirborðið og kvöldið endar með hræðilegum harmleik.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=B9vcFwM0u_M",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-21T18:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5455",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Vélmennadraumar (Robot Dreams)",
     "id": 16515,
     "alt_title": "Leikstjórn",
@@ -910,6 +863,36 @@
           "time": "2024-03-21T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5451",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fight Club",
+    "id": 1270,
+    "alt_title": "„Ég fagna öllum verkum okkar sem eldast illa“",
+    "release_year": 1999,
+    "poster_url": "https://kvikmyndir.is/images/poster/1477491_500-1705657605.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0137523",
+      "http://imdb.com/title/tt0137523"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Jack (Edward Norton) þjáist af svefnleysi og ofan á það lifir hann fyrir fína og flotta hluti sem hann á í dásamlegri íbúð sinni. Það verður þó ekki fyrr en að hann missir hér um bil allt saman að líf hans snýst algjörlega við. Hann kynnist sérvitrum einstaklingi að nafni Tyler Durden (Brad Pitt), og fyrr en varir hefur Durden kynnt hann fyrir bardagastað í neðanjarðarsenunni. Fltjólega dragast þeir inn í mikla hringiðu þar sem hlutirnir verða stjórnlausir, og þeir keppa um ástir og völd. En fljótt tekur \"klúbburinn\" stefnu sem enginn gat spáð fyrir um. Þegar sögumaðurinn fær að vita af leyndri áætlun bardagaklúbbs Tyler, þá þarf hann að viðurkenna fyrir sjálfum sér þann napra sannleika að Tyler er kannski ekki sá sem hann segist vera.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 139,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-03-21T19:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106359&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -945,31 +928,33 @@
     }
   },
   {
-    "title": "Fight Club",
-    "id": 1270,
-    "alt_title": "„Ég fagna öllum verkum okkar sem eldast illa“",
-    "release_year": 1999,
-    "poster_url": "https://kvikmyndir.is/images/poster/1477491_500-1705657605.jpg",
+    "title": "Madame Web",
+    "id": 16591,
+    "alt_title": "Græðgi að segja sögur allra",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1732471_500-1705600341.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt0137523",
-      "http://imdb.com/title/tt0137523"
+      "http://imdb.com/title/tt11057302",
+      "http://imdb.com/title/tt11057302"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Jack (Edward Norton) þjáist af svefnleysi og ofan á það lifir hann fyrir fína og flotta hluti sem hann á í dásamlegri íbúð sinni. Það verður þó ekki fyrr en að hann missir hér um bil allt saman að líf hans snýst algjörlega við. Hann kynnist sérvitrum einstaklingi að nafni Tyler Durden (Brad Pitt), og fyrr en varir hefur Durden kynnt hann fyrir bardagastað í neðanjarðarsenunni. Fltjólega dragast þeir inn í mikla hringiðu þar sem hlutirnir verða stjórnlausir, og þeir keppa um ástir og völd. En fljótt tekur \"klúbburinn\" stefnu sem enginn gat spáð fyrir um. Þegar sögumaðurinn fær að vita af leyndri áætlun bardagaklúbbs Tyler, þá þarf hann að viðurkenna fyrir sjálfum sér þann napra sannleika að Tyler er kannski ekki sá sem hann segist vera.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sjúkraflutningamaðurinn Cassandra Webb byrjar að finna fyrir skyggnigáfu og getur séð framtíðina. Hún þarf nú að horfast í augu við atburði úr fortíðinni og vernda þrjár ungar konur fyrir dularfullum fjandmanni sem vill þær feigar.",
     "genres": [
-      "Drama"
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
     ],
-    "duration_in_mins": 139,
+    "duration_in_mins": 117,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+    "trailer_url": "https://www.youtube.com/watch?v=s_76M4c4LTo",
     "cinema_showtimes": {
       "Smárabíó": [
         {
-          "time": "2024-03-21T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106359&visLang=1",
-          "hall": "MAX"
+          "time": "2024-03-21T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109578&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
