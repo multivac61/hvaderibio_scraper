@@ -63,28 +63,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-23T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378542/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-03-23T15:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378539/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-03-23T18:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378540/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-03-23T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378541/",
-          "hall": "Salur 3"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-03-23T13:00:00.000Z",
@@ -110,6 +88,28 @@
           "time": "2024-03-23T22:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378358/",
           "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-03-23T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378542/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-03-23T15:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378539/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-03-23T18:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378540/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-03-23T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378541/",
+          "hall": "Salur 3"
         }
       ],
       "Sambíóin Akureyri": [
@@ -255,13 +255,13 @@
       "Sambíóin Álfabakka": [
         {
           "time": "2024-03-23T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378412/",
-          "hall": "Salur A"
+          "purchase_url": "http://www.sambio.is/websales/show/378428/",
+          "hall": "Salur B"
         },
         {
           "time": "2024-03-23T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378428/",
-          "hall": "Salur B"
+          "purchase_url": "http://www.sambio.is/websales/show/378412/",
+          "hall": "Salur A"
         },
         {
           "time": "2024-03-23T15:10:00.000Z",
@@ -348,13 +348,13 @@
       "Smárabíó": [
         {
           "time": "2024-03-23T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109231&visLang=1",
-          "hall": "Salur 4"
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109230&visLang=1",
+          "hall": "Salur 2"
         },
         {
           "time": "2024-03-23T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109230&visLang=1",
-          "hall": "Salur 2"
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109231&visLang=1",
+          "hall": "Salur 4"
         },
         {
           "time": "2024-03-23T15:15:00.000Z",
@@ -753,6 +753,43 @@
     }
   },
   {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-03-23T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378609/",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-03-23T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378610/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Arthur the King",
     "id": 16610,
     "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
@@ -899,43 +936,6 @@
     }
   },
   {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-23T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378609/",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-03-23T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378610/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Polite Society",
     "id": 16799,
     "alt_title": "Leikstjórn",
@@ -967,6 +967,35 @@
           "time": "2024-03-23T21:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5478",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Afsakið meðanað ég æli",
+    "id": 16776,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-03-02_100814-1709374114.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": ",,Afsakið meðanað ég æli” fjallar um æfingaferli fyrir tónleika til heiðurs Megasi í Eldborgarsal Hörpu.\nTónlist Megasar spilar lykilhlutverk í myndinni þar sem við fylgjum honum og völdum listamönnum í æfingaferli fyrir tónleika sem voru í mars 2019. \nMyndin hefur tvær tímalínur, annars vegar tuttugu daga æfingatímabil og hins vegar sú tímalína sem tuttugu dagarnir opna inn í fortíðina, lengri tímalínan er fjörutíu ár og þar er skyggnst á bakvið tjöldin þegar talað er bæði við Megas og þá listamenn sem hann vann með á hverjum tíma. Viðmælendur í myndinni hlífa Megasi ekki og við fáum að sjá uppreisnar manninn og pönkarann sem var og fólkið sem hann vann með á hverjum tíma en við fáum einnig að sjá sjaldséða einlægni.",
+    "genres": [
+      "Tónlist",
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UomYKtD3mno",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-23T19:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5473",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1124,37 +1153,6 @@
     }
   },
   {
-    "title": "The Beekeeper",
-    "id": 16576,
-    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15314262",
-      "http://imdb.com/title/tt15314262"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-23T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378614/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Magda og töfraskógurinn",
     "id": 16721,
     "alt_title": "Mavka: The Forest Song",
@@ -1187,33 +1185,32 @@
     }
   },
   {
-    "title": "Madame Web",
-    "id": 16591,
-    "alt_title": "Græðgi að segja sögur allra",
+    "title": "The Beekeeper",
+    "id": 16576,
+    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1732471_500-1705600341.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt11057302",
-      "http://imdb.com/title/tt11057302"
+      "http://imdb.com/title/tt15314262",
+      "http://imdb.com/title/tt15314262"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Sjúkraflutningamaðurinn Cassandra Webb byrjar að finna fyrir skyggnigáfu og getur séð framtíðina. Hún þarf nú að horfast í augu við atburði úr fortíðinni og vernda þrjár ungar konur fyrir dularfullum fjandmanni sem vill þær feigar.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
     "genres": [
       "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
+      "Spennutryllir"
     ],
-    "duration_in_mins": 117,
+    "duration_in_mins": 105,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=s_76M4c4LTo",
+    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-03-23T13:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109360&visLang=1",
-          "hall": "Salur 5"
+          "time": "2024-03-23T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378614/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -1280,30 +1277,33 @@
     }
   },
   {
-    "title": "Afsakið meðanað ég æli",
-    "id": 16776,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-03-02_100814-1709374114.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": ",,Afsakið meðanað ég æli” fjallar um æfingaferli fyrir tónleika til heiðurs Megasi í Eldborgarsal Hörpu.\nTónlist Megasar spilar lykilhlutverk í myndinni þar sem við fylgjum honum og völdum listamönnum í æfingaferli fyrir tónleika sem voru í mars 2019. \nMyndin hefur tvær tímalínur, annars vegar tuttugu daga æfingatímabil og hins vegar sú tímalína sem tuttugu dagarnir opna inn í fortíðina, lengri tímalínan er fjörutíu ár og þar er skyggnst á bakvið tjöldin þegar talað er bæði við Megas og þá listamenn sem hann vann með á hverjum tíma. Viðmælendur í myndinni hlífa Megasi ekki og við fáum að sjá uppreisnar manninn og pönkarann sem var og fólkið sem hann vann með á hverjum tíma en við fáum einnig að sjá sjaldséða einlægni.",
+    "title": "Madame Web",
+    "id": 16591,
+    "alt_title": "Græðgi að segja sögur allra",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1732471_500-1705600341.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11057302",
+      "http://imdb.com/title/tt11057302"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Sjúkraflutningamaðurinn Cassandra Webb byrjar að finna fyrir skyggnigáfu og getur séð framtíðina. Hún þarf nú að horfast í augu við atburði úr fortíðinni og vernda þrjár ungar konur fyrir dularfullum fjandmanni sem vill þær feigar.",
     "genres": [
-      "Tónlist",
-      "Heimildarmynd",
-      "Íslensk mynd"
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
     ],
-    "duration_in_mins": 90,
+    "duration_in_mins": 117,
     "language": [
-      "Íslenska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=UomYKtD3mno",
+    "trailer_url": "https://www.youtube.com/watch?v=s_76M4c4LTo",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Smárabíó": [
         {
-          "time": "2024-03-23T19:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5473",
-          "hall": "Salur 2"
+          "time": "2024-03-23T13:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109360&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
