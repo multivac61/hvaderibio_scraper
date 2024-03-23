@@ -175,16 +175,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-23T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108912&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-23T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108914&visLang=1",
-          "hall": "MAX"
-        },
-        {
           "time": "2024-03-23T22:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=108910&visLang=1",
           "hall": "MAX"
@@ -344,21 +334,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-23T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109239&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-03-23T17:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109238&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-23T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109236&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
           "time": "2024-03-23T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109248&visLang=1",
           "hall": "Salur 4"
@@ -486,55 +461,6 @@
     }
   },
   {
-    "title": "Nightwatch: Demons Are Forever",
-    "id": 16719,
-    "alt_title": "Nattevagten - Dæmoner går i arv",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6318608",
-      "http://imdb.com/title/tt6318608"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-03-23T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109237&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-03-23T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109249&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-23T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378455/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-03-23T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378456/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "All of Us Strangers",
     "id": 16456,
     "alt_title": "Pandan sigraði Dune",
@@ -575,6 +501,48 @@
         {
           "time": "2024-03-23T21:25:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5493",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "One Life",
+    "id": 16697,
+    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13097932",
+      "http://imdb.com/title/tt13097932"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-03-23T12:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378520/",
+          "hall": "Ásberg"
+        },
+        {
+          "time": "2024-03-23T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378519/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-23T21:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378513/",
           "hall": "Salur 2"
         }
       ]
@@ -666,43 +634,80 @@
     }
   },
   {
-    "title": "One Life",
-    "id": 16697,
-    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
+    "title": "Nightwatch: Demons Are Forever",
+    "id": 16719,
+    "alt_title": "Nattevagten - Dæmoner går i arv",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13097932",
-      "http://imdb.com/title/tt13097932"
+      "http://imdb.com/title/tt6318608",
+      "http://imdb.com/title/tt6318608"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
     "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
     ],
     "duration_in_mins": 110,
     "language": [
-      "Enska"
+      "Danska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
+    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-23T12:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378520/",
-          "hall": "Ásberg"
+          "time": "2024-03-23T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378455/",
+          "hall": "Salur 3"
         },
         {
-          "time": "2024-03-23T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378519/",
-          "hall": "Salur 2"
+          "time": "2024-03-23T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378456/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-23T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109249&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fullt hús",
+    "id": 16655,
+    "alt_title": "Grand Finale",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27581865",
+      "http://imdb.com/title/tt27581865"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-23T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817374/",
+          "hall": "Salur B"
         },
         {
-          "time": "2024-03-23T21:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378513/",
-          "hall": "Salur 2"
+          "time": "2024-03-23T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817375/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -892,36 +897,32 @@
     }
   },
   {
-    "title": "Fullt hús",
-    "id": 16655,
-    "alt_title": "Grand Finale",
+    "title": "The Beekeeper",
+    "id": 16576,
+    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt27581865",
-      "http://imdb.com/title/tt27581865"
+      "http://imdb.com/title/tt15314262",
+      "http://imdb.com/title/tt15314262"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
     "genres": [
-      "Gaman"
+      "Spenna",
+      "Spennutryllir"
     ],
-    "duration_in_mins": 100,
+    "duration_in_mins": 105,
     "language": [
-      "Íslenska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
+    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-03-23T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817374/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-03-23T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817375/",
-          "hall": "Salur B"
+          "time": "2024-03-23T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378614/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -1196,37 +1197,6 @@
           "time": "2024-03-23T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378807/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Beekeeper",
-    "id": 16576,
-    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15314262",
-      "http://imdb.com/title/tt15314262"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-23T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378614/",
-          "hall": "Salur 4"
         }
       ]
     }
