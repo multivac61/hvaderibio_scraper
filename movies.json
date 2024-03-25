@@ -274,6 +274,23 @@
           "hall": "Salur 1"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-25T14:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/818406/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-03-25T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817387/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-03-25T21:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817388/",
+          "hall": "AXL"
+        }
+      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-03-25T14:00:00.000Z",
@@ -294,23 +311,6 @@
           "time": "2024-03-25T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378739/",
           "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-25T14:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/818406/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-03-25T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817387/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-03-25T21:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817388/",
-          "hall": "AXL"
         }
       ],
       "Smárabíó": [
@@ -643,6 +643,43 @@
     }
   },
   {
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "genres": [
+      "Drama",
+      "Stríð",
+      "Söguleg"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-25T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5496",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-03-25T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5497",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Trolls Band Together",
     "id": 16113,
     "alt_title": "Tröll 3",
@@ -861,133 +898,6 @@
     }
   },
   {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-25T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5496",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-03-25T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5497",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Beekeeper",
-    "id": 16576,
-    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15314262",
-      "http://imdb.com/title/tt15314262"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-25T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378654/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-25T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5501",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Afsakið meðanað ég æli",
-    "id": 16776,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-03-02_100814-1709374114.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": ",,Afsakið meðanað ég æli” fjallar um æfingaferli fyrir tónleika til heiðurs Megasi í Eldborgarsal Hörpu.\nTónlist Megasar spilar lykilhlutverk í myndinni þar sem við fylgjum honum og völdum listamönnum í æfingaferli fyrir tónleika sem voru í mars 2019. \nMyndin hefur tvær tímalínur, annars vegar tuttugu daga æfingatímabil og hins vegar sú tímalína sem tuttugu dagarnir opna inn í fortíðina, lengri tímalínan er fjörutíu ár og þar er skyggnst á bakvið tjöldin þegar talað er bæði við Megas og þá listamenn sem hann vann með á hverjum tíma. Viðmælendur í myndinni hlífa Megasi ekki og við fáum að sjá uppreisnar manninn og pönkarann sem var og fólkið sem hann vann með á hverjum tíma en við fáum einnig að sjá sjaldséða einlægni.",
-    "genres": [
-      "Tónlist",
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UomYKtD3mno",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-25T19:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5505",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -1169,6 +1079,96 @@
         {
           "time": "2024-03-25T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378809/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Beekeeper",
+    "id": 16576,
+    "alt_title": "Flugurnar þorðu ekki að stinga Statham",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16576_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15314262",
+      "http://imdb.com/title/tt15314262"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Grimmileg hefndarför eins manns hefur áhrif á þjóðfélagið allt eftir að í ljós kemur að hann er fyrrum liðsmaður háleynilegrar sérsveitar sem þekkt er undir nafninu Beekeepers, eða Býflugnabændurnir.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-03-25T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378654/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-25T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5501",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Afsakið meðanað ég æli",
+    "id": 16776,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-03-02_100814-1709374114.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": ",,Afsakið meðanað ég æli” fjallar um æfingaferli fyrir tónleika til heiðurs Megasi í Eldborgarsal Hörpu.\nTónlist Megasar spilar lykilhlutverk í myndinni þar sem við fylgjum honum og völdum listamönnum í æfingaferli fyrir tónleika sem voru í mars 2019. \nMyndin hefur tvær tímalínur, annars vegar tuttugu daga æfingatímabil og hins vegar sú tímalína sem tuttugu dagarnir opna inn í fortíðina, lengri tímalínan er fjörutíu ár og þar er skyggnst á bakvið tjöldin þegar talað er bæði við Megas og þá listamenn sem hann vann með á hverjum tíma. Viðmælendur í myndinni hlífa Megasi ekki og við fáum að sjá uppreisnar manninn og pönkarann sem var og fólkið sem hann vann með á hverjum tíma en við fáum einnig að sjá sjaldséða einlægni.",
+    "genres": [
+      "Tónlist",
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UomYKtD3mno",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-25T19:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5505",
           "hall": "Salur 2"
         }
       ]
