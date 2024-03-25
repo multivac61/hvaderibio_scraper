@@ -153,11 +153,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-25T16:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109294&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
           "time": "2024-03-25T17:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109293&visLang=1",
           "hall": "Salur 2"
@@ -320,16 +315,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-25T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109281&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-25T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109280&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
           "time": "2024-03-25T17:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109292&visLang=1",
           "hall": "Salur 4"
@@ -409,23 +394,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-25T16:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109509&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-03-25T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109287&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-25T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109285&visLang=1",
-          "hall": "LÚXUS"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-03-25T17:20:00.000Z",
@@ -455,6 +423,18 @@
           "time": "2024-03-25T20:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378796/",
           "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-25T20:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109287&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-25T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109285&visLang=1",
+          "hall": "LÚXUS"
         }
       ]
     }
@@ -600,49 +580,6 @@
           "purchase_url": "http://www.sambio.is/websales/show/378372/",
           "hall": "Salur 2"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-25T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109505&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Polite Society",
-    "id": 16799,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16799_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt18257464",
-      "http://imdb.com/title/tt18257464"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Bardagalistakonan Ria Khan tekur völdin í sínar eigin hendur, til að bjarga eldri systur sinni Lenu frá yfirvofandi hjónabandi. Hún fær vini sína með sér í lið og nú upphefst eitt metnaðarfyllsta brúðarrán í manna minnum!",
-    "genres": [
-      "Spenna",
-      "Gaman"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=IjWsvsSAT4A",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-25T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5504",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-03-25T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5504",
-          "hall": "Salur 3"
-        }
       ]
     }
   },
@@ -756,6 +693,42 @@
     }
   },
   {
+    "title": "All of Us Strangers",
+    "id": 16456,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21192142",
+      "http://imdb.com/title/tt21192142"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
+    "genres": [
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-25T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5499",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-03-25T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5499",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Wish",
     "id": 16335,
     "alt_title": "Ósk",
@@ -793,37 +766,37 @@
     }
   },
   {
-    "title": "All of Us Strangers",
-    "id": 16456,
-    "alt_title": "Pandan sigraði Dune",
+    "title": "Polite Society",
+    "id": 16799,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16799_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt21192142",
-      "http://imdb.com/title/tt21192142"
+      "http://imdb.com/title/tt18257464",
+      "http://imdb.com/title/tt18257464"
     ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Bardagalistakonan Ria Khan tekur völdin í sínar eigin hendur, til að bjarga eldri systur sinni Lenu frá yfirvofandi hjónabandi. Hún fær vini sína með sér í lið og nú upphefst eitt metnaðarfyllsta brúðarrán í manna minnum!",
     "genres": [
-      "Drama",
-      "Ævintýri"
+      "Spenna",
+      "Gaman"
     ],
-    "duration_in_mins": 105,
+    "duration_in_mins": 104,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    "trailer_url": "https://www.youtube.com/watch?v=IjWsvsSAT4A",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-03-25T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5499",
-          "hall": "Salur 1"
+          "time": "2024-03-25T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5504",
+          "hall": "Salur 3"
         },
         {
-          "time": "2024-03-25T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5499",
-          "hall": "Salur 1"
+          "time": "2024-03-25T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5504",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -864,39 +837,6 @@
     }
   },
   {
-    "title": "High Anxiety",
-    "id": 16813,
-    "alt_title": "Leikstjórn",
-    "release_year": 1977,
-    "poster_url": "https://kvikmyndir.is/images/poster/16813_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0076141",
-      "http://imdb.com/title/tt0076141",
-      "https://www.themoviedb.org/tv/12535"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Geðlæknir með sjúklega lofthræðslu fer að vinna á geðspítala sem rekinn er af læknum sem virðast vera mun verr haldnir en sjúklingarnir, og eiga leyndarmál sem þeir eru tilbúnir að myrða fyrir.",
-    "genres": [
-      "Gaman",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 94,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=zto1ZY9_6wY",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-25T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375406/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Afsakið meðanað ég æli",
     "id": 16776,
     "alt_title": "Leikstjórn",
@@ -926,32 +866,33 @@
     }
   },
   {
-    "title": "2012",
-    "id": 4528,
-    "alt_title": "Farewell Atlantis",
-    "release_year": 2009,
-    "poster_url": "https://kvikmyndir.is/images/poster/357680_500-1710755063.jpg",
+    "title": "High Anxiety",
+    "id": 16813,
+    "alt_title": "Leikstjórn",
+    "release_year": 1977,
+    "poster_url": "https://kvikmyndir.is/images/poster/16813_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt1190080",
-      "http://imdb.com/title/tt1190080"
+      "http://imdb.com/title/tt0076141",
+      "http://imdb.com/title/tt0076141",
+      "https://www.themoviedb.org/tv/12535"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Epísk stórmynd sem segir af endalokum heimsins og baráttu fólks til að lifa af. Dr. Adrian Helmsley er hluti af alþjóðlegu teymi vísindamanna sem er að rannsaka áhrif sólarstorma á geislavirkni á Jörðinni. Hann kemst að því að kjarni Jarðar er að hitna. Hann varar Bandaríkjaforseta, Thomas Wilson við, og segir að kjarni Jarðar sé að hitna og verða óstöðugur og ef ekkert verður að gert til að reyna að bjarga þó ekki nema litlum hluta mannkyns, þá er allt mannkyn í hættu á að gereyðast. Á sama tíma rekst rithöfundurinn Jackson Curtis á sömu upplýsingar. Á sama tíma og leiðtogar heimsins reyna að byggja \"arkir\" fyrir fólk til að lifa hamfarirnar af, þá reynir Curtis að bjarga sinni eigin fjölskyldu. Á sama tíma hefjast eldgos og jarðskjálftar af áður óþekktri stærðargráðu um allan heim.",
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Geðlæknir með sjúklega lofthræðslu fer að vinna á geðspítala sem rekinn er af læknum sem virðast vera mun verr haldnir en sjúklingarnir, og eiga leyndarmál sem þeir eru tilbúnir að myrða fyrir.",
     "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
+      "Gaman",
+      "Spennutryllir",
+      "Ráðgáta"
     ],
-    "duration_in_mins": 158,
+    "duration_in_mins": 94,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=ce0N3TEcFw0",
+    "trailer_url": "https://www.youtube.com/watch?v=zto1ZY9_6wY",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-03-25T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377766/",
+          "time": "2024-03-25T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375406/",
           "hall": "Salur 1"
         }
       ]
@@ -990,29 +931,33 @@
     }
   },
   {
-    "title": "Imaginary",
-    "id": 16609,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16609_500.jpg",
+    "title": "2012",
+    "id": 4528,
+    "alt_title": "Farewell Atlantis",
+    "release_year": 2009,
+    "poster_url": "https://kvikmyndir.is/images/poster/357680_500-1710755063.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt26658104",
-      "http://imdb.com/title/tt26658104"
+      "http://imdb.com/title/tt1190080",
+      "http://imdb.com/title/tt1190080"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar Jessica flytur aftur á æskuheimilið með fjölskyldunni þá tengist stjúpdóttir hennar Alice bangsanum Chauncey á óhuganlegan hátt, eftir að hún finnur hann ofaní kjallara. Alice byrjar að leika við Chauncey, fyrst mjög saklaust en svo verða leikirnir skuggalegri og skuggalegri. Eftir því sem ástandið versnar ákveður Jessica að skerast í leikinn og kemst þá að því að Chauncey er miklu meira en bara venjulegur tuskubangsi.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Epísk stórmynd sem segir af endalokum heimsins og baráttu fólks til að lifa af. Dr. Adrian Helmsley er hluti af alþjóðlegu teymi vísindamanna sem er að rannsaka áhrif sólarstorma á geislavirkni á Jörðinni. Hann kemst að því að kjarni Jarðar er að hitna. Hann varar Bandaríkjaforseta, Thomas Wilson við, og segir að kjarni Jarðar sé að hitna og verða óstöðugur og ef ekkert verður að gert til að reyna að bjarga þó ekki nema litlum hluta mannkyns, þá er allt mannkyn í hættu á að gereyðast. Á sama tíma rekst rithöfundurinn Jackson Curtis á sömu upplýsingar. Á sama tíma og leiðtogar heimsins reyna að byggja \"arkir\" fyrir fólk til að lifa hamfarirnar af, þá reynir Curtis að bjarga sinni eigin fjölskyldu. Á sama tíma hefjast eldgos og jarðskjálftar af áður óþekktri stærðargráðu um allan heim.",
     "genres": [
-      "Hrollvekja"
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
     ],
-    "duration_in_mins": 0,
-    "language": [],
-    "trailer_url": "https://www.youtube.com/watch?v=-3EpotMWQu8",
+    "duration_in_mins": 158,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ce0N3TEcFw0",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-03-25T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378809/",
-          "hall": "Salur 2"
+          "time": "2024-03-25T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377766/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -1080,30 +1025,28 @@
     }
   },
   {
-    "title": "Arthur the King",
-    "id": 16610,
-    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
+    "title": "Imaginary",
+    "id": 16609,
+    "alt_title": "Pandan sigraði Dune",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16610_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16609_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt10720352",
-      "http://imdb.com/title/tt10720352"
+      "http://imdb.com/title/tt26658104",
+      "http://imdb.com/title/tt26658104"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Mikael Lindnord, fyrirliði sænsk þríþrautarliðs, kynnist meiddum hundi þegar hann er að keppa í 650 km langri þraut í frumskógum Ecuador. Fyrstu kynnin urðu þegar hann gaf honum að borða en svo elti hundurinn liðið í gegnum einhver erfiðustu landsvæði á Jörðinni. Lindnord ákveður að taka hundinn að sér og fara með hann heim til Svíþjóðar.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar Jessica flytur aftur á æskuheimilið með fjölskyldunni þá tengist stjúpdóttir hennar Alice bangsanum Chauncey á óhuganlegan hátt, eftir að hún finnur hann ofaní kjallara. Alice byrjar að leika við Chauncey, fyrst mjög saklaust en svo verða leikirnir skuggalegri og skuggalegri. Eftir því sem ástandið versnar ákveður Jessica að skerast í leikinn og kemst þá að því að Chauncey er miklu meira en bara venjulegur tuskubangsi.",
     "genres": [
-      "Ævintýri"
+      "Hrollvekja"
     ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=wjDJNEPghNY",
+    "duration_in_mins": 0,
+    "language": [],
+    "trailer_url": "https://www.youtube.com/watch?v=-3EpotMWQu8",
     "cinema_showtimes": {
-      "Sambíóin Akureyri": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-03-25T15:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378811/",
+          "time": "2024-03-25T22:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378809/",
           "hall": "Salur 2"
         }
       ]
@@ -1134,6 +1077,36 @@
         {
           "time": "2024-03-25T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5501",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Arthur the King",
+    "id": 16610,
+    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16610_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt10720352",
+      "http://imdb.com/title/tt10720352"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Mikael Lindnord, fyrirliði sænsk þríþrautarliðs, kynnist meiddum hundi þegar hann er að keppa í 650 km langri þraut í frumskógum Ecuador. Fyrstu kynnin urðu þegar hann gaf honum að borða en svo elti hundurinn liðið í gegnum einhver erfiðustu landsvæði á Jörðinni. Lindnord ákveður að taka hundinn að sér og fara með hann heim til Svíþjóðar.",
+    "genres": [
+      "Ævintýri"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=wjDJNEPghNY",
+    "cinema_showtimes": {
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-03-25T15:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378811/",
           "hall": "Salur 2"
         }
       ]
