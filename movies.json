@@ -108,33 +108,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-28T16:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109215&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-28T19:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109216&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-28T19:45:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109213&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-03-28T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109217&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-28T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109214&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2024-03-28T17:20:00.000Z",
@@ -179,6 +152,28 @@
           "time": "2024-03-28T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379257/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-28T19:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109216&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-03-28T19:45:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109213&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-03-28T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109217&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-03-28T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109214&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -339,11 +334,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-28T14:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109389&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
           "time": "2024-03-28T17:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109346&visLang=1",
           "hall": "Salur 4"
@@ -493,16 +483,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-28T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109387&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-03-28T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109339&visLang=1",
-          "hall": "MAX"
-        },
-        {
           "time": "2024-03-28T17:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109347&visLang=1",
           "hall": "Salur 5"
@@ -572,18 +552,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-28T15:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109390&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-28T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109357&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-03-28T17:20:00.000Z",
@@ -594,6 +562,13 @@
           "time": "2024-03-28T20:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378880/",
           "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-28T20:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109357&visLang=1",
+          "hall": "Salur 4"
         }
       ],
       "Sambíóin Akureyri": [
@@ -742,6 +717,79 @@
     }
   },
   {
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "genres": [
+      "Drama",
+      "Stríð",
+      "Söguleg"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-28T16:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5547",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-28T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5546",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "All of Us Strangers",
+    "id": 16456,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21192142",
+      "http://imdb.com/title/tt21192142"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
+    "genres": [
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-28T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5556",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-03-28T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5556",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -814,79 +862,6 @@
           "time": "2024-03-28T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109581&visLang=1",
           "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-28T16:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5547",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-28T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5546",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "All of Us Strangers",
-    "id": 16456,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21192142",
-      "http://imdb.com/title/tt21192142"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
-    "genres": [
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-28T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5556",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-03-28T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5556",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -1019,6 +994,36 @@
     }
   },
   {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-28T18:35:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5545",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Magda og töfraskógurinn",
     "id": 16721,
     "alt_title": "Mavka: The Forest Song",
@@ -1046,36 +1051,6 @@
           "time": "2024-03-28T13:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/818906/",
           "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-28T18:35:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5545",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -1142,6 +1117,36 @@
     }
   },
   {
+    "title": "Our Folks: The Beginning",
+    "id": 16783,
+    "alt_title": "Sami swoi. Poczatek",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/dp1asrqqk3i8xr7kb13ymk1p7vc-1709982723.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27578313",
+      "http://imdb.com/title/tt27578313"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Pawlak og Kargul söguhetjurnar í hinum þekkta þríleik Our Folks höfðu verið nágrannar í þorpi í Podolia í Póllandi áður en þeir enduðu á hinum endurheimtu svæðum í landinu. En jafnvel á þeim tíma var ástandið eldfimt.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 118,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ZodUvQEI23k",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-28T16:20:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5564",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Bestu vinir",
     "id": 16577,
     "alt_title": "The Inseparables",
@@ -1168,36 +1173,6 @@
           "time": "2024-03-28T15:10:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/818905/",
           "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Our Folks: The Beginning",
-    "id": 16783,
-    "alt_title": "Sami swoi. Poczatek",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/dp1asrqqk3i8xr7kb13ymk1p7vc-1709982723.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27578313",
-      "http://imdb.com/title/tt27578313"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Pawlak og Kargul söguhetjurnar í hinum þekkta þríleik Our Folks höfðu verið nágrannar í þorpi í Podolia í Póllandi áður en þeir enduðu á hinum endurheimtu svæðum í landinu. En jafnvel á þeim tíma var ástandið eldfimt.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 118,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZodUvQEI23k",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-28T16:20:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5564",
-          "hall": "Salur 3"
         }
       ]
     }
