@@ -127,11 +127,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-30T14:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109418&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
           "time": "2024-03-30T16:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109412&visLang=1",
           "hall": "LÚXUS"
@@ -508,11 +503,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-30T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109417&visLang=1",
-          "hall": "MAX"
-        },
-        {
           "time": "2024-03-30T15:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109416&visLang=1",
           "hall": "Salur 5"
@@ -568,18 +558,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-03-30T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109413&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-30T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109405&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-03-30T15:00:00.000Z",
@@ -619,6 +597,13 @@
           "time": "2024-03-30T20:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378878/",
           "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-30T20:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109405&visLang=1",
+          "hall": "Salur 4"
         }
       ],
       "Laugarásbíó": [
@@ -788,13 +773,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-30T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109733&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-03-30T15:00:00.000Z",
@@ -837,194 +815,6 @@
           "time": "2024-03-30T16:40:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5570",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Doktor Proktor og prumpuduftið",
-    "id": 11783,
-    "alt_title": "Johnson beint á toppinn!",
-    "release_year": 2014,
-    "poster_url": "https://kvikmyndir.is/images/poster/dokttor-1523887145.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt2835494",
-      "http://imdb.com/title/tt2835494",
-      "https://www.themoviedb.org/tv/253012"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Við vitum að eitt gott prump getur valdið alvarlegu hláturskasti en hvað með heimsfrægð? Lísa og Búi eru að fara að komast að því þökk sé óvenjulegum nágranna þeirra, hinum kexruglaða Doktor Proktor.  Hann hefur nefnilega alveg óvart fundið upp öflugasta prumpuduft í heimi og þau þrjú þurfa í sameiningu að koma í veg fyrir að það lendi í röngum höndum!",
-    "genres": [
-      "Gaman",
-      "Fjölskylda"
-    ],
-    "duration_in_mins": 85,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=FO-Fz4THL1Y",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-30T15:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5528",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-30T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5543",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nightwatch: Demons Are Forever",
-    "id": 16719,
-    "alt_title": "Nattevagten - Dæmoner går i arv",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6318608",
-      "http://imdb.com/title/tt6318608"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-30T21:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378935/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Magda og töfraskógurinn",
-    "id": 16721,
-    "alt_title": "Mavka: The Forest Song",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6685538",
-      "http://imdb.com/title/tt6685538"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-30T13:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817486/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "All of Us Strangers",
-    "id": 16456,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21192142",
-      "http://imdb.com/title/tt21192142"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
-    "genres": [
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-03-30T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5554",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-30T15:10:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817487/",
-          "hall": "Salur B"
         }
       ]
     }
@@ -1091,6 +881,38 @@
     }
   },
   {
+    "title": "Nightwatch: Demons Are Forever",
+    "id": 16719,
+    "alt_title": "Nattevagten - Dæmoner går i arv",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6318608",
+      "http://imdb.com/title/tt6318608"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-30T21:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378935/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Teachers’ Lounge",
     "id": 16755,
     "alt_title": "Das Lehrerzimmer",
@@ -1116,6 +938,38 @@
           "time": "2024-03-30T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5558",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Magda og töfraskógurinn",
+    "id": 16721,
+    "alt_title": "Mavka: The Forest Song",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6685538",
+      "http://imdb.com/title/tt6685538"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-30T13:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817486/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -1147,6 +1001,100 @@
         {
           "time": "2024-03-30T21:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5550",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-30T15:10:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817487/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Andri og Edda búa til leikhús",
+    "id": 13744,
+    "alt_title": "Karsten og Petra lager teater",
+    "release_year": 2017,
+    "poster_url": "https://kvikmyndir.is/images/poster/bp-online_andri&edda-leikhus_poster-ice_1400x2000px-1635434209.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6403668",
+      "http://imdb.com/title/tt6403668",
+      "https://www.themoviedb.org/tv/473392"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Andri og Edda fara í leikhús með leikskólanum sínum … en þá langar þeim að búa til sitt eigið leikhús! Sem þau og gera! Dásamleg barnakvikmynd og sjálfstætt framhald af Andra og Eddu sem urðu bestu vinir á fyrstu Alþjóðlegu Barnakvikmyndahátíðinni í Reykjavík!",
+    "genres": [
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 81,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=kOqCKMLivpI",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-30T15:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5536",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Doktor Proktor og prumpuduftið",
+    "id": 11783,
+    "alt_title": "Johnson beint á toppinn!",
+    "release_year": 2014,
+    "poster_url": "https://kvikmyndir.is/images/poster/dokttor-1523887145.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt2835494",
+      "http://imdb.com/title/tt2835494",
+      "https://www.themoviedb.org/tv/253012"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Við vitum að eitt gott prump getur valdið alvarlegu hláturskasti en hvað með heimsfrægð? Lísa og Búi eru að fara að komast að því þökk sé óvenjulegum nágranna þeirra, hinum kexruglaða Doktor Proktor.  Hann hefur nefnilega alveg óvart fundið upp öflugasta prumpuduft í heimi og þau þrjú þurfa í sameiningu að koma í veg fyrir að það lendi í röngum höndum!",
+    "genres": [
+      "Gaman",
+      "Fjölskylda"
+    ],
+    "duration_in_mins": 85,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=FO-Fz4THL1Y",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-30T15:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5528",
           "hall": "Salur 1"
         }
       ]
@@ -1185,6 +1133,36 @@
     }
   },
   {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-03-30T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5543",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Wish",
     "id": 16335,
     "alt_title": "Ósk",
@@ -1217,32 +1195,32 @@
     }
   },
   {
-    "title": "Andri og Edda búa til leikhús",
-    "id": 13744,
-    "alt_title": "Karsten og Petra lager teater",
-    "release_year": 2017,
-    "poster_url": "https://kvikmyndir.is/images/poster/bp-online_andri&edda-leikhus_poster-ice_1400x2000px-1635434209.jpg",
+    "title": "All of Us Strangers",
+    "id": 16456,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt6403668",
-      "http://imdb.com/title/tt6403668",
-      "https://www.themoviedb.org/tv/473392"
+      "http://imdb.com/title/tt21192142",
+      "http://imdb.com/title/tt21192142"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Andri og Edda fara í leikhús með leikskólanum sínum … en þá langar þeim að búa til sitt eigið leikhús! Sem þau og gera! Dásamleg barnakvikmynd og sjálfstætt framhald af Andra og Eddu sem urðu bestu vinir á fyrstu Alþjóðlegu Barnakvikmyndahátíðinni í Reykjavík!",
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
     "genres": [
-      "Fjölskylda"
+      "Drama",
+      "Ævintýri"
     ],
-    "duration_in_mins": 81,
+    "duration_in_mins": 105,
     "language": [
-      "Íslenska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=kOqCKMLivpI",
+    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-03-30T15:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5536",
-          "hall": "Salur 3"
+          "time": "2024-03-30T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5554",
+          "hall": "Salur 2"
         }
       ]
     }
