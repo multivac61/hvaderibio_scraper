@@ -553,18 +553,18 @@
           "hall": "Salur A"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-03-31T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379240/",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-03-31T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379048/",
           "hall": "Ásberg"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-03-31T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379240/",
+          "hall": "Salur 2"
         }
       ],
       "Laugarásbíó": [
@@ -734,37 +734,6 @@
     }
   },
   {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-31T15:10:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817497/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "Trolls Band Together",
     "id": 16113,
     "alt_title": "Tröll 3",
@@ -888,6 +857,37 @@
           "time": "2024-03-31T21:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/378936/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-31T15:10:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817497/",
+          "hall": "Salur B"
         }
       ]
     }
