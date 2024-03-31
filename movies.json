@@ -139,16 +139,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-31T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109760&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-03-31T19:45:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109184&visLang=1",
-          "hall": "MAX"
-        },
-        {
           "time": "2024-03-31T21:50:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109183&visLang=1",
           "hall": "LÚXUS"
@@ -157,153 +147,6 @@
           "time": "2024-03-31T22:20:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109182&visLang=1",
           "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Kung Fu Panda 4",
-    "id": 16748,
-    "alt_title": "Þriðja vika Po á toppinum - Draugabanar efstir í Bandaríkjunum",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21692408",
-      "http://imdb.com/title/tt21692408"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 94,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-31T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378702/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-03-31T15:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378703/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-31T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378704/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-31T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378899/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-03-31T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378928/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-03-31T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378900/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-03-31T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378917/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-03-31T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378895/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-03-31T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378918/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-03-31T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378927/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-03-31T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379243/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-03-31T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379244/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-03-31T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379252/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-31T13:10:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817491/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-03-31T15:20:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817492/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-03-31T17:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817498/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-03-31T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379059/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-03-31T17:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379060/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-31T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109425&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-03-31T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109423&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-03-31T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109428&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-03-31T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109430&visLang=1",
-          "hall": "Salur 5"
         }
       ]
     }
@@ -437,19 +280,141 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-03-31T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109424&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-03-31T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109427&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
           "time": "2024-03-31T22:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109431&visLang=1",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "id": 16748,
+    "alt_title": "Þriðja vika Po á toppinum - Draugabanar efstir í Bandaríkjunum",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21692408",
+      "http://imdb.com/title/tt21692408"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 94,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-03-31T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378702/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-03-31T15:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378703/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-31T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378704/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-31T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378899/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-03-31T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378928/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-03-31T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378900/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-03-31T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378917/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-03-31T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378895/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-03-31T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378918/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-03-31T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378927/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-03-31T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379243/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-03-31T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379244/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-03-31T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379252/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-31T13:10:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817491/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-03-31T15:20:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817492/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-03-31T17:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817498/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-03-31T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379059/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-03-31T17:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379060/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-03-31T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109430&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -506,13 +471,6 @@
           "hall": "Salur A"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-03-31T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109429&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-03-31T21:00:00.000Z",
@@ -532,46 +490,6 @@
           "time": "2024-03-31T21:20:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817500/",
           "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Fullt hús",
-    "id": 16655,
-    "alt_title": "Grand Finale",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27581865",
-      "http://imdb.com/title/tt27581865"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-31T17:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/818969/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-03-31T19:20:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817499/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-03-31T22:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817495/",
-          "hall": "Salur B"
         }
       ]
     }
@@ -619,6 +537,46 @@
     }
   },
   {
+    "title": "Fullt hús",
+    "id": 16655,
+    "alt_title": "Grand Finale",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27581865",
+      "http://imdb.com/title/tt27581865"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-31T17:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/818969/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-03-31T19:20:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817499/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-03-31T22:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817495/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
     "title": "One Life",
     "id": 16697,
     "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
@@ -651,101 +609,6 @@
           "time": "2024-03-31T21:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379092/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nightwatch: Demons Are Forever",
-    "id": 16719,
-    "alt_title": "Nattevagten - Dæmoner går i arv",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6318608",
-      "http://imdb.com/title/tt6318608"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-03-31T21:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378936/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-03-31T15:10:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817497/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-03-31T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378640/",
-          "hall": "Salur 4"
         }
       ]
     }
@@ -841,6 +704,101 @@
           "time": "2024-03-31T13:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817496/",
           "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nightwatch: Demons Are Forever",
+    "id": 16719,
+    "alt_title": "Nattevagten - Dæmoner går i arv",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6318608",
+      "http://imdb.com/title/tt6318608"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-03-31T21:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378936/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-03-31T15:10:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/817497/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-03-31T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378640/",
+          "hall": "Salur 4"
         }
       ]
     }
