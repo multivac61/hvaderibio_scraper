@@ -108,28 +108,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-01T14:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109513&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-01T16:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109454&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-01T19:45:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109448&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-04-01T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109461&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-04-01T16:40:00.000Z",
@@ -145,6 +123,23 @@
           "time": "2024-04-01T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379267/",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-01T16:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109454&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-01T19:45:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109448&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-04-01T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109461&visLang=1",
+          "hall": "MAX"
         }
       ],
       "Sambíóin Keflavík": [
@@ -286,33 +281,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-01T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109546&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-01T14:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109469&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-04-01T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109453&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-04-01T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109449&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-01T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109462&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-04-01T14:00:00.000Z",
@@ -361,6 +329,28 @@
         {
           "time": "2024-04-01T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379207/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-01T14:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109469&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-04-01T17:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109453&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-04-01T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109449&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-01T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109462&visLang=1",
           "hall": "Salur 2"
         }
       ]
@@ -497,11 +487,6 @@
         }
       ],
       "Smárabíó": [
-        {
-          "time": "2024-04-01T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109475&visLang=1",
-          "hall": "MAX"
-        },
         {
           "time": "2024-04-01T15:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109468&visLang=1",
@@ -783,13 +768,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-01T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109735&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-04-01T15:00:00.000Z",
@@ -832,101 +810,6 @@
           "time": "2024-04-01T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5552",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-01T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378641/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "All of Us Strangers",
-    "id": 16456,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21192142",
-      "http://imdb.com/title/tt21192142"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
-    "genres": [
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-01T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5553",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Wish",
-    "id": 16335,
-    "alt_title": "Ósk",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11304740",
-      "http://imdb.com/title/tt11304740"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-01T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378849/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -1274,6 +1157,38 @@
     }
   },
   {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-01T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378641/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Afsakið meðanað ég æli",
     "id": 16776,
     "alt_title": "Leikstjórn",
@@ -1298,6 +1213,69 @@
           "time": "2024-04-01T16:30:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5541",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wish",
+    "id": 16335,
+    "alt_title": "Ósk",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11304740",
+      "http://imdb.com/title/tt11304740"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-01T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378849/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "All of Us Strangers",
+    "id": 16456,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21192142",
+      "http://imdb.com/title/tt21192142"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
+    "genres": [
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-01T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5553",
+          "hall": "Salur 1"
         }
       ]
     }
