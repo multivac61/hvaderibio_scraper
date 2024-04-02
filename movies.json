@@ -49,38 +49,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-02T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109484&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-04-02T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109478&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-04-02T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109494&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-02T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109492&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-04-02T21:45:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109489&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-02T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109502&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-04-02T16:40:00.000Z",
@@ -147,6 +115,28 @@
           "time": "2024-04-02T20:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/818964/",
           "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-02T19:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109494&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-04-02T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109492&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-04-02T21:45:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109489&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-04-02T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109502&visLang=1",
+          "hall": "MAX"
         }
       ],
       "Sambíóin Akureyri": [
@@ -356,11 +346,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-04-02T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109482&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
           "time": "2024-04-02T17:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109496&visLang=1",
           "hall": "Salur 4"
@@ -406,18 +391,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-02T15:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109481&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-02T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109490&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-04-02T17:30:00.000Z",
@@ -448,6 +421,13 @@
         {
           "time": "2024-04-02T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379289/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-02T20:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109490&visLang=1",
           "hall": "Salur 2"
         }
       ],
@@ -582,128 +562,6 @@
           "time": "2024-04-02T18:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5578",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-02T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109791&visLang=1",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nightwatch: Demons Are Forever",
-    "id": 16719,
-    "alt_title": "Nattevagten - Dæmoner går i arv",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6318608",
-      "http://imdb.com/title/tt6318608"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-02T21:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378938/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-02T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5586",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Afsakið meðanað ég æli",
-    "id": 16776,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-03-02_100814-1709374114.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": ",,Afsakið meðanað ég æli” fjallar um æfingaferli fyrir tónleika til heiðurs Megasi í Eldborgarsal Hörpu.\nTónlist Megasar spilar lykilhlutverk í myndinni þar sem við fylgjum honum og völdum listamönnum í æfingaferli fyrir tónleika sem voru í mars 2019. \nMyndin hefur tvær tímalínur, annars vegar tuttugu daga æfingatímabil og hins vegar sú tímalína sem tuttugu dagarnir opna inn í fortíðina, lengri tímalínan er fjörutíu ár og þar er skyggnst á bakvið tjöldin þegar talað er bæði við Megas og þá listamenn sem hann vann með á hverjum tíma. Viðmælendur í myndinni hlífa Megasi ekki og við fáum að sjá uppreisnar manninn og pönkarann sem var og fólkið sem hann vann með á hverjum tíma en við fáum einnig að sjá sjaldséða einlægni.",
-    "genres": [
-      "Tónlist",
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UomYKtD3mno",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-02T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5576",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -890,6 +748,97 @@
           "time": "2024-04-02T18:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/818971/",
           "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nightwatch: Demons Are Forever",
+    "id": 16719,
+    "alt_title": "Nattevagten - Dæmoner går i arv",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6318608",
+      "http://imdb.com/title/tt6318608"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-02T21:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378938/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-02T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5586",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Afsakið meðanað ég æli",
+    "id": 16776,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-03-02_100814-1709374114.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": ",,Afsakið meðanað ég æli” fjallar um æfingaferli fyrir tónleika til heiðurs Megasi í Eldborgarsal Hörpu.\nTónlist Megasar spilar lykilhlutverk í myndinni þar sem við fylgjum honum og völdum listamönnum í æfingaferli fyrir tónleika sem voru í mars 2019. \nMyndin hefur tvær tímalínur, annars vegar tuttugu daga æfingatímabil og hins vegar sú tímalína sem tuttugu dagarnir opna inn í fortíðina, lengri tímalínan er fjörutíu ár og þar er skyggnst á bakvið tjöldin þegar talað er bæði við Megas og þá listamenn sem hann vann með á hverjum tíma. Viðmælendur í myndinni hlífa Megasi ekki og við fáum að sjá uppreisnar manninn og pönkarann sem var og fólkið sem hann vann með á hverjum tíma en við fáum einnig að sjá sjaldséða einlægni.",
+    "genres": [
+      "Tónlist",
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UomYKtD3mno",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-02T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5576",
+          "hall": "Salur 2"
         }
       ]
     }
