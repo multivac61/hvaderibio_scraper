@@ -89,13 +89,13 @@
         },
         {
           "time": "2024-04-03T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379017/",
-          "hall": "Lúxus VIP"
+          "purchase_url": "http://www.sambio.is/websales/show/378969/",
+          "hall": "Salur 1"
         },
         {
           "time": "2024-04-03T22:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378969/",
-          "hall": "Salur 1"
+          "purchase_url": "http://www.sambio.is/websales/show/379017/",
+          "hall": "Lúxus VIP"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -396,17 +396,17 @@
           "hall": "Salur 4"
         }
       ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-03T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378883/",
-          "hall": "Salur A"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-03T20:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819713/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-03T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378883/",
           "hall": "Salur A"
         }
       ],
@@ -509,43 +509,6 @@
     }
   },
   {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-03T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5579",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-03T18:40:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5580",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "All of Us Strangers",
     "id": 16456,
     "alt_title": "Pandan sigraði Dune",
@@ -619,32 +582,38 @@
     }
   },
   {
-    "title": "Polite Society",
-    "id": 16799,
+    "title": "The Zone of Interest",
+    "id": 16722,
     "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16799_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt18257464",
-      "http://imdb.com/title/tt18257464"
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Bardagalistakonan Ria Khan tekur völdin í sínar eigin hendur, til að bjarga eldri systur sinni Lenu frá yfirvofandi hjónabandi. Hún fær vini sína með sér í lið og nú upphefst eitt metnaðarfyllsta brúðarrán í manna minnum!",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
     "genres": [
-      "Spenna",
-      "Gaman"
+      "Drama",
+      "Stríð",
+      "Söguleg"
     ],
-    "duration_in_mins": 104,
+    "duration_in_mins": 105,
     "language": [
-      "Enska"
+      "Þýska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=IjWsvsSAT4A",
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-04-03T21:20:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5593",
+          "time": "2024-04-03T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5579",
           "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-03T18:40:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5580",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -683,33 +652,31 @@
     }
   },
   {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "title": "Fullt hús",
+    "id": 16655,
+    "alt_title": "Grand Finale",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
+      "http://imdb.com/title/tt27581865",
+      "http://imdb.com/title/tt27581865"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
     "genres": [
-      "Drama",
-      "Tónlist",
-      "Teiknað"
+      "Gaman"
     ],
-    "duration_in_mins": 102,
+    "duration_in_mins": 100,
     "language": [
-      "Spænska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Laugarásbíó": [
         {
-          "time": "2024-04-03T16:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5572",
-          "hall": "Salur 3"
+          "time": "2024-04-03T17:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819712/",
+          "hall": "Salur A"
         }
       ]
     }
@@ -741,66 +708,6 @@
           "time": "2024-04-03T15:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109604&visLang=1",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Teachers’ Lounge",
-    "id": 16755,
-    "alt_title": "Das Lehrerzimmer",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16755_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26612950",
-      "http://imdb.com/title/tt26612950"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Þegar einn af nemendum hennar er grunaður um þjófnað ákveður kennarinn Carla Nowak að komast til botns í málinu. Hugsjónir hennar og reglur skólakerfsinsins togast á og málið verður að krefjandi verkefni.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 98,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6YgQBGqhTcM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-03T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5590",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Fullt hús",
-    "id": 16655,
-    "alt_title": "Grand Finale",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27581865",
-      "http://imdb.com/title/tt27581865"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-03T17:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819712/",
-          "hall": "Salur A"
         }
       ]
     }
@@ -890,6 +797,99 @@
           "time": "2024-04-03T19:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5597",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Polite Society",
+    "id": 16799,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16799_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt18257464",
+      "http://imdb.com/title/tt18257464"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Bardagalistakonan Ria Khan tekur völdin í sínar eigin hendur, til að bjarga eldri systur sinni Lenu frá yfirvofandi hjónabandi. Hún fær vini sína með sér í lið og nú upphefst eitt metnaðarfyllsta brúðarrán í manna minnum!",
+    "genres": [
+      "Spenna",
+      "Gaman"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=IjWsvsSAT4A",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-03T21:20:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5593",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 102,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-03T16:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5572",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Teachers’ Lounge",
+    "id": 16755,
+    "alt_title": "Das Lehrerzimmer",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16755_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26612950",
+      "http://imdb.com/title/tt26612950"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Þegar einn af nemendum hennar er grunaður um þjófnað ákveður kennarinn Carla Nowak að komast til botns í málinu. Hugsjónir hennar og reglur skólakerfsinsins togast á og málið verður að krefjandi verkefni.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 98,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6YgQBGqhTcM",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-03T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5590",
+          "hall": "Salur 3"
         }
       ]
     }
