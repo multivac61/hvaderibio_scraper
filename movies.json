@@ -246,18 +246,18 @@
           "hall": "Salur 5"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-04T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379321/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-04T20:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819721/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-04T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379321/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -406,17 +406,17 @@
           "hall": "Salur 3"
         }
       ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-04T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378884/",
-          "hall": "Salur A"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-04T20:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819719/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-04T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378884/",
           "hall": "Salur A"
         }
       ],
@@ -512,69 +512,6 @@
     }
   },
   {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-04T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5581",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Thin Red Line",
-    "id": 190,
-    "alt_title": "Kvikmyndadagar í Kringlunni - Stiklur!",
-    "release_year": 1998,
-    "poster_url": "https://kvikmyndir.is/images/poster/190_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0120863",
-      "http://imdb.com/title/tt0120863"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Myndin gerist í seinni heimsstyrjöldinni. Baráttan um eyjuna Guadalcanal mun hafa mikil áhrif á sókn Japana inn á Kyrrahafið. Hópur ungra bandarískra hermanna er sendur sem liðsauki á svæðið, til að hjálpa hermönnum sem orðnir eru úrvinda af þreytu eftir að hafa varið hernaðarlega mikilvægan flugvöll sem tryggir yfirráð yfir svæði sem er 1.000 mílur að radíus.  Ungu hermennirnir koma þarna inn í hreint helvíti, og hryllingur stríðsins þjappar hópnum saman, og tilfinningar þeirra þróast í sterk ástar- og jafnvel fjölskyldubönd.  Tilgangur stríðsins verður sífellt fjarlægari samhliða því sem heimur mannanna verður sífellt minni og minni, eða allt þar til bardagar þeirra fara aðallega að verða barátta um að halda lífi.",
-    "genres": [
-      "Drama",
-      "Stríð"
-    ],
-    "duration_in_mins": 170,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=LCmlOhsIwBk",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-04T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379283/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Fullt hús",
     "id": 16655,
     "alt_title": "Grand Finale",
@@ -600,38 +537,6 @@
           "time": "2024-04-04T17:50:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819718/",
           "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Nightwatch: Demons Are Forever",
-    "id": 16719,
-    "alt_title": "Nattevagten - Dæmoner går i arv",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6318608",
-      "http://imdb.com/title/tt6318608"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-04T21:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/378940/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -668,6 +573,37 @@
     }
   },
   {
+    "title": "The Thin Red Line",
+    "id": 190,
+    "alt_title": "Kvikmyndadagar í Kringlunni - Stiklur!",
+    "release_year": 1998,
+    "poster_url": "https://kvikmyndir.is/images/poster/190_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0120863",
+      "http://imdb.com/title/tt0120863"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Myndin gerist í seinni heimsstyrjöldinni. Baráttan um eyjuna Guadalcanal mun hafa mikil áhrif á sókn Japana inn á Kyrrahafið. Hópur ungra bandarískra hermanna er sendur sem liðsauki á svæðið, til að hjálpa hermönnum sem orðnir eru úrvinda af þreytu eftir að hafa varið hernaðarlega mikilvægan flugvöll sem tryggir yfirráð yfir svæði sem er 1.000 mílur að radíus.  Ungu hermennirnir koma þarna inn í hreint helvíti, og hryllingur stríðsins þjappar hópnum saman, og tilfinningar þeirra þróast í sterk ástar- og jafnvel fjölskyldubönd.  Tilgangur stríðsins verður sífellt fjarlægari samhliða því sem heimur mannanna verður sífellt minni og minni, eða allt þar til bardagar þeirra fara aðallega að verða barátta um að halda lífi.",
+    "genres": [
+      "Drama",
+      "Stríð"
+    ],
+    "duration_in_mins": 170,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=LCmlOhsIwBk",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-04T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379283/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -694,6 +630,38 @@
           "time": "2024-04-04T15:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109639&visLang=1",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nightwatch: Demons Are Forever",
+    "id": 16719,
+    "alt_title": "Nattevagten - Dæmoner går i arv",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16719_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6318608",
+      "http://imdb.com/title/tt6318608"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Dóttir Martins, Emma, ​​hittir Wörmer sem er í einangrun í fangelsi. Það vekur hinn dæmda lögreglustjóra úr dái og hrindir af stað örlagaríkum atburðum.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir",
+      "Ráðgáta"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=cENU654Pa1A",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-04T21:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/378940/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -877,6 +845,38 @@
           "time": "2024-04-04T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5589",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "genres": [
+      "Drama",
+      "Stríð",
+      "Söguleg"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-04T21:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5581",
+          "hall": "Salur 1"
         }
       ]
     }
