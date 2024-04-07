@@ -276,13 +276,13 @@
       "Sambíóin Álfabakka": [
         {
           "time": "2024-04-07T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379632/",
-          "hall": "Salur 2"
+          "purchase_url": "http://www.sambio.is/websales/show/379439/",
+          "hall": "Salur A"
         },
         {
           "time": "2024-04-07T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379439/",
-          "hall": "Salur A"
+          "purchase_url": "http://www.sambio.is/websales/show/379632/",
+          "hall": "Salur 2"
         },
         {
           "time": "2024-04-07T15:10:00.000Z",
@@ -379,13 +379,8 @@
         },
         {
           "time": "2024-04-07T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109788&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-04-07T17:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109772&visLang=1",
-          "hall": "MAX"
+          "hall": "Salur 5"
         }
       ],
       "Sambíóin Keflavík": [
@@ -868,30 +863,127 @@
     }
   },
   {
-    "title": "Bob Marley: One Love",
-    "id": 16360,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt8521778",
-      "http://imdb.com/title/tt8521778"
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
     "genres": [
       "Drama",
       "Tónlist",
-      "Æviágrip"
+      "Teiknað"
     ],
-    "duration_in_mins": 0,
-    "language": [],
-    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
+    "duration_in_mins": 102,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-07T14:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5611",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Duran Duran: A Hollywood High",
+    "id": 16824,
+    "alt_title": "Leikstjórn",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/umsbv4mmcpsgiuqad2mrncswwzu-1711390536.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22474470",
+      "http://imdb.com/title/tt22474470"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Stórkostlegir tónleikar bresku popphljómsveitarinnar Duran Duran sem þeir héldu í Los Angeles nýlega eru hér sýndir í bíó í fyrsta skipti á Íslandi. Í myndinni eru ný viðtöl, kíkt er bakvið tjöldin og sýndar áður óséðar upptökur. Hljómsveitin fagnar hér 40 ára löngum ferli.",
+    "genres": [
+      "Tónlist",
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 72,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=9wks26xEaoc",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-04-07T18:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110089&visLang=1",
+          "hall": "MAX"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "genres": [
+      "Drama",
+      "Stríð",
+      "Söguleg"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-07T16:40:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5606",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wish",
+    "id": 16335,
+    "alt_title": "Ósk",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11304740",
+      "http://imdb.com/title/tt11304740"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-04-07T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379328/",
+          "time": "2024-04-07T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379394/",
           "hall": "Salur 3"
         }
       ]
@@ -923,6 +1015,38 @@
           "time": "2024-04-07T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5616",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Magda og töfraskógurinn",
+    "id": 16721,
+    "alt_title": "Mavka: The Forest Song",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6685538",
+      "http://imdb.com/title/tt6685538"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-07T13:15:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819743/",
+          "hall": "Salur A"
         }
       ]
     }
@@ -988,65 +1112,32 @@
     }
   },
   {
-    "title": "Magda og töfraskógurinn",
-    "id": 16721,
-    "alt_title": "Mavka: The Forest Song",
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt6685538",
-      "http://imdb.com/title/tt6685538"
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
     ],
     "content_rating": "Öllum leyfð",
-    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
+      "Fjölskylda",
       "Teiknað"
     ],
-    "duration_in_mins": 99,
+    "duration_in_mins": 90,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
     "cinema_showtimes": {
       "Laugarásbíó": [
         {
-          "time": "2024-04-07T13:15:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819743/",
+          "time": "2024-04-07T15:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819744/",
           "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Wish",
-    "id": 16335,
-    "alt_title": "Ósk",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11304740",
-      "http://imdb.com/title/tt11304740"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-07T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379394/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -1083,95 +1174,30 @@
     }
   },
   {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "title": "Bob Marley: One Love",
+    "id": 16360,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
+      "http://imdb.com/title/tt8521778",
+      "http://imdb.com/title/tt8521778"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
     "genres": [
       "Drama",
       "Tónlist",
-      "Teiknað"
+      "Æviágrip"
     ],
-    "duration_in_mins": 102,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "duration_in_mins": 0,
+    "language": [],
+    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-04-07T14:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5611",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-07T15:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819744/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-07T16:40:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5606",
+          "time": "2024-04-07T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379328/",
           "hall": "Salur 3"
         }
       ]
