@@ -155,23 +155,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-08T16:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109797&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-04-08T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109808&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-04-08T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109805&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-04-08T17:00:00.000Z",
@@ -203,87 +186,22 @@
           "hall": "Salur A"
         }
       ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-08T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109808&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-04-08T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109805&visLang=1",
+          "hall": "Salur 5"
+        }
+      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-04-08T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379747/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Kung Fu Panda 4",
-    "id": 16748,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21692408",
-      "http://imdb.com/title/tt21692408"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 94,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-04-08T14:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379437/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-08T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109802&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-08T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109795&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-08T17:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819755/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-08T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379341/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-04-08T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379337/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-08T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379693/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-08T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379720/",
           "hall": "Salur 2"
         }
       ]
@@ -359,6 +277,78 @@
     }
   },
   {
+    "title": "Kung Fu Panda 4",
+    "id": 16748,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21692408",
+      "http://imdb.com/title/tt21692408"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 94,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-04-08T14:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379437/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-08T17:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819755/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-08T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379341/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-04-08T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379337/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-08T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379693/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-08T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379720/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-08T17:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109795&visLang=1",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Monkey Man",
     "id": 16714,
     "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
@@ -380,12 +370,19 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Laugarásbíó": [
         {
-          "time": "2024-04-08T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109796&visLang=1",
-          "hall": "MAX"
+          "time": "2024-04-08T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819752/",
+          "hall": "AXL"
         },
+        {
+          "time": "2024-04-08T20:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819753/",
+          "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
         {
           "time": "2024-04-08T19:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109719&visLang=1",
@@ -405,18 +402,6 @@
           "time": "2024-04-08T22:20:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109716&visLang=1",
           "hall": "MAX"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-08T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819752/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-04-08T20:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819753/",
-          "hall": "AXL"
         }
       ],
       "Sambíóin Akureyri": [
@@ -451,18 +436,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-08T15:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109800&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-08T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109807&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-04-08T17:20:00.000Z",
@@ -485,6 +458,13 @@
           "time": "2024-04-08T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379680/",
           "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-08T20:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109807&visLang=1",
+          "hall": "Salur 4"
         }
       ],
       "Laugarásbíó": [
@@ -546,36 +526,6 @@
           "time": "2024-04-08T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379461/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-08T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5617",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -736,32 +686,31 @@
     }
   },
   {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
     "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Drama"
     ],
-    "duration_in_mins": 92,
+    "duration_in_mins": 123,
     "language": [
-      "Enska"
+      "Japanska"
     ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2024-04-08T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109803&visLang=1",
-          "hall": "Salur 4"
+          "time": "2024-04-08T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5617",
+          "hall": "Salur 3"
         }
       ]
     }
