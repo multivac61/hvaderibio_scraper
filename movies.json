@@ -100,28 +100,18 @@
           "hall": "Salur 4"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-08T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109794&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-04-08T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109809&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-08T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109806&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-08T20:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819758/",
           "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-08T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109806&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -186,23 +176,18 @@
           "hall": "Salur A"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-08T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109808&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-04-08T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109805&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-04-08T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379747/",
           "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-08T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109805&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -338,78 +323,6 @@
           "purchase_url": "http://www.sambio.is/websales/show/379720/",
           "hall": "Salur 2"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-08T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109795&visLang=1",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Monkey Man",
-    "id": 16714,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt9214772",
-      "http://imdb.com/title/tt9214772"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 121,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-08T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819752/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-04-08T20:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819753/",
-          "hall": "AXL"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-08T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109719&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-08T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109718&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-04-08T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109717&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-08T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109716&visLang=1",
-          "hall": "MAX"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-08T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379775/",
-          "hall": "Salur 1"
-        }
       ]
     }
   },
@@ -460,13 +373,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-08T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109807&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-08T21:00:00.000Z",
@@ -479,6 +385,61 @@
           "time": "2024-04-08T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379421/",
           "hall": "Ásberg"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monkey Man",
+    "id": 16714,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt9214772",
+      "http://imdb.com/title/tt9214772"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 121,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-08T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819752/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-04-08T20:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819753/",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-08T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379775/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-08T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109717&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-04-08T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109716&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -526,6 +487,36 @@
           "time": "2024-04-08T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379461/",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bob Marley: One Love",
+    "id": 16360,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt8521778",
+      "http://imdb.com/title/tt8521778"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 0,
+    "language": [],
+    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-08T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379325/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -681,36 +672,6 @@
           "time": "2024-04-08T19:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819756/",
           "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bob Marley: One Love",
-    "id": 16360,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt8521778",
-      "http://imdb.com/title/tt8521778"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 0,
-    "language": [],
-    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-08T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379325/",
-          "hall": "Salur 3"
         }
       ]
     }
