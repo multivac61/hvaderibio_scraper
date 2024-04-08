@@ -324,6 +324,13 @@
           "hall": "Salur 2"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-08T17:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819755/",
+          "hall": "Salur B"
+        }
+      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-04-08T17:00:00.000Z",
@@ -334,13 +341,6 @@
           "time": "2024-04-08T17:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379337/",
           "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-08T17:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819755/",
-          "hall": "Salur B"
         }
       ],
       "Sambíóin Egilshöll": [
@@ -418,18 +418,18 @@
           "hall": "Salur 3"
         }
       ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-04-08T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379421/",
-          "hall": "Ásberg"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-08T21:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819757/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-04-08T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379421/",
+          "hall": "Ásberg"
         }
       ]
     }
@@ -546,69 +546,6 @@
           "time": "2024-04-08T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379461/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Day After Tomorrow",
-    "id": 2837,
-    "alt_title": "Stjörnurnar sem kvöddu okkur á árinu",
-    "release_year": 2004,
-    "poster_url": "https://kvikmyndir.is/images/poster/day-1556212869.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0319262",
-      "http://imdb.com/title/tt0319262"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Jack Hall, sem er vísindamaður sem rannsakar veðrakerfi Jarðarinnar, telur að ný ísöld sé á næsta leyti, vegna hlýnunar Jarðar. Hann reynir að viðra efasemdir sínar á ráðstefnu þar sem varaforseti Bandaríkjanna er staddur. Þar sem skoðanir Hall geta skaðað ýmsa aðila sem styðja ríkisstjórnina, þá skýtur varaforsetinn á Hall, og gerir lítið úr rannsóknum hans. Annar vísindamaður á ráðstefnunni telur hinsvegar að Hall hafi eitthvað til síns máls. Þessi vísindamaður vinnur á veðurathugunarstöð og sér hvernig hlýnun Jarðar er að breyta veðrakerfunum. Hann talar við Hall, sem er undrandi og reynir að vara ríkisstjórina við, en varaforsetinn, vill ekki trúa honum frekar en fyrri daginn.  En þegar versnar í málunum, þá ráðleggur Hall forsetanum að flytja alla frá suðurhluta landsins þar til veðrið batnar. Á meðan þurfa þeir sem búa norðarlega að búa sig undir mikla kulda. Hall kemst að því að sonur hans er í New York þannig að hann telur hann á að vera innandyra þar til Hall kemst til að bjarga honum, en veðrið versnar hraðar en Hall bjóst við.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 124,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Ku_IseK3xTc",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-08T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377767/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-08T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109803&visLang=1",
-          "hall": "Salur 4"
         }
       ]
     }
@@ -737,6 +674,37 @@
     }
   },
   {
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-04-08T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109803&visLang=1",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Bob Marley: One Love",
     "id": 16360,
     "alt_title": "Pandan sigraði Dune",
@@ -762,6 +730,38 @@
           "time": "2024-04-08T19:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379325/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Day After Tomorrow",
+    "id": 2837,
+    "alt_title": "Stjörnurnar sem kvöddu okkur á árinu",
+    "release_year": 2004,
+    "poster_url": "https://kvikmyndir.is/images/poster/day-1556212869.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0319262",
+      "http://imdb.com/title/tt0319262"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Jack Hall, sem er vísindamaður sem rannsakar veðrakerfi Jarðarinnar, telur að ný ísöld sé á næsta leyti, vegna hlýnunar Jarðar. Hann reynir að viðra efasemdir sínar á ráðstefnu þar sem varaforseti Bandaríkjanna er staddur. Þar sem skoðanir Hall geta skaðað ýmsa aðila sem styðja ríkisstjórnina, þá skýtur varaforsetinn á Hall, og gerir lítið úr rannsóknum hans. Annar vísindamaður á ráðstefnunni telur hinsvegar að Hall hafi eitthvað til síns máls. Þessi vísindamaður vinnur á veðurathugunarstöð og sér hvernig hlýnun Jarðar er að breyta veðrakerfunum. Hann talar við Hall, sem er undrandi og reynir að vara ríkisstjórina við, en varaforsetinn, vill ekki trúa honum frekar en fyrri daginn.  En þegar versnar í málunum, þá ráðleggur Hall forsetanum að flytja alla frá suðurhluta landsins þar til veðrið batnar. Á meðan þurfa þeir sem búa norðarlega að búa sig undir mikla kulda. Hall kemst að því að sonur hans er í New York þannig að hann telur hann á að vera innandyra þar til Hall kemst til að bjarga honum, en veðrið versnar hraðar en Hall bjóst við.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 124,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Ku_IseK3xTc",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-08T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377767/",
+          "hall": "Salur 1"
         }
       ]
     }
