@@ -112,28 +112,18 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-09T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109825&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-04-09T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109830&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-09T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109833&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-09T20:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819762/",
           "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-09T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109833&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -223,11 +213,6 @@
         }
       ],
       "Smárabíó": [
-        {
-          "time": "2024-04-09T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109831&visLang=1",
-          "hall": "Salur 5"
-        },
         {
           "time": "2024-04-09T22:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109834&visLang=1",
@@ -320,71 +305,6 @@
     }
   },
   {
-    "title": "Monkey Man",
-    "id": 16714,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt9214772",
-      "http://imdb.com/title/tt9214772"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 121,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-09T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819759/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-04-09T20:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819760/",
-          "hall": "AXL"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-09T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109720&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-09T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109721&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-04-09T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109722&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-09T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109723&visLang=1",
-          "hall": "MAX"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-09T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379725/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Dune: Part Two",
     "id": 14478,
     "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
@@ -431,13 +351,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-09T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109832&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-09T21:00:00.000Z",
@@ -450,6 +363,61 @@
           "time": "2024-04-09T21:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379417/",
           "hall": "Ásberg"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monkey Man",
+    "id": 16714,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt9214772",
+      "http://imdb.com/title/tt9214772"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 121,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-09T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819759/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-04-09T20:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/819760/",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-09T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379725/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-09T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109722&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-04-09T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109723&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -508,13 +476,6 @@
           "time": "2024-04-09T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379697/",
           "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-09T17:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109824&visLang=1",
-          "hall": "Salur 2"
         }
       ]
     }
