@@ -105,18 +105,18 @@
           "hall": "Salur 2"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-11T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821162/",
-          "hall": "Salur B"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-04-11T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379733/",
           "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-11T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821162/",
+          "hall": "Salur B"
         }
       ]
     }
@@ -451,6 +451,13 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
     "cinema_showtimes": {
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-11T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379701/",
+          "hall": "Salur 1"
+        }
+      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-11T17:30:00.000Z",
@@ -461,13 +468,6 @@
           "time": "2024-04-11T20:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821149/",
           "hall": "Salur A"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-11T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379701/",
-          "hall": "Salur 1"
         }
       ],
       "Smárabíó": [
@@ -532,125 +532,32 @@
     }
   },
   {
-    "title": "Clueless",
-    "id": 573,
-    "alt_title": "10 ómissandi bíómyndir í hrekkjavökustíl",
-    "release_year": 1995,
-    "poster_url": "https://kvikmyndir.is/images/poster/573_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0112697",
-      "http://imdb.com/title/tt0112697",
-      "https://www.themoviedb.org/tv/9603"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Cher er menntaskólastúlka í Beverly Hills, og þarf að glíma við hin ýmsu vandamál er fylgja því að vera unglingur. Ytra útlit hennar bendir til þess að hún sé mjög yfirborðsleg, en í raun felur það bara þá staðreynd að hún er snjöll, aðlaðandi og klár, sem allt hjálpar henni að fást við sambönd, vini, fjölskyldu, skólann og samkvæmislíf táningsins.",
-    "genres": [
-      "Gaman",
-      "Rómantík"
-    ],
-    "duration_in_mins": 97,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=yHDcD_xhwAo",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-04-11T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/370749/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Fullt hús",
-    "id": 16655,
-    "alt_title": "Grand Finale",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27581865",
-      "http://imdb.com/title/tt27581865"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-11T17:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821136/",
-          "hall": "AXL"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bob Marley: One Love",
-    "id": 16360,
+    "title": "All of Us Strangers",
+    "id": 16456,
     "alt_title": "Pandan sigraði Dune",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt8521778",
-      "http://imdb.com/title/tt8521778"
+      "http://imdb.com/title/tt21192142",
+      "http://imdb.com/title/tt21192142"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
     "genres": [
       "Drama",
-      "Tónlist",
-      "Æviágrip"
+      "Ævintýri"
     ],
-    "duration_in_mins": 0,
-    "language": [],
-    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-11T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379399/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "A Shot in the Dark",
-    "id": 2954,
-    "alt_title": "Pink Panther 2",
-    "release_year": 1964,
-    "poster_url": "https://kvikmyndir.is/images/poster/2954_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0058586",
-      "http://imdb.com/title/tt0058586",
-      "https://www.themoviedb.org/tv/1594"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Morðin hlaðast upp og hinn gullfallega Maria virðist vera sökudólgurinn en Clouseau lögregluforingja er algerlega fyrirmunað að koma auga á það, yfirmanni hans til mikillar armæðu.",
-    "genres": [
-      "Gaman",
-      "Ráðgáta"
-    ],
-    "duration_in_mins": 102,
+    "duration_in_mins": 105,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=v8K1e2hxqs4",
+    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2024-04-11T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106853&visLang=1",
-          "hall": "MAX"
+          "time": "2024-04-11T19:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5639",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -687,6 +594,68 @@
     }
   },
   {
+    "title": "Fullt hús",
+    "id": 16655,
+    "alt_title": "Grand Finale",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/fullt-hus-vefposter-1704115567.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27581865",
+      "http://imdb.com/title/tt27581865"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Kammersveit í kröggum er að fara á hausinn. Það er gripið til örþrifaráða til að halda góða tónleika. Heimsfrægur sellóleikari er ráðinn til að spila með þeim en hans innri maður er ekki eins glansandi fínn og hans opinbera persóna. Sellóleikarinn spillir sveitinni allri og dregur þau enn neðar í svaðið.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lgupIsbMTMw",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-11T17:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821136/",
+          "hall": "AXL"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Clueless",
+    "id": 573,
+    "alt_title": "10 ómissandi bíómyndir í hrekkjavökustíl",
+    "release_year": 1995,
+    "poster_url": "https://kvikmyndir.is/images/poster/573_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0112697",
+      "http://imdb.com/title/tt0112697",
+      "https://www.themoviedb.org/tv/9603"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Cher er menntaskólastúlka í Beverly Hills, og þarf að glíma við hin ýmsu vandamál er fylgja því að vera unglingur. Ytra útlit hennar bendir til þess að hún sé mjög yfirborðsleg, en í raun felur það bara þá staðreynd að hún er snjöll, aðlaðandi og klár, sem allt hjálpar henni að fást við sambönd, vini, fjölskyldu, skólann og samkvæmislíf táningsins.",
+    "genres": [
+      "Gaman",
+      "Rómantík"
+    ],
+    "duration_in_mins": 97,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=yHDcD_xhwAo",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-04-11T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/370749/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Perfect Days",
     "id": 16762,
     "alt_title": "Leikstjórn",
@@ -711,6 +680,36 @@
         {
           "time": "2024-04-11T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5638",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bob Marley: One Love",
+    "id": 16360,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt8521778",
+      "http://imdb.com/title/tt8521778"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 0,
+    "language": [],
+    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-11T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379399/",
           "hall": "Salur 3"
         }
       ]
@@ -747,32 +746,33 @@
     }
   },
   {
-    "title": "All of Us Strangers",
-    "id": 16456,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
+    "title": "A Shot in the Dark",
+    "id": 2954,
+    "alt_title": "Pink Panther 2",
+    "release_year": 1964,
+    "poster_url": "https://kvikmyndir.is/images/poster/2954_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt21192142",
-      "http://imdb.com/title/tt21192142"
+      "http://imdb.com/title/tt0058586",
+      "http://imdb.com/title/tt0058586",
+      "https://www.themoviedb.org/tv/1594"
     ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
+    "content_rating": "Öllum leyfð",
+    "description": "Morðin hlaðast upp og hinn gullfallega Maria virðist vera sökudólgurinn en Clouseau lögregluforingja er algerlega fyrirmunað að koma auga á það, yfirmanni hans til mikillar armæðu.",
     "genres": [
-      "Drama",
-      "Ævintýri"
+      "Gaman",
+      "Ráðgáta"
     ],
-    "duration_in_mins": 105,
+    "duration_in_mins": 102,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    "trailer_url": "https://www.youtube.com/watch?v=v8K1e2hxqs4",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Smárabíó": [
         {
-          "time": "2024-04-11T19:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5639",
-          "hall": "Salur 3"
+          "time": "2024-04-11T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=106853&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
