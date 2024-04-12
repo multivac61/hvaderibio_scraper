@@ -190,23 +190,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-12T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380045/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-04-12T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380043/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-04-12T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380044/",
-          "hall": "Salur 1"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-12T17:40:00.000Z",
@@ -222,6 +205,23 @@
           "time": "2024-04-12T22:20:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/820653/",
           "hall": "AXL"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-12T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380045/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-04-12T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380043/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-04-12T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380044/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -714,36 +714,6 @@
     }
   },
   {
-    "title": "Bob Marley: One Love",
-    "id": 16360,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt8521778",
-      "http://imdb.com/title/tt8521778"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 0,
-    "language": [],
-    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-12T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379789/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -770,6 +740,36 @@
           "time": "2024-04-12T15:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109891&visLang=1",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bob Marley: One Love",
+    "id": 16360,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt8521778",
+      "http://imdb.com/title/tt8521778"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 0,
+    "language": [],
+    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-12T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379789/",
+          "hall": "Salur B"
         }
       ]
     }
