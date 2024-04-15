@@ -148,33 +148,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-15T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109935&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-04-15T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109952&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-15T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109950&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-04-15T21:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109948&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-15T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109946&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-15T18:00:00.000Z",
@@ -185,6 +158,18 @@
           "time": "2024-04-15T20:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821142/",
           "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-15T21:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109948&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-04-15T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109946&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -251,11 +236,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-04-15T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109958&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
           "time": "2024-04-15T22:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109944&visLang=1",
           "hall": "Salur 5"
@@ -315,22 +295,66 @@
           "hall": "Salur 4"
         }
       ],
-      "Smárabíó": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-04-15T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109949&visLang=1",
-          "hall": "Salur 4"
-        },
+          "time": "2024-04-15T21:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379898/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
         {
           "time": "2024-04-15T22:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109947&visLang=1",
           "hall": "Salur 4"
         }
-      ],
-      "Sambíóin Kringlunni": [
+      ]
+    }
+  },
+  {
+    "title": "Dune: Part Two",
+    "id": 14478,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15239678",
+      "http://imdb.com/title/tt15239678"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 166,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-15T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379413/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-04-15T20:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379414/",
+          "hall": "Salur 3"
+        },
         {
           "time": "2024-04-15T21:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379898/",
+          "purchase_url": "http://www.sambio.is/websales/show/379804/",
+          "hall": "Lúxus VIP"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-15T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380070/",
           "hall": "Salur 3"
         }
       ]
@@ -407,18 +431,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-15T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109951&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-15T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109945&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-15T20:00:00.000Z",
@@ -432,54 +444,12 @@
           "purchase_url": "http://www.sambio.is/websales/show/380171/",
           "hall": "Salur 2"
         }
-      ]
-    }
-  },
-  {
-    "title": "Dune: Part Two",
-    "id": 14478,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15239678",
-      "http://imdb.com/title/tt15239678"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 166,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-15T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379413/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-04-15T20:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379414/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-04-15T21:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379804/",
-          "hall": "Lúxus VIP"
-        }
       ],
-      "Sambíóin Egilshöll": [
+      "Smárabíó": [
         {
-          "time": "2024-04-15T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380070/",
-          "hall": "Salur 3"
+          "time": "2024-04-15T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109945&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -573,37 +543,6 @@
     }
   },
   {
-    "title": "Silent Movie",
-    "id": 6350,
-    "alt_title": "Leikstjórn",
-    "release_year": 1976,
-    "poster_url": "https://kvikmyndir.is/images/poster/6350_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0075222",
-      "http://imdb.com/title/tt0075222",
-      "https://www.themoviedb.org/tv/10970"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Kvikmyndaleikstjóri og skrítnir vinir hans reyna að framleiða fyrstu stóru kvikmyndina án tals í fjörutíu ár.",
-    "genres": [
-      "Gaman"
-    ],
-    "duration_in_mins": 87,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ph6GIWOCiO8",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-04-15T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/375407/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Anatomy of a Fall",
     "id": 16545,
     "alt_title": "Anatomie d'une chute",
@@ -636,6 +575,37 @@
     }
   },
   {
+    "title": "Silent Movie",
+    "id": 6350,
+    "alt_title": "Leikstjórn",
+    "release_year": 1976,
+    "poster_url": "https://kvikmyndir.is/images/poster/6350_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0075222",
+      "http://imdb.com/title/tt0075222",
+      "https://www.themoviedb.org/tv/10970"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Kvikmyndaleikstjóri og skrítnir vinir hans reyna að framleiða fyrstu stóru kvikmyndina án tals í fjörutíu ár.",
+    "genres": [
+      "Gaman"
+    ],
+    "duration_in_mins": 87,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ph6GIWOCiO8",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-04-15T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/375407/",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Teachers’ Lounge",
     "id": 16755,
     "alt_title": "Das Lehrerzimmer",
@@ -660,6 +630,38 @@
         {
           "time": "2024-04-15T16:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5681",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "genres": [
+      "Drama",
+      "Stríð",
+      "Söguleg"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-15T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5665",
           "hall": "Salur 2"
         }
       ]
@@ -729,38 +731,6 @@
     }
   },
   {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-15T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5665",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Bob Marley: One Love",
     "id": 16360,
     "alt_title": "Pandan sigraði Dune",
@@ -786,38 +756,6 @@
           "time": "2024-04-15T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/379792/",
           "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Lupin III: The Castle of Cagliostro",
-    "id": 16830,
-    "alt_title": "Rupan sansei: Kariosutoro no shiro",
-    "release_year": 1979,
-    "poster_url": "https://kvikmyndir.is/images/poster/16830_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0079833",
-      "http://imdb.com/title/tt0079833"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Vel heppnað rán meistaraþjófsins Lupin hins þriðja og félaga hans Jigen skilar engu nema vel fölsuðum seðlum. Þeir ákveða því að reyna að finna falsarana og stela öllum öðrum verðmætum úr Cagliostro kastala, þar á meðal konu sem þar er haldið fanginni.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=kwGfutnmyUQ",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-15T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110160&visLang=1",
-          "hall": "Salur 2"
         }
       ]
     }
