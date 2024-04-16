@@ -481,18 +481,18 @@
           "hall": "Lúxus VIP"
         }
       ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-16T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380072/",
-          "hall": "Salur 3"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-04-16T20:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380165/",
           "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-16T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380072/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -551,6 +551,48 @@
     }
   },
   {
+    "title": "One Life",
+    "id": 16697,
+    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13097932",
+      "http://imdb.com/title/tt13097932"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-04-16T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379884/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-16T16:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379874/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-16T18:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379886/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Monkey Man",
     "id": 16714,
     "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
@@ -594,43 +636,32 @@
     }
   },
   {
-    "title": "One Life",
-    "id": 16697,
-    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13097932",
-      "http://imdb.com/title/tt13097932"
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
     "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
     ],
-    "duration_in_mins": 110,
+    "duration_in_mins": 92,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Smárabíó": [
         {
-          "time": "2024-04-16T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379884/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-16T16:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379874/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-16T18:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379886/",
-          "hall": "Salur 2"
+          "time": "2024-04-16T15:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109974&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -661,69 +692,6 @@
           "time": "2024-04-16T17:50:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821179/",
           "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Lupin III: The Castle of Cagliostro",
-    "id": 16830,
-    "alt_title": "Rupan sansei: Kariosutoro no shiro",
-    "release_year": 1979,
-    "poster_url": "https://kvikmyndir.is/images/poster/16830_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0079833",
-      "http://imdb.com/title/tt0079833"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Vel heppnað rán meistaraþjófsins Lupin hins þriðja og félaga hans Jigen skilar engu nema vel fölsuðum seðlum. Þeir ákveða því að reyna að finna falsarana og stela öllum öðrum verðmætum úr Cagliostro kastala, þar á meðal konu sem þar er haldið fanginni.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 100,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=kwGfutnmyUQ",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-16T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110161&visLang=1",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-16T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109974&visLang=1",
-          "hall": "MAX"
         }
       ]
     }
@@ -909,6 +877,36 @@
     }
   },
   {
+    "title": "Bob Marley: One Love",
+    "id": 16360,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt8521778",
+      "http://imdb.com/title/tt8521778"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 0,
+    "language": [],
+    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-16T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379793/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Teachers’ Lounge",
     "id": 16755,
     "alt_title": "Das Lehrerzimmer",
@@ -933,6 +931,38 @@
         {
           "time": "2024-04-16T16:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5688",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Lupin III: The Castle of Cagliostro",
+    "id": 16830,
+    "alt_title": "Rupan sansei: Kariosutoro no shiro",
+    "release_year": 1979,
+    "poster_url": "https://kvikmyndir.is/images/poster/16830_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0079833",
+      "http://imdb.com/title/tt0079833"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Vel heppnað rán meistaraþjófsins Lupin hins þriðja og félaga hans Jigen skilar engu nema vel fölsuðum seðlum. Þeir ákveða því að reyna að finna falsarana og stela öllum öðrum verðmætum úr Cagliostro kastala, þar á meðal konu sem þar er haldið fanginni.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 100,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=kwGfutnmyUQ",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-04-16T17:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110161&visLang=1",
           "hall": "Salur 2"
         }
       ]
@@ -966,36 +996,6 @@
           "time": "2024-04-16T16:50:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5671",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bob Marley: One Love",
-    "id": 16360,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16360_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt8521778",
-      "http://imdb.com/title/tt8521778"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Mynd um líf og störf hins goðsagnakennda reggí tónlistarmanns Bob Marley.",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 0,
-    "language": [],
-    "trailer_url": "https://www.youtube.com/watch?v=ajw425Kuvtw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-16T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379793/",
-          "hall": "Salur B"
         }
       ]
     }
