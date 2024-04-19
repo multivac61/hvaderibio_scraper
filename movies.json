@@ -76,6 +76,13 @@
           "hall": "Salur 1"
         }
       ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-19T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380870/",
+          "hall": "Salur 2"
+        }
+      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-19T17:30:00.000Z",
@@ -86,13 +93,6 @@
           "time": "2024-04-19T22:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821972/",
           "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-19T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380870/",
-          "hall": "Salur 2"
         }
       ],
       "Sambíóin Keflavík": [
@@ -600,6 +600,48 @@
     }
   },
   {
+    "title": "One Life",
+    "id": 16697,
+    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13097932",
+      "http://imdb.com/title/tt13097932"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-04-19T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380484/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-19T16:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380485/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-19T18:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380486/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "10 líf",
     "id": 16787,
     "alt_title": "10 Lives",
@@ -644,48 +686,6 @@
     }
   },
   {
-    "title": "One Life",
-    "id": 16697,
-    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13097932",
-      "http://imdb.com/title/tt13097932"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-04-19T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380484/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-19T16:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380485/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-19T18:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380486/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Ghostbusters: Frozen Empire",
     "id": 16642,
     "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
@@ -724,38 +724,6 @@
           "time": "2024-04-19T17:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380281/",
           "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tölum um Endó",
-    "id": 16859,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 59,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-19T16:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5704",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-19T16:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5704",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -836,6 +804,38 @@
     }
   },
   {
+    "title": "Tölum um Endó",
+    "id": 16859,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 59,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-19T16:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5704",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-19T16:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5704",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Dune: Part Two",
     "id": 14478,
     "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
@@ -867,36 +867,6 @@
         {
           "time": "2024-04-19T20:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380211/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-19T16:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5726",
           "hall": "Salur 3"
         }
       ]
@@ -936,6 +906,66 @@
     }
   },
   {
+    "title": "Budda. Dzieciak '98",
+    "id": 16845,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/9kjoow1cmfxn80e4ebbmf5ulciv-1712429248.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt31867917",
+      "http://imdb.com/title/tt31867917"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Pólska YouTube stjarnan Kamil Labudda talar um hvatningu og segir að allir geti eignast Lamborghini bifreið ef þeir bara vilja.  Labudda er frá Kraká og ólst þar upp við erfiðar aðstæður. Faðir hans var alkóhólisti og mamma hans rak Labudda að heiman þegar hann var 18 ára.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 83,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fLB8tg1QcJQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-19T19:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5673",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Daughters",
+    "id": 16300,
+    "alt_title": "Les filles d'Olfa",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27502426",
+      "http://imdb.com/title/tt27502426"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Arabíska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-19T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5708",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Bestu vinir",
     "id": 16577,
     "alt_title": "The Inseparables",
@@ -962,6 +992,36 @@
           "time": "2024-04-19T15:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821969/",
           "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-19T16:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5726",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -1086,66 +1146,6 @@
         {
           "time": "2024-04-19T21:10:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5709",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Budda. Dzieciak '98",
-    "id": 16845,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/9kjoow1cmfxn80e4ebbmf5ulciv-1712429248.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt31867917",
-      "http://imdb.com/title/tt31867917"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Pólska YouTube stjarnan Kamil Labudda talar um hvatningu og segir að allir geti eignast Lamborghini bifreið ef þeir bara vilja.  Labudda er frá Kraká og ólst þar upp við erfiðar aðstæður. Faðir hans var alkóhólisti og mamma hans rak Labudda að heiman þegar hann var 18 ára.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 83,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fLB8tg1QcJQ",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-19T19:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5673",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Four Daughters",
-    "id": 16300,
-    "alt_title": "Les filles d'Olfa",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27502426",
-      "http://imdb.com/title/tt27502426"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Arabíska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-19T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5708",
           "hall": "Salur 3"
         }
       ]
