@@ -393,6 +393,60 @@
     }
   },
   {
+    "title": "Bastarden",
+    "id": 16575,
+    "alt_title": "The Promised Land",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16575_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20561198",
+      "http://imdb.com/title/tt20561198"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Fátækur hermaður, Ludvig Kahlen að nafni, kemur árið 1755 á heiðar Jótlands með eitt markmið: að hlýða skipan konungs og rækta landið og efnast á því sjálfur. En Kahlen eignast fljótt óvin. Það er hinn miskunnarlausi landeigandi Frederik De Schinkel, en hann telur sig eiga heiðarlöndin en ekki konung. Þegar þræll De Schinkel flýr ásamt eiginkonunni Ann Barbara og leitar skjóls hjá Kahlen, þá gerir landeigandinn allt sem hann getur til að koma Kahlen í burtu, og skipuleggur í leiðinni grimmilega hefnd. Kahlen berst á móti og tekur með því mikla áhættu.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 127,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-04-19T16:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380511/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-04-19T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380512/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-04-19T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380513/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-19T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5703",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-04-19T19:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5676",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Godzilla x Kong: The New Empire",
     "id": 16688,
     "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
@@ -446,60 +500,6 @@
           "time": "2024-04-19T21:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380543/",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bastarden",
-    "id": 16575,
-    "alt_title": "The Promised Land",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16575_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20561198",
-      "http://imdb.com/title/tt20561198"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Fátækur hermaður, Ludvig Kahlen að nafni, kemur árið 1755 á heiðar Jótlands með eitt markmið: að hlýða skipan konungs og rækta landið og efnast á því sjálfur. En Kahlen eignast fljótt óvin. Það er hinn miskunnarlausi landeigandi Frederik De Schinkel, en hann telur sig eiga heiðarlöndin en ekki konung. Þegar þræll De Schinkel flýr ásamt eiginkonunni Ann Barbara og leitar skjóls hjá Kahlen, þá gerir landeigandinn allt sem hann getur til að koma Kahlen í burtu, og skipuleggur í leiðinni grimmilega hefnd. Kahlen berst á móti og tekur með því mikla áhættu.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 127,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-04-19T16:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380511/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-04-19T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380512/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-04-19T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380513/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-19T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5703",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-04-19T19:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5676",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -594,6 +594,43 @@
         {
           "time": "2024-04-19T18:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380486/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The First Omen",
+    "id": 16631,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5672290",
+      "http://imdb.com/title/tt5672290"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 120,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-19T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380186/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-19T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380304/",
           "hall": "Salur 2"
         }
       ]
@@ -707,38 +744,155 @@
     }
   },
   {
-    "title": "The First Omen",
-    "id": 16631,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt5672290",
-      "http://imdb.com/title/tt5672290"
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
     "genres": [
-      "Hrollvekja"
+      "Drama",
+      "Stríð",
+      "Söguleg"
     ],
-    "duration_in_mins": 120,
+    "duration_in_mins": 105,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-19T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5709",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Budda. Dzieciak '98",
+    "id": 16845,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/9kjoow1cmfxn80e4ebbmf5ulciv-1712429248.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt31867917",
+      "http://imdb.com/title/tt31867917"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Pólska YouTube stjarnan Kamil Labudda talar um hvatningu og segir að allir geti eignast Lamborghini bifreið ef þeir bara vilja.  Labudda er frá Kraká og ólst þar upp við erfiðar aðstæður. Faðir hans var alkóhólisti og mamma hans rak Labudda að heiman þegar hann var 18 ára.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 83,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fLB8tg1QcJQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-19T19:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5673",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Laugarásbíó": [
         {
-          "time": "2024-04-19T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380186/",
-          "hall": "Salur 4"
+          "time": "2024-04-19T15:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821969/",
+          "hall": "Salur B"
         }
-      ],
+      ]
+    }
+  },
+  {
+    "title": "Ghostbusters: Frozen Empire",
+    "id": 16642,
+    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1748039_500-1709425892.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21235248",
+      "http://imdb.com/title/tt21235248"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Spengler fjölskyldan snýr aftur til upprunans, þar sem þetta byrjaði allt saman, slökkvistöðvarinnar í New York. Þar hitta þau upprunalegu Draugabanana sem hafa þróað háleynilega rannsóknarstofu sem mun færa draugaveiðar upp á næsta stig. En þegar uppgötvun á aldagömlum helgigrip leysir úr læðingi illan anda þurfa gamlir og nýir Draugabanar að taka höndum saman til að vernda heimili sín og bjarga heiminum frá nýrri ísöld.",
+    "genres": [
+      "Gaman",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 125,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6hjlyknlTaw",
+    "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-04-19T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380304/",
-          "hall": "Salur 2"
+          "time": "2024-04-19T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380281/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Daughters",
+    "id": 16300,
+    "alt_title": "Les filles d'Olfa",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27502426",
+      "http://imdb.com/title/tt27502426"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Arabíska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-19T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5708",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -927,160 +1081,6 @@
           "time": "2024-04-19T22:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5706",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-19T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5709",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Budda. Dzieciak '98",
-    "id": 16845,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/9kjoow1cmfxn80e4ebbmf5ulciv-1712429248.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt31867917",
-      "http://imdb.com/title/tt31867917"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Pólska YouTube stjarnan Kamil Labudda talar um hvatningu og segir að allir geti eignast Lamborghini bifreið ef þeir bara vilja.  Labudda er frá Kraká og ólst þar upp við erfiðar aðstæður. Faðir hans var alkóhólisti og mamma hans rak Labudda að heiman þegar hann var 18 ára.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 83,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fLB8tg1QcJQ",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-19T19:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5673",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-19T15:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821969/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Ghostbusters: Frozen Empire",
-    "id": 16642,
-    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1748039_500-1709425892.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21235248",
-      "http://imdb.com/title/tt21235248"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Spengler fjölskyldan snýr aftur til upprunans, þar sem þetta byrjaði allt saman, slökkvistöðvarinnar í New York. Þar hitta þau upprunalegu Draugabanana sem hafa þróað háleynilega rannsóknarstofu sem mun færa draugaveiðar upp á næsta stig. En þegar uppgötvun á aldagömlum helgigrip leysir úr læðingi illan anda þurfa gamlir og nýir Draugabanar að taka höndum saman til að vernda heimili sín og bjarga heiminum frá nýrri ísöld.",
-    "genres": [
-      "Gaman",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 125,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6hjlyknlTaw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-19T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380281/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Four Daughters",
-    "id": 16300,
-    "alt_title": "Les filles d'Olfa",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27502426",
-      "http://imdb.com/title/tt27502426"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Arabíska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-19T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5708",
-          "hall": "Salur 3"
         }
       ]
     }
