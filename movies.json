@@ -34,23 +34,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-20T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110109&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-04-20T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110105&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-04-20T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110117&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-04-20T20:00:00.000Z",
@@ -61,6 +44,13 @@
           "time": "2024-04-20T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380713/",
           "hall": "Salur 3"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-20T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110117&visLang=1",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -176,197 +166,6 @@
     }
   },
   {
-    "title": "Civil War",
-    "id": 16643,
-    "alt_title": "Borgarastríðið braut sér leið á toppinn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17279496",
-      "http://imdb.com/title/tt17279496"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
-    "genres": [
-      "Spenna",
-      "Drama"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-20T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380742/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-20T15:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380743/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-20T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380733/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-20T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380734/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-20T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380735/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-20T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380849/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-04-20T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380850/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-20T17:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821976/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-04-20T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821977/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-04-20T22:20:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821978/",
-          "hall": "Salur A"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-20T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110107&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-20T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110104&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-04-20T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110381&visLang=1",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Abigail",
-    "id": 16700,
-    "alt_title": "Nýtt í bíó - Þorsti, Dronningen, Zombieland Double Tap og Addams Family",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16700_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27489557",
-      "http://imdb.com/title/tt27489557"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Eftir að glæpamenn ræna tólf ára gamalli ballerínu, dóttur valdamikils aðila úr undirheimunum, er það eina sem þeir þurfa að gera til að innheimta 50 milljóna bandaríkjadala lausnargjald að passa vel upp á stúlkuna eitt kvöld. Henni er haldið í afskekktu húsi uppi í sveit en þegar ræningjunum fer að fækka, einum af öðrum, uppgötva þeir sér til mikillar skelfingar að litla stúlkan er allt annað en venjuleg.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3PsP8MFH8p0",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-20T17:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821974/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-04-20T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821484/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-04-20T22:20:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821485/",
-          "hall": "AXL"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-20T19:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380889/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-04-20T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380890/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-20T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380364/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-04-20T21:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380445/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2024-04-20T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380372/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-20T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110103&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-20T21:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110102&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-20T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110119&visLang=1",
-          "hall": "MAX"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-04-20T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380008/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Kung Fu Panda 4",
     "id": 16748,
     "alt_title": "Borgarastríðið braut sér leið á toppinn",
@@ -464,6 +263,182 @@
     }
   },
   {
+    "title": "Abigail",
+    "id": 16700,
+    "alt_title": "Nýtt í bíó - Þorsti, Dronningen, Zombieland Double Tap og Addams Family",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16700_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27489557",
+      "http://imdb.com/title/tt27489557"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Eftir að glæpamenn ræna tólf ára gamalli ballerínu, dóttur valdamikils aðila úr undirheimunum, er það eina sem þeir þurfa að gera til að innheimta 50 milljóna bandaríkjadala lausnargjald að passa vel upp á stúlkuna eitt kvöld. Henni er haldið í afskekktu húsi uppi í sveit en þegar ræningjunum fer að fækka, einum af öðrum, uppgötva þeir sér til mikillar skelfingar að litla stúlkan er allt annað en venjuleg.",
+    "genres": [
+      "Hrollvekja",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 109,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3PsP8MFH8p0",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-20T17:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821974/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-04-20T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821484/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-04-20T22:20:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821485/",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-20T19:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380889/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-04-20T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380890/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-20T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380364/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-04-20T21:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380445/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-04-20T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380372/",
+          "hall": "Salur B"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-20T21:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110102&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-04-20T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110119&visLang=1",
+          "hall": "MAX"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-04-20T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380008/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Civil War",
+    "id": 16643,
+    "alt_title": "Borgarastríðið braut sér leið á toppinn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17279496",
+      "http://imdb.com/title/tt17279496"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
+    "genres": [
+      "Spenna",
+      "Drama"
+    ],
+    "duration_in_mins": 109,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-20T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380742/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-20T15:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380743/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-20T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380733/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-20T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380734/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-20T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380735/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-20T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380849/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-04-20T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380850/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-20T17:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821976/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-04-20T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821977/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-04-20T22:20:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821978/",
+          "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-20T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110381&visLang=1",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Knox Goes Away",
     "id": 16751,
     "alt_title": "Leikstjórn",
@@ -545,68 +520,6 @@
     }
   },
   {
-    "title": "Ghostbusters: Frozen Empire",
-    "id": 16642,
-    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1748039_500-1709425892.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21235248",
-      "http://imdb.com/title/tt21235248"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Spengler fjölskyldan snýr aftur til upprunans, þar sem þetta byrjaði allt saman, slökkvistöðvarinnar í New York. Þar hitta þau upprunalegu Draugabanana sem hafa þróað háleynilega rannsóknarstofu sem mun færa draugaveiðar upp á næsta stig. En þegar uppgötvun á aldagömlum helgigrip leysir úr læðingi illan anda þurfa gamlir og nýir Draugabanar að taka höndum saman til að vernda heimili sín og bjarga heiminum frá nýrri ísöld.",
-    "genres": [
-      "Gaman",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 125,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6hjlyknlTaw",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-20T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380709/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-20T14:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380283/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-04-20T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380282/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-04-20T14:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379993/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-04-20T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/379994/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-20T18:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110380&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
     "title": "Godzilla x Kong: The New Empire",
     "id": 16688,
     "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
@@ -663,6 +576,61 @@
           "time": "2024-04-20T17:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380807/",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ghostbusters: Frozen Empire",
+    "id": 16642,
+    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1748039_500-1709425892.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21235248",
+      "http://imdb.com/title/tt21235248"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Spengler fjölskyldan snýr aftur til upprunans, þar sem þetta byrjaði allt saman, slökkvistöðvarinnar í New York. Þar hitta þau upprunalegu Draugabanana sem hafa þróað háleynilega rannsóknarstofu sem mun færa draugaveiðar upp á næsta stig. En þegar uppgötvun á aldagömlum helgigrip leysir úr læðingi illan anda þurfa gamlir og nýir Draugabanar að taka höndum saman til að vernda heimili sín og bjarga heiminum frá nýrri ísöld.",
+    "genres": [
+      "Gaman",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 125,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6hjlyknlTaw",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-20T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380709/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-20T14:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380283/",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-04-20T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380282/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-04-20T14:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379993/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-04-20T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/379994/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -739,13 +707,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-20T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110110&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-04-20T18:40:00.000Z",
@@ -804,82 +765,6 @@
         {
           "time": "2024-04-20T18:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380480/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 88,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-20T13:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821983/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-04-20T15:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821973/",
-          "hall": "AXL"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-20T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110108&visLang=1",
-          "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tölum um Endó",
-    "id": 16859,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 59,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-20T18:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5715",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-20T18:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5715",
           "hall": "Salur 2"
         }
       ]
@@ -962,6 +847,43 @@
     }
   },
   {
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 88,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-20T13:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821983/",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-04-20T15:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821973/",
+          "hall": "AXL"
+        }
+      ]
+    }
+  },
+  {
     "title": "The First Omen",
     "id": 16631,
     "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
@@ -999,30 +921,32 @@
     }
   },
   {
-    "title": "Four Daughters",
-    "id": 16300,
-    "alt_title": "Les filles d'Olfa",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27502426",
-      "http://imdb.com/title/tt27502426"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
+    "title": "Tölum um Endó",
+    "id": 16859,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
     "genres": [
-      "Heimildarmynd"
+      "Heimildarmynd",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 107,
+    "duration_in_mins": 59,
     "language": [
-      "Arabíska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-04-20T19:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5714",
+          "time": "2024-04-20T18:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5715",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-20T18:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5715",
           "hall": "Salur 2"
         }
       ]
@@ -1339,6 +1263,36 @@
           "time": "2024-04-20T21:15:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5674",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Daughters",
+    "id": 16300,
+    "alt_title": "Les filles d'Olfa",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27502426",
+      "http://imdb.com/title/tt27502426"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Arabíska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-20T19:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5714",
+          "hall": "Salur 2"
         }
       ]
     }
