@@ -327,6 +327,18 @@
           "hall": "Salur 4"
         }
       ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-21T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380825/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-21T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380826/",
+          "hall": "Salur 1"
+        }
+      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-04-21T13:00:00.000Z",
@@ -342,18 +354,6 @@
           "time": "2024-04-21T17:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380238/",
           "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-21T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380825/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-21T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380826/",
-          "hall": "Salur 1"
         }
       ],
       "Laugarásbíó": [
@@ -951,6 +951,43 @@
     }
   },
   {
+    "title": "The First Omen",
+    "id": 16631,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5672290",
+      "http://imdb.com/title/tt5672290"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 120,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-21T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380771/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-21T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380306/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Monkey Man",
     "id": 16714,
     "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
@@ -1028,38 +1065,158 @@
     }
   },
   {
-    "title": "The First Omen",
-    "id": 16631,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
+    "title": "Morðsaga",
+    "id": 3916,
+    "alt_title": "Story of a Crime",
+    "release_year": 1977,
+    "poster_url": "https://kvikmyndir.is/images/poster/3916_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt5672290",
-      "http://imdb.com/title/tt5672290"
+      "http://imdb.com/title/tt0447672",
+      "http://imdb.com/title/tt0447672",
+      "https://www.themoviedb.org/tv/163249"
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
+    "description": "Mynd sem greinir frá hroðalegum atburði í lífi velstæðrar fjölskyldu. Fjölskyldufaðirinn fær ekki ráðið við ómótstæðilega girnd sem dóttirin vekur í brjósti hans.",
     "genres": [
-      "Hrollvekja"
+      "Spenna",
+      "Drama",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 120,
+    "duration_in_mins": 90,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-21T17:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4764",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
     "cinema_showtimes": {
       "Sambíóin Egilshöll": [
         {
-          "time": "2024-04-21T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380771/",
+          "time": "2024-04-21T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380688/",
           "hall": "Salur 4"
         }
-      ],
-      "Sambíóin Álfabakka": [
+      ]
+    }
+  },
+  {
+    "title": "Toves værelse",
+    "id": 16790,
+    "alt_title": "Tove's Room",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19623314",
+      "http://imdb.com/title/tt19623314"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "genres": [
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 73,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
         {
-          "time": "2024-04-21T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380306/",
+          "time": "2024-04-21T19:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5711",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Budda. Dzieciak '98",
+    "id": 16845,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/9kjoow1cmfxn80e4ebbmf5ulciv-1712429248.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt31867917",
+      "http://imdb.com/title/tt31867917"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Pólska YouTube stjarnan Kamil Labudda talar um hvatningu og segir að allir geti eignast Lamborghini bifreið ef þeir bara vilja.  Labudda er frá Kraká og ólst þar upp við erfiðar aðstæður. Faðir hans var alkóhólisti og mamma hans rak Labudda að heiman þegar hann var 18 ára.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 83,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fLB8tg1QcJQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-21T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5678",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 102,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-21T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5718",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -1088,6 +1245,38 @@
           "time": "2024-04-21T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5633",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "genres": [
+      "Drama",
+      "Stríð",
+      "Söguleg"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-21T21:40:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5721",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -1126,66 +1315,6 @@
     }
   },
   {
-    "title": "Four Daughters",
-    "id": 16300,
-    "alt_title": "Les filles d'Olfa",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27502426",
-      "http://imdb.com/title/tt27502426"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Arabíska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-21T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5713",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "HAM: lifandi dauðir",
-    "id": 13496,
-    "alt_title": "Ham: Living Dead",
-    "release_year": 2001,
-    "poster_url": "https://kvikmyndir.is/images/poster/ham_liv-1616333358.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5492814",
-      "http://imdb.com/title/tt5492814"
-    ],
-    "description": "Tilefnið að gerð myndarinnar var endurkoma rokkhljómsveitarinnar Ham sumarið 2001 en sveitin hélt þá tvenna tónleika á Gauki á Stöng í miðri viku og hitaði síðan upp helgina á eftir fyrir þýsku hljómsveitina Rammstein í Laugardalshöllinni - en Ham hafði verið hætt í nokkur ár og lagði þegar í stað upp laupana á ný eftir umrædda helgi. Hún átti síðar eftir að koma aftur saman.",
-    "genres": [
-      "Tónlist",
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 84,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-21T19:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4765",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Magda og töfraskógurinn",
     "id": 16721,
     "alt_title": "Mavka: The Forest Song",
@@ -1218,127 +1347,30 @@
     }
   },
   {
-    "title": "Morðsaga",
-    "id": 3916,
-    "alt_title": "Story of a Crime",
-    "release_year": 1977,
-    "poster_url": "https://kvikmyndir.is/images/poster/3916_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0447672",
-      "http://imdb.com/title/tt0447672",
-      "https://www.themoviedb.org/tv/163249"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Mynd sem greinir frá hroðalegum atburði í lífi velstæðrar fjölskyldu. Fjölskyldufaðirinn fær ekki ráðið við ómótstæðilega girnd sem dóttirin vekur í brjósti hans.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-21T17:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/4764",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Toves værelse",
-    "id": 16790,
-    "alt_title": "Tove's Room",
+    "title": "Four Daughters",
+    "id": 16300,
+    "alt_title": "Les filles d'Olfa",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt19623314",
-      "http://imdb.com/title/tt19623314"
+      "http://imdb.com/title/tt27502426",
+      "http://imdb.com/title/tt27502426"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
     "genres": [
-      "Drama",
-      "Æviágrip"
+      "Heimildarmynd"
     ],
-    "duration_in_mins": 73,
+    "duration_in_mins": 107,
     "language": [
-      "Danska"
+      "Arabíska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
+    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-04-21T19:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5711",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-21T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380688/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Teiknað"
-    ],
-    "duration_in_mins": 102,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-21T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5718",
+          "time": "2024-04-21T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5713",
           "hall": "Salur 3"
         }
       ]
@@ -1376,62 +1408,30 @@
     }
   },
   {
-    "title": "Budda. Dzieciak '98",
-    "id": 16845,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/9kjoow1cmfxn80e4ebbmf5ulciv-1712429248.jpg",
+    "title": "HAM: lifandi dauðir",
+    "id": 13496,
+    "alt_title": "Ham: Living Dead",
+    "release_year": 2001,
+    "poster_url": "https://kvikmyndir.is/images/poster/ham_liv-1616333358.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt31867917",
-      "http://imdb.com/title/tt31867917"
+      "http://imdb.com/title/tt5492814",
+      "http://imdb.com/title/tt5492814"
     ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Pólska YouTube stjarnan Kamil Labudda talar um hvatningu og segir að allir geti eignast Lamborghini bifreið ef þeir bara vilja.  Labudda er frá Kraká og ólst þar upp við erfiðar aðstæður. Faðir hans var alkóhólisti og mamma hans rak Labudda að heiman þegar hann var 18 ára.",
+    "description": "Tilefnið að gerð myndarinnar var endurkoma rokkhljómsveitarinnar Ham sumarið 2001 en sveitin hélt þá tvenna tónleika á Gauki á Stöng í miðri viku og hitaði síðan upp helgina á eftir fyrir þýsku hljómsveitina Rammstein í Laugardalshöllinni - en Ham hafði verið hætt í nokkur ár og lagði þegar í stað upp laupana á ný eftir umrædda helgi. Hún átti síðar eftir að koma aftur saman.",
     "genres": [
-      "Heimildarmynd"
+      "Tónlist",
+      "Heimildarmynd",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 83,
+    "duration_in_mins": 84,
     "language": [
-      "Pólska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=fLB8tg1QcJQ",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-04-21T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5678",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-21T21:40:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5721",
+          "time": "2024-04-21T19:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/4765",
           "hall": "Salur 1"
         }
       ]
