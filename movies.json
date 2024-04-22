@@ -146,6 +146,13 @@
           "hall": "MAX"
         }
       ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-22T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380853/",
+          "hall": "Salur 2"
+        }
+      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-22T20:00:00.000Z",
@@ -156,13 +163,6 @@
           "time": "2024-04-22T22:20:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/822004/",
           "hall": "AXL"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-22T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380853/",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -240,70 +240,6 @@
     }
   },
   {
-    "title": "Knox Goes Away",
-    "id": 16751,
-    "alt_title": "Sagan lét Keaton ekki í friði",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16751_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20115766",
-      "http://imdb.com/title/tt20115766"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Leigumorðingi sem greindur hefur verið með andlega hrörnun sem versnar mjög hratt, fær tækifæri til endurlausnar með því að bjarga lífi uppkomins sonar síns sem hann er í litlu sambandi við. En til að ná því þarf hann að etja kappi við lögregluna sem er á hælum hans auk þess sem vitglöpin versna stöðugt.",
-    "genres": [
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 114,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=UiMNmOajf-E",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-22T16:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380397/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2024-04-22T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380398/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2024-04-22T19:50:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380356/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-04-22T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380348/",
-          "hall": "Salur A"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-22T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380781/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-04-22T22:25:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380782/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-22T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380877/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Godzilla x Kong: The New Empire",
     "id": 16688,
     "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
@@ -367,6 +303,70 @@
           "time": "2024-04-22T21:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380545/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Knox Goes Away",
+    "id": 16751,
+    "alt_title": "Sagan lét Keaton ekki í friði",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16751_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20115766",
+      "http://imdb.com/title/tt20115766"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Leigumorðingi sem greindur hefur verið með andlega hrörnun sem versnar mjög hratt, fær tækifæri til endurlausnar með því að bjarga lífi uppkomins sonar síns sem hann er í litlu sambandi við. En til að ná því þarf hann að etja kappi við lögregluna sem er á hælum hans auk þess sem vitglöpin versna stöðugt.",
+    "genres": [
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 114,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=UiMNmOajf-E",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-22T16:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380397/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-04-22T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380398/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-04-22T19:50:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380356/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-04-22T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380348/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-22T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380781/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-04-22T22:25:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380782/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-22T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380877/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -526,50 +526,6 @@
     }
   },
   {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 88,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-22T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110430&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-04-22T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110443&visLang=1",
-          "hall": "MAX"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-22T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821999/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
     "title": "Ghostbusters: Frozen Empire",
     "id": 16642,
     "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
@@ -608,6 +564,52 @@
           "time": "2024-04-22T17:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380287/",
           "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "id": 16748,
+    "alt_title": "Borgarastríðið braut sér leið á toppinn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21692408",
+      "http://imdb.com/title/tt21692408"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 94,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-04-22T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380467/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-22T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110431&visLang=1",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-22T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380241/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -657,46 +659,76 @@
     }
   },
   {
-    "title": "Kung Fu Panda 4",
-    "id": 16748,
-    "alt_title": "Borgarastríðið braut sér leið á toppinn",
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt21692408",
-      "http://imdb.com/title/tt21692408"
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
     ],
     "content_rating": "Öllum leyfð",
-    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
     "genres": [
-      "Spenna",
+      "Gaman",
       "Ævintýri",
       "Teiknað"
     ],
-    "duration_in_mins": 94,
+    "duration_in_mins": 88,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-04-22T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380467/",
-          "hall": "Salur 1"
-        }
-      ],
       "Smárabíó": [
         {
           "time": "2024-04-22T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110431&visLang=1",
-          "hall": "Salur 4"
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110430&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-04-22T17:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110443&visLang=1",
+          "hall": "MAX"
         }
       ],
-      "Sambíóin Álfabakka": [
+      "Laugarásbíó": [
         {
-          "time": "2024-04-22T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380241/",
+          "time": "2024-04-22T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821999/",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tölum um Endó",
+    "id": 16859,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 59,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-22T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5746",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-22T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5746",
           "hall": "Salur 2"
         }
       ]
@@ -778,38 +810,6 @@
     }
   },
   {
-    "title": "Tölum um Endó",
-    "id": 16859,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 59,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-22T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5746",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-22T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5746",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Budda. Dzieciak '98",
     "id": 16845,
     "alt_title": "Leikstjórn",
@@ -864,6 +864,39 @@
         {
           "time": "2024-04-22T16:40:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5738",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Back to the Future Part II",
+    "id": 486,
+    "alt_title": "Back to the Future 2",
+    "release_year": 1989,
+    "poster_url": "https://kvikmyndir.is/images/poster/486_300.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0096874",
+      "http://imdb.com/title/tt0096874",
+      "https://www.themoviedb.org/tv/165"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Marty McFly er nýkominn heim úr fortíðinni, þegar klikkaði vísindamaðurinn sem fann upp DeLaurean tímavélina, Dr. Emmett Brown,  mætir á svæðið til að ná í hann og senda hann til framtíðar. Marty þarf að bjarga málunum í framtíðinni, þar sem sonur hans er um það bil að lenda í fangelsi. Til allrar óhamingju þá fer ýmislegt á verri veg þegar framtíðin fer að hafa áhrif á nútíðina.",
+    "genres": [
+      "Gaman",
+      "Vísindaskáldskapur",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 108,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=MdENmefJRpw",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-22T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/377797/",
           "hall": "Salur 1"
         }
       ]
@@ -986,39 +1019,6 @@
           "time": "2024-04-22T21:45:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5753",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Back to the Future Part II",
-    "id": 486,
-    "alt_title": "Back to the Future 2",
-    "release_year": 1989,
-    "poster_url": "https://kvikmyndir.is/images/poster/486_300.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0096874",
-      "http://imdb.com/title/tt0096874",
-      "https://www.themoviedb.org/tv/165"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Marty McFly er nýkominn heim úr fortíðinni, þegar klikkaði vísindamaðurinn sem fann upp DeLaurean tímavélina, Dr. Emmett Brown,  mætir á svæðið til að ná í hann og senda hann til framtíðar. Marty þarf að bjarga málunum í framtíðinni, þar sem sonur hans er um það bil að lenda í fangelsi. Til allrar óhamingju þá fer ýmislegt á verri veg þegar framtíðin fer að hafa áhrif á nútíðina.",
-    "genres": [
-      "Gaman",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 108,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=MdENmefJRpw",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-22T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/377797/",
-          "hall": "Salur 1"
         }
       ]
     }
