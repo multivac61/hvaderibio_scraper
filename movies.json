@@ -146,13 +146,6 @@
           "hall": "MAX"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-22T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380853/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-22T20:00:00.000Z",
@@ -163,6 +156,13 @@
           "time": "2024-04-22T22:20:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/822004/",
           "hall": "AXL"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-22T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380853/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -372,6 +372,62 @@
     }
   },
   {
+    "title": "Bastarden",
+    "id": 16575,
+    "alt_title": "The Promised Land",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16575_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20561198",
+      "http://imdb.com/title/tt20561198"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Fátækur hermaður, Ludvig Kahlen að nafni, kemur árið 1755 á heiðar Jótlands með eitt markmið: að hlýða skipan konungs og rækta landið og efnast á því sjálfur. En Kahlen eignast fljótt óvin. Það er hinn miskunnarlausi landeigandi Frederik De Schinkel, en hann telur sig eiga heiðarlöndin en ekki konung. Þegar þræll De Schinkel flýr ásamt eiginkonunni Ann Barbara og leitar skjóls hjá Kahlen, þá gerir landeigandinn allt sem hann getur til að koma Kahlen í burtu, og skipuleggur í leiðinni grimmilega hefnd. Kahlen berst á móti og tekur með því mikla áhættu.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 127,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-04-22T16:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380523/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-04-22T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380524/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-04-22T21:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380517/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-22T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5729",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-22T18:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110425&visLang=1",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Einskonar Ást",
     "id": 16815,
     "alt_title": "Skinny Love",
@@ -428,57 +484,87 @@
     }
   },
   {
-    "title": "Bastarden",
-    "id": 16575,
-    "alt_title": "The Promised Land",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16575_500.jpg",
+    "title": "One Life",
+    "id": 16697,
+    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt20561198",
-      "http://imdb.com/title/tt20561198"
+      "http://imdb.com/title/tt13097932",
+      "http://imdb.com/title/tt13097932"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Fátækur hermaður, Ludvig Kahlen að nafni, kemur árið 1755 á heiðar Jótlands með eitt markmið: að hlýða skipan konungs og rækta landið og efnast á því sjálfur. En Kahlen eignast fljótt óvin. Það er hinn miskunnarlausi landeigandi Frederik De Schinkel, en hann telur sig eiga heiðarlöndin en ekki konung. Þegar þræll De Schinkel flýr ásamt eiginkonunni Ann Barbara og leitar skjóls hjá Kahlen, þá gerir landeigandinn allt sem hann getur til að koma Kahlen í burtu, og skipuleggur í leiðinni grimmilega hefnd. Kahlen berst á móti og tekur með því mikla áhættu.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
     "genres": [
       "Drama",
       "Söguleg",
       "Æviágrip"
     ],
-    "duration_in_mins": 127,
+    "duration_in_mins": 110,
     "language": [
-      "Danska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
+    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
     "cinema_showtimes": {
       "Sambíóin Kringlunni": [
         {
+          "time": "2024-04-22T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380481/",
+          "hall": "Salur 2"
+        },
+        {
           "time": "2024-04-22T16:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380523/",
-          "hall": "Salur 3"
+          "purchase_url": "http://www.sambio.is/websales/show/380482/",
+          "hall": "Salur 2"
         },
         {
-          "time": "2024-04-22T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380524/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-04-22T21:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380517/",
+          "time": "2024-04-22T18:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380483/",
           "hall": "Salur 2"
         }
-      ],
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-22T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5729",
-          "hall": "Salur 1"
-        }
-      ],
+      ]
+    }
+  },
+  {
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 88,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "cinema_showtimes": {
       "Smárabíó": [
         {
-          "time": "2024-04-22T18:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110425&visLang=1",
-          "hall": "Salur 2"
+          "time": "2024-04-22T15:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110430&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-04-22T17:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110443&visLang=1",
+          "hall": "MAX"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-22T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821999/",
+          "hall": "Salur A"
         }
       ]
     }
@@ -617,124 +703,6 @@
     }
   },
   {
-    "title": "One Life",
-    "id": 16697,
-    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13097932",
-      "http://imdb.com/title/tt13097932"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-04-22T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380481/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-22T16:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380482/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-22T18:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380483/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 88,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-22T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110430&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-04-22T17:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110443&visLang=1",
-          "hall": "MAX"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-22T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/821999/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tölum um Endó",
-    "id": 16859,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 59,
-    "language": [
-      "Íslenska"
-    ],
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-22T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5746",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-22T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5746",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "The First Omen",
     "id": 16631,
     "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
@@ -805,6 +773,38 @@
           "time": "2024-04-22T20:50:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110438&visLang=1",
           "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tölum um Endó",
+    "id": 16859,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 59,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-22T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5746",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-22T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5746",
+          "hall": "Salur 2"
         }
       ]
     }
