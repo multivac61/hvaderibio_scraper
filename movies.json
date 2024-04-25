@@ -356,6 +356,18 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
     "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-25T13:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823502/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-04-25T15:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823505/",
+          "hall": "Salur A"
+        }
+      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-04-25T13:40:00.000Z",
@@ -371,18 +383,6 @@
           "time": "2024-04-25T17:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380234/",
           "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-04-25T13:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823502/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-04-25T15:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823505/",
-          "hall": "Salur A"
         }
       ],
       "Sambíóin Kringlunni": [
@@ -447,13 +447,6 @@
           "hall": "Salur B"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-25T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380897/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-25T20:00:00.000Z",
@@ -464,6 +457,13 @@
           "time": "2024-04-25T22:20:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823583/",
           "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-25T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380897/",
+          "hall": "Salur 2"
         }
       ],
       "Smárabíó": [
