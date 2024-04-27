@@ -185,18 +185,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-27T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109751&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-27T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109750&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Kringlunni": [
         {
           "time": "2024-04-27T14:00:00.000Z",
@@ -213,6 +201,13 @@
         {
           "time": "2024-04-27T16:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380917/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-27T15:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109750&visLang=1",
           "hall": "Salur 2"
         }
       ]
@@ -560,23 +555,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=6hjlyknlTaw",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-04-27T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110706&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-04-27T15:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110550&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-04-27T18:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110549&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-04-27T14:15:00.000Z",
@@ -602,61 +580,17 @@
           "purchase_url": "http://www.sambio.is/websales/show/380711/",
           "hall": "Salur 4"
         }
-      ]
-    }
-  },
-  {
-    "title": "Dune: Part Two",
-    "id": 14478,
-    "alt_title": "Ofdekraður kisi vinsælastur",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15239678",
-      "http://imdb.com/title/tt15239678"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 166,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-27T15:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380697/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-04-27T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380696/",
-          "hall": "Salur 3"
-        }
       ],
       "Smárabíó": [
         {
           "time": "2024-04-27T15:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110973&visLang=1",
-          "hall": "LÚXUS"
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110550&visLang=1",
+          "hall": "Salur 5"
         },
         {
-          "time": "2024-04-27T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110972&visLang=1",
-          "hall": "LÚXUS"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-27T20:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380222/",
-          "hall": "Salur 3"
+          "time": "2024-04-27T18:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110549&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -715,55 +649,57 @@
     }
   },
   {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "title": "Dune: Part Two",
+    "id": 14478,
+    "alt_title": "Ofdekraður kisi vinsælastur",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
+      "http://imdb.com/title/tt15239678",
+      "http://imdb.com/title/tt15239678"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Spenna",
+      "Drama",
+      "Ævintýri"
     ],
-    "duration_in_mins": 88,
+    "duration_in_mins": 166,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-04-27T13:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823603/",
-          "hall": "Salur A"
+          "time": "2024-04-27T15:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380697/",
+          "hall": "Salur 3"
         },
         {
-          "time": "2024-04-27T15:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823607/",
-          "hall": "Salur A"
+          "time": "2024-04-27T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380696/",
+          "hall": "Salur 3"
         }
       ],
       "Smárabíó": [
         {
-          "time": "2024-04-27T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109748&visLang=1",
-          "hall": "MAX"
+          "time": "2024-04-27T15:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110973&visLang=1",
+          "hall": "LÚXUS"
         },
         {
-          "time": "2024-04-27T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109747&visLang=1",
-          "hall": "MAX"
-        },
+          "time": "2024-04-27T19:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110972&visLang=1",
+          "hall": "LÚXUS"
+        }
+      ],
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-04-27T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109749&visLang=1",
-          "hall": "Salur 2"
+          "time": "2024-04-27T20:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380222/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -826,55 +762,6 @@
     }
   },
   {
-    "title": "Godzilla x Kong: The New Empire",
-    "id": 16688,
-    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14539740",
-      "http://imdb.com/title/tt14539740"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
-    "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-27T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380299/",
-          "hall": "Lúxus VIP"
-        },
-        {
-          "time": "2024-04-27T14:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380270/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-04-27T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380269/",
-          "hall": "Salur A"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-04-27T17:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380924/",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Bastarden",
     "id": 16575,
     "alt_title": "The Promised Land",
@@ -924,46 +811,99 @@
     }
   },
   {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
     "genres": [
       "Gaman",
       "Ævintýri",
       "Teiknað"
     ],
-    "duration_in_mins": 92,
+    "duration_in_mins": 88,
     "language": [
       "Enska"
     ],
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
     "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-27T13:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823603/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-04-27T15:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823607/",
+          "hall": "Salur A"
+        }
+      ],
       "Smárabíó": [
         {
-          "time": "2024-04-27T13:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110707&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Kringlunni": [
+          "time": "2024-04-27T15:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109747&visLang=1",
+          "hall": "MAX"
+        },
         {
-          "time": "2024-04-27T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380457/",
-          "hall": "Salur 1"
+          "time": "2024-04-27T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109749&visLang=1",
+          "hall": "Salur 2"
         }
-      ],
+      ]
+    }
+  },
+  {
+    "title": "Godzilla x Kong: The New Empire",
+    "id": 16688,
+    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14539740",
+      "http://imdb.com/title/tt14539740"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
+    "genres": [
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
+    "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-04-27T15:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380208/",
-          "hall": "Salur 3"
+          "time": "2024-04-27T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380299/",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-04-27T14:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380270/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-04-27T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380269/",
+          "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-04-27T17:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380924/",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -1002,38 +942,39 @@
     }
   },
   {
-    "title": "Spy x Family Code: White",
-    "id": 16864,
-    "alt_title": "Gekijô-ban Supai Famirî Kôdo: Howaito",
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16864_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt26684398",
-      "http://imdb.com/title/tt26684398"
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir að hafa fengið skilaboð um að honum yrði skipt út í Operation Six, ákveður Loid að hjálpa Anyu að vinna matreiðslukeppnina í Eden Academy með því að útbúa uppáhalds máltíð skólastjórans í þeirri von að honum verði ekki skipt út.",
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
     "genres": [
-      "Spenna",
       "Gaman",
+      "Ævintýri",
       "Teiknað"
     ],
-    "duration_in_mins": 110,
+    "duration_in_mins": 92,
     "language": [
-      "Japanska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=0brvdc_8gyo",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-04-27T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109522&visLang=1",
-          "hall": "MAX"
-        },
+          "time": "2024-04-27T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380457/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-04-27T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110702&visLang=1",
-          "hall": "MAX"
+          "time": "2024-04-27T15:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380208/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -1076,128 +1017,38 @@
     }
   },
   {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
+    "title": "Spy x Family Code: White",
+    "id": 16864,
+    "alt_title": "Gekijô-ban Supai Famirî Kôdo: Howaito",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16864_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
+      "http://imdb.com/title/tt26684398",
+      "http://imdb.com/title/tt26684398"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "description": "Eftir að hafa fengið skilaboð um að honum yrði skipt út í Operation Six, ákveður Loid að hjálpa Anyu að vinna matreiðslukeppnina í Eden Academy með því að útbúa uppáhalds máltíð skólastjórans í þeirri von að honum verði ekki skipt út.",
     "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-27T16:40:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5791",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Toves værelse",
-    "id": 16790,
-    "alt_title": "Tove's Room",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19623314",
-      "http://imdb.com/title/tt19623314"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
-    "genres": [
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 73,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-27T21:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5796",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Wish",
-    "id": 16335,
-    "alt_title": "Ósk",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt11304740",
-      "http://imdb.com/title/tt11304740"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
-    "genres": [
+      "Spenna",
       "Gaman",
-      "Ævintýri",
       "Teiknað"
     ],
-    "duration_in_mins": 92,
+    "duration_in_mins": 110,
     "language": [
-      "Enska"
+      "Japanska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
+    "trailer_url": "https://www.youtube.com/watch?v=0brvdc_8gyo",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Smárabíó": [
         {
-          "time": "2024-04-27T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380203/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+          "time": "2024-04-27T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109522&visLang=1",
+          "hall": "MAX"
+        },
         {
-          "time": "2024-04-27T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380689/",
-          "hall": "Salur 4"
+          "time": "2024-04-27T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110702&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -1294,6 +1145,38 @@
     }
   },
   {
+    "title": "Wish",
+    "id": 16335,
+    "alt_title": "Ósk",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt11304740",
+      "http://imdb.com/title/tt11304740"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=oyRxxpD3yNw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-04-27T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380203/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Four Daughters",
     "id": 16300,
     "alt_title": "Les filles d'Olfa",
@@ -1319,6 +1202,38 @@
           "time": "2024-04-27T19:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5795",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-27T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380689/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -1356,32 +1271,64 @@
     }
   },
   {
-    "title": "Monkey Man",
-    "id": 16714,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt9214772",
-      "http://imdb.com/title/tt9214772"
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
     "genres": [
-      "Spenna",
-      "Spennutryllir"
+      "Drama",
+      "Stríð",
+      "Söguleg"
     ],
-    "duration_in_mins": 121,
+    "duration_in_mins": 105,
     "language": [
-      "Enska"
+      "Þýska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2024-04-27T21:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109745&visLang=1",
-          "hall": "Salur 5"
+          "time": "2024-04-27T16:40:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5791",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Toves værelse",
+    "id": 16790,
+    "alt_title": "Tove's Room",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19623314",
+      "http://imdb.com/title/tt19623314"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "genres": [
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 73,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-27T21:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5796",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -1412,6 +1359,37 @@
           "time": "2024-04-27T22:10:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380778/",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monkey Man",
+    "id": 16714,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt9214772",
+      "http://imdb.com/title/tt9214772"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 121,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-04-27T21:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109745&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
