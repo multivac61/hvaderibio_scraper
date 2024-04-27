@@ -352,13 +352,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-27T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380860/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-27T17:40:00.000Z",
@@ -374,6 +367,13 @@
           "time": "2024-04-27T22:30:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823606/",
           "hall": "Salur A"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-27T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380860/",
+          "hall": "Salur 2"
         }
       ],
       "Smárabíó": [
@@ -505,18 +505,6 @@
           "hall": "Salur B"
         }
       ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-04-27T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380895/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-04-27T22:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380896/",
-          "hall": "Salur 2"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-04-27T20:00:00.000Z",
@@ -527,6 +515,18 @@
           "time": "2024-04-27T22:20:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823602/",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-04-27T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380895/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-04-27T22:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380896/",
+          "hall": "Salur 2"
         }
       ],
       "Sambíóin Keflavík": [
@@ -606,62 +606,6 @@
     }
   },
   {
-    "title": "Dune: Part Two",
-    "id": 14478,
-    "alt_title": "Ofdekraður kisi vinsælastur",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15239678",
-      "http://imdb.com/title/tt15239678"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 166,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-27T15:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380697/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-04-27T19:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380696/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-04-27T15:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110973&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-04-27T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110972&visLang=1",
-          "hall": "LÚXUS"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-04-27T20:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380222/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Einskonar Ást",
     "id": 16815,
     "alt_title": "Skinny Love",
@@ -714,6 +658,60 @@
           "time": "2024-04-27T22:15:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109744&visLang=1",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 88,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-04-27T13:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823603/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-04-27T15:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823607/",
+          "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-04-27T13:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109748&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-04-27T15:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109747&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-04-27T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109749&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -772,55 +770,57 @@
     }
   },
   {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "title": "Dune: Part Two",
+    "id": 14478,
+    "alt_title": "Ofdekraður kisi vinsælastur",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
+      "http://imdb.com/title/tt15239678",
+      "http://imdb.com/title/tt15239678"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Spenna",
+      "Drama",
+      "Ævintýri"
     ],
-    "duration_in_mins": 88,
+    "duration_in_mins": 166,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-04-27T13:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823603/",
-          "hall": "Salur A"
+          "time": "2024-04-27T15:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380697/",
+          "hall": "Salur 3"
         },
         {
-          "time": "2024-04-27T15:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823607/",
-          "hall": "Salur A"
+          "time": "2024-04-27T19:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380696/",
+          "hall": "Salur 3"
         }
       ],
       "Smárabíó": [
         {
-          "time": "2024-04-27T13:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109748&visLang=1",
-          "hall": "MAX"
+          "time": "2024-04-27T15:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110973&visLang=1",
+          "hall": "LÚXUS"
         },
         {
-          "time": "2024-04-27T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109747&visLang=1",
-          "hall": "MAX"
-        },
+          "time": "2024-04-27T19:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110972&visLang=1",
+          "hall": "LÚXUS"
+        }
+      ],
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-04-27T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109749&visLang=1",
-          "hall": "Salur 2"
+          "time": "2024-04-27T20:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380222/",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -1006,43 +1006,6 @@
     }
   },
   {
-    "title": "One Life",
-    "id": 16697,
-    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13097932",
-      "http://imdb.com/title/tt13097932"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-04-27T14:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380493/",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-04-27T16:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380494/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Draumar, konur og brauð",
     "id": 16842,
     "alt_title": "Leikstjórn",
@@ -1076,186 +1039,38 @@
     }
   },
   {
-    "title": "All of Us Strangers",
-    "id": 16456,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21192142",
-      "http://imdb.com/title/tt21192142"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
-    "genres": [
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-27T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5797",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-04-27T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380689/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Budda. Dzieciak '98",
-    "id": 16845,
-    "alt_title": "Leikstjórn",
+    "title": "One Life",
+    "id": 16697,
+    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/9kjoow1cmfxn80e4ebbmf5ulciv-1712429248.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt31867917",
-      "http://imdb.com/title/tt31867917"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Pólska YouTube stjarnan Kamil Labudda talar um hvatningu og segir að allir geti eignast Lamborghini bifreið ef þeir bara vilja.  Labudda er frá Kraká og ólst þar upp við erfiðar aðstæður. Faðir hans var alkóhólisti og mamma hans rak Labudda að heiman þegar hann var 18 ára.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 83,
-    "language": [
-      "Pólska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fLB8tg1QcJQ",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-27T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5794",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Four Daughters",
-    "id": 16300,
-    "alt_title": "Les filles d'Olfa",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27502426",
-      "http://imdb.com/title/tt27502426"
+      "http://imdb.com/title/tt13097932",
+      "http://imdb.com/title/tt13097932"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Arabíska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-27T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5795",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
     "genres": [
       "Drama",
-      "Tónlist",
-      "Teiknað"
+      "Söguleg",
+      "Æviágrip"
     ],
-    "duration_in_mins": 102,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-04-27T14:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5787",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The First Omen",
-    "id": 16631,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5672290",
-      "http://imdb.com/title/tt5672290"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 120,
+    "duration_in_mins": 110,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
+    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-04-27T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380778/",
-          "hall": "Salur 4"
+          "time": "2024-04-27T14:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380493/",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-04-27T16:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380494/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1324,6 +1139,36 @@
     }
   },
   {
+    "title": "The First Omen",
+    "id": 16631,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5672290",
+      "http://imdb.com/title/tt5672290"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 120,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-27T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380778/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Monkey Man",
     "id": 16714,
     "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
@@ -1385,6 +1230,67 @@
     }
   },
   {
+    "title": "All of Us Strangers",
+    "id": 16456,
+    "alt_title": "Pandan sigraði Dune",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21192142",
+      "http://imdb.com/title/tt21192142"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
+    "genres": [
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-27T18:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5797",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Budda. Dzieciak '98",
+    "id": 16845,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/9kjoow1cmfxn80e4ebbmf5ulciv-1712429248.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt31867917",
+      "http://imdb.com/title/tt31867917"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Pólska YouTube stjarnan Kamil Labudda talar um hvatningu og segir að allir geti eignast Lamborghini bifreið ef þeir bara vilja.  Labudda er frá Kraká og ólst þar upp við erfiðar aðstæður. Faðir hans var alkóhólisti og mamma hans rak Labudda að heiman þegar hann var 18 ára.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 83,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fLB8tg1QcJQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-27T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5794",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Wish",
     "id": 16335,
     "alt_title": "Ósk",
@@ -1412,6 +1318,100 @@
           "time": "2024-04-27T13:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380203/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Daughters",
+    "id": 16300,
+    "alt_title": "Les filles d'Olfa",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27502426",
+      "http://imdb.com/title/tt27502426"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Arabíska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-27T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5795",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-04-27T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380689/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 102,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-04-27T14:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5787",
+          "hall": "Salur 2"
         }
       ]
     }
