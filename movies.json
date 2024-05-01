@@ -263,6 +263,18 @@
           "hall": "Salur 3"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-01T13:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827188/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-05-01T15:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827189/",
+          "hall": "Salur A"
+        }
+      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-05-01T13:40:00.000Z",
@@ -278,18 +290,6 @@
           "time": "2024-05-01T17:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380244/",
           "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-01T13:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827188/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-05-01T15:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827189/",
-          "hall": "Salur A"
         }
       ],
       "Smárabíó": [
@@ -659,6 +659,52 @@
     }
   },
   {
+    "title": "For evigt",
+    "id": 16777,
+    "alt_title": "Eternal",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16777_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19496260",
+      "http://imdb.com/title/tt19496260"
+    ],
+    "content_rating": "Bönnuð innan 9 ára",
+    "description": "Ungur loftslagsvísindamaður, Elias, verður ástfanginn af efnilegri söngkonu, Anitu. En þegar honum gefst tækifæri til að fara í leiðangur til að rannsaka hættulegt loftslagsfyrirbrigði - dularfulla sprungu á hafsbotni - ákveður hann að velja starfsferilinn fram yfir ástina. Nokkrum árum síðar, í leiðangrinum, upplifir hann sýn á hvernig líf hans gæti hafa orðið ef hann hefði tekið aðra ákvörðun. Nú verður hann heltekinn af því að öðlast aftur gamla lífið sitt og ástina sem hann fórnaði.",
+    "genres": [
+      "Drama",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=RyiTNnhgg_c",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-01T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5778",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-05-01T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5778",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-05-01T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5822",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-05-01T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5822",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Back to Black",
     "id": 16699,
     "alt_title": "Borgarastríðið braut sér leið á toppinn",
@@ -705,52 +751,6 @@
           "time": "2024-05-01T19:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380596/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "For evigt",
-    "id": 16777,
-    "alt_title": "Eternal",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16777_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19496260",
-      "http://imdb.com/title/tt19496260"
-    ],
-    "content_rating": "Bönnuð innan 9 ára",
-    "description": "Ungur loftslagsvísindamaður, Elias, verður ástfanginn af efnilegri söngkonu, Anitu. En þegar honum gefst tækifæri til að fara í leiðangur til að rannsaka hættulegt loftslagsfyrirbrigði - dularfulla sprungu á hafsbotni - ákveður hann að velja starfsferilinn fram yfir ástina. Nokkrum árum síðar, í leiðangrinum, upplifir hann sýn á hvernig líf hans gæti hafa orðið ef hann hefði tekið aðra ákvörðun. Nú verður hann heltekinn af því að öðlast aftur gamla lífið sitt og ástina sem hann fórnaði.",
-    "genres": [
-      "Drama",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=RyiTNnhgg_c",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-01T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5778",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-05-01T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5778",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-05-01T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5822",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-01T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5822",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -888,43 +888,6 @@
     }
   },
   {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-01T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381201/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-05-01T15:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381202/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Endur",
     "id": 16356,
     "alt_title": "Migration",
@@ -957,6 +920,42 @@
         {
           "time": "2024-05-01T14:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380455/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Toves værelse",
+    "id": 16790,
+    "alt_title": "Tove's Room",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19623314",
+      "http://imdb.com/title/tt19623314"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "genres": [
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 73,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-01T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5775",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-05-01T20:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5827",
           "hall": "Salur 3"
         }
       ]
@@ -1001,127 +1000,94 @@
     }
   },
   {
-    "title": "Toves værelse",
-    "id": 16790,
-    "alt_title": "Tove's Room",
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt19623314",
-      "http://imdb.com/title/tt19623314"
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
     "genres": [
-      "Drama",
-      "Æviágrip"
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
     ],
-    "duration_in_mins": 73,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-01T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5775",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-01T20:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5827",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-01T18:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5824",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "All of Us Strangers",
-    "id": 16456,
-    "alt_title": "Pandan sigraði Dune",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21192142",
-      "http://imdb.com/title/tt21192142"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
-    "genres": [
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 105,
+    "duration_in_mins": 92,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-01T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381201/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-05-01T15:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381202/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Daughters",
+    "id": 16300,
+    "alt_title": "Les filles d'Olfa",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27502426",
+      "http://imdb.com/title/tt27502426"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Arabíska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-01T21:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5828",
+          "time": "2024-05-01T16:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5825",
           "hall": "Salur 3"
         }
       ]
     }
   },
   {
-    "title": "Budda. Dzieciak '98",
-    "id": 16845,
+    "title": "Tölum um Endó",
+    "id": 16859,
     "alt_title": "Leikstjórn",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/9kjoow1cmfxn80e4ebbmf5ulciv-1712429248.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt31867917",
-      "http://imdb.com/title/tt31867917"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Pólska YouTube stjarnan Kamil Labudda talar um hvatningu og segir að allir geti eignast Lamborghini bifreið ef þeir bara vilja.  Labudda er frá Kraká og ólst þar upp við erfiðar aðstæður. Faðir hans var alkóhólisti og mamma hans rak Labudda að heiman þegar hann var 18 ára.",
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
     "genres": [
-      "Heimildarmynd"
+      "Heimildarmynd",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 83,
+    "duration_in_mins": 59,
     "language": [
-      "Pólska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=fLB8tg1QcJQ",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-01T19:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5821",
+          "time": "2024-05-01T18:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5820",
           "hall": "Salur 1"
         }
       ]
@@ -1160,58 +1126,64 @@
     }
   },
   {
-    "title": "Draumar, konur og brauð",
-    "id": 16842,
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
     "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/draumar-1712228090.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Á töfrandi hringferð um fallega ísland, kynnumst við kraftmiklum konum, sem reka einstök kaffihús hringinn í kringum landið en líka söngkonu, sem er að skrifa handrit og samferðakonu hennar.\nSvana söngkona kemur við á litla kaffihúsinu við víkina í leit að hattinum sínum. Þar kemst hún að því, að VIP úr menningarelítunni í Reykjavík verður heiðursgestur á Sólstöðuhátíð sveitarinnar eftir viku.\nSvana ákveður í skyndi að skrifa nú nýja útgáfu af leikritinu sínu, „Í hennar sporum“, fara hringferð um Ísland og stíga í spor kvenna, semreka kaffihús á landsbyggðinni. Hún freistarþess að bjarga listamanns ferli sínummeð þessu móti og ná að sýna Millu, formanni Menningarnefndarinnar, afraksturinn á hátíðinni.\nHún býður Agnesi líffræðingi far og saman koma þær við á 5 kaffihúsum og kynnast þar konunum sem þau reka, draumum þeirra og dagdraumum.\nFrásagnarmáti myndarinnar er í anda töfra-raunsæis.Ásamt því að fylgjast með Svönu og Agnesi fara hringinn þá rifjum við upp þjóðsögur og minni landsins. Tónlist spilar stóran þátt í verkinu.\nAgnar Már Magnússon, tónskáld semur stefin en einnig á Una Stefánsdóttir tvö frumsamin lög og við hlýðum á nýja útsetningu á gömlu Þjóðhátíðarlagi Magnúsar Eiríkssonar, svo eitthvað sé nefnt.",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
     "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
+      "Drama",
+      "Tónlist",
+      "Teiknað"
     ],
-    "duration_in_mins": 90,
+    "duration_in_mins": 102,
     "language": [
-      "Íslenska"
+      "Spænska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=5osg82IpZM4",
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-01T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5776",
+          "time": "2024-05-01T15:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5823",
           "hall": "Salur 2"
         }
       ]
     }
   },
   {
-    "title": "Four Daughters",
-    "id": 16300,
-    "alt_title": "Les filles d'Olfa",
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt27502426",
-      "http://imdb.com/title/tt27502426"
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
     "genres": [
-      "Heimildarmynd"
+      "Drama",
+      "Stríð",
+      "Söguleg"
     ],
-    "duration_in_mins": 107,
+    "duration_in_mins": 105,
     "language": [
-      "Arabíska"
+      "Þýska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-01T16:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5825",
+          "time": "2024-05-01T18:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5826",
           "hall": "Salur 3"
         }
       ]
@@ -1248,59 +1220,93 @@
     }
   },
   {
-    "title": "Tölum um Endó",
-    "id": 16859,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
-    "rating_urls": [],
+    "title": "Magda og töfraskógurinn",
+    "id": 16721,
+    "alt_title": "Mavka: The Forest Song",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6685538",
+      "http://imdb.com/title/tt6685538"
+    ],
     "content_rating": "Öllum leyfð",
-    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
+    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
     "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
     ],
-    "duration_in_mins": 59,
+    "duration_in_mins": 99,
     "language": [
-      "Íslenska"
+      "Enska"
     ],
+    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Laugarásbíó": [
         {
-          "time": "2024-05-01T18:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5820",
-          "hall": "Salur 1"
+          "time": "2024-05-01T13:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827197/",
+          "hall": "Salur B"
         }
       ]
     }
   },
   {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
     "genres": [
-      "Drama",
-      "Tónlist",
+      "Fjölskylda",
       "Teiknað"
     ],
-    "duration_in_mins": 102,
+    "duration_in_mins": 90,
     "language": [
-      "Spænska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-01T15:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827196/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-01T15:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5823",
+          "time": "2024-05-01T18:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5824",
           "hall": "Salur 2"
         }
       ]
@@ -1342,32 +1348,31 @@
     }
   },
   {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
+    "title": "All of Us Strangers",
+    "id": 16456,
+    "alt_title": "Pandan sigraði Dune",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1717266_500-1705965339.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
+      "http://imdb.com/title/tt21192142",
+      "http://imdb.com/title/tt21192142"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Kvöld eitt er handritshöfundurinn Adam heima hjá sér þar sem hann býr í hálftómri blokk í Lundúnum nútímans og hittir dularfullan nágranna sinn Harry, sem breytir tilveru hans. Adam og Harry verða sífellt nánari og dag einn fer Adam á æskuheimili sitt og kemst að því að löngu dánir foreldrar hans búa þar bæði og líta út eins og þau gerðu daginn sem þau dóu fyrir 30 árum síðan.",
     "genres": [
       "Drama",
-      "Stríð",
-      "Söguleg"
+      "Ævintýri"
     ],
     "duration_in_mins": 105,
     "language": [
-      "Þýska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "trailer_url": "https://www.youtube.com/watch?v=ZrBil0GrNig",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-01T18:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5826",
+          "time": "2024-05-01T21:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5828",
           "hall": "Salur 3"
         }
       ]
@@ -1406,69 +1411,6 @@
     }
   },
   {
-    "title": "Monkey Man",
-    "id": 16714,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt9214772",
-      "http://imdb.com/title/tt9214772"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 121,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-01T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110560&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Magda og töfraskógurinn",
-    "id": 16721,
-    "alt_title": "Mavka: The Forest Song",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6685538",
-      "http://imdb.com/title/tt6685538"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-01T13:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827197/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "One Life",
     "id": 16697,
     "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
@@ -1501,32 +1443,90 @@
     }
   },
   {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "title": "Budda. Dzieciak '98",
+    "id": 16845,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/9kjoow1cmfxn80e4ebbmf5ulciv-1712429248.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
+      "http://imdb.com/title/tt31867917",
+      "http://imdb.com/title/tt31867917"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Pólska YouTube stjarnan Kamil Labudda talar um hvatningu og segir að allir geti eignast Lamborghini bifreið ef þeir bara vilja.  Labudda er frá Kraká og ólst þar upp við erfiðar aðstæður. Faðir hans var alkóhólisti og mamma hans rak Labudda að heiman þegar hann var 18 ára.",
     "genres": [
-      "Fjölskylda",
-      "Teiknað"
+      "Heimildarmynd"
     ],
-    "duration_in_mins": 90,
+    "duration_in_mins": 83,
+    "language": [
+      "Pólska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fLB8tg1QcJQ",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-01T19:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5821",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monkey Man",
+    "id": 16714,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt9214772",
+      "http://imdb.com/title/tt9214772"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 121,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
     "cinema_showtimes": {
-      "Laugarásbíó": [
+      "Smárabíó": [
         {
-          "time": "2024-05-01T15:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827196/",
-          "hall": "Salur B"
+          "time": "2024-05-01T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110560&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Draumar, konur og brauð",
+    "id": 16842,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/draumar-1712228090.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Á töfrandi hringferð um fallega ísland, kynnumst við kraftmiklum konum, sem reka einstök kaffihús hringinn í kringum landið en líka söngkonu, sem er að skrifa handrit og samferðakonu hennar.\nSvana söngkona kemur við á litla kaffihúsinu við víkina í leit að hattinum sínum. Þar kemst hún að því, að VIP úr menningarelítunni í Reykjavík verður heiðursgestur á Sólstöðuhátíð sveitarinnar eftir viku.\nSvana ákveður í skyndi að skrifa nú nýja útgáfu af leikritinu sínu, „Í hennar sporum“, fara hringferð um Ísland og stíga í spor kvenna, semreka kaffihús á landsbyggðinni. Hún freistarþess að bjarga listamanns ferli sínummeð þessu móti og ná að sýna Millu, formanni Menningarnefndarinnar, afraksturinn á hátíðinni.\nHún býður Agnesi líffræðingi far og saman koma þær við á 5 kaffihúsum og kynnast þar konunum sem þau reka, draumum þeirra og dagdraumum.\nFrásagnarmáti myndarinnar er í anda töfra-raunsæis.Ásamt því að fylgjast með Svönu og Agnesi fara hringinn þá rifjum við upp þjóðsögur og minni landsins. Tónlist spilar stóran þátt í verkinu.\nAgnar Már Magnússon, tónskáld semur stefin en einnig á Una Stefánsdóttir tvö frumsamin lög og við hlýðum á nýja útsetningu á gömlu Þjóðhátíðarlagi Magnúsar Eiríkssonar, svo eitthvað sé nefnt.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5osg82IpZM4",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-01T14:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5776",
+          "hall": "Salur 2"
         }
       ]
     }
