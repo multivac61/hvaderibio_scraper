@@ -263,18 +263,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-01T13:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827188/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-05-01T15:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827189/",
-          "hall": "Salur A"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-05-01T13:40:00.000Z",
@@ -290,6 +278,18 @@
           "time": "2024-05-01T17:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380244/",
           "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-01T13:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827188/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-05-01T15:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827189/",
+          "hall": "Salur A"
         }
       ],
       "Smárabíó": [
@@ -610,55 +610,6 @@
     }
   },
   {
-    "title": "Godzilla x Kong: The New Empire",
-    "id": 16688,
-    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14539740",
-      "http://imdb.com/title/tt14539740"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
-    "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-01T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380956/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-05-01T15:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380950/",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-05-01T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380256/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-05-01T17:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381164/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Back to Black",
     "id": 16699,
     "alt_title": "Borgarastríðið braut sér leið á toppinn",
@@ -756,6 +707,100 @@
     }
   },
   {
+    "title": "Godzilla x Kong: The New Empire",
+    "id": 16688,
+    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14539740",
+      "http://imdb.com/title/tt14539740"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
+    "genres": [
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-01T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380956/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-05-01T15:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380950/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-05-01T18:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380256/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-05-01T17:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381164/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Einskonar Ást",
+    "id": 16815,
+    "alt_title": "Skinny Love",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/eiskonar_ast_mynindfsadf-1710791349.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt29506136",
+      "http://imdb.com/title/tt29506136"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Nútímasaga um fjórar ungar konur. Þær reyna að fóta sig í flóknum ástarsamböndum, en freistingar á borð við sykurpabba og OnlyFans flækja málin. Í leit sinni að bestu útgáfunum af sjálfum sér standa þær frammi fyrir valinu á milli glansmyndar og sannrar ástar.",
+    "genres": [
+      "Gaman",
+      "Rómantík",
+      "Drama",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=S5Eo98Qn4Yw",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-01T17:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381216/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-01T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109585&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-05-01T22:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111018&visLang=1",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Bastarden",
     "id": 16575,
     "alt_title": "The Promised Land",
@@ -838,89 +883,6 @@
           "time": "2024-05-01T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380634/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Einskonar Ást",
-    "id": 16815,
-    "alt_title": "Skinny Love",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/eiskonar_ast_mynindfsadf-1710791349.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt29506136",
-      "http://imdb.com/title/tt29506136"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Nútímasaga um fjórar ungar konur. Þær reyna að fóta sig í flóknum ástarsamböndum, en freistingar á borð við sykurpabba og OnlyFans flækja málin. Í leit sinni að bestu útgáfunum af sjálfum sér standa þær frammi fyrir valinu á milli glansmyndar og sannrar ástar.",
-    "genres": [
-      "Gaman",
-      "Rómantík",
-      "Drama",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=S5Eo98Qn4Yw",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-01T17:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381216/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-01T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109585&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-05-01T22:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111018&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-01T13:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380947/",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-05-01T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380455/",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -1037,6 +999,76 @@
     }
   },
   {
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-01T13:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380947/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-05-01T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380455/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Spy x Family Code: White",
+    "id": 16864,
+    "alt_title": "Gekijô-ban Supai Famirî Kôdo: Howaito",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16864_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26684398",
+      "http://imdb.com/title/tt26684398"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Eftir að hafa fengið skilaboð um að honum yrði skipt út í Operation Six, ákveður Loid að hjálpa Anyu að vinna matreiðslukeppnina í Eden Academy með því að útbúa uppáhalds máltíð skólastjórans í þeirri von að honum verði ekki skipt út.",
+    "genres": [
+      "Spenna",
+      "Gaman",
+      "Teiknað"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0brvdc_8gyo",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-05-01T17:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110823&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
     "title": "Draumar, konur og brauð",
     "id": 16842,
     "alt_title": "Leikstjórn",
@@ -1059,6 +1091,127 @@
         {
           "time": "2024-05-01T14:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5776",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Daughters",
+    "id": 16300,
+    "alt_title": "Les filles d'Olfa",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27502426",
+      "http://imdb.com/title/tt27502426"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Arabíska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-01T16:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5825",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "One Life",
+    "id": 16697,
+    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13097932",
+      "http://imdb.com/title/tt13097932"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-05-01T16:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380505/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tölum um Endó",
+    "id": 16859,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 59,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-01T18:10:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5820",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 102,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-01T15:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5823",
           "hall": "Salur 2"
         }
       ]
@@ -1097,58 +1250,32 @@
     }
   },
   {
-    "title": "Four Daughters",
-    "id": 16300,
-    "alt_title": "Les filles d'Olfa",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27502426",
-      "http://imdb.com/title/tt27502426"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Arabíska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-01T16:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5825",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tölum um Endó",
-    "id": 16859,
-    "alt_title": "Leikstjórn",
+    "title": "Monkey Man",
+    "id": 16714,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
+    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt9214772",
+      "http://imdb.com/title/tt9214772"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
     "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
+      "Spenna",
+      "Spennutryllir"
     ],
-    "duration_in_mins": 59,
+    "duration_in_mins": 121,
     "language": [
-      "Íslenska"
+      "Enska"
     ],
+    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Smárabíó": [
         {
-          "time": "2024-05-01T18:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5820",
-          "hall": "Salur 1"
+          "time": "2024-05-01T21:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110560&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -1179,38 +1306,6 @@
           "time": "2024-05-01T22:15:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/381241/",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Teiknað"
-    ],
-    "duration_in_mins": 102,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-01T15:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5823",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -1311,105 +1406,6 @@
     }
   },
   {
-    "title": "The Sound of Music",
-    "id": 1227,
-    "alt_title": "Söngvaseiður",
-    "release_year": 1965,
-    "poster_url": "https://kvikmyndir.is/images/poster/1227_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0059742",
-      "http://imdb.com/title/tt0059742",
-      "https://www.themoviedb.org/tv/15121"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin gerist á fjórða áratug síðustu aldar í Austurríki. Ungri konu að nafni Maria gengur ekki sem best að verða nunna. Þegar sjóliðsforinginn Georg Von Trapp skrifar til klaustursins og biður um bústýru til að sjá um sjö óstýrlát börn sín, þá hreppir Maria starfið. Von Trapp er ekkill,  hann er oft fjarverandi og stýrir heimilinu af jafn mikilli festu og skipunum sem hann stýrir. Börnin er óhamingjusöm og óánægð með þær bústýrur sem faðir þeirra er alltaf að ráða til að sjá um þau, og þeim hefur tekist að hrekja þær í burtu jafnskjótt og þær koma. Þegar Maria kemur þá taka börnin henni jafnilla og hinum bústýrunum, en hún er skilningsrík, góð og létt í lund, og smátt og smátt fara þau að laðast að henni og brátt verða börnin kát og glöð, og sömuleiðis pabbinn. Að lokum fara þau Maria að renna hýru auga til hvors annars, þrátt fyrir að Georg sé trúlofaður barónessu og að Maria tilheyrir enn nunnureglunni. Kærleikar þeirra í milli láta þau bæði spyrja sig spurninga um þær ákvarðanir sem þau hafa tekið. En persónluleg mál þeirra lenda fljótt í skugganum af þróun mála í heiminum. Austurríki er um það bil að lenda undir stjórn Þjóðverja, og Georg er neyddur til að koma til starfa í þýska flotanum og til að berjast gegn eigin þjóð.",
-    "genres": [
-      "Rómantík",
-      "Drama",
-      "Fjölskylda",
-      "Tónlist",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 174,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lEcKXr3mJ_o",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-01T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109598&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Spy x Family Code: White",
-    "id": 16864,
-    "alt_title": "Gekijô-ban Supai Famirî Kôdo: Howaito",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16864_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26684398",
-      "http://imdb.com/title/tt26684398"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir að hafa fengið skilaboð um að honum yrði skipt út í Operation Six, ákveður Loid að hjálpa Anyu að vinna matreiðslukeppnina í Eden Academy með því að útbúa uppáhalds máltíð skólastjórans í þeirri von að honum verði ekki skipt út.",
-    "genres": [
-      "Spenna",
-      "Gaman",
-      "Teiknað"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0brvdc_8gyo",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-01T17:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110823&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "One Life",
-    "id": 16697,
-    "alt_title": "Kung Fu Panda 4 aftur vinsælust í bíó",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16697_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13097932",
-      "http://imdb.com/title/tt13097932"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Breski verðbréfasalinn Nicholas Winton heimsækir Tékkóslóvakíu árið 1938 til að hjálpa til við björgun barna af gyðingaættum um það leiti sem Seinni heimsstyrjöldin er að fara af stað. Björgunaraðgerðin fékk síðar nafnið Kindertransport. 669 börnum var þar bjargað undan Nasistum.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6ethollg-PI",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-05-01T16:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380505/",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Perfect Days",
     "id": 16762,
     "alt_title": "Leikstjórn",
@@ -1440,32 +1436,36 @@
     }
   },
   {
-    "title": "Monkey Man",
-    "id": 16714,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
+    "title": "The Sound of Music",
+    "id": 1227,
+    "alt_title": "Söngvaseiður",
+    "release_year": 1965,
+    "poster_url": "https://kvikmyndir.is/images/poster/1227_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt9214772",
-      "http://imdb.com/title/tt9214772"
+      "http://imdb.com/title/tt0059742",
+      "http://imdb.com/title/tt0059742",
+      "https://www.themoviedb.org/tv/15121"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
+    "content_rating": "Öllum leyfð",
+    "description": "Myndin gerist á fjórða áratug síðustu aldar í Austurríki. Ungri konu að nafni Maria gengur ekki sem best að verða nunna. Þegar sjóliðsforinginn Georg Von Trapp skrifar til klaustursins og biður um bústýru til að sjá um sjö óstýrlát börn sín, þá hreppir Maria starfið. Von Trapp er ekkill,  hann er oft fjarverandi og stýrir heimilinu af jafn mikilli festu og skipunum sem hann stýrir. Börnin er óhamingjusöm og óánægð með þær bústýrur sem faðir þeirra er alltaf að ráða til að sjá um þau, og þeim hefur tekist að hrekja þær í burtu jafnskjótt og þær koma. Þegar Maria kemur þá taka börnin henni jafnilla og hinum bústýrunum, en hún er skilningsrík, góð og létt í lund, og smátt og smátt fara þau að laðast að henni og brátt verða börnin kát og glöð, og sömuleiðis pabbinn. Að lokum fara þau Maria að renna hýru auga til hvors annars, þrátt fyrir að Georg sé trúlofaður barónessu og að Maria tilheyrir enn nunnureglunni. Kærleikar þeirra í milli láta þau bæði spyrja sig spurninga um þær ákvarðanir sem þau hafa tekið. En persónluleg mál þeirra lenda fljótt í skugganum af þróun mála í heiminum. Austurríki er um það bil að lenda undir stjórn Þjóðverja, og Georg er neyddur til að koma til starfa í þýska flotanum og til að berjast gegn eigin þjóð.",
     "genres": [
-      "Spenna",
-      "Spennutryllir"
+      "Rómantík",
+      "Drama",
+      "Fjölskylda",
+      "Tónlist",
+      "Æviágrip"
     ],
-    "duration_in_mins": 121,
+    "duration_in_mins": 174,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
+    "trailer_url": "https://www.youtube.com/watch?v=lEcKXr3mJ_o",
     "cinema_showtimes": {
       "Smárabíó": [
         {
-          "time": "2024-05-01T21:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110560&visLang=1",
-          "hall": "Salur 5"
+          "time": "2024-05-01T19:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109598&visLang=1",
+          "hall": "Salur 4"
         }
       ]
     }
