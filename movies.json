@@ -145,38 +145,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-04T16:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110210&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-04T16:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110082&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-05-04T19:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110212&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-04T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110083&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-05-04T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110211&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-04T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110216&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2024-05-04T17:00:00.000Z",
@@ -209,6 +177,28 @@
           "time": "2024-05-04T22:35:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/823521/",
           "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-04T19:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110212&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-05-04T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110083&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-05-04T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110211&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-05-04T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110216&visLang=1",
+          "hall": "MAX"
         }
       ]
     }
@@ -301,13 +291,6 @@
           "time": "2024-05-04T15:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/381162/",
           "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-04T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110880&visLang=1",
-          "hall": "Salur 4"
         }
       ]
     }
@@ -470,67 +453,6 @@
     }
   },
   {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 88,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-04T13:20:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827205/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-05-04T15:20:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827206/",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-05-04T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827223/",
-          "hall": "Salur A"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-05-04T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381198/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-04T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110871&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-05-04T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110869&visLang=1",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Knox Goes Away",
     "id": 16751,
     "alt_title": "Sagan lét Keaton ekki í friði",
@@ -585,49 +507,56 @@
     }
   },
   {
-    "title": "Godzilla x Kong: The New Empire",
-    "id": 16688,
-    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14539740",
-      "http://imdb.com/title/tt14539740"
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
     "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
     ],
-    "duration_in_mins": 115,
+    "duration_in_mins": 88,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Laugarásbíó": [
         {
-          "time": "2024-05-04T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381016/",
-          "hall": "Salur A"
+          "time": "2024-05-04T13:20:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827205/",
+          "hall": "AXL"
         },
         {
-          "time": "2024-05-04T15:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381018/",
-          "hall": "Salur 3"
+          "time": "2024-05-04T15:20:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827206/",
+          "hall": "AXL"
         },
         {
           "time": "2024-05-04T18:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381017/",
-          "hall": "Salur 3"
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827223/",
+          "hall": "Salur A"
         }
       ],
       "Sambíóin Keflavík": [
         {
-          "time": "2024-05-04T17:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381165/",
+          "time": "2024-05-04T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381198/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-04T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110869&visLang=1",
           "hall": "Salur 2"
         }
       ]
@@ -685,44 +614,50 @@
     }
   },
   {
-    "title": "Ghostbusters: Frozen Empire",
-    "id": 16642,
+    "title": "Godzilla x Kong: The New Empire",
+    "id": 16688,
     "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1748039_500-1709425892.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt21235248",
-      "http://imdb.com/title/tt21235248"
+      "http://imdb.com/title/tt14539740",
+      "http://imdb.com/title/tt14539740"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Spengler fjölskyldan snýr aftur til upprunans, þar sem þetta byrjaði allt saman, slökkvistöðvarinnar í New York. Þar hitta þau upprunalegu Draugabanana sem hafa þróað háleynilega rannsóknarstofu sem mun færa draugaveiðar upp á næsta stig. En þegar uppgötvun á aldagömlum helgigrip leysir úr læðingi illan anda þurfa gamlir og nýir Draugabanar að taka höndum saman til að vernda heimili sín og bjarga heiminum frá nýrri ísöld.",
+    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
     "genres": [
-      "Gaman",
+      "Spenna",
+      "Vísindaskáldskapur",
       "Ævintýri"
     ],
-    "duration_in_mins": 125,
+    "duration_in_mins": 115,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=6hjlyknlTaw",
+    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-05-04T14:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381027/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
+          "time": "2024-05-04T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381016/",
+          "hall": "Salur A"
+        },
         {
-          "time": "2024-05-04T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111006&visLang=1",
-          "hall": "Salur 5"
+          "time": "2024-05-04T15:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381018/",
+          "hall": "Salur 3"
         },
         {
           "time": "2024-05-04T18:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110881&visLang=1",
-          "hall": "Salur 5"
+          "purchase_url": "http://www.sambio.is/websales/show/381017/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-05-04T17:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381165/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -765,49 +700,6 @@
           "time": "2024-05-04T19:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/381586/",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Abigail",
-    "id": 16700,
-    "alt_title": "Vilja lausnargjald fyrir vampíruna",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16700_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27489557",
-      "http://imdb.com/title/tt27489557"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Eftir að glæpamenn ræna tólf ára gamalli ballerínu, dóttur valdamikils aðila úr undirheimunum, er það eina sem þeir þurfa að gera til að innheimta 50 milljóna bandaríkjadala lausnargjald að passa vel upp á stúlkuna eitt kvöld. Henni er haldið í afskekktu húsi uppi í sveit en þegar ræningjunum fer að fækka, einum af öðrum, uppgötva þeir sér til mikillar skelfingar að litla stúlkan er allt annað en venjuleg.",
-    "genres": [
-      "Hrollvekja",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3PsP8MFH8p0",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-04T20:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827242/",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-05-04T22:20:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827243/",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-04T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381051/",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -858,76 +750,44 @@
     }
   },
   {
-    "title": "Trolls Band Together",
-    "id": 16113,
-    "alt_title": "Tröll 3",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "title": "Abigail",
+    "id": 16700,
+    "alt_title": "Vilja lausnargjald fyrir vampíruna",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16700_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14362112",
-      "http://imdb.com/title/tt14362112"
+      "http://imdb.com/title/tt27489557",
+      "http://imdb.com/title/tt27489557"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Eftir að glæpamenn ræna tólf ára gamalli ballerínu, dóttur valdamikils aðila úr undirheimunum, er það eina sem þeir þurfa að gera til að innheimta 50 milljóna bandaríkjadala lausnargjald að passa vel upp á stúlkuna eitt kvöld. Henni er haldið í afskekktu húsi uppi í sveit en þegar ræningjunum fer að fækka, einum af öðrum, uppgötva þeir sér til mikillar skelfingar að litla stúlkan er allt annað en venjuleg.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Hrollvekja",
+      "Spennutryllir"
     ],
-    "duration_in_mins": 92,
+    "duration_in_mins": 109,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "trailer_url": "https://www.youtube.com/watch?v=3PsP8MFH8p0",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Laugarásbíó": [
         {
-          "time": "2024-05-04T13:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381388/",
-          "hall": "Salur 3"
+          "time": "2024-05-04T20:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827242/",
+          "hall": "Salur B"
         },
         {
-          "time": "2024-05-04T15:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381389/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-04T13:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380984/",
-          "hall": "Salur 3"
+          "time": "2024-05-04T22:20:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827243/",
+          "hall": "Salur B"
         }
       ],
-      "Sambíóin Kringlunni": [
+      "Sambíóin Álfabakka": [
         {
-          "time": "2024-05-04T14:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380985/",
-          "hall": "Salur 3"
+          "time": "2024-05-04T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381051/",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1009,6 +869,308 @@
     }
   },
   {
+    "title": "Trolls Band Together",
+    "id": 16113,
+    "alt_title": "Tröll 3",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14362112",
+      "http://imdb.com/title/tt14362112"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qZ40Z62tcXM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-04T13:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381388/",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-05-04T15:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381389/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-04T13:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380984/",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-05-04T14:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380985/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ghostbusters: Frozen Empire",
+    "id": 16642,
+    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1748039_500-1709425892.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21235248",
+      "http://imdb.com/title/tt21235248"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Spengler fjölskyldan snýr aftur til upprunans, þar sem þetta byrjaði allt saman, slökkvistöðvarinnar í New York. Þar hitta þau upprunalegu Draugabanana sem hafa þróað háleynilega rannsóknarstofu sem mun færa draugaveiðar upp á næsta stig. En þegar uppgötvun á aldagömlum helgigrip leysir úr læðingi illan anda þurfa gamlir og nýir Draugabanar að taka höndum saman til að vernda heimili sín og bjarga heiminum frá nýrri ísöld.",
+    "genres": [
+      "Gaman",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 125,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6hjlyknlTaw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-04T14:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381027/",
+          "hall": "Salur B"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-04T18:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110881&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Magda og töfraskógurinn",
+    "id": 16721,
+    "alt_title": "Mavka: The Forest Song",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6685538",
+      "http://imdb.com/title/tt6685538"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-04T13:30:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827240/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Daughters",
+    "id": 16300,
+    "alt_title": "Les filles d'Olfa",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27502426",
+      "http://imdb.com/title/tt27502426"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Arabíska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-04T18:40:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5850",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-04T15:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827239/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 102,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-04T14:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5849",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Zone of Interest",
+    "id": 16722,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7160372",
+      "http://imdb.com/title/tt7160372"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
+    "genres": [
+      "Drama",
+      "Stríð",
+      "Söguleg"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Þýska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-04T20:50:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5854",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Dune: Part Two",
+    "id": 14478,
+    "alt_title": "Tennisinn tyllti sér á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15239678",
+      "http://imdb.com/title/tt15239678"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 166,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-04T20:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/380987/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Toves værelse",
     "id": 16790,
     "alt_title": "Tove's Room",
@@ -1035,6 +1197,36 @@
           "time": "2024-05-04T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5853",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The First Omen",
+    "id": 16631,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5672290",
+      "http://imdb.com/title/tt5672290"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 120,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-04T22:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381416/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -1070,6 +1262,38 @@
     }
   },
   {
+    "title": "Spy x Family Code: White",
+    "id": 16864,
+    "alt_title": "Gekijô-ban Supai Famirî Kôdo: Howaito",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16864_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26684398",
+      "http://imdb.com/title/tt26684398"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Eftir að hafa fengið skilaboð um að honum yrði skipt út í Operation Six, ákveður Loid að hjálpa Anyu að vinna matreiðslukeppnina í Eden Academy með því að útbúa uppáhalds máltíð skólastjórans í þeirri von að honum verði ekki skipt út.",
+    "genres": [
+      "Spenna",
+      "Gaman",
+      "Teiknað"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0brvdc_8gyo",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-05-04T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111020&visLang=1",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Perfect Days",
     "id": 16762,
     "alt_title": "Leikstjórn",
@@ -1095,38 +1319,6 @@
           "time": "2024-05-04T16:10:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5862",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Magda og töfraskógurinn",
-    "id": 16721,
-    "alt_title": "Mavka: The Forest Song",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6685538",
-      "http://imdb.com/title/tt6685538"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-04T13:30:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827240/",
-          "hall": "Salur B"
         }
       ]
     }
@@ -1190,37 +1382,6 @@
     }
   },
   {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-04T15:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827239/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "For evigt",
     "id": 16777,
     "alt_title": "Eternal",
@@ -1247,194 +1408,6 @@
           "time": "2024-05-04T18:40:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5857",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Four Daughters",
-    "id": 16300,
-    "alt_title": "Les filles d'Olfa",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27502426",
-      "http://imdb.com/title/tt27502426"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Arabíska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-04T18:40:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5850",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Teiknað"
-    ],
-    "duration_in_mins": 102,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-04T14:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5849",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Dune: Part Two",
-    "id": 14478,
-    "alt_title": "Tennisinn tyllti sér á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15239678",
-      "http://imdb.com/title/tt15239678"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 166,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-04T20:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/380987/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Spy x Family Code: White",
-    "id": 16864,
-    "alt_title": "Gekijô-ban Supai Famirî Kôdo: Howaito",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16864_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26684398",
-      "http://imdb.com/title/tt26684398"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir að hafa fengið skilaboð um að honum yrði skipt út í Operation Six, ákveður Loid að hjálpa Anyu að vinna matreiðslukeppnina í Eden Academy með því að útbúa uppáhalds máltíð skólastjórans í þeirri von að honum verði ekki skipt út.",
-    "genres": [
-      "Spenna",
-      "Gaman",
-      "Teiknað"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0brvdc_8gyo",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-04T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111020&visLang=1",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The First Omen",
-    "id": 16631,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5672290",
-      "http://imdb.com/title/tt5672290"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 120,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-04T22:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381416/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Zone of Interest",
-    "id": 16722,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16722_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7160372",
-      "http://imdb.com/title/tt7160372"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Yfirmaður Auschwitz útrýmingarbúða Nasista, Rudolf Höss, og eiginkona hans Hedwig, leggja sig fram um að byggja upp draumalíf fyrir fjölskylduna í húsi með fallegum garði rétt við hlið búðanna.",
-    "genres": [
-      "Drama",
-      "Stríð",
-      "Söguleg"
-    ],
-    "duration_in_mins": 105,
-    "language": [
-      "Þýska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GFNtVaAuVYY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-04T20:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5854",
-          "hall": "Salur 3"
         }
       ]
     }
