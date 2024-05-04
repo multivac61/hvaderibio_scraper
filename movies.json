@@ -263,6 +263,18 @@
           "hall": "Salur 3"
         }
       ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-04T13:40:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827219/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-05-04T15:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827220/",
+          "hall": "Salur A"
+        }
+      ],
       "Sambíóin Álfabakka": [
         {
           "time": "2024-05-04T13:40:00.000Z",
@@ -278,18 +290,6 @@
           "time": "2024-05-04T17:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/380993/",
           "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-04T13:40:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827219/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-05-04T15:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827220/",
-          "hall": "Salur A"
         }
       ],
       "Smárabíó": [
@@ -1127,6 +1127,38 @@
     }
   },
   {
+    "title": "Spy x Family Code: White",
+    "id": 16864,
+    "alt_title": "Gekijô-ban Supai Famirî Kôdo: Howaito",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16864_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt26684398",
+      "http://imdb.com/title/tt26684398"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Eftir að hafa fengið skilaboð um að honum yrði skipt út í Operation Six, ákveður Loid að hjálpa Anyu að vinna matreiðslukeppnina í Eden Academy með því að útbúa uppáhalds máltíð skólastjórans í þeirri von að honum verði ekki skipt út.",
+    "genres": [
+      "Spenna",
+      "Gaman",
+      "Teiknað"
+    ],
+    "duration_in_mins": 110,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=0brvdc_8gyo",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-05-04T17:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111020&visLang=1",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Room",
     "id": 6260,
     "alt_title": "Styles verður ekki prins",
@@ -1310,36 +1342,6 @@
     }
   },
   {
-    "title": "The First Omen",
-    "id": 16631,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5672290",
-      "http://imdb.com/title/tt5672290"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 120,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-04T22:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381416/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Zone of Interest",
     "id": 16722,
     "alt_title": "Leikstjórn",
@@ -1372,6 +1374,36 @@
     }
   },
   {
+    "title": "The First Omen",
+    "id": 16631,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5672290",
+      "http://imdb.com/title/tt5672290"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 120,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-04T22:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381416/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Toves værelse",
     "id": 16790,
     "alt_title": "Tove's Room",
@@ -1398,38 +1430,6 @@
           "time": "2024-05-04T17:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5853",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Spy x Family Code: White",
-    "id": 16864,
-    "alt_title": "Gekijô-ban Supai Famirî Kôdo: Howaito",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16864_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26684398",
-      "http://imdb.com/title/tt26684398"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir að hafa fengið skilaboð um að honum yrði skipt út í Operation Six, ákveður Loid að hjálpa Anyu að vinna matreiðslukeppnina í Eden Academy með því að útbúa uppáhalds máltíð skólastjórans í þeirri von að honum verði ekki skipt út.",
-    "genres": [
-      "Spenna",
-      "Gaman",
-      "Teiknað"
-    ],
-    "duration_in_mins": 110,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=0brvdc_8gyo",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-04T17:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111020&visLang=1",
-          "hall": "Salur 4"
         }
       ]
     }
