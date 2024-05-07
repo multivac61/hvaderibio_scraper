@@ -130,18 +130,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-05-07T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381190/",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-07T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381191/",
-          "hall": "Salur 1"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-05-07T17:20:00.000Z",
@@ -157,6 +145,18 @@
           "time": "2024-05-07T22:35:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/827214/",
           "hall": "AXL"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-05-07T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381190/",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-05-07T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381191/",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Akureyri": [
@@ -471,41 +471,38 @@
     }
   },
   {
-    "title": "Einskonar Ást",
-    "id": 16815,
-    "alt_title": "Skinny Love",
+    "title": "Love Lies Bleeding",
+    "id": 16724,
+    "alt_title": "Leikstjórn",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/eiskonar_ast_mynindfsadf-1710791349.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16724_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt29506136",
-      "http://imdb.com/title/tt29506136"
+      "http://imdb.com/title/tt19637052",
+      "http://imdb.com/title/tt19637052"
     ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Nútímasaga um fjórar ungar konur. Þær reyna að fóta sig í flóknum ástarsamböndum, en freistingar á borð við sykurpabba og OnlyFans flækja málin. Í leit sinni að bestu útgáfunum af sjálfum sér standa þær frammi fyrir valinu á milli glansmyndar og sannrar ástar.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Líkamsræktareigandinn Lou verður ástfanginn af Jackie, metnaðarfullri vaxtarræktarkonu sem komin er til Las Vegas til að láta drauma sína rætast. En ást þeirra hefur ofbeldi í för með sér, og dregur þau djúpt niður í glæpavef fjölskyldu Lou.",
     "genres": [
-      "Gaman",
-      "Rómantík",
-      "Drama",
-      "Íslensk mynd"
+      "Spenna",
+      "Glæpa",
+      "Ævintýri"
     ],
-    "duration_in_mins": 92,
+    "duration_in_mins": 104,
     "language": [
-      "Íslenska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=S5Eo98Qn4Yw",
+    "trailer_url": "https://www.youtube.com/watch?v=BF_J3-DmiS0",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
+      "Bíó Paradís": [
         {
-          "time": "2024-05-07T17:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381401/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Smárabíó": [
+          "time": "2024-05-07T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5899",
+          "hall": "Salur 1"
+        },
         {
-          "time": "2024-05-07T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110960&visLang=1",
-          "hall": "Salur 4"
+          "time": "2024-05-07T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5900",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -580,43 +577,6 @@
           "time": "2024-05-07T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/381046/",
           "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Love Lies Bleeding",
-    "id": 16724,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16724_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19637052",
-      "http://imdb.com/title/tt19637052"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Líkamsræktareigandinn Lou verður ástfanginn af Jackie, metnaðarfullri vaxtarræktarkonu sem komin er til Las Vegas til að láta drauma sína rætast. En ást þeirra hefur ofbeldi í för með sér, og dregur þau djúpt niður í glæpavef fjölskyldu Lou.",
-    "genres": [
-      "Spenna",
-      "Glæpa",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=BF_J3-DmiS0",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-07T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5899",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-07T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5900",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -738,155 +698,41 @@
     }
   },
   {
-    "title": "Monkey Man",
-    "id": 16714,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "title": "Einskonar Ást",
+    "id": 16815,
+    "alt_title": "Skinny Love",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/eiskonar_ast_mynindfsadf-1710791349.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt9214772",
-      "http://imdb.com/title/tt9214772"
+      "http://imdb.com/title/tt29506136",
+      "http://imdb.com/title/tt29506136"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Nútímasaga um fjórar ungar konur. Þær reyna að fóta sig í flóknum ástarsamböndum, en freistingar á borð við sykurpabba og OnlyFans flækja málin. Í leit sinni að bestu útgáfunum af sjálfum sér standa þær frammi fyrir valinu á milli glansmyndar og sannrar ástar.",
     "genres": [
-      "Spenna",
-      "Spennutryllir"
+      "Gaman",
+      "Rómantík",
+      "Drama",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 121,
+    "duration_in_mins": 92,
     "language": [
-      "Enska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
+    "trailer_url": "https://www.youtube.com/watch?v=S5Eo98Qn4Yw",
     "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-07T17:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381401/",
+          "hall": "Salur 4"
+        }
+      ],
       "Smárabíó": [
         {
-          "time": "2024-05-07T20:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110962&visLang=1",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Ospina Cali Colombia",
-    "id": 16803,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16803_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt29516945",
-      "http://imdb.com/title/tt29516945"
-    ],
-    "description": "Luis Ospina, aðalmaðurinn í listahópnum Grupo de Cali, var ein mest heillandi persóna í Suður-Amerískum kvikmyndaheimi á sínum tíma. Kvikmyndagerðarmaðurinn Jorge de Carvalho og nemendur hans settust niður með Ospina árið 2018 og ræddu líf hans og list.",
-    "genres": [
-      "Heimildarmynd",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 81,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=k9kh1SO8uaM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-07T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5894",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Godzilla x Kong: The New Empire",
-    "id": 16688,
-    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14539740",
-      "http://imdb.com/title/tt14539740"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
-    "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-07T17:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381023/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-07T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5891",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "For evigt",
-    "id": 16777,
-    "alt_title": "Eternal",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16777_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19496260",
-      "http://imdb.com/title/tt19496260"
-    ],
-    "content_rating": "Bönnuð innan 9 ára",
-    "description": "Ungur loftslagsvísindamaður, Elias, verður ástfanginn af efnilegri söngkonu, Anitu. En þegar honum gefst tækifæri til að fara í leiðangur til að rannsaka hættulegt loftslagsfyrirbrigði - dularfulla sprungu á hafsbotni - ákveður hann að velja starfsferilinn fram yfir ástina. Nokkrum árum síðar, í leiðangrinum, upplifir hann sýn á hvernig líf hans gæti hafa orðið ef hann hefði tekið aðra ákvörðun. Nú verður hann heltekinn af því að öðlast aftur gamla lífið sitt og ástina sem hann fórnaði.",
-    "genres": [
-      "Drama",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=RyiTNnhgg_c",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-07T21:25:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5897",
-          "hall": "Salur 2"
+          "time": "2024-05-07T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110960&visLang=1",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -981,36 +827,6 @@
     }
   },
   {
-    "title": "The First Omen",
-    "id": 16631,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5672290",
-      "http://imdb.com/title/tt5672290"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 120,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-07T22:10:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381441/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Toves værelse",
     "id": 16790,
     "alt_title": "Tove's Room",
@@ -1069,6 +885,190 @@
           "time": "2024-05-07T17:20:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110957&visLang=1",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The First Omen",
+    "id": 16631,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5672290",
+      "http://imdb.com/title/tt5672290"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 120,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-07T22:10:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381441/",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monkey Man",
+    "id": 16714,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16714_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt9214772",
+      "http://imdb.com/title/tt9214772"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nafnlaus ungur maður fer í hefndarför gegn spilltum glæpamönnum sem myrtu móður hans og víla ekki fyrir sér að níðast á fátæku og saklausu fólki.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 121,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=g8zxiB5Qhsc",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-05-07T20:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110962&visLang=1",
+          "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ospina Cali Colombia",
+    "id": 16803,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16803_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt29516945",
+      "http://imdb.com/title/tt29516945"
+    ],
+    "description": "Luis Ospina, aðalmaðurinn í listahópnum Grupo de Cali, var ein mest heillandi persóna í Suður-Amerískum kvikmyndaheimi á sínum tíma. Kvikmyndagerðarmaðurinn Jorge de Carvalho og nemendur hans settust niður með Ospina árið 2018 og ræddu líf hans og list.",
+    "genres": [
+      "Heimildarmynd",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 81,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=k9kh1SO8uaM",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-07T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5894",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-07T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5891",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "For evigt",
+    "id": 16777,
+    "alt_title": "Eternal",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16777_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19496260",
+      "http://imdb.com/title/tt19496260"
+    ],
+    "content_rating": "Bönnuð innan 9 ára",
+    "description": "Ungur loftslagsvísindamaður, Elias, verður ástfanginn af efnilegri söngkonu, Anitu. En þegar honum gefst tækifæri til að fara í leiðangur til að rannsaka hættulegt loftslagsfyrirbrigði - dularfulla sprungu á hafsbotni - ákveður hann að velja starfsferilinn fram yfir ástina. Nokkrum árum síðar, í leiðangrinum, upplifir hann sýn á hvernig líf hans gæti hafa orðið ef hann hefði tekið aðra ákvörðun. Nú verður hann heltekinn af því að öðlast aftur gamla lífið sitt og ástina sem hann fórnaði.",
+    "genres": [
+      "Drama",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=RyiTNnhgg_c",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-07T21:25:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5897",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Godzilla x Kong: The New Empire",
+    "id": 16688,
+    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14539740",
+      "http://imdb.com/title/tt14539740"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
+    "genres": [
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-07T17:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381023/",
+          "hall": "Salur 3"
         }
       ]
     }
