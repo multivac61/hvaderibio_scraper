@@ -461,61 +461,6 @@
     }
   },
   {
-    "title": "Civil War",
-    "id": 16643,
-    "alt_title": "Tennisinn tyllti sér á toppinn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17279496",
-      "http://imdb.com/title/tt17279496"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
-    "genres": [
-      "Spenna",
-      "Drama"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-09T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829283/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-09T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111046&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-05-09T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111249&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-09T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/382284/",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-05-09T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/382285/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "10 líf",
     "id": 16787,
     "alt_title": "10 Lives",
@@ -567,6 +512,61 @@
           "time": "2024-05-09T17:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111039&visLang=1",
           "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Civil War",
+    "id": 16643,
+    "alt_title": "Tennisinn tyllti sér á toppinn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17279496",
+      "http://imdb.com/title/tt17279496"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
+    "genres": [
+      "Spenna",
+      "Drama"
+    ],
+    "duration_in_mins": 109,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-09T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829283/",
+          "hall": "Salur B"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-09T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111046&visLang=1",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-05-09T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111249&visLang=1",
+          "hall": "Salur 5"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-09T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/382284/",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-05-09T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/382285/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -686,6 +686,37 @@
         {
           "time": "2024-05-09T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/381663/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bestu vinir",
+    "id": 16577,
+    "alt_title": "The Inseparables",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20221460",
+      "http://imdb.com/title/tt20221460"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
+    "genres": [
+      "Fjölskylda",
+      "Teiknað"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-09T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829178/",
           "hall": "Salur B"
         }
       ]
@@ -970,36 +1001,6 @@
     }
   },
   {
-    "title": "The First Omen",
-    "id": 16631,
-    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5672290",
-      "http://imdb.com/title/tt5672290"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 120,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-09T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/382299/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "Bastarden",
     "id": 16575,
     "alt_title": "The Promised Land",
@@ -1032,6 +1033,36 @@
     }
   },
   {
+    "title": "The First Omen",
+    "id": 16631,
+    "alt_title": "Djöfulleg aðsókn - 666 gestir mættu",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16631_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5672290",
+      "http://imdb.com/title/tt5672290"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Ung bandarísk kona er send til Rómar til ævinlangrar þjónustu hjá kirkjunni. Þar kynnist hún myrkraöflum sem láta hana efast um trú sína og hún uppgötvar skelfilegt samsæri sem gæti fætt af sér illskuna endurholdgaða.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 120,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=H4xk8yLiFwM",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-09T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/382299/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Toves værelse",
     "id": 16790,
     "alt_title": "Tove's Room",
@@ -1058,69 +1089,6 @@
           "time": "2024-05-09T19:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5938",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Magda og töfraskógurinn",
-    "id": 16721,
-    "alt_title": "Mavka: The Forest Song",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6685538",
-      "http://imdb.com/title/tt6685538"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-09T13:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829177/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bestu vinir",
-    "id": 16577,
-    "alt_title": "The Inseparables",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/bestu-vinir-poster-1704115392.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20221460",
-      "http://imdb.com/title/tt20221460"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hér segir frá þeim Don, hugmyndaríkri leikbrúðu sem strauk að heiman, og DJ Doggy Dog, yfirgefnum úttroðnum leikfangahundi. Þeir kynnast í Central Park í New York og halda af stað í ævintýraferð inn í borgina.",
-    "genres": [
-      "Fjölskylda",
-      "Teiknað"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=t3hgAUk9gd8",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-09T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829178/",
-          "hall": "Salur B"
         }
       ]
     }
@@ -1184,6 +1152,38 @@
         {
           "time": "2024-05-09T14:15:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/381642/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Magda og töfraskógurinn",
+    "id": 16721,
+    "alt_title": "Mavka: The Forest Song",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6685538",
+      "http://imdb.com/title/tt6685538"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-09T13:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829177/",
           "hall": "Salur B"
         }
       ]
