@@ -85,43 +85,6 @@
           "hall": "Ásberg"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-09T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110273&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-05-09T16:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110274&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-09T16:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110265&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-05-09T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110275&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-09T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110264&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-05-09T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110262&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-09T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110263&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-05-09T16:30:00.000Z",
@@ -173,6 +136,28 @@
           "time": "2024-05-09T21:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/826432/",
           "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-09T19:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110275&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-05-09T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110264&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-05-09T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110262&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-05-09T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=110263&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -516,6 +501,51 @@
     }
   },
   {
+    "title": "Immaculate",
+    "id": 16828,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23137390",
+      "http://imdb.com/title/tt23137390"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Ítalska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-09T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5910",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-05-09T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5910",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-05-09T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5911",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-05-09T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5911",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "10 líf",
     "id": 16787,
     "alt_title": "10 Lives",
@@ -559,59 +589,9 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-05-09T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111037&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
           "time": "2024-05-09T17:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111039&visLang=1",
           "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Immaculate",
-    "id": 16828,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23137390",
-      "http://imdb.com/title/tt23137390"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 89,
-    "language": [
-      "Ítalska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-09T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5910",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-09T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5910",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-09T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5911",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-09T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5911",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -687,164 +667,6 @@
           "time": "2024-05-09T19:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/381647/",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bastarden",
-    "id": 16575,
-    "alt_title": "The Promised Land",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16575_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20561198",
-      "http://imdb.com/title/tt20561198"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Fátækur hermaður, Ludvig Kahlen að nafni, kemur árið 1755 á heiðar Jótlands með eitt markmið: að hlýða skipan konungs og rækta landið og efnast á því sjálfur. En Kahlen eignast fljótt óvin. Það er hinn miskunnarlausi landeigandi Frederik De Schinkel, en hann telur sig eiga heiðarlöndin en ekki konung. Þegar þræll De Schinkel flýr ásamt eiginkonunni Ann Barbara og leitar skjóls hjá Kahlen, þá gerir landeigandinn allt sem hann getur til að koma Kahlen í burtu, og skipuleggur í leiðinni grimmilega hefnd. Kahlen berst á móti og tekur með því mikla áhættu.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 127,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-09T18:35:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5929",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Toves værelse",
-    "id": 16790,
-    "alt_title": "Tove's Room",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19623314",
-      "http://imdb.com/title/tt19623314"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
-    "genres": [
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 73,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-09T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5938",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Ghostbusters: Frozen Empire",
-    "id": 16642,
-    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1748039_500-1709425892.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21235248",
-      "http://imdb.com/title/tt21235248"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Spengler fjölskyldan snýr aftur til upprunans, þar sem þetta byrjaði allt saman, slökkvistöðvarinnar í New York. Þar hitta þau upprunalegu Draugabanana sem hafa þróað háleynilega rannsóknarstofu sem mun færa draugaveiðar upp á næsta stig. En þegar uppgötvun á aldagömlum helgigrip leysir úr læðingi illan anda þurfa gamlir og nýir Draugabanar að taka höndum saman til að vernda heimili sín og bjarga heiminum frá nýrri ísöld.",
-    "genres": [
-      "Gaman",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 125,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=6hjlyknlTaw",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-09T14:15:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381642/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Endur",
-    "id": 16356,
-    "alt_title": "Migration",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6495056",
-      "http://imdb.com/title/tt6495056"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-09T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381817/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Einskonar Ást",
-    "id": 16815,
-    "alt_title": "Skinny Love",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/eiskonar_ast_mynindfsadf-1710791349.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt29506136",
-      "http://imdb.com/title/tt29506136"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Nútímasaga um fjórar ungar konur. Þær reyna að fóta sig í flóknum ástarsamböndum, en freistingar á borð við sykurpabba og OnlyFans flækja málin. Í leit sinni að bestu útgáfunum af sjálfum sér standa þær frammi fyrir valinu á milli glansmyndar og sannrar ástar.",
-    "genres": [
-      "Gaman",
-      "Rómantík",
-      "Drama",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=S5Eo98Qn4Yw",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-09T19:50:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111047&visLang=1",
-          "hall": "Salur 4"
         }
       ]
     }
@@ -973,38 +795,6 @@
     }
   },
   {
-    "title": "Magda og töfraskógurinn",
-    "id": 16721,
-    "alt_title": "Mavka: The Forest Song",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt6685538",
-      "http://imdb.com/title/tt6685538"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-09T13:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829177/",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "Four Daughters",
     "id": 16300,
     "alt_title": "Les filles d'Olfa",
@@ -1059,6 +849,38 @@
         {
           "time": "2024-05-09T19:50:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/381657/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Magda og töfraskógurinn",
+    "id": 16721,
+    "alt_title": "Mavka: The Forest Song",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/magdaogtofraskogurinn_final_netposter-1706956447.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6685538",
+      "http://imdb.com/title/tt6685538"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Magda er sál skógarins og sér um að vernda hann fyrir ágangi mannfólksins. Þegar hún verður ástfangin af mannveru, tónlistarmanninum Lúkasi, vandast málið heldur betur, því nú stendur hún frammi fyrir vali á milli þess sem er hjartanu kærast eða skógarins sem þarf nauðsynlega á henni að halda eigi hann að blómstra og dafna.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Y4C_0dz3N_g",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-09T13:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829177/",
           "hall": "Salur B"
         }
       ]
@@ -1127,6 +949,71 @@
     }
   },
   {
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 102,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-09T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5950",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Einskonar Ást",
+    "id": 16815,
+    "alt_title": "Skinny Love",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/eiskonar_ast_mynindfsadf-1710791349.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt29506136",
+      "http://imdb.com/title/tt29506136"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Nútímasaga um fjórar ungar konur. Þær reyna að fóta sig í flóknum ástarsamböndum, en freistingar á borð við sykurpabba og OnlyFans flækja málin. Í leit sinni að bestu útgáfunum af sjálfum sér standa þær frammi fyrir valinu á milli glansmyndar og sannrar ástar.",
+    "genres": [
+      "Gaman",
+      "Rómantík",
+      "Drama",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=S5Eo98Qn4Yw",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-05-09T19:50:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111047&visLang=1",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Bestu vinir",
     "id": 16577,
     "alt_title": "The Inseparables",
@@ -1158,32 +1045,125 @@
     }
   },
   {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
+    "title": "Bastarden",
+    "id": 16575,
+    "alt_title": "The Promised Land",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16575_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
+      "http://imdb.com/title/tt20561198",
+      "http://imdb.com/title/tt20561198"
     ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Fátækur hermaður, Ludvig Kahlen að nafni, kemur árið 1755 á heiðar Jótlands með eitt markmið: að hlýða skipan konungs og rækta landið og efnast á því sjálfur. En Kahlen eignast fljótt óvin. Það er hinn miskunnarlausi landeigandi Frederik De Schinkel, en hann telur sig eiga heiðarlöndin en ekki konung. Þegar þræll De Schinkel flýr ásamt eiginkonunni Ann Barbara og leitar skjóls hjá Kahlen, þá gerir landeigandinn allt sem hann getur til að koma Kahlen í burtu, og skipuleggur í leiðinni grimmilega hefnd. Kahlen berst á móti og tekur með því mikla áhættu.",
     "genres": [
       "Drama",
-      "Tónlist",
-      "Teiknað"
+      "Söguleg",
+      "Æviágrip"
     ],
-    "duration_in_mins": 102,
+    "duration_in_mins": 127,
     "language": [
-      "Spænska"
+      "Danska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-09T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5950",
+          "time": "2024-05-09T18:35:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5929",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Toves værelse",
+    "id": 16790,
+    "alt_title": "Tove's Room",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19623314",
+      "http://imdb.com/title/tt19623314"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "genres": [
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 73,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-09T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5938",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ghostbusters: Frozen Empire",
+    "id": 16642,
+    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1748039_500-1709425892.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21235248",
+      "http://imdb.com/title/tt21235248"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Spengler fjölskyldan snýr aftur til upprunans, þar sem þetta byrjaði allt saman, slökkvistöðvarinnar í New York. Þar hitta þau upprunalegu Draugabanana sem hafa þróað háleynilega rannsóknarstofu sem mun færa draugaveiðar upp á næsta stig. En þegar uppgötvun á aldagömlum helgigrip leysir úr læðingi illan anda þurfa gamlir og nýir Draugabanar að taka höndum saman til að vernda heimili sín og bjarga heiminum frá nýrri ísöld.",
+    "genres": [
+      "Gaman",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 125,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=6hjlyknlTaw",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-09T14:15:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381642/",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Endur",
+    "id": 16356,
+    "alt_title": "Migration",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1703880_500-1697029001.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt6495056",
+      "http://imdb.com/title/tt6495056"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Andafjölskylda reynir að sannfæra ofverndandi föðurinn um að fara í besta sumarfrí allra tíma.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-09T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381817/",
           "hall": "Salur 3"
         }
       ]
