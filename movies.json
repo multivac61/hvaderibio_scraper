@@ -107,38 +107,6 @@
           "hall": "Ásberg"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-12T15:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111268&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-12T16:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111007&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-05-12T18:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111265&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-12T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111009&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-05-12T21:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111277&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-12T22:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111010&visLang=1",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-05-12T16:00:00.000Z",
@@ -178,6 +146,28 @@
           "time": "2024-05-12T21:00:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/826438/",
           "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-12T18:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111265&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-05-12T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111009&visLang=1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-05-12T21:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111277&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-05-12T22:15:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111010&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -283,23 +273,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-12T16:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111267&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-05-12T19:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111264&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-05-12T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111276&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Keflavík": [
         {
           "time": "2024-05-12T17:20:00.000Z",
@@ -322,6 +295,18 @@
           "time": "2024-05-12T20:40:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829236/",
           "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-12T19:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111264&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-05-12T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111276&visLang=1",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -405,11 +390,6 @@
         }
       ],
       "Smárabíó": [
-        {
-          "time": "2024-05-12T15:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111350&visLang=1",
-          "hall": "Salur 2"
-        },
         {
           "time": "2024-05-12T19:50:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111351&visLang=1",
@@ -551,62 +531,6 @@
     }
   },
   {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 88,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-12T13:50:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829192/",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-05-12T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829193/",
-          "hall": "AXL"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-05-12T15:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381810/",
-          "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-12T15:15:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111270&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-05-12T17:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111266&visLang=1",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Challengers",
     "id": 16079,
     "alt_title": "The Fall Guy flaug á toppinn",
@@ -658,6 +582,57 @@
           "time": "2024-05-12T19:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/382243/",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 88,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-12T13:50:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829192/",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-05-12T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829193/",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-05-12T15:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381810/",
+          "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-12T17:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111266&visLang=1",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -897,97 +872,6 @@
           "time": "2024-05-12T17:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111330&visLang=1",
           "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Draumar, konur og brauð",
-    "id": 16842,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/draumar-1712228090.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Á töfrandi hringferð um fallega ísland, kynnumst við kraftmiklum konum, sem reka einstök kaffihús hringinn í kringum landið en líka söngkonu, sem er að skrifa handrit og samferðakonu hennar.\nSvana söngkona kemur við á litla kaffihúsinu við víkina í leit að hattinum sínum. Þar kemst hún að því, að VIP úr menningarelítunni í Reykjavík verður heiðursgestur á Sólstöðuhátíð sveitarinnar eftir viku.\nSvana ákveður í skyndi að skrifa nú nýja útgáfu af leikritinu sínu, „Í hennar sporum“, fara hringferð um Ísland og stíga í spor kvenna, semreka kaffihús á landsbyggðinni. Hún freistarþess að bjarga listamanns ferli sínummeð þessu móti og ná að sýna Millu, formanni Menningarnefndarinnar, afraksturinn á hátíðinni.\nHún býður Agnesi líffræðingi far og saman koma þær við á 5 kaffihúsum og kynnast þar konunum sem þau reka, draumum þeirra og dagdraumum.\nFrásagnarmáti myndarinnar er í anda töfra-raunsæis.Ásamt því að fylgjast með Svönu og Agnesi fara hringinn þá rifjum við upp þjóðsögur og minni landsins. Tónlist spilar stóran þátt í verkinu.\nAgnar Már Magnússon, tónskáld semur stefin en einnig á Una Stefánsdóttir tvö frumsamin lög og við hlýðum á nýja útsetningu á gömlu Þjóðhátíðarlagi Magnúsar Eiríkssonar, svo eitthvað sé nefnt.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5osg82IpZM4",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-12T15:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5928",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Godzilla x Kong: The New Empire",
-    "id": 16688,
-    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14539740",
-      "http://imdb.com/title/tt14539740"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
-    "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-12T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381632/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "For evigt",
-    "id": 16777,
-    "alt_title": "Eternal",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16777_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19496260",
-      "http://imdb.com/title/tt19496260"
-    ],
-    "content_rating": "Bönnuð innan 9 ára",
-    "description": "Ungur loftslagsvísindamaður, Elias, verður ástfanginn af efnilegri söngkonu, Anitu. En þegar honum gefst tækifæri til að fara í leiðangur til að rannsaka hættulegt loftslagsfyrirbrigði - dularfulla sprungu á hafsbotni - ákveður hann að velja starfsferilinn fram yfir ástina. Nokkrum árum síðar, í leiðangrinum, upplifir hann sýn á hvernig líf hans gæti hafa orðið ef hann hefði tekið aðra ákvörðun. Nú verður hann heltekinn af því að öðlast aftur gamla lífið sitt og ástina sem hann fórnaði.",
-    "genres": [
-      "Drama",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 99,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=RyiTNnhgg_c",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-12T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5948",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -1240,6 +1124,34 @@
     }
   },
   {
+    "title": "Draumar, konur og brauð",
+    "id": 16842,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/draumar-1712228090.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Á töfrandi hringferð um fallega ísland, kynnumst við kraftmiklum konum, sem reka einstök kaffihús hringinn í kringum landið en líka söngkonu, sem er að skrifa handrit og samferðakonu hennar.\nSvana söngkona kemur við á litla kaffihúsinu við víkina í leit að hattinum sínum. Þar kemst hún að því, að VIP úr menningarelítunni í Reykjavík verður heiðursgestur á Sólstöðuhátíð sveitarinnar eftir viku.\nSvana ákveður í skyndi að skrifa nú nýja útgáfu af leikritinu sínu, „Í hennar sporum“, fara hringferð um Ísland og stíga í spor kvenna, semreka kaffihús á landsbyggðinni. Hún freistarþess að bjarga listamanns ferli sínummeð þessu móti og ná að sýna Millu, formanni Menningarnefndarinnar, afraksturinn á hátíðinni.\nHún býður Agnesi líffræðingi far og saman koma þær við á 5 kaffihúsum og kynnast þar konunum sem þau reka, draumum þeirra og dagdraumum.\nFrásagnarmáti myndarinnar er í anda töfra-raunsæis.Ásamt því að fylgjast með Svönu og Agnesi fara hringinn þá rifjum við upp þjóðsögur og minni landsins. Tónlist spilar stóran þátt í verkinu.\nAgnar Már Magnússon, tónskáld semur stefin en einnig á Una Stefánsdóttir tvö frumsamin lög og við hlýðum á nýja útsetningu á gömlu Þjóðhátíðarlagi Magnúsar Eiríkssonar, svo eitthvað sé nefnt.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5osg82IpZM4",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-12T15:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5928",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Dune: Part Two",
     "id": 14478,
     "alt_title": "The Fall Guy flaug á toppinn",
@@ -1267,6 +1179,69 @@
           "time": "2024-05-12T16:30:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/382225/",
           "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "For evigt",
+    "id": 16777,
+    "alt_title": "Eternal",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16777_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19496260",
+      "http://imdb.com/title/tt19496260"
+    ],
+    "content_rating": "Bönnuð innan 9 ára",
+    "description": "Ungur loftslagsvísindamaður, Elias, verður ástfanginn af efnilegri söngkonu, Anitu. En þegar honum gefst tækifæri til að fara í leiðangur til að rannsaka hættulegt loftslagsfyrirbrigði - dularfulla sprungu á hafsbotni - ákveður hann að velja starfsferilinn fram yfir ástina. Nokkrum árum síðar, í leiðangrinum, upplifir hann sýn á hvernig líf hans gæti hafa orðið ef hann hefði tekið aðra ákvörðun. Nú verður hann heltekinn af því að öðlast aftur gamla lífið sitt og ástina sem hann fórnaði.",
+    "genres": [
+      "Drama",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 99,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=RyiTNnhgg_c",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-12T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5948",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Godzilla x Kong: The New Empire",
+    "id": 16688,
+    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14539740",
+      "http://imdb.com/title/tt14539740"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
+    "genres": [
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-12T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381632/",
+          "hall": "Salur 3"
         }
       ]
     }
