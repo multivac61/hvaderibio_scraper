@@ -118,16 +118,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-05-13T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111290&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-13T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111288&visLang=1",
-          "hall": "MAX"
-        },
-        {
           "time": "2024-05-13T22:00:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111302&visLang=1",
           "hall": "LÚXUS"
@@ -233,11 +223,6 @@
       ],
       "Smárabíó": [
         {
-          "time": "2024-05-13T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111289&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
           "time": "2024-05-13T22:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111303&visLang=1",
           "hall": "Salur 4"
@@ -312,61 +297,6 @@
     }
   },
   {
-    "title": "Civil War",
-    "id": 16643,
-    "alt_title": "Tennisinn tyllti sér á toppinn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17279496",
-      "http://imdb.com/title/tt17279496"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
-    "genres": [
-      "Spenna",
-      "Drama"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-13T18:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829291/",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-13T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111287&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-05-13T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111279&visLang=1",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-13T20:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/382294/",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-05-13T22:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/382295/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Immaculate",
     "id": 16828,
     "alt_title": "Leikstjórn",
@@ -407,6 +337,56 @@
           "time": "2024-05-13T21:00:00.000Z",
           "purchase_url": "https://tickets.bioparadis.is/#book/5954",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Civil War",
+    "id": 16643,
+    "alt_title": "Tennisinn tyllti sér á toppinn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17279496",
+      "http://imdb.com/title/tt17279496"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
+    "genres": [
+      "Spenna",
+      "Drama"
+    ],
+    "duration_in_mins": 109,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-13T18:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829291/",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-13T20:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/382294/",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-05-13T22:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/382295/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-13T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111279&visLang=1",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -511,38 +491,6 @@
     }
   },
   {
-    "title": "Dune: Part Two",
-    "id": 14478,
-    "alt_title": "The Fall Guy flaug á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15239678",
-      "http://imdb.com/title/tt15239678"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 166,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-13T16:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/382226/",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "Four Daughters",
     "id": 16300,
     "alt_title": "Les filles d'Olfa",
@@ -573,33 +521,33 @@
     }
   },
   {
-    "title": "Godzilla x Kong: The New Empire",
-    "id": 16688,
-    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
+    "title": "Dune: Part Two",
+    "id": 14478,
+    "alt_title": "The Fall Guy flaug á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14539740",
-      "http://imdb.com/title/tt14539740"
+      "http://imdb.com/title/tt15239678",
+      "http://imdb.com/title/tt15239678"
     ],
     "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
+    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
     "genres": [
       "Spenna",
-      "Vísindaskáldskapur",
+      "Drama",
       "Ævintýri"
     ],
-    "duration_in_mins": 115,
+    "duration_in_mins": 166,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
+    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-05-13T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/381633/",
-          "hall": "Salur 3"
+          "time": "2024-05-13T16:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/382226/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -637,6 +585,65 @@
     }
   },
   {
+    "title": "Godzilla x Kong: The New Empire",
+    "id": 16688,
+    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14539740",
+      "http://imdb.com/title/tt14539740"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
+    "genres": [
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-13T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/381633/",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tölum um Endó",
+    "id": 16859,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 59,
+    "language": [
+      "Íslenska"
+    ],
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-13T17:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5958",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Ghostbusters: Frozen Empire",
     "id": 16642,
     "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
@@ -668,27 +675,32 @@
     }
   },
   {
-    "title": "Tölum um Endó",
-    "id": 16859,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/screenshot_2024-04-17_180638-1713377233.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Tölum um ENDÓ er klukkustundar löng heimildarmynd þar sem rætt er við konur á ýmsum aldri um einkenni og áhrif sjúkdómsins endómetríósu á þeirra líf og störf. Sjúkdómurinn var áður kallaður legslímuflakk en nú er talað um endó í daglegu tali.\n1 af hverjum 10 konum og einstaklingum sem fæðast með kvenkyns innri líffæri eru með sjúkdóminn endómetríósu sem er krónískur bólgu og verkjasjúkdómur. Endófrumur valda samgróningum og bólgum sem geta skemmt líffæri.\nÓfrjósemi er einn helsti fylgikvilli sjúkdómsins en 30-40% kvenna sem glíma við endómetríósu kljást við ófrjósemi eða vanfrjósemi. Að meðaltali tekur um 7-10 ár að greina sjúkdóminn.\nÍ myndinni tekur Þóra Karítas Árnadóttir viðtöl við átta konur og aðstandendur þeirra um reynslu þeirra af sjúkdómnum en að auki er rætt við kvensjúkdómalæknana Ragnheiði Oddnýju Árnadóttur og Jón Ívar Einarsson.",
+    "title": "Bastarden",
+    "id": 16575,
+    "alt_title": "The Promised Land",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16575_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20561198",
+      "http://imdb.com/title/tt20561198"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Fátækur hermaður, Ludvig Kahlen að nafni, kemur árið 1755 á heiðar Jótlands með eitt markmið: að hlýða skipan konungs og rækta landið og efnast á því sjálfur. En Kahlen eignast fljótt óvin. Það er hinn miskunnarlausi landeigandi Frederik De Schinkel, en hann telur sig eiga heiðarlöndin en ekki konung. Þegar þræll De Schinkel flýr ásamt eiginkonunni Ann Barbara og leitar skjóls hjá Kahlen, þá gerir landeigandinn allt sem hann getur til að koma Kahlen í burtu, og skipuleggur í leiðinni grimmilega hefnd. Kahlen berst á móti og tekur með því mikla áhættu.",
     "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
     ],
-    "duration_in_mins": 59,
+    "duration_in_mins": 127,
     "language": [
-      "Íslenska"
+      "Danska"
     ],
+    "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-13T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5958",
+          "time": "2024-05-13T20:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5963",
           "hall": "Salur 2"
         }
       ]
@@ -727,33 +739,32 @@
     }
   },
   {
-    "title": "Bastarden",
-    "id": 16575,
-    "alt_title": "The Promised Land",
+    "title": "Toves værelse",
+    "id": 16790,
+    "alt_title": "Tove's Room",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16575_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt20561198",
-      "http://imdb.com/title/tt20561198"
+      "http://imdb.com/title/tt19623314",
+      "http://imdb.com/title/tt19623314"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Fátækur hermaður, Ludvig Kahlen að nafni, kemur árið 1755 á heiðar Jótlands með eitt markmið: að hlýða skipan konungs og rækta landið og efnast á því sjálfur. En Kahlen eignast fljótt óvin. Það er hinn miskunnarlausi landeigandi Frederik De Schinkel, en hann telur sig eiga heiðarlöndin en ekki konung. Þegar þræll De Schinkel flýr ásamt eiginkonunni Ann Barbara og leitar skjóls hjá Kahlen, þá gerir landeigandinn allt sem hann getur til að koma Kahlen í burtu, og skipuleggur í leiðinni grimmilega hefnd. Kahlen berst á móti og tekur með því mikla áhættu.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
     "genres": [
       "Drama",
-      "Söguleg",
       "Æviágrip"
     ],
-    "duration_in_mins": 127,
+    "duration_in_mins": 73,
     "language": [
       "Danska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
+    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-13T20:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5963",
-          "hall": "Salur 2"
+          "time": "2024-05-13T21:15:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5967",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -785,37 +796,6 @@
         {
           "time": "2024-05-13T19:40:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/381654/",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Toves værelse",
-    "id": 16790,
-    "alt_title": "Tove's Room",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19623314",
-      "http://imdb.com/title/tt19623314"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
-    "genres": [
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 73,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-13T21:15:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5967",
           "hall": "Salur 3"
         }
       ]
@@ -877,39 +857,6 @@
           "time": "2024-05-13T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/382303/",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Einskonar Ást",
-    "id": 16815,
-    "alt_title": "Skinny Love",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/eiskonar_ast_mynindfsadf-1710791349.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt29506136",
-      "http://imdb.com/title/tt29506136"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Nútímasaga um fjórar ungar konur. Þær reyna að fóta sig í flóknum ástarsamböndum, en freistingar á borð við sykurpabba og OnlyFans flækja málin. Í leit sinni að bestu útgáfunum af sjálfum sér standa þær frammi fyrir valinu á milli glansmyndar og sannrar ástar.",
-    "genres": [
-      "Gaman",
-      "Rómantík",
-      "Drama",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=S5Eo98Qn4Yw",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-13T20:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111286&visLang=1",
-          "hall": "Salur 4"
         }
       ]
     }
