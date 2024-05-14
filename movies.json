@@ -43,43 +43,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-14T15:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111304&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-05-14T16:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111326&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-14T16:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111309&visLang=1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-05-14T19:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111312&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-14T19:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111314&visLang=1",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-05-14T22:00:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111319&visLang=1",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-14T22:10:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111320&visLang=1",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-05-14T16:30:00.000Z",
@@ -154,6 +117,28 @@
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829244/",
           "hall": "AXL"
         }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-14T19:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111312&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-05-14T19:40:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111314&visLang=1",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-05-14T22:00:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111319&visLang=1",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-05-14T22:10:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111320&visLang=1",
+          "hall": "MAX"
+        }
       ]
     }
   },
@@ -224,23 +209,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-14T16:40:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111310&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-05-14T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111313&visLang=1",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-05-14T22:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111318&visLang=1",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-05-14T17:00:00.000Z",
@@ -292,6 +260,18 @@
           "time": "2024-05-14T20:40:00.000Z",
           "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/829246/",
           "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-14T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111313&visLang=1",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-05-14T22:20:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111318&visLang=1",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -363,51 +343,6 @@
     }
   },
   {
-    "title": "Immaculate",
-    "id": 16828,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23137390",
-      "http://imdb.com/title/tt23137390"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 89,
-    "language": [
-      "Ítalska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-14T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5952",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-14T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5952",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-14T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5955",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-14T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5955",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
     "title": "Civil War",
     "id": 16643,
     "alt_title": "Tennisinn tyllti sér á toppinn",
@@ -458,6 +393,51 @@
     }
   },
   {
+    "title": "Immaculate",
+    "id": 16828,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23137390",
+      "http://imdb.com/title/tt23137390"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Ítalska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-14T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5952",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-05-14T19:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5952",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-05-14T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5955",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-05-14T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5955",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Abigail",
     "id": 16700,
     "alt_title": "Vilja lausnargjald fyrir vampíruna",
@@ -496,6 +476,103 @@
     }
   },
   {
+    "title": "Love Lies Bleeding",
+    "id": 16724,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16724_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19637052",
+      "http://imdb.com/title/tt19637052"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Líkamsræktareigandinn Lou verður ástfanginn af Jackie, metnaðarfullri vaxtarræktarkonu sem komin er til Las Vegas til að láta drauma sína rætast. En ást þeirra hefur ofbeldi í för með sér, og dregur þau djúpt niður í glæpavef fjölskyldu Lou.",
+    "genres": [
+      "Spenna",
+      "Glæpa",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=BF_J3-DmiS0",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-14T21:00:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5960",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Full Metal Jacket",
+    "id": 1320,
+    "alt_title": "Óþekkjanlegur Gyllenhaal",
+    "release_year": 1987,
+    "poster_url": "https://kvikmyndir.is/images/poster/156931_500-1670771360.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0093058",
+      "http://imdb.com/title/tt0093058",
+      "https://www.themoviedb.org/tv/600"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Tvískipt mynd sem segir frá ungum mönnum allt frá því þeir byrja í herþjálfun og þar til þeir eru komnir út á vígvöllinn í Víetnamstríðinu. Í fyrri hlutanum er fjallað um Joker, Pyle og aðra þegar þeir fara í gegnum hina hrikalegu USMC herþjálfun undir stjórn hins litríka en orðljóta Hartman liðþjálfa. Síðari helmingurinn hefst í Víetnam, nálægt Hue, um það leiti þegar Tet sóknin var gerð á bandaríska herinn, en það var ein stærsta hernaðaraðgerð í Víetnamstríðinu. Joker, ásamt Animal Mother, Rafterman og fleirum, þurfa að ganga í gegnum ógnir eins og fyrirsát, sprengjugildrur og leyniskyttur Viet Cong, þegar þeir fara í gegnum borgina.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Stríð"
+    ],
+    "duration_in_mins": 116,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=n2i917l5RFc",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-05-14T19:30:00.000Z",
+          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109594&visLang=1",
+          "hall": "MAX"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bastarden",
+    "id": 16575,
+    "alt_title": "The Promised Land",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16575_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt20561198",
+      "http://imdb.com/title/tt20561198"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Fátækur hermaður, Ludvig Kahlen að nafni, kemur árið 1755 á heiðar Jótlands með eitt markmið: að hlýða skipan konungs og rækta landið og efnast á því sjálfur. En Kahlen eignast fljótt óvin. Það er hinn miskunnarlausi landeigandi Frederik De Schinkel, en hann telur sig eiga heiðarlöndin en ekki konung. Þegar þræll De Schinkel flýr ásamt eiginkonunni Ann Barbara og leitar skjóls hjá Kahlen, þá gerir landeigandinn allt sem hann getur til að koma Kahlen í burtu, og skipuleggur í leiðinni grimmilega hefnd. Kahlen berst á móti og tekur með því mikla áhættu.",
+    "genres": [
+      "Drama",
+      "Söguleg",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 127,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-14T18:30:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5962",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "10 líf",
     "id": 16787,
     "alt_title": "10 Lives",
@@ -520,14 +597,40 @@
     "cinema_showtimes": {
       "Smárabíó": [
         {
-          "time": "2024-05-14T15:20:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111305&visLang=1",
-          "hall": "Salur 5"
-        },
-        {
           "time": "2024-05-14T17:30:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111311&visLang=1",
           "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Toves værelse",
+    "id": 16790,
+    "alt_title": "Tove's Room",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19623314",
+      "http://imdb.com/title/tt19623314"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "genres": [
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 73,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-14T16:45:00.000Z",
+          "purchase_url": "https://tickets.bioparadis.is/#book/5966",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -561,6 +664,38 @@
           "time": "2024-05-14T22:10:00.000Z",
           "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=111328&visLang=1",
           "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Dune: Part Two",
+    "id": 14478,
+    "alt_title": "The Fall Guy flaug á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt15239678",
+      "http://imdb.com/title/tt15239678"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
+    "genres": [
+      "Spenna",
+      "Drama",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 166,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-14T16:30:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/382227/",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -867,166 +1002,6 @@
           "time": "2024-05-14T22:20:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/382304/",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Love Lies Bleeding",
-    "id": 16724,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16724_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19637052",
-      "http://imdb.com/title/tt19637052"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Líkamsræktareigandinn Lou verður ástfanginn af Jackie, metnaðarfullri vaxtarræktarkonu sem komin er til Las Vegas til að láta drauma sína rætast. En ást þeirra hefur ofbeldi í för með sér, og dregur þau djúpt niður í glæpavef fjölskyldu Lou.",
-    "genres": [
-      "Spenna",
-      "Glæpa",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=BF_J3-DmiS0",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-14T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5960",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Bastarden",
-    "id": 16575,
-    "alt_title": "The Promised Land",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16575_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt20561198",
-      "http://imdb.com/title/tt20561198"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Fátækur hermaður, Ludvig Kahlen að nafni, kemur árið 1755 á heiðar Jótlands með eitt markmið: að hlýða skipan konungs og rækta landið og efnast á því sjálfur. En Kahlen eignast fljótt óvin. Það er hinn miskunnarlausi landeigandi Frederik De Schinkel, en hann telur sig eiga heiðarlöndin en ekki konung. Þegar þræll De Schinkel flýr ásamt eiginkonunni Ann Barbara og leitar skjóls hjá Kahlen, þá gerir landeigandinn allt sem hann getur til að koma Kahlen í burtu, og skipuleggur í leiðinni grimmilega hefnd. Kahlen berst á móti og tekur með því mikla áhættu.",
-    "genres": [
-      "Drama",
-      "Söguleg",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 127,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-14T18:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5962",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Toves værelse",
-    "id": 16790,
-    "alt_title": "Tove's Room",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19623314",
-      "http://imdb.com/title/tt19623314"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
-    "genres": [
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 73,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-14T16:45:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5966",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Full Metal Jacket",
-    "id": 1320,
-    "alt_title": "Óþekkjanlegur Gyllenhaal",
-    "release_year": 1987,
-    "poster_url": "https://kvikmyndir.is/images/poster/156931_500-1670771360.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0093058",
-      "http://imdb.com/title/tt0093058",
-      "https://www.themoviedb.org/tv/600"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Tvískipt mynd sem segir frá ungum mönnum allt frá því þeir byrja í herþjálfun og þar til þeir eru komnir út á vígvöllinn í Víetnamstríðinu. Í fyrri hlutanum er fjallað um Joker, Pyle og aðra þegar þeir fara í gegnum hina hrikalegu USMC herþjálfun undir stjórn hins litríka en orðljóta Hartman liðþjálfa. Síðari helmingurinn hefst í Víetnam, nálægt Hue, um það leiti þegar Tet sóknin var gerð á bandaríska herinn, en það var ein stærsta hernaðaraðgerð í Víetnamstríðinu. Joker, ásamt Animal Mother, Rafterman og fleirum, þurfa að ganga í gegnum ógnir eins og fyrirsát, sprengjugildrur og leyniskyttur Viet Cong, þegar þeir fara í gegnum borgina.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Stríð"
-    ],
-    "duration_in_mins": 116,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=n2i917l5RFc",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-14T19:30:00.000Z",
-          "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=109594&visLang=1",
-          "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Dune: Part Two",
-    "id": 14478,
-    "alt_title": "The Fall Guy flaug á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1742408_500-1709234598.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt15239678",
-      "http://imdb.com/title/tt15239678"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Í þessari framhaldsmynd af Dune verður sagt frá ferðum Paul Atreides ásamt Chani og Fremen á plánetunni Arrakis, og hefndum gegn þeim sem lögðu á ráðin um árásina og drápið á Atreides fjölskyldunni. Paul stendur frammi fyrir erfiðu vali á milli draumaprinsessunnar og örlaga alheimsins. Markmiðið er að koma í veg fyrir hræðilega framtíð sem hann einn veit hver verður.",
-    "genres": [
-      "Spenna",
-      "Drama",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 166,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=Way9Dexny3w",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-14T16:30:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/382227/",
-          "hall": "Salur 4"
         }
       ]
     }
