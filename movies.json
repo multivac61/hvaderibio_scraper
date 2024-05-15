@@ -496,69 +496,13 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-15T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5985",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-15T17:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5985",
+          "purchase_url": "",
           "hall": "Salur 1"
         },
         {
           "time": "2024-05-15T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5986",
+          "purchase_url": "",
           "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-15T21:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5986",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Challengers",
-    "id": 16079,
-    "alt_title": "The Fall Guy flaug á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1736149_500-1704376990.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16426418",
-      "http://imdb.com/title/tt16426418"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tennisleikarinn Tashi, sem nú hefur snúið sér að þjálfun, er búin að gera eiginmann sinn, Art, að heimsþekktum sigurvegara á mörgum risamótum. Eftir mörg töp í röð ákveður hún, til að koma Art aftur á sigurbraut, að skrá hann á áskorendamót þar sem mótspilarar eru mun viðráðanlegri. Þar mætir hann fyrrum besta vini sínum og fyrrverandi kærasta Tashi.",
-    "genres": [
-      "Rómantík",
-      "Drama",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 131,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=MDnVk5jIJr0",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-15T17:00:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/382397/",
-          "hall": "Salur 4"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-15T19:20:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/382025/",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-05-15T21:40:00.000Z",
-          "purchase_url": "http://www.sambio.is/websales/show/382033/",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -610,6 +554,88 @@
     }
   },
   {
+    "title": "Challengers",
+    "id": 16079,
+    "alt_title": "The Fall Guy flaug á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1736149_500-1704376990.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16426418",
+      "http://imdb.com/title/tt16426418"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tennisleikarinn Tashi, sem nú hefur snúið sér að þjálfun, er búin að gera eiginmann sinn, Art, að heimsþekktum sigurvegara á mörgum risamótum. Eftir mörg töp í röð ákveður hún, til að koma Art aftur á sigurbraut, að skrá hann á áskorendamót þar sem mótspilarar eru mun viðráðanlegri. Þar mætir hann fyrrum besta vini sínum og fyrrverandi kærasta Tashi.",
+    "genres": [
+      "Rómantík",
+      "Drama",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 131,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=MDnVk5jIJr0",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-15T17:00:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/382397/",
+          "hall": "Salur 4"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-15T19:20:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/382025/",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-05-15T21:40:00.000Z",
+          "purchase_url": "http://www.sambio.is/websales/show/382033/",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Toves værelse",
+    "id": 16790,
+    "alt_title": "Tove's Room",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19623314",
+      "http://imdb.com/title/tt19623314"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "genres": [
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 73,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-15T14:00:00.000Z",
+          "purchase_url": "",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-05-15T19:00:00.000Z",
+          "purchase_url": "",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Bastarden",
     "id": 16575,
     "alt_title": "The Promised Land",
@@ -635,12 +661,12 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-15T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5972",
+          "purchase_url": "",
           "hall": "Salur 2"
         },
         {
           "time": "2024-05-15T20:35:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5984",
+          "purchase_url": "",
           "hall": "Salur 2"
         }
       ]
@@ -685,37 +711,91 @@
     }
   },
   {
-    "title": "Toves værelse",
-    "id": 16790,
-    "alt_title": "Tove's Room",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt19623314",
-      "http://imdb.com/title/tt19623314"
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
     "genres": [
-      "Drama",
-      "Æviágrip"
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
     ],
-    "duration_in_mins": 73,
+    "duration_in_mins": 88,
     "language": [
-      "Danska"
+      "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-15T16:00:00.000Z",
+          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/830085/",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-15T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5971",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-15T19:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5983",
+          "time": "2024-05-15T16:30:00.000Z",
+          "purchase_url": "",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Draumar, konur og brauð",
+    "id": 16842,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/draumar-1712228090.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Á töfrandi hringferð um fallega ísland, kynnumst við kraftmiklum konum, sem reka einstök kaffihús hringinn í kringum landið en líka söngkonu, sem er að skrifa handrit og samferðakonu hennar.\nSvana söngkona kemur við á litla kaffihúsinu við víkina í leit að hattinum sínum. Þar kemst hún að því, að VIP úr menningarelítunni í Reykjavík verður heiðursgestur á Sólstöðuhátíð sveitarinnar eftir viku.\nSvana ákveður í skyndi að skrifa nú nýja útgáfu af leikritinu sínu, „Í hennar sporum“, fara hringferð um Ísland og stíga í spor kvenna, semreka kaffihús á landsbyggðinni. Hún freistarþess að bjarga listamanns ferli sínummeð þessu móti og ná að sýna Millu, formanni Menningarnefndarinnar, afraksturinn á hátíðinni.\nHún býður Agnesi líffræðingi far og saman koma þær við á 5 kaffihúsum og kynnast þar konunum sem þau reka, draumum þeirra og dagdraumum.\nFrásagnarmáti myndarinnar er í anda töfra-raunsæis.Ásamt því að fylgjast með Svönu og Agnesi fara hringinn þá rifjum við upp þjóðsögur og minni landsins. Tónlist spilar stóran þátt í verkinu.\nAgnar Már Magnússon, tónskáld semur stefin en einnig á Una Stefánsdóttir tvö frumsamin lög og við hlýðum á nýja útsetningu á gömlu Þjóðhátíðarlagi Magnúsar Eiríkssonar, svo eitthvað sé nefnt.",
+    "genres": [
+      "Heimildarmynd",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 90,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5osg82IpZM4",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-15T19:40:00.000Z",
+          "purchase_url": "",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -745,7 +825,7 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-15T21:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5981",
+          "purchase_url": "",
           "hall": "Salur 3"
         }
       ]
@@ -807,7 +887,7 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-15T16:10:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5979",
+          "purchase_url": "",
           "hall": "Salur 3"
         }
       ]
@@ -839,7 +919,7 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-15T18:50:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5987",
+          "purchase_url": "",
           "hall": "Salur 1"
         }
       ]
@@ -866,7 +946,7 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-15T18:20:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5978",
+          "purchase_url": "",
           "hall": "Salur 3"
         }
       ]
@@ -898,7 +978,7 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-15T14:00:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5973",
+          "purchase_url": "",
           "hall": "Salur 3"
         }
       ]
@@ -932,96 +1012,6 @@
           "time": "2024-05-15T22:00:00.000Z",
           "purchase_url": "http://www.sambio.is/websales/show/382015/",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 88,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-15T16:00:00.000Z",
-          "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/830085/",
-          "hall": "Salur A"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-15T16:30:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5982",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Draumar, konur og brauð",
-    "id": 16842,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/draumar-1712228090.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Á töfrandi hringferð um fallega ísland, kynnumst við kraftmiklum konum, sem reka einstök kaffihús hringinn í kringum landið en líka söngkonu, sem er að skrifa handrit og samferðakonu hennar.\nSvana söngkona kemur við á litla kaffihúsinu við víkina í leit að hattinum sínum. Þar kemst hún að því, að VIP úr menningarelítunni í Reykjavík verður heiðursgestur á Sólstöðuhátíð sveitarinnar eftir viku.\nSvana ákveður í skyndi að skrifa nú nýja útgáfu af leikritinu sínu, „Í hennar sporum“, fara hringferð um Ísland og stíga í spor kvenna, semreka kaffihús á landsbyggðinni. Hún freistarþess að bjarga listamanns ferli sínummeð þessu móti og ná að sýna Millu, formanni Menningarnefndarinnar, afraksturinn á hátíðinni.\nHún býður Agnesi líffræðingi far og saman koma þær við á 5 kaffihúsum og kynnast þar konunum sem þau reka, draumum þeirra og dagdraumum.\nFrásagnarmáti myndarinnar er í anda töfra-raunsæis.Ásamt því að fylgjast með Svönu og Agnesi fara hringinn þá rifjum við upp þjóðsögur og minni landsins. Tónlist spilar stóran þátt í verkinu.\nAgnar Már Magnússon, tónskáld semur stefin en einnig á Una Stefánsdóttir tvö frumsamin lög og við hlýðum á nýja útsetningu á gömlu Þjóðhátíðarlagi Magnúsar Eiríkssonar, svo eitthvað sé nefnt.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5osg82IpZM4",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-15T19:40:00.000Z",
-          "purchase_url": "https://tickets.bioparadis.is/#book/5980",
-          "hall": "Salur 3"
         }
       ]
     }
