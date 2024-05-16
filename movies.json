@@ -47,12 +47,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-16T15:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0f728b77-3d44-4e49-9927-708284a84c8b",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1befc1eb-794b-4ee4-b3ef-b01fddcfd19a",
           "hall": "AXL"
         },
         {
           "time": "2024-05-16T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=96ee3fbf-4c7c-4beb-9018-e149c78a5b0a",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=86469d1e-63fc-4668-b3b8-88f8eee7fa2b",
           "hall": "AXL"
         }
       ],
@@ -271,12 +271,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-16T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=87d85440-2d31-4a85-9cfa-123aca115d7f",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b34d528c-e6a5-48b3-b30a-cbb83fda8d19",
           "hall": "Salur A"
         },
         {
           "time": "2024-05-16T20:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a7fe4505-3383-48ec-b715-3bb8f29616a1",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bc975269-8148-4463-9268-720bdf5cd381",
           "hall": "AXL"
         }
       ],
@@ -329,12 +329,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-16T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f4e5d074-694f-4f33-8b94-91fa1ce6ebb3",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4b93eea3-b4c1-4f07-a6d9-39e36d1c6c16",
           "hall": "Salur B"
         },
         {
           "time": "2024-05-16T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3a97263a-2529-453e-9b69-babdeb3e7421",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=99a13688-9c9d-497e-ad65-d6d59e43a70a",
           "hall": "Salur A"
         }
       ],
@@ -465,6 +465,52 @@
     }
   },
   {
+    "title": "Kung Fu Panda 4",
+    "id": 16748,
+    "alt_title": "Tennisinn tyllti sér á toppinn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21692408",
+      "http://imdb.com/title/tt21692408"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 94,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-05-16T14:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d9ce2239-6ca3-4252-a45c-83cc1b0eab32",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-16T15:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ba29e19b-b019-4956-a558-6675ee7cae9d",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-16T17:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=202a9833-403c-4994-a8d1-fe798a3da45e",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Challengers",
     "id": 16079,
     "alt_title": "The Fall Guy flaug á toppinn",
@@ -511,52 +557,6 @@
     }
   },
   {
-    "title": "Kung Fu Panda 4",
-    "id": 16748,
-    "alt_title": "Tennisinn tyllti sér á toppinn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21692408",
-      "http://imdb.com/title/tt21692408"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 94,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-05-16T14:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d9ce2239-6ca3-4252-a45c-83cc1b0eab32",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-16T15:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2b92e6d1-76c8-4c17-a0d1-12216fc862d5",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-16T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=202a9833-403c-4994-a8d1-fe798a3da45e",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Civil War",
     "id": 16643,
     "alt_title": "Tennisinn tyllti sér á toppinn",
@@ -581,7 +581,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-16T20:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3a40e0dc-ebe5-4cd5-9234-2f0899ca55cb",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a9a43994-764e-4284-81a6-ff46c78dcba6",
           "hall": "Salur B"
         }
       ],
@@ -627,7 +627,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-16T16:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a7fe22bb-1c47-48c2-bcea-a80679a21b04",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=195afae1-9e58-4d6d-8b05-83e49db581b4",
           "hall": "Salur A"
         }
       ]
