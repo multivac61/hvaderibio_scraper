@@ -47,12 +47,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-17T15:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=184f4754-53a1-4a00-b224-f03bec608ab3",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f3d93e53-1ef8-41e6-8f3c-54ddade4d613",
           "hall": "AXL"
         },
         {
           "time": "2024-05-17T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=20798bde-2e75-4882-8be6-b51865365c79",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c0065750-7d1f-4ecd-b9e4-61d2cc366227",
           "hall": "AXL"
         }
       ],
@@ -271,12 +271,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-17T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d37ba352-599c-41cb-afc6-52c734546c6b",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2464eddf-f2ca-4ccd-8ee1-cc5e2f69616d",
           "hall": "Salur A"
         },
         {
           "time": "2024-05-17T20:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a23babbf-9abb-42f4-b213-ed90ea9922f0",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e5ab23e6-149a-40ad-bac8-0b89004fd594",
           "hall": "AXL"
         }
       ],
@@ -363,12 +363,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-17T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=69dff827-176c-4c95-97f0-b536df510384",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8e00fa73-460f-493b-8655-37f3a1c10775",
           "hall": "Salur B"
         },
         {
           "time": "2024-05-17T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c9134dfa-3254-40fb-8a56-1a1a3ad8fed6",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bc3f0434-f30f-476b-aba3-2b86921044c0",
           "hall": "Salur A"
         }
       ],
@@ -487,6 +487,52 @@
     }
   },
   {
+    "title": "Kung Fu Panda 4",
+    "id": 16748,
+    "alt_title": "Tennisinn tyllti sér á toppinn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21692408",
+      "http://imdb.com/title/tt21692408"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 94,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-05-17T14:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fdb40dc0-142a-4bdd-b54d-89c4c7a833c4",
+          "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-17T15:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4e33f4e2-fe6a-4228-bba8-03f6b32aa280",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-17T17:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ce620d02-6acc-47e7-b224-e183d08bb273",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
     "title": "Challengers",
     "id": 16079,
     "alt_title": "The Fall Guy flaug á toppinn",
@@ -533,90 +579,6 @@
     }
   },
   {
-    "title": "Kung Fu Panda 4",
-    "id": 16748,
-    "alt_title": "Tennisinn tyllti sér á toppinn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21692408",
-      "http://imdb.com/title/tt21692408"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 94,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-05-17T14:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fdb40dc0-142a-4bdd-b54d-89c4c7a833c4",
-          "hall": "Salur 2"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-17T15:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c5ee10d5-a977-4e89-b430-935273146427",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-17T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ce620d02-6acc-47e7-b224-e183d08bb273",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Civil War",
-    "id": 16643,
-    "alt_title": "Tennisinn tyllti sér á toppinn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17279496",
-      "http://imdb.com/title/tt17279496"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
-    "genres": [
-      "Spenna",
-      "Drama"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-17T20:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2036e478-fbec-4d7f-81f5-37c72f0c7809",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-17T22:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e8c4a97b-7e3f-4525-be88-b290ef4cbf7d",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "10 líf",
     "id": 16787,
     "alt_title": "10 Lives",
@@ -649,8 +611,78 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-17T16:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f0465b5b-dc78-4145-8e2f-b755147ed3fe",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=97b03378-88cc-4a43-98ca-379ee2bda1ef",
           "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Civil War",
+    "id": 16643,
+    "alt_title": "Tennisinn tyllti sér á toppinn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17279496",
+      "http://imdb.com/title/tt17279496"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
+    "genres": [
+      "Spenna",
+      "Drama"
+    ],
+    "duration_in_mins": 109,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-17T20:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7572b141-4f70-48bc-8b41-016d7dd60ea0",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-17T22:15:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e8c4a97b-7e3f-4525-be88-b290ef4cbf7d",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Godzilla x Kong: The New Empire",
+    "id": 16688,
+    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14539740",
+      "http://imdb.com/title/tt14539740"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
+    "genres": [
+      "Spenna",
+      "Vísindaskáldskapur",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-17T17:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=20c3e056-718b-4097-8b9a-7ce48d9cb967",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -715,38 +747,6 @@
           "time": "2024-05-17T22:00:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e3835599-19cd-41a8-a0c6-db793ecdbf6f",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Godzilla x Kong: The New Empire",
-    "id": 16688,
-    "alt_title": "Risaskrímsli tóku áhorfendur með trompi",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1745209_500-1709426028.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14539740",
-      "http://imdb.com/title/tt14539740"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Eftir hrikaleg fyrri átök hinna tveggja risa þurfa Godzilla og King Kong að stilla saman strengi til að berjast gegn skelfilegri ógn sem útrýmt gæti bæði þeim og öllum öðrum á Jörðinni.",
-    "genres": [
-      "Spenna",
-      "Vísindaskáldskapur",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lV1OOlGwExM",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-17T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=20c3e056-718b-4097-8b9a-7ce48d9cb967",
-          "hall": "Salur 3"
         }
       ]
     }
