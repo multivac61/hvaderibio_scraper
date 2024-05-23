@@ -115,18 +115,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-23T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=06ef1777-9c62-437e-9cbe-50040a0bef11",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-05-23T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8bc332db-61bb-42d4-8c29-2711bb510a15",
-          "hall": "AXL"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-05-23T18:00:00.000Z",
@@ -147,6 +135,18 @@
           "time": "2024-05-23T22:30:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=46e83d00-5c1a-4ba4-8d19-a2f953ce1714",
           "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-23T18:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fe701648-0bdb-4d57-b5d4-7f057dde01eb",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-05-23T21:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=19472b22-0d82-4358-b961-d412188364e4",
+          "hall": "AXL"
         }
       ],
       "Sambíóin Keflavík": [
@@ -201,7 +201,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-23T15:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=dcf07972-0b37-46ed-a792-d864b09afeb8",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=951aaace-ab08-431e-a035-5d3c005a4018",
           "hall": "AXL"
         }
       ],
@@ -341,12 +341,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-23T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a8acc19f-05dc-498c-99e7-b72a20e5ae65",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=33816994-bb9d-4dc2-8349-d4d5475a7d13",
           "hall": "Salur A"
         },
         {
           "time": "2024-05-23T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f908a573-9a1f-4b60-961f-f550a46c8288",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0c9fdc74-2f7b-42b8-98ad-b82b13ff38d2",
           "hall": "Salur A"
         }
       ],
@@ -445,6 +445,50 @@
     }
   },
   {
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 88,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-05-23T15:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=982fcdb6-a122-4d78-85bb-0423c4662afd",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-05-23T17:25:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6576debf-d6e9-4b77-9787-33df833c0a83",
+          "hall": "Salur 4"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-23T16:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=cb11146f-33ab-42c2-865c-96756fa3e346",
+          "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
     "title": "Kung Fu Panda 4",
     "id": 16748,
     "alt_title": "Ímyndaðir vinir á toppnum",
@@ -477,7 +521,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-23T15:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2a7b5f4d-6196-423b-9b29-862700b6bede",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e601fc00-8df2-4f49-9283-83c4cb0dd479",
           "hall": "Salur B"
         }
       ],
@@ -569,7 +613,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-23T20:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7362eb52-10d5-4f59-812c-d7c32be8a0ca",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d17261bc-74f4-45ef-86cd-6b667b9e068d",
           "hall": "Salur B"
         }
       ],
@@ -583,45 +627,32 @@
     }
   },
   {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
+    "title": "Civil War",
+    "id": 16643,
+    "alt_title": "Tennisinn tyllti sér á toppinn",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
+      "http://imdb.com/title/tt17279496",
+      "http://imdb.com/title/tt17279496"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Spenna",
+      "Drama"
     ],
-    "duration_in_mins": 88,
+    "duration_in_mins": 109,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-23T15:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=982fcdb6-a122-4d78-85bb-0423c4662afd",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-05-23T17:25:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6576debf-d6e9-4b77-9787-33df833c0a83",
-          "hall": "Salur 4"
-        }
-      ],
       "Laugarásbíó": [
         {
-          "time": "2024-05-23T16:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5a5fe512-1d84-4cbd-bd69-78fffbb01872",
-          "hall": "Salur A"
+          "time": "2024-05-23T18:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a8d06fb9-3779-4d15-9d0b-55933ba7c559",
+          "hall": "Salur B"
         }
       ]
     }
@@ -655,37 +686,6 @@
           "time": "2024-05-23T19:30:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=76d14b57-9b14-4c12-abad-24bee6e8acf1",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Civil War",
-    "id": 16643,
-    "alt_title": "Tennisinn tyllti sér á toppinn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17279496",
-      "http://imdb.com/title/tt17279496"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
-    "genres": [
-      "Spenna",
-      "Drama"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-23T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=cb879099-e031-462a-ba45-6cb527e102cf",
-          "hall": "Salur B"
         }
       ]
     }
