@@ -105,28 +105,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-24T18:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0bbbcf99-9d38-4b58-b618-30031735ae42",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-24T19:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=625ee865-6ab7-45af-98dc-711a5bc7fc41",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-05-24T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9b170a5f-3431-4804-99ce-6ba0c1ed4999",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-05-24T22:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b470cdae-5880-40ce-9a08-092b3031fb52",
-          "hall": "MAX"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-05-24T19:20:00.000Z",
@@ -144,6 +122,18 @@
           "time": "2024-05-24T20:00:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=06707312-909f-45d1-80c1-bb41dcdf2912",
           "hall": "Salur 1"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-24T22:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=766178e3-d7a9-4d6b-aac2-ba960585be01",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-05-24T22:15:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a09f95c1-c7ab-4ef3-a252-62cf22c6d8c7",
+          "hall": "MAX"
         }
       ]
     }
@@ -247,18 +237,6 @@
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=79764b31-b69a-4e8c-ba8e-5cde89adb5d4",
           "hall": "Salur 1"
         }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-24T17:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d7183d95-9a1b-48d2-9b10-79f04bc24289",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-05-24T17:25:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=cdeacbe2-3f48-4f3d-8807-dd09ce97aa89",
-          "hall": "Salur 2"
-        }
       ]
     }
   },
@@ -342,23 +320,18 @@
           "hall": "Salur 3"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-24T19:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8b10e81e-719c-420c-a31d-d38bbb10f269",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-05-24T22:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=df284436-d928-429a-a306-7241c88045f7",
-          "hall": "Salur 4"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-05-24T20:30:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7d5b4b80-bfc7-4b5d-adb4-df7fb4bca413",
           "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-24T22:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1c860caa-f2dd-4748-9440-33b8d9b8b6ef",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -384,18 +357,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=XNTEjJm4WXg",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-24T19:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fc05c0c0-57d7-4d89-a8fe-f522fdc0b09b",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-05-24T22:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0cff491d-fc2c-41ea-8171-fa153915bb43",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-05-24T20:00:00.000Z",
@@ -433,6 +394,13 @@
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=945c821b-9d3f-468a-8810-a964960b296c",
           "hall": "Salur 2"
         }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-24T22:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=abf6d0ad-b3b8-40bd-be73-8de7dcc2ff14",
+          "hall": "Salur 2"
+        }
       ]
     }
   },
@@ -466,18 +434,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-24T19:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=15be63d2-c480-4570-b22e-c2ced6bf51fd",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-05-24T22:25:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8151fb82-1a1f-465a-8521-a47723bc30a4",
-          "hall": "Salur 5"
-        }
-      ],
       "Laugarásbíó": [
         {
           "time": "2024-05-24T20:00:00.000Z",
@@ -497,6 +453,13 @@
           "time": "2024-05-24T22:10:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a95758c2-ee9f-47a3-81e8-a18e5091261e",
           "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-24T22:25:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=348071b7-43e3-4b80-bf5a-1eb770ef8f95",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -626,6 +589,99 @@
           "time": "2024-05-24T21:00:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=785fbaad-998e-4835-97a2-bdb939bc5e48",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Civil War",
+    "id": 16643,
+    "alt_title": "Tennisinn tyllti sér á toppinn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt17279496",
+      "http://imdb.com/title/tt17279496"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
+    "genres": [
+      "Spenna",
+      "Drama"
+    ],
+    "duration_in_mins": 109,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-24T17:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bec8ea24-8580-418e-b65d-90ded5c28c9f",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Toves værelse",
+    "id": 16790,
+    "alt_title": "Tove's Room",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19623314",
+      "http://imdb.com/title/tt19623314"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "genres": [
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 73,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-24T19:15:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=49a6f129-46aa-4be5-ba86-2b263fb42052",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Showing Up",
+    "id": 16789,
+    "alt_title": "Nýja Pamela Anderson - Fyrsta mynd!",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/16789_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13923216",
+      "http://imdb.com/title/tt13923216"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Dramatísk gamanmynd um skúlptúrlistamann sem undirbýr sýningu sem gæti breytt ferlinum til frambúðar. Í aðdragandanum skoðar hún samband sitt við fjölskyldu, vini og samstarfsmenn.",
+    "genres": [
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=wELPTxJ2YZY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-24T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2498ae9a-c845-4796-aa31-80a83a9b9a9a",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -841,99 +897,6 @@
           "time": "2024-05-24T16:45:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a7c009d0-ca11-4446-8c64-27bcb4211d5c",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Civil War",
-    "id": 16643,
-    "alt_title": "Tennisinn tyllti sér á toppinn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17279496",
-      "http://imdb.com/title/tt17279496"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
-    "genres": [
-      "Spenna",
-      "Drama"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-24T17:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bec8ea24-8580-418e-b65d-90ded5c28c9f",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Toves værelse",
-    "id": 16790,
-    "alt_title": "Tove's Room",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19623314",
-      "http://imdb.com/title/tt19623314"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
-    "genres": [
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 73,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-24T19:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=49a6f129-46aa-4be5-ba86-2b263fb42052",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Showing Up",
-    "id": 16789,
-    "alt_title": "Nýja Pamela Anderson - Fyrsta mynd!",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/16789_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13923216",
-      "http://imdb.com/title/tt13923216"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Dramatísk gamanmynd um skúlptúrlistamann sem undirbýr sýningu sem gæti breytt ferlinum til frambúðar. Í aðdragandanum skoðar hún samband sitt við fjölskyldu, vini og samstarfsmenn.",
-    "genres": [
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=wELPTxJ2YZY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-24T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2498ae9a-c845-4796-aa31-80a83a9b9a9a",
-          "hall": "Salur 2"
         }
       ]
     }
