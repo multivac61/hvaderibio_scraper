@@ -103,18 +103,6 @@
           "hall": "Salur 3"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-28T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=31d2db95-aed0-4af0-818f-87e1306eef36",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-05-28T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=680b5e77-2211-4691-af82-755bcf519978",
-          "hall": "AXL"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-05-28T18:00:00.000Z",
@@ -135,6 +123,18 @@
           "time": "2024-05-28T22:00:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0cc3fdb7-f6ad-47ce-bf97-75d351ae4e26",
           "hall": "Salur 4"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-28T18:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4fc8f546-c71c-4dfb-bad1-0bccc070bb6d",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-05-28T20:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=edf8e517-da45-42c5-a7fd-5da51a9728ac",
+          "hall": "AXL"
         }
       ],
       "Sambíóin Keflavík": [
@@ -196,7 +196,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-28T15:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=115acbda-ca51-41c8-8a26-ae871497dac0",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fdad083f-88a5-4652-9796-e546ebb4763f",
           "hall": "Salur A"
         }
       ],
@@ -364,7 +364,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-28T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=35a9a505-8afc-49ee-8724-fa3eb338026d",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=05211712-4af3-4316-a8e1-0dc100de569d",
           "hall": "Salur A"
         }
       ]
@@ -486,7 +486,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-28T20:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a3730941-419f-4b81-b4df-368d994c4931",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=db2b1bd6-8b9d-447d-a853-6e1229c77f86",
           "hall": "Salur B"
         }
       ],
@@ -494,6 +494,84 @@
         {
           "time": "2024-05-28T21:20:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=509e1425-f433-4d3e-825f-24d3dc19c546",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 88,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-05-28T15:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7d7faa88-f61c-45f6-8131-34166cea354c",
+          "hall": "Salur 4"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-28T16:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7b4ca5ff-c371-440e-b074-4f6f04ff77a0",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Challengers",
+    "id": 16079,
+    "alt_title": "The Fall Guy flaug á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1736149_500-1704376990.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16426418",
+      "http://imdb.com/title/tt16426418"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tennisleikarinn Tashi, sem nú hefur snúið sér að þjálfun, er búin að gera eiginmann sinn, Art, að heimsþekktum sigurvegara á mörgum risamótum. Eftir mörg töp í röð ákveður hún, til að koma Art aftur á sigurbraut, að skrá hann á áskorendamót þar sem mótspilarar eru mun viðráðanlegri. Þar mætir hann fyrrum besta vini sínum og fyrrverandi kærasta Tashi.",
+    "genres": [
+      "Rómantík",
+      "Drama",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 131,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=MDnVk5jIJr0",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-28T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2d9030b5-ede3-4e17-903d-943bad0d028f",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-05-28T21:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f9e13538-30b9-48cc-8fbf-97556da4c9e3",
           "hall": "Salur 2"
         }
       ]
@@ -539,79 +617,152 @@
     }
   },
   {
-    "title": "Challengers",
-    "id": 16079,
-    "alt_title": "The Fall Guy flaug á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1736149_500-1704376990.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16426418",
-      "http://imdb.com/title/tt16426418"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tennisleikarinn Tashi, sem nú hefur snúið sér að þjálfun, er búin að gera eiginmann sinn, Art, að heimsþekktum sigurvegara á mörgum risamótum. Eftir mörg töp í röð ákveður hún, til að koma Art aftur á sigurbraut, að skrá hann á áskorendamót þar sem mótspilarar eru mun viðráðanlegri. Þar mætir hann fyrrum besta vini sínum og fyrrverandi kærasta Tashi.",
+    "title": "Draumar, konur og brauð",
+    "id": 16842,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/draumar-1712228090.jpg",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Á töfrandi hringferð um fallega ísland, kynnumst við kraftmiklum konum, sem reka einstök kaffihús hringinn í kringum landið en líka söngkonu, sem er að skrifa handrit og samferðakonu hennar.\nSvana söngkona kemur við á litla kaffihúsinu við víkina í leit að hattinum sínum. Þar kemst hún að því, að VIP úr menningarelítunni í Reykjavík verður heiðursgestur á Sólstöðuhátíð sveitarinnar eftir viku.\nSvana ákveður í skyndi að skrifa nú nýja útgáfu af leikritinu sínu, „Í hennar sporum“, fara hringferð um Ísland og stíga í spor kvenna, semreka kaffihús á landsbyggðinni. Hún freistarþess að bjarga listamanns ferli sínummeð þessu móti og ná að sýna Millu, formanni Menningarnefndarinnar, afraksturinn á hátíðinni.\nHún býður Agnesi líffræðingi far og saman koma þær við á 5 kaffihúsum og kynnast þar konunum sem þau reka, draumum þeirra og dagdraumum.\nFrásagnarmáti myndarinnar er í anda töfra-raunsæis.Ásamt því að fylgjast með Svönu og Agnesi fara hringinn þá rifjum við upp þjóðsögur og minni landsins. Tónlist spilar stóran þátt í verkinu.\nAgnar Már Magnússon, tónskáld semur stefin en einnig á Una Stefánsdóttir tvö frumsamin lög og við hlýðum á nýja útsetningu á gömlu Þjóðhátíðarlagi Magnúsar Eiríkssonar, svo eitthvað sé nefnt.",
     "genres": [
-      "Rómantík",
-      "Drama",
-      "Íþróttir"
+      "Heimildarmynd",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 131,
+    "duration_in_mins": 90,
     "language": [
-      "Enska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=MDnVk5jIJr0",
+    "trailer_url": "https://www.youtube.com/watch?v=5osg82IpZM4",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
+      "Bíó Paradís": [
         {
-          "time": "2024-05-28T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2d9030b5-ede3-4e17-903d-943bad0d028f",
+          "time": "2024-05-28T16:45:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c0a79439-5c35-45d9-95bf-26cff8a83ce1",
           "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-05-28T21:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f9e13538-30b9-48cc-8fbf-97556da4c9e3",
-          "hall": "Salur 2"
         }
       ]
     }
   },
   {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
+    "title": "Civil War",
+    "id": 16643,
+    "alt_title": "Tennisinn tyllti sér á toppinn",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
+      "http://imdb.com/title/tt17279496",
+      "http://imdb.com/title/tt17279496"
     ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
     "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
+      "Spenna",
+      "Drama"
     ],
-    "duration_in_mins": 88,
+    "duration_in_mins": 109,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-28T15:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7d7faa88-f61c-45f6-8131-34166cea354c",
-          "hall": "Salur 4"
-        }
-      ],
       "Laugarásbíó": [
         {
-          "time": "2024-05-28T16:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9bc678c9-a6e1-42e8-a4c7-8712a9e4db93",
+          "time": "2024-05-28T18:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0a1a5350-493f-415f-9a8f-605697e4cd14",
           "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Four Daughters",
+    "id": 16300,
+    "alt_title": "Les filles d'Olfa",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27502426",
+      "http://imdb.com/title/tt27502426"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 107,
+    "language": [
+      "Arabíska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-28T16:45:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=af93c7fe-048c-4769-8287-8ea29f359d5d",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Immaculate",
+    "id": 16828,
+    "alt_title": "Apar taka sér stöðu á toppinum",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23137390",
+      "http://imdb.com/title/tt23137390"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Ítalska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-28T19:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4f081d1d-c517-42f2-a656-b7478b09139f",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Love Lies Bleeding",
+    "id": 16724,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16724_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19637052",
+      "http://imdb.com/title/tt19637052"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Líkamsræktareigandinn Lou verður ástfanginn af Jackie, metnaðarfullri vaxtarræktarkonu sem komin er til Las Vegas til að láta drauma sína rætast. En ást þeirra hefur ofbeldi í för með sér, og dregur þau djúpt niður í glæpavef fjölskyldu Lou.",
+    "genres": [
+      "Spenna",
+      "Glæpa",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=BF_J3-DmiS0",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-28T21:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fd399ae2-8708-476c-a841-658709df008b",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -736,157 +887,6 @@
           "time": "2024-05-28T16:45:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1ff8ade9-b87e-41c9-8045-3953f745fd65",
           "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Civil War",
-    "id": 16643,
-    "alt_title": "Tennisinn tyllti sér á toppinn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1747487_500-1712327382.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt17279496",
-      "http://imdb.com/title/tt17279496"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Nokkrir blaðamenn ferðast saman í bíl til Washingtonborgar í nálægri framtíð þegar borgarastyrjöld geisar í landinu. Þeir vilja ná viðtali við forseta Bandaríkjanna sem er orðinn aðþrengdur í Hvíta húsinu, enda mun uppreisnarherinn ná til höfuðborgarinnar á hverri stundu.",
-    "genres": [
-      "Spenna",
-      "Drama"
-    ],
-    "duration_in_mins": 109,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-28T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=62c3ae6d-91ec-418a-8ae3-32868e24020f",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Draumar, konur og brauð",
-    "id": 16842,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/draumar-1712228090.jpg",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Á töfrandi hringferð um fallega ísland, kynnumst við kraftmiklum konum, sem reka einstök kaffihús hringinn í kringum landið en líka söngkonu, sem er að skrifa handrit og samferðakonu hennar.\nSvana söngkona kemur við á litla kaffihúsinu við víkina í leit að hattinum sínum. Þar kemst hún að því, að VIP úr menningarelítunni í Reykjavík verður heiðursgestur á Sólstöðuhátíð sveitarinnar eftir viku.\nSvana ákveður í skyndi að skrifa nú nýja útgáfu af leikritinu sínu, „Í hennar sporum“, fara hringferð um Ísland og stíga í spor kvenna, semreka kaffihús á landsbyggðinni. Hún freistarþess að bjarga listamanns ferli sínummeð þessu móti og ná að sýna Millu, formanni Menningarnefndarinnar, afraksturinn á hátíðinni.\nHún býður Agnesi líffræðingi far og saman koma þær við á 5 kaffihúsum og kynnast þar konunum sem þau reka, draumum þeirra og dagdraumum.\nFrásagnarmáti myndarinnar er í anda töfra-raunsæis.Ásamt því að fylgjast með Svönu og Agnesi fara hringinn þá rifjum við upp þjóðsögur og minni landsins. Tónlist spilar stóran þátt í verkinu.\nAgnar Már Magnússon, tónskáld semur stefin en einnig á Una Stefánsdóttir tvö frumsamin lög og við hlýðum á nýja útsetningu á gömlu Þjóðhátíðarlagi Magnúsar Eiríkssonar, svo eitthvað sé nefnt.",
-    "genres": [
-      "Heimildarmynd",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 90,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5osg82IpZM4",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-28T16:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c0a79439-5c35-45d9-95bf-26cff8a83ce1",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Four Daughters",
-    "id": 16300,
-    "alt_title": "Les filles d'Olfa",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16300_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27502426",
-      "http://imdb.com/title/tt27502426"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Við erum stödd í Túnis. Olfa á fjórar dætur. Einn daginn hverfa tvær þeirra – en til að fylla í skarðið mætir kvikmyndagerðarkonan Kaouther Ben Hania með leikkonur til að endurlifa söguna.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 107,
-    "language": [
-      "Arabíska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=1f_rb66_IXc",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-28T16:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=af93c7fe-048c-4769-8287-8ea29f359d5d",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Immaculate",
-    "id": 16828,
-    "alt_title": "Apar taka sér stöðu á toppinum",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23137390",
-      "http://imdb.com/title/tt23137390"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 89,
-    "language": [
-      "Ítalska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-28T19:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4f081d1d-c517-42f2-a656-b7478b09139f",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Love Lies Bleeding",
-    "id": 16724,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16724_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19637052",
-      "http://imdb.com/title/tt19637052"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Líkamsræktareigandinn Lou verður ástfanginn af Jackie, metnaðarfullri vaxtarræktarkonu sem komin er til Las Vegas til að láta drauma sína rætast. En ást þeirra hefur ofbeldi í för með sér, og dregur þau djúpt niður í glæpavef fjölskyldu Lou.",
-    "genres": [
-      "Spenna",
-      "Glæpa",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=BF_J3-DmiS0",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-28T21:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fd399ae2-8708-476c-a841-658709df008b",
-          "hall": "Salur 2"
         }
       ]
     }
