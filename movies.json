@@ -192,17 +192,17 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-30T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7be382c3-73cc-46bd-a89b-0cdcc6b94e4d",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4119bb36-964b-4bbc-8b19-9b499f327242",
           "hall": "Salur 2"
         },
         {
           "time": "2024-05-30T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2f8d1624-2fb9-41fe-afd7-4b93b3735765",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3156fae8-1ff1-44f2-a558-01f99d21a230",
           "hall": "Salur 2"
         },
         {
           "time": "2024-05-30T21:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=aa57480e-808f-4dec-b271-6db144f2f39c",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8bf98bc0-c0f6-4c5e-8583-e01fab271e66",
           "hall": "Salur 2"
         }
       ],
@@ -490,6 +490,50 @@
     }
   },
   {
+    "title": "Tarot",
+    "id": 16728,
+    "alt_title": "Horrorscope",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16728_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14088510",
+      "http://imdb.com/title/tt14088510"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar vinahópur brýtur helga reglu Tarotspila þá óafvitandi leysa þau úr læðingi yfirgengilega illsku sem var föst í hinum  fordæmdu spilum. Eitt af öðrum þurfa þau nú að horfast í augu við örlög sín og lenda í baráttu upp á líf og dauða.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=XNTEjJm4WXg",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-05-30T20:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f452a6d2-b4cc-4f2a-900f-bf4fac02fc89",
+          "hall": "Salur 5"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-30T22:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0238bb4d-24cb-4e73-95ca-58c615827834",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-05-30T22:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=041cd697-33ca-4972-b8a3-d479e6275d00",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Fall Guy",
     "id": 16572,
     "alt_title": "Ímyndaðir vinir á toppnum",
@@ -536,50 +580,6 @@
     }
   },
   {
-    "title": "Tarot",
-    "id": 16728,
-    "alt_title": "Horrorscope",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16728_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14088510",
-      "http://imdb.com/title/tt14088510"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar vinahópur brýtur helga reglu Tarotspila þá óafvitandi leysa þau úr læðingi yfirgengilega illsku sem var föst í hinum  fordæmdu spilum. Eitt af öðrum þurfa þau nú að horfast í augu við örlög sín og lenda í baráttu upp á líf og dauða.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=XNTEjJm4WXg",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-05-30T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f452a6d2-b4cc-4f2a-900f-bf4fac02fc89",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-30T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0238bb4d-24cb-4e73-95ca-58c615827834",
-          "hall": "Salur 3"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-30T22:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=041cd697-33ca-4972-b8a3-d479e6275d00",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Strangers: Chapter 1",
     "id": 16877,
     "alt_title": "Leikstjórn",
@@ -611,69 +611,6 @@
         {
           "time": "2024-05-30T22:30:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=cd1109de-2107-4aab-bfd0-575d44808f15",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Demolition Man",
-    "id": 3405,
-    "alt_title": "Leikstjórn",
-    "release_year": 1993,
-    "poster_url": "https://kvikmyndir.is/images/poster/848714_500-1716454602.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0106697",
-      "http://imdb.com/title/tt0106697",
-      "https://www.themoviedb.org/tv/9739"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Simon Phoenix var gríðarlega ofbeldisfullur glæpaforingi sem var frystur árið 1996, en er nú affrystur til að koma fyrir skilorðsnefnd á 21. öldinni. Nú eru nýir tímar, og veröldin er laus við glæpi. Phoenix tekur upp fyrri iðju og myrðir hvern þann sem kemur nálægt honum, og enginn getur stöðvað hann. John Spartan, lögreglumaðurinn sem handsamaði Phoenix á sínum tíma, var einnig frystur, en fyrir glæp sem hann framdi ekki. Árið 2032 eru borgirnar Los Angeles, San Diego og Santa Barbara nú orðnar að einni friðsælli borg, sem heitir San Angeles. Lögreglan á engin ráð núna til að stöðva hinn klikkaða Phoenix, og því ákveður hún að affrysta Spartan, til að aðstoða við að ná Phoenix. Núna, eftir 36 ár, þá þarf Spartan að laga sig að framtíðarveröld sem hann þekkir ekkert til í.",
-    "genres": [
-      "Spenna",
-      "Spennutryllir",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 115,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=18e4GeUwVWs",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-05-30T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=be2357c3-59e7-4f6d-b560-de7e82a66db2",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Immaculate",
-    "id": 16828,
-    "alt_title": "Apar taka sér stöðu á toppinum",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23137390",
-      "http://imdb.com/title/tt23137390"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 89,
-    "language": [
-      "Ítalska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-30T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=12b3f34e-68d6-471a-ad86-3ebdd5a56e44",
           "hall": "Salur 1"
         }
       ]
@@ -712,6 +649,36 @@
     }
   },
   {
+    "title": "Immaculate",
+    "id": 16828,
+    "alt_title": "Apar taka sér stöðu á toppinum",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23137390",
+      "http://imdb.com/title/tt23137390"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Ítalska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-30T22:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7be61add-bc53-4e56-a523-3bed6d6a8ad2",
+          "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
     "title": "Love Lies Bleeding",
     "id": 16724,
     "alt_title": "Leikstjórn",
@@ -737,7 +704,7 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-30T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5ad27088-571a-4670-a97f-44252af088ee",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=75a729cf-730e-492f-994d-a66f3b582b5e",
           "hall": "Salur 1"
         }
       ]
@@ -768,7 +735,7 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-30T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a2127eff-db55-4988-a20d-08e2911efdd5",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=07373753-d436-4804-80c3-902d495e8108",
           "hall": "Salur 3"
         }
       ]
@@ -798,8 +765,41 @@
       "Bíó Paradís": [
         {
           "time": "2024-05-30T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b8646403-ff61-425d-90ea-26e24d3162cc",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a5ffb7e8-b866-4a0c-a145-a66d63e2c48a",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Demolition Man",
+    "id": 3405,
+    "alt_title": "Leikstjórn",
+    "release_year": 1993,
+    "poster_url": "https://kvikmyndir.is/images/poster/848714_500-1716454602.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0106697",
+      "http://imdb.com/title/tt0106697",
+      "https://www.themoviedb.org/tv/9739"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Simon Phoenix var gríðarlega ofbeldisfullur glæpaforingi sem var frystur árið 1996, en er nú affrystur til að koma fyrir skilorðsnefnd á 21. öldinni. Nú eru nýir tímar, og veröldin er laus við glæpi. Phoenix tekur upp fyrri iðju og myrðir hvern þann sem kemur nálægt honum, og enginn getur stöðvað hann. John Spartan, lögreglumaðurinn sem handsamaði Phoenix á sínum tíma, var einnig frystur, en fyrir glæp sem hann framdi ekki. Árið 2032 eru borgirnar Los Angeles, San Diego og Santa Barbara nú orðnar að einni friðsælli borg, sem heitir San Angeles. Lögreglan á engin ráð núna til að stöðva hinn klikkaða Phoenix, og því ákveður hún að affrysta Spartan, til að aðstoða við að ná Phoenix. Núna, eftir 36 ár, þá þarf Spartan að laga sig að framtíðarveröld sem hann þekkir ekkert til í.",
+    "genres": [
+      "Spenna",
+      "Spennutryllir",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 115,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=18e4GeUwVWs",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-05-30T21:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=be2357c3-59e7-4f6d-b560-de7e82a66db2",
+          "hall": "Salur 1"
         }
       ]
     }
