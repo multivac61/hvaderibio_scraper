@@ -74,7 +74,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-31T15:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e330926d-535d-4ec3-8503-96fef6ea5399",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=55a86ecd-9229-47c1-96a1-682c2ceace18",
           "hall": "Salur B"
         }
       ],
@@ -237,17 +237,17 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-31T15:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=75c7c6a3-4eb2-4f34-84c0-0d626793625d",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=19625314-de4d-4a78-8abb-c5c71f0627f4",
           "hall": "Salur A"
         },
         {
           "time": "2024-05-31T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=dc6c2c99-e0ad-4af5-bfee-9784e2b054a2",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=db9fff5e-5a65-43b5-9e45-6649fca87779",
           "hall": "Salur A"
         },
         {
           "time": "2024-05-31T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fae2a3fd-f1e8-436b-8a1f-b70b88436494",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8037bd03-d6f7-4838-9f36-c19095e5815e",
           "hall": "AXL"
         }
       ],
@@ -359,12 +359,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-05-31T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0731fdd0-e40f-47cd-8989-faa6d44167d2",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=93bad710-ce90-4f09-8aa8-b0c92c9963cd",
           "hall": "Salur B"
         },
         {
           "time": "2024-05-31T20:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=23e63ec2-4f2f-4908-8fed-6693a380b5e0",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c9141c20-ef44-4669-afca-57810248d121",
           "hall": "Salur A"
         }
       ],
@@ -601,6 +601,52 @@
     }
   },
   {
+    "title": "The Fall Guy",
+    "id": 16572,
+    "alt_title": "Ímyndaðir vinir á toppnum",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1750525_500-1710066762.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1684562",
+      "http://imdb.com/title/tt1684562"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Áhættuleikarinn Colt Seavers, sem nýlega lenti í slysi sem hefði getað bundið enda á ferilinn, þarf að elta uppi týnda kvikmyndastjörnu, leysa úr samsæri og reyna að ná aftur í draumadísina á sama tíma og hann verður að mæta í vinnuna dag hvern. Gæti eitthvað af þessu mögulega heppnast?",
+    "genres": [
+      "Spenna",
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=j7jPnwVGdZ8",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-31T19:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f0ba5996-310f-453d-ac9e-69a678a64376",
+          "hall": "Salur 3"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-05-31T21:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3145bbe6-63b7-4cd5-ba20-4f26fd5dc511",
+          "hall": "Salur B"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-05-31T22:15:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6d9710d9-707e-45cb-a45c-bedebb262a2c",
+          "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
     "title": "Tarot",
     "id": 16728,
     "alt_title": "Horrorscope",
@@ -640,178 +686,6 @@
           "time": "2024-05-31T22:20:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9fd36052-f729-4c7d-8c13-c4879abb09c6",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Fall Guy",
-    "id": 16572,
-    "alt_title": "Ímyndaðir vinir á toppnum",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1750525_500-1710066762.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt1684562",
-      "http://imdb.com/title/tt1684562"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Áhættuleikarinn Colt Seavers, sem nýlega lenti í slysi sem hefði getað bundið enda á ferilinn, þarf að elta uppi týnda kvikmyndastjörnu, leysa úr samsæri og reyna að ná aftur í draumadísina á sama tíma og hann verður að mæta í vinnuna dag hvern. Gæti eitthvað af þessu mögulega heppnast?",
-    "genres": [
-      "Spenna",
-      "Gaman",
-      "Drama"
-    ],
-    "duration_in_mins": 126,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=j7jPnwVGdZ8",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-31T19:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f0ba5996-310f-453d-ac9e-69a678a64376",
-          "hall": "Salur 3"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-05-31T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=22d25a78-02a7-4b23-a552-c522349cd6b1",
-          "hall": "Salur B"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-05-31T22:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6d9710d9-707e-45cb-a45c-bedebb262a2c",
-          "hall": "Salur 5"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Immaculate",
-    "id": 16828,
-    "alt_title": "Apar taka sér stöðu á toppinum",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23137390",
-      "http://imdb.com/title/tt23137390"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 89,
-    "language": [
-      "Ítalska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-31T21:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8e58fe1d-23c8-4e4e-b579-fcd6a563d492",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Love Lies Bleeding",
-    "id": 16724,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16724_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19637052",
-      "http://imdb.com/title/tt19637052"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Líkamsræktareigandinn Lou verður ástfanginn af Jackie, metnaðarfullri vaxtarræktarkonu sem komin er til Las Vegas til að láta drauma sína rætast. En ást þeirra hefur ofbeldi í för með sér, og dregur þau djúpt niður í glæpavef fjölskyldu Lou.",
-    "genres": [
-      "Spenna",
-      "Glæpa",
-      "Ævintýri"
-    ],
-    "duration_in_mins": 104,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=BF_J3-DmiS0",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-31T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=94add9c0-2808-48ac-a603-d59979d5b3e7",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Challengers",
-    "id": 16079,
-    "alt_title": "The Fall Guy flaug á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1736149_500-1704376990.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16426418",
-      "http://imdb.com/title/tt16426418"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tennisleikarinn Tashi, sem nú hefur snúið sér að þjálfun, er búin að gera eiginmann sinn, Art, að heimsþekktum sigurvegara á mörgum risamótum. Eftir mörg töp í röð ákveður hún, til að koma Art aftur á sigurbraut, að skrá hann á áskorendamót þar sem mótspilarar eru mun viðráðanlegri. Þar mætir hann fyrrum besta vini sínum og fyrrverandi kærasta Tashi.",
-    "genres": [
-      "Rómantík",
-      "Drama",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 131,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=MDnVk5jIJr0",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-31T21:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=dbbcc5f5-e467-42aa-8b36-5863f5312f9f",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Teiknað"
-    ],
-    "duration_in_mins": 102,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-31T16:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2cbf894d-a209-41fb-ba9d-8383a822fed1",
-          "hall": "Salur 2"
         }
       ]
     }
@@ -904,6 +778,132 @@
           "time": "2024-05-31T16:30:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=146501c6-ca94-4c00-b3f9-e565443ba738",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Challengers",
+    "id": 16079,
+    "alt_title": "The Fall Guy flaug á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1736149_500-1704376990.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16426418",
+      "http://imdb.com/title/tt16426418"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tennisleikarinn Tashi, sem nú hefur snúið sér að þjálfun, er búin að gera eiginmann sinn, Art, að heimsþekktum sigurvegara á mörgum risamótum. Eftir mörg töp í röð ákveður hún, til að koma Art aftur á sigurbraut, að skrá hann á áskorendamót þar sem mótspilarar eru mun viðráðanlegri. Þar mætir hann fyrrum besta vini sínum og fyrrverandi kærasta Tashi.",
+    "genres": [
+      "Rómantík",
+      "Drama",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 131,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=MDnVk5jIJr0",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-05-31T21:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=dbbcc5f5-e467-42aa-8b36-5863f5312f9f",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Immaculate",
+    "id": 16828,
+    "alt_title": "Apar taka sér stöðu á toppinum",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23137390",
+      "http://imdb.com/title/tt23137390"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Ítalska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-31T21:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8e58fe1d-23c8-4e4e-b579-fcd6a563d492",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Love Lies Bleeding",
+    "id": 16724,
+    "alt_title": "Leikstjórn",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16724_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19637052",
+      "http://imdb.com/title/tt19637052"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Líkamsræktareigandinn Lou verður ástfanginn af Jackie, metnaðarfullri vaxtarræktarkonu sem komin er til Las Vegas til að láta drauma sína rætast. En ást þeirra hefur ofbeldi í för með sér, og dregur þau djúpt niður í glæpavef fjölskyldu Lou.",
+    "genres": [
+      "Spenna",
+      "Glæpa",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 104,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=BF_J3-DmiS0",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-31T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=94add9c0-2808-48ac-a603-d59979d5b3e7",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 102,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-05-31T16:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2cbf894d-a209-41fb-ba9d-8383a822fed1",
+          "hall": "Salur 2"
         }
       ]
     }
