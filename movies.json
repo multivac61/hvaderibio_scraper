@@ -22,71 +22,163 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=IeFWNtMo1Fs",
     "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-06-01T10:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=18888b72-4385-494f-8a1f-fb2a66f95407",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-06-01T10:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=78463e91-1f19-42b4-8937-49a999979b2e",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-06-01T12:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0b6ea18f-6604-4ea7-a4f4-c47bcbb8df9e",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-06-01T12:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ee0e42a8-016f-441f-b70c-5506bc535568",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-06-01T15:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=67bcbc61-cb6e-4ade-ad99-30f60ece87d5",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-06-01T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bcf68194-3f5f-4d85-a514-59c0bef8c08d",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-06-01T17:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=60de68c9-d652-40ed-90f7-f7893ea2566a",
+          "hall": "Salur 4"
+        }
+      ],
       "Sambíóin Kringlunni": [
         {
-          "time": "2024-05-31T13:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=44a17fdf-4646-454f-aa1d-4d0f181fccea",
-          "hall": "Salur 2"
+          "time": "2024-06-01T12:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bfc265b6-dea2-43fb-bd6c-b589058640de",
+          "hall": "Salur 3"
         },
         {
-          "time": "2024-05-31T16:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=60532135-b8c6-4e2f-a55a-ec3e4ab77fb6",
-          "hall": "Salur 2"
+          "time": "2024-06-01T14:15:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=eb1f733a-e54c-4191-8535-56ba80d9cd7d",
+          "hall": "Salur 3"
         },
         {
-          "time": "2024-05-31T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8467dbf4-3150-4699-a571-eb54b9173b4e",
+          "time": "2024-06-01T16:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=18944842-a354-4881-9cc4-2921d0180968",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-06-01T18:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7e96dc42-e321-4f03-b0df-7f5b74b21b84",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-06-01T12:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=528327b8-c274-43b4-b06d-94b7680ee69e",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T14:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9b8c6a02-4f74-4a9b-bad5-c2f646fda855",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T17:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=999689dc-ec76-4c81-b7a4-9fff93b8afb8",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-01T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=14cd59fd-258c-491a-9361-90df507618dc",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=43010763-5904-4dd5-8cd4-68f84a0d61ec",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-06-01T15:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=73a7d6df-47c9-4f87-95dd-f6e222f40526",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-06-01T15:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9368faf0-da8f-4a7b-bada-093bdba21e65",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b54c10b1-899e-4a02-b6ed-4be2b0c3fe9a",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-06-01T17:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=67b1e374-e798-4f82-af51-fb854599ea20",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T19:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=99f81bd6-38d0-4a96-814b-b7cfc55efc11",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-06-01T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7144328a-6d24-4dff-8629-1466e366cbd7",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T15:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ecae97d2-eb32-4663-b0e6-c38bb33a13d4",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7a5e539f-56ba-413d-a6c5-995e0952a185",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T20:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9665da3f-b1a8-40f2-9d05-9b86d7ac08c5",
           "hall": "Salur 3"
         }
       ],
       "Laugarásbíó": [
         {
-          "time": "2024-05-31T15:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=64e77de8-f0fd-4f05-840c-a9ba5a8a3747",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-31T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a19f395e-e934-447d-894b-91f0bb0e11a8",
-          "hall": "Salur B"
+          "time": "2024-06-01T13:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=82c8c271-d968-4698-8826-5362bdc6cb77",
+          "hall": "Salur A"
         },
         {
-          "time": "2024-05-31T17:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2f4f8b67-8a6c-4de3-b8c1-3d93ea518188",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-31T19:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=23eeb452-2b0d-4dee-bca1-2c9bb4aaf87c",
-          "hall": "Salur B"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-05-31T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7a9fbd04-31e8-4e31-af8d-f04603f592fd",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-31T17:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2edd56b3-0519-4bd9-8315-2276442c44ef",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-31T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e433dece-4b18-4480-9625-47a41e0d62ab",
-          "hall": "Salur 3"
+          "time": "2024-06-01T15:45:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=84ba46d1-15b0-4446-b94d-07b8d804d6b5",
+          "hall": "AXL"
         }
       ],
       "Sambíóin Keflavík": [
         {
-          "time": "2024-05-31T17:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=487c8e17-5388-42f7-8f26-ad8014698a4b",
+          "time": "2024-06-01T15:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1376fd60-0d5f-4433-bc16-4311c85e81bc",
           "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e2f35375-840c-4814-8224-ddf4da857b0b",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -113,111 +205,161 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=y5fXuZ3ns_c",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Smárabíó": [
         {
-          "time": "2024-05-31T13:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=773e0dc2-45c1-484a-8272-9f9d60dbeb94",
-          "hall": "Salur 1"
+          "time": "2024-06-01T11:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=054b5f1d-93df-4a54-b5da-e753d1a92632",
+          "hall": "LÚXUS"
         },
         {
-          "time": "2024-05-31T13:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f1836a22-1dad-40cc-bbd0-b6343c27de2d",
-          "hall": "Ásberg"
+          "time": "2024-06-01T14:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4016761d-2b12-4825-ad47-441c6770f142",
+          "hall": "LÚXUS"
         },
         {
-          "time": "2024-05-31T16:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=525abf3c-ec22-4d05-a31e-a0d65ac5f269",
-          "hall": "Salur 1"
+          "time": "2024-06-01T14:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6fc47556-09d0-4527-8d9d-4a06d0609691",
+          "hall": "Salur 2"
         },
         {
-          "time": "2024-05-31T16:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=79c60f90-5b07-4a68-a2d1-68288b4c435b",
-          "hall": "Ásberg"
+          "time": "2024-06-01T16:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1fe06353-3d9d-425b-bc76-2c9af4504090",
+          "hall": "LÚXUS"
         },
         {
-          "time": "2024-05-31T18:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0b360c83-bb3d-4a0b-a2e8-b89706279945",
-          "hall": "Salur 1"
+          "time": "2024-06-01T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0c047792-5b5a-403f-9c6d-099e9b801cfa",
+          "hall": "Salur 2"
         },
         {
-          "time": "2024-05-31T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=da4fd2a8-17de-4d1e-b990-3158273ba987",
-          "hall": "Ásberg"
+          "time": "2024-06-01T19:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6fbdfb6a-e860-407e-8534-f63b89e340c2",
+          "hall": "LÚXUS"
         },
         {
-          "time": "2024-05-31T20:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4d8404f0-147a-47f6-b5f8-299fdc80405b",
-          "hall": "Salur 3"
+          "time": "2024-06-01T19:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ccd092d0-8181-4c37-9471-4cfc3d46cde9",
+          "hall": "MAX"
         },
         {
-          "time": "2024-05-31T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f90846eb-ae4d-499e-a019-5afbf7e125a7",
-          "hall": "Salur 1"
+          "time": "2024-06-01T22:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=482f8738-c697-4f3c-b0ba-01168298a404",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-06-01T22:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=87a0aa8d-78a6-4c87-aaee-ce4cc1efb25a",
+          "hall": "Salur 4"
         }
       ],
       "Laugarásbíó": [
         {
-          "time": "2024-05-31T15:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f8cacac4-ad8d-44ff-9254-ee645c36e789",
+          "time": "2024-06-01T13:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a0420059-8fdb-4786-834f-5143c5af4f13",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-06-01T16:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0d401d14-9981-46d7-a507-db60919b83f2",
           "hall": "Salur A"
         },
         {
-          "time": "2024-05-31T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e03b5189-c68d-4530-8c4f-2a2ae14a6ec0",
-          "hall": "Salur A"
+          "time": "2024-06-01T18:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d820d626-ef27-4ecd-aab7-676aeec9d8be",
+          "hall": "AXL"
         },
         {
-          "time": "2024-05-31T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=41af74ab-f6f0-42fb-90b8-7f80b2907350",
+          "time": "2024-06-01T20:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=cd27622b-b309-4e04-b28d-61c5283412a4",
           "hall": "AXL"
         }
       ],
-      "Bíó Paradís": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-05-31T16:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2ef02f2d-a10e-4752-aef1-8f648600f798",
+          "time": "2024-06-01T13:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=57ca7565-9579-45f3-b608-2334f381cde0",
           "hall": "Salur 1"
         },
         {
-          "time": "2024-05-31T18:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=012d985f-43e4-4f8f-920b-da0665c3d2bf",
+          "time": "2024-06-01T13:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=cb53dd54-a62a-4aca-b19f-c5a26209f8a3",
+          "hall": "Ásberg"
+        },
+        {
+          "time": "2024-06-01T16:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1845f78b-ff0c-49ff-8469-42d6fb768fd0",
           "hall": "Salur 1"
         },
         {
-          "time": "2024-05-31T21:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ae3c1d61-588d-4bf0-ba9f-bc802af51296",
+          "time": "2024-06-01T16:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7ed570f4-82a7-45ac-a60b-5a340e8b82c9",
+          "hall": "Ásberg"
+        },
+        {
+          "time": "2024-06-01T18:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b5ef1c6b-5f28-4318-a07f-c4174a67b1d6",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=89f8cdd4-bfaa-4091-b6ed-b63e5a2a042d",
+          "hall": "Ásberg"
+        },
+        {
+          "time": "2024-06-01T20:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c14c54c5-4b59-4873-8936-293ab7f3a8bd",
           "hall": "Salur 2"
+        },
+        {
+          "time": "2024-06-01T21:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c2823d9a-4643-46b4-ab28-523b92dacb75",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Akureyri": [
         {
-          "time": "2024-05-31T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8a39751f-dd71-4432-897d-c9f5684d3bf7",
+          "time": "2024-06-01T14:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=eadcebd8-9ab6-4e5a-aeae-3a924f4c9031",
           "hall": "Salur 2"
         },
         {
-          "time": "2024-05-31T19:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b91e0e95-398d-4e13-b24e-88bda7a0be51",
+          "time": "2024-06-01T16:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5e9ddf52-b865-47de-96fe-dcd1e6ce31de",
           "hall": "Salur 1"
         },
         {
-          "time": "2024-05-31T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7330f59c-ff0d-4458-accd-44d8030d0b8e",
-          "hall": "Salur 2"
+          "time": "2024-06-01T19:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3fc2e6fe-b429-4317-9a64-ad81d6e12d57",
+          "hall": "Salur 1"
+        }
+      ],
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-01T16:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=73803a46-32cb-4517-a0ee-d81175b3edba",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=28f51a33-2004-4ce0-9ec9-b39aea8dcee3",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T21:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bddb2b14-b442-45b9-89a6-b457dea98c2d",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Keflavík": [
         {
-          "time": "2024-05-31T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ca8573a7-2d9d-4642-a068-3ede2b519e48",
+          "time": "2024-06-01T17:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=30410cbc-1892-4e0f-813c-1029508377ce",
           "hall": "Salur 1"
-        }
-      ],
-      "Smárabíó": [
+        },
         {
-          "time": "2024-05-31T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bc100760-47c3-4b1a-a787-a832e7cf3ad0",
-          "hall": "Salur 4"
+          "time": "2024-06-01T20:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7faf783c-464b-4a41-b8cb-e690703e605d",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -245,98 +387,118 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=XJMuhwVlca4",
     "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-05-31T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c0f04430-7703-4768-9b31-08b428371962",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-05-31T19:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bd2e97e4-e68a-4a08-8d13-15e738437613",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-05-31T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0ac64326-4429-4e73-8e07-0adfb2a75472",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-05-31T17:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=017c3210-30e9-4266-bdf9-e49d3d83f608",
+          "time": "2024-06-01T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=848b5757-092a-4858-8e41-8972ab909c3e",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-06-01T13:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1460f9f2-eff4-4be1-83bc-627f7a17c64c",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-06-01T16:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=cc4ec40e-2bed-443c-9ee2-5df95d53604e",
+          "hall": "Lúxus VIP"
+        },
+        {
+          "time": "2024-06-01T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a281154d-3394-49ff-bb08-51299f697da5",
           "hall": "Salur A"
         },
         {
-          "time": "2024-05-31T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=96d978ad-6e0e-4d5e-b9ce-d0d762b6b055",
+          "time": "2024-06-01T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=50209952-6f63-4e46-a6a4-00ca461ae63b",
           "hall": "Lúxus VIP"
         },
         {
-          "time": "2024-05-31T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b3a7dbfb-413b-454f-8141-6bf443be675d",
+          "time": "2024-06-01T20:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=dccc43b1-ca0d-43f8-a555-fe8ef11fe8b8",
           "hall": "Salur 1"
         },
         {
-          "time": "2024-05-31T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=91b91e86-7bcc-4c70-92b9-33478b0c5166",
+          "time": "2024-06-01T22:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8653c5b9-c9fb-4162-9d4a-d5082a6050b6",
           "hall": "Lúxus VIP"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-06-01T14:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6a966fb3-0ff4-41ed-98c5-79450cd4d9bd",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-06-01T17:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b2168841-0ce9-4aba-84d5-d31c0e78b905",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-06-01T19:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c368b9dc-415e-4f70-93f2-7724bd87a929",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-01T22:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9e9d35aa-0665-47c6-afef-6c191d77ca0e",
+          "hall": "Salur 2"
         }
       ],
       "Laugarásbíó": [
         {
-          "time": "2024-05-31T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ede5fee0-8fc1-46af-be26-a83389d5342f",
-          "hall": "Salur B"
+          "time": "2024-06-01T18:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=60c363e3-24f5-46fe-b6c3-81f25c6c6fa4",
+          "hall": "Salur A"
         },
         {
-          "time": "2024-05-31T20:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d41101f0-ffba-4a6a-b20d-63dfe32ef713",
+          "time": "2024-06-01T21:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5b8a564a-939a-406a-b39a-757867983934",
           "hall": "Salur A"
         }
       ],
       "Sambíóin Kringlunni": [
         {
-          "time": "2024-05-31T18:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e05a4f42-e68b-4954-a257-839c2686d382",
+          "time": "2024-06-01T18:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9333ca5d-d32d-454e-bee4-d51436f83857",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-06-01T21:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6b9f2e2c-2159-48f4-acdc-bb3a1915dddc",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-06-01T19:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6236ddf8-0279-4dca-be17-4f45a921ddf5",
           "hall": "Salur 2"
         },
         {
-          "time": "2024-05-31T21:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8b705290-f04f-42eb-90c2-25376532a580",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-05-31T21:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a8b9ff57-25d8-4a8b-a516-e335f8613b74",
-          "hall": "Ásberg"
+          "time": "2024-06-01T22:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=62973446-e6c5-4257-9561-9047eeed6289",
+          "hall": "Salur 1"
         }
       ],
       "Sambíóin Keflavík": [
         {
-          "time": "2024-05-31T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7d38eeb3-ef48-48fb-a82f-7ef8ad7dcd96",
+          "time": "2024-06-01T20:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2cc94c8e-c211-44f0-b192-e1274014ca2d",
           "hall": "Salur 2"
         }
       ],
       "Smárabíó": [
         {
-          "time": "2024-05-31T21:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=87893424-91bf-4fd5-bc60-8bccbf35829a",
-          "hall": "LÚXUS"
+          "time": "2024-06-01T20:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3cc273c9-278e-406f-b36e-60b1e225f787",
+          "hall": "Salur 2"
         },
         {
-          "time": "2024-05-31T22:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=15dd5c2d-85f6-464f-ab83-acc2ae9867b9",
+          "time": "2024-06-01T22:15:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0da7bc53-09e2-44ca-b282-cf8dd6d81146",
           "hall": "MAX"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-05-31T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=64420e74-ba95-431a-b344-af33f59a37c1",
-          "hall": "Salur 1"
         }
       ]
     }
@@ -364,47 +526,98 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=el0N_MDcp0Y",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Smárabíó": [
         {
-          "time": "2024-05-31T13:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f2fd40aa-a7ea-4fd5-aa0c-f6ba82802ff6",
-          "hall": "Salur 3"
+          "time": "2024-06-01T10:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=56e70d20-29b2-4198-8830-2e941f7452c9",
+          "hall": "Salur 5"
         },
         {
-          "time": "2024-05-31T15:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6bfa7e8f-f1cb-47ab-9a9b-1d235de7c4a2",
-          "hall": "Salur 3"
+          "time": "2024-06-01T13:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=af9efaa5-657b-4032-84fe-b49679fbae3a",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-06-01T15:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e6bf1da1-eb9b-4ad4-a7e8-971e713d7b62",
+          "hall": "Salur 4"
         }
       ],
-      "Sambíóin Álfabakka": [
+      "Sambíóin Kringlunni": [
         {
-          "time": "2024-05-31T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2e3cd33e-ac82-4a46-88d1-6f2dd8f877ab",
+          "time": "2024-06-01T11:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=27e2694d-5968-49f5-bc99-1499b4945bc3",
           "hall": "Salur 2"
         },
         {
-          "time": "2024-05-31T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=dfaf53d1-9596-4f3c-a53a-0c1a8bd6d370",
-          "hall": "Lúxus VIP"
+          "time": "2024-06-01T13:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=21782a71-78c9-4b2f-9e9e-5a80bc47a1c0",
+          "hall": "Salur 2"
         },
         {
-          "time": "2024-05-31T19:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5e42ae94-5451-4ca8-b1bc-d3a28bb199e3",
+          "time": "2024-06-01T16:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=400f8371-ad5e-43b7-9a15-e9517545b333",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-06-01T12:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9c194626-1c52-4369-8eff-825f557a50c8",
           "hall": "Salur 2"
         }
       ],
       "Sambíóin Egilshöll": [
         {
-          "time": "2024-05-31T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=87bdd373-dd76-471f-b4e1-f9f87336aab8",
-          "hall": "Salur 4"
+          "time": "2024-06-01T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2778de47-f61e-44d0-8b5d-af8f0f872bfa",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-06-01T15:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2647869b-29b5-4396-b606-029666a85832",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-06-01T17:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1588f7c2-867e-4aa1-b8f5-9dbde7b5f74f",
+          "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-01T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=577042a9-9454-41c0-9d95-0e0d66b3a51e",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-06-01T15:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=29cbb667-3a67-4fcd-a0d8-4cfbad0a2d1a",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-06-01T17:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ac564197-0c18-46ef-8f84-41a93d988302",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-06-01T19:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=65f1f738-5cf1-4111-a44d-aee634677c43",
+          "hall": "Salur 2"
         }
       ],
       "Sambíóin Keflavík": [
         {
-          "time": "2024-05-31T17:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=38706c29-9b5c-41d8-b018-cd8238f6415d",
+          "time": "2024-06-01T15:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e795ca45-aeb9-4f79-b3c5-d212e0ea29f2",
           "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-06-01T16:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9d052c5b-5257-4db0-9755-c8d71b5a438a",
+          "hall": "Salur B"
         }
       ]
     }
@@ -431,33 +644,45 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=XtFI7SNtVpY",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-31T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d2e18324-c776-4969-9782-1c836de374fd",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-05-31T20:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=31bde648-f7ed-4617-b77c-15872ffa450f",
-          "hall": "Salur A"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
-          "time": "2024-05-31T17:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=192a4630-7872-4e71-bda8-100c9d779b48",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-05-31T19:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0b86b05b-9ee3-4953-abcb-96ae4b118602",
+          "time": "2024-06-01T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4fb7347c-93a2-481a-967a-b1bda1d19891",
           "hall": "Salur 4"
         },
         {
-          "time": "2024-05-31T22:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=597ce0e4-7a16-4ed7-9ab0-4abed259e000",
+          "time": "2024-06-01T16:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c724cb81-bdd4-4da7-848d-74c24db62fb8",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-06-01T19:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=98bddecd-aa4f-49c8-876f-6987207486b6",
+          "hall": "Salur 4"
+        },
+        {
+          "time": "2024-06-01T22:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e09a4a38-9413-4055-8250-14db17d47892",
           "hall": "Salur 3"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-01T16:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=14ce3197-312a-4b3e-9b95-8acb575de440",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-06-01T20:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0f16d092-85ea-4fcb-9258-6da445912e61",
+          "hall": "Salur A"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-06-01T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c8b68539-588e-4db1-b312-bd85be046c64",
+          "hall": "Salur 5"
         }
       ]
     }
@@ -483,30 +708,30 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=DSudLoJy2ok",
     "cinema_showtimes": {
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-05-31T19:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=210381dc-ca74-4c76-a1c0-b0d0601f57a0",
-          "hall": "Salur 2"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
-          "time": "2024-05-31T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a046a740-837a-4c0a-a299-1d113a5e15b3",
+          "time": "2024-06-01T20:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c77a4bcf-8769-46cc-af34-166d6bb007eb",
           "hall": "Salur 2"
         },
         {
-          "time": "2024-05-31T22:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=75d3550f-9c5f-4877-8d7b-0f38a10f23dd",
+          "time": "2024-06-01T22:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=765ac88d-acaf-4c2a-8f84-b229b054edfd",
           "hall": "Salur 1"
         }
       ],
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-05-31T21:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8502be4a-67ed-4afa-9818-26f0f639d470",
+          "time": "2024-06-01T21:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=af159364-dd07-463a-ace5-d4fab9b7b724",
           "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-06-01T22:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=77ea327b-7f77-462f-9b75-7a3cb1baa050",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -534,24 +759,29 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=j7jPnwVGdZ8",
     "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-05-31T19:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0dabccb0-08eb-457e-bf86-f529e7813a96",
-          "hall": "Salur 3"
-        }
-      ],
       "Laugarásbíó": [
         {
-          "time": "2024-05-31T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3ca65bcb-4df7-4e59-a454-eaf745388270",
+          "time": "2024-06-01T18:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6c5b0752-ea68-4d48-a27e-a07c3b9cd895",
           "hall": "Salur B"
+        },
+        {
+          "time": "2024-06-01T21:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4c98d0f2-9829-4b6c-9803-01548d991b1a",
+          "hall": "Salur B"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-01T19:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=647d6163-e123-4b1c-8135-0bbc8becfee3",
+          "hall": "Salur 3"
         }
       ],
       "Smárabíó": [
         {
-          "time": "2024-05-31T22:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=36dabab6-474b-4ffd-9c4a-dcb21817a004",
+          "time": "2024-06-01T22:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=16875707-c05b-496c-8345-1a04e3ea96a6",
           "hall": "Salur 5"
         }
       ]
@@ -578,48 +808,25 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=XNTEjJm4WXg",
     "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-06-01T19:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=55fb7e27-109c-42bf-949c-a1828b212970",
+          "hall": "Salur 4"
+        }
+      ],
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-05-31T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2a5418d0-6e89-485b-85cd-2e976a458643",
+          "time": "2024-06-01T22:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a6cbae9f-2723-44a1-bd09-8721c40824bf",
           "hall": "Salur 3"
         }
       ],
       "Sambíóin Egilshöll": [
         {
-          "time": "2024-05-31T22:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0f3eaf86-7272-4334-ad64-3f0b52219989",
+          "time": "2024-06-01T22:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=78f5bfcd-b708-4efa-86e9-cd5c0bcd43ef",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Immaculate",
-    "id": 16828,
-    "alt_title": "Apar taka sér stöðu á toppinum",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23137390",
-      "http://imdb.com/title/tt23137390"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 89,
-    "language": [
-      "Ítalska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-31T21:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a4c36ac2-d197-49ef-804e-05c7ce1a5c54",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -649,8 +856,8 @@
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-05-31T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4a0bff69-2510-4a2d-8f87-d8f55b7b5aa4",
+          "time": "2024-06-01T21:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=62f424bc-6e01-4a7d-94ef-f66c834f8be1",
           "hall": "Salur 3"
         }
       ]
@@ -678,15 +885,7 @@
       "Spænska"
     ],
     "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-31T16:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=90f22b41-17c6-4a09-9b80-4070c485e81d",
-          "hall": "Salur 2"
-        }
-      ]
-    }
+    "cinema_showtimes": {}
   },
   {
     "title": "Toves værelse",
@@ -709,15 +908,7 @@
       "Danska"
     ],
     "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-31T19:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4069b79b-603a-499e-9923-4f219d105e0a",
-          "hall": "Salur 2"
-        }
-      ]
-    }
+    "cinema_showtimes": {}
   },
   {
     "title": "Anchorman: The Legend of Ron Burgundy",
@@ -740,15 +931,7 @@
       "Enska"
     ],
     "trailer_url": "https://www.youtube.com/watch?v=Ip6GolC7Mk0",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-31T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fcf2e8b5-d2cf-4eed-bfd2-0cd4f1b1ca6d",
-          "hall": "Salur 1"
-        }
-      ]
-    }
+    "cinema_showtimes": {}
   },
   {
     "title": "Perfect Days",
@@ -770,15 +953,7 @@
       "Japanska"
     ],
     "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-05-31T16:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=62f681a8-9b84-4d82-88e7-ccc861307a61",
-          "hall": "Salur 3"
-        }
-      ]
-    }
+    "cinema_showtimes": {}
   },
   {
     "title": "Challengers",
@@ -805,8 +980,38 @@
     "cinema_showtimes": {
       "Sambíóin Álfabakka": [
         {
-          "time": "2024-05-31T21:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e53bb6ac-3cce-420f-a083-5c5138fe50a8",
+          "time": "2024-06-01T21:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e15d677a-baf7-4407-8932-ffa4db60eee0",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Immaculate",
+    "id": 16828,
+    "alt_title": "Apar taka sér stöðu á toppinum",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23137390",
+      "http://imdb.com/title/tt23137390"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Ítalska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-01T21:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a282ae72-2bfa-4bfa-909a-00f7af069a4d",
           "hall": "Salur 2"
         }
       ]
