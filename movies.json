@@ -56,33 +56,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-06-02T12:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a6002a9f-056e-4ce6-a894-48d582272601",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-06-02T12:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=caef8549-976f-41dd-af0f-de35281accd6",
-          "hall": "Salur 4"
-        },
-        {
-          "time": "2024-06-02T15:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5738b706-3047-4104-bc24-6b56950f5f1e",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-06-02T17:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=38f5c622-4ae3-4317-9728-3c2dd559491e",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-06-02T17:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=75bee55f-40eb-4c81-af20-0f5a94b8540e",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-06-02T13:00:00.000Z",
@@ -165,6 +138,23 @@
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fcfda824-744d-43cb-afd7-16b861593f18",
           "hall": "Salur 2"
         }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-06-02T15:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a186a882-ee48-46a9-aa79-2bd171a7afd3",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-06-02T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6160a679-86c2-4bd9-b315-8e602fc6d1d4",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-06-02T17:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e36846f7-c1c6-4d85-a18e-b66b5c39e7f8",
+          "hall": "Salur 4"
+        }
       ]
     }
   },
@@ -190,48 +180,6 @@
     ],
     "trailer_url": "https://www.youtube.com/watch?v=y5fXuZ3ns_c",
     "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-06-02T11:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fcb01467-6664-441e-9457-47b1ada1d5a9",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-06-02T14:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=70fc0e7c-f9b2-4b61-941c-79351de21d3e",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-06-02T14:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b7b8c4fa-9f2b-4bc3-9e14-51ed09687077",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-06-02T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=48548e52-f256-49ba-a90c-1608f80f01e2",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-06-02T17:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3542888c-1e00-4ed0-882f-569b565ead56",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-06-02T19:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d4964e96-0a61-41eb-ad81-cd265926de8d",
-          "hall": "LÚXUS"
-        },
-        {
-          "time": "2024-06-02T19:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0c40869f-a446-417b-8839-b039ce9f65e2",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-06-02T22:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9ff5d47c-9117-42ec-8383-1b5b0b4f0bdf",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-06-02T12:00:00.000Z",
@@ -316,6 +264,38 @@
           "time": "2024-06-02T22:20:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5fce6d5e-42bb-4fe5-8e67-9190c50781b4",
           "hall": "AXL"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-06-02T14:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=15b277bd-345f-410b-92a3-b3befa276eb3",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-06-02T16:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5ae0590b-5862-4b67-b600-c20e68ea7ccb",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-06-02T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8b86eb7a-9d5f-4645-89ea-a15714e3cd97",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-06-02T19:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2c501d1d-f4e1-4ac7-9fc0-f99013490dc0",
+          "hall": "LÚXUS"
+        },
+        {
+          "time": "2024-06-02T19:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c8908378-d2d7-4d43-9f7e-00a6edf5b782",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-06-02T22:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=65eee82d-58eb-426a-a809-4274fec0a804",
+          "hall": "Salur 4"
         }
       ],
       "Bíó Paradís": [
@@ -482,17 +462,17 @@
       "Smárabíó": [
         {
           "time": "2024-06-02T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9c5a8bb0-8930-4ded-a2dd-edffa86655bc",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8d029486-9109-4318-87cb-a76e40577c44",
           "hall": "Salur 2"
         },
         {
           "time": "2024-06-02T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c0a8d523-cacb-435c-99e4-94602592a865",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a2b8f21e-4772-4a89-ad61-0c6f6cd154b4",
           "hall": "LÚXUS"
         },
         {
           "time": "2024-06-02T22:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c6d62409-f7f6-44c3-b316-5d418ed12223",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d8f54546-52e3-4ac9-b85f-a6e85bf08804",
           "hall": "MAX"
         }
       ]
@@ -577,18 +557,6 @@
           "hall": "Salur 2"
         }
       ],
-      "Smárabíó": [
-        {
-          "time": "2024-06-02T13:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=aef3fffa-3c79-431d-800f-4f0d990e0b4e",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-06-02T15:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2937de3e-95f9-4b66-b538-f5dd741a7c99",
-          "hall": "Salur 4"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-06-02T14:40:00.000Z",
@@ -613,6 +581,13 @@
           "time": "2024-06-02T15:50:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0586daf9-5408-4ea0-9b77-cad22e89c582",
           "hall": "Salur B"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-06-02T15:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ccf01418-744a-4f0a-8a58-f144ddb219db",
+          "hall": "Salur 4"
         }
       ]
     }
@@ -676,7 +651,7 @@
       "Smárabíó": [
         {
           "time": "2024-06-02T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=43459632-827e-465d-b32d-1478a77ea419",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ed095b9f-7b20-49b2-81dc-69391132a2f0",
           "hall": "Salur 5"
         }
       ]
@@ -727,7 +702,7 @@
       "Smárabíó": [
         {
           "time": "2024-06-02T22:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=50bb0b87-464d-4af2-92ee-fcddf99d28df",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=52756f3b-1419-45ec-adcd-9f0bec00279b",
           "hall": "Salur 5"
         }
       ]
@@ -806,7 +781,7 @@
       "Smárabíó": [
         {
           "time": "2024-06-02T19:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=33d27e52-10be-4d32-ae7f-ff6852ae19bf",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0417f291-426d-4239-9f62-2cc06acca49b",
           "hall": "Salur 4"
         }
       ],
@@ -822,50 +797,6 @@
           "time": "2024-06-02T22:20:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=be1b9ef0-141e-4d74-b0bb-a3e62c8e2eb6",
           "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 88,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-06-02T12:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7ec99766-08c3-4d38-befb-61b55bc73973",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-06-02T15:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=534edafc-033e-4cea-b748-c1d0e91c641e",
-          "hall": "Salur 5"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-06-02T13:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=653ef7b0-1e0a-4d8c-94f9-170c7cbaed52",
-          "hall": "Salur B"
         }
       ]
     }
@@ -907,6 +838,45 @@
     }
   },
   {
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 88,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-06-02T13:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=653ef7b0-1e0a-4d8c-94f9-170c7cbaed52",
+          "hall": "Salur B"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-06-02T15:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=81d2c246-9022-442b-b8e8-ffd6842571a9",
+          "hall": "Salur 5"
+        }
+      ]
+    }
+  },
+  {
     "title": "Kung Fu Panda 4",
     "id": 16748,
     "alt_title": "Ímyndaðir vinir á toppnum",
@@ -939,36 +909,6 @@
           "time": "2024-06-02T15:00:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2bf79f68-ac04-4af9-84a2-eaba68fe6cc4",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-02T18:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3f645d3d-6978-4c0a-a3ba-b99a165b180a",
-          "hall": "Salur 3"
         }
       ]
     }
@@ -1038,38 +978,6 @@
     }
   },
   {
-    "title": "Challengers",
-    "id": 16079,
-    "alt_title": "The Fall Guy flaug á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1736149_500-1704376990.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16426418",
-      "http://imdb.com/title/tt16426418"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tennisleikarinn Tashi, sem nú hefur snúið sér að þjálfun, er búin að gera eiginmann sinn, Art, að heimsþekktum sigurvegara á mörgum risamótum. Eftir mörg töp í röð ákveður hún, til að koma Art aftur á sigurbraut, að skrá hann á áskorendamót þar sem mótspilarar eru mun viðráðanlegri. Þar mætir hann fyrrum besta vini sínum og fyrrverandi kærasta Tashi.",
-    "genres": [
-      "Rómantík",
-      "Drama",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 131,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=MDnVk5jIJr0",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-06-02T21:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=88168dd7-0eee-43de-8178-3ad32133e4ea",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
     "title": "Vélmennadraumar (Robot Dreams)",
     "id": 16515,
     "alt_title": "Leikstjórn",
@@ -1127,6 +1035,68 @@
         {
           "time": "2024-06-02T16:40:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5603372e-2dcc-4512-ad97-3d546c015b4c",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Challengers",
+    "id": 16079,
+    "alt_title": "The Fall Guy flaug á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1736149_500-1704376990.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16426418",
+      "http://imdb.com/title/tt16426418"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tennisleikarinn Tashi, sem nú hefur snúið sér að þjálfun, er búin að gera eiginmann sinn, Art, að heimsþekktum sigurvegara á mörgum risamótum. Eftir mörg töp í röð ákveður hún, til að koma Art aftur á sigurbraut, að skrá hann á áskorendamót þar sem mótspilarar eru mun viðráðanlegri. Þar mætir hann fyrrum besta vini sínum og fyrrverandi kærasta Tashi.",
+    "genres": [
+      "Rómantík",
+      "Drama",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 131,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=MDnVk5jIJr0",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-02T21:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=88168dd7-0eee-43de-8178-3ad32133e4ea",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-02T18:15:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3f645d3d-6978-4c0a-a3ba-b99a165b180a",
           "hall": "Salur 3"
         }
       ]
