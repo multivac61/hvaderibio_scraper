@@ -227,12 +227,12 @@
       "Bíó Paradís": [
         {
           "time": "2024-06-06T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=69fc740d-0a2f-4448-b8ca-9dbc61e59c36",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=091d9bf8-4705-4f20-8874-fdfe99f87e88",
           "hall": "Salur 1"
         },
         {
           "time": "2024-06-06T20:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f921adf8-f3e4-4d58-adda-e5a83c03c3fb",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fa22dc1c-22d2-4dff-860f-814884717f5d",
           "hall": "Salur 2"
         }
       ],
@@ -493,48 +493,6 @@
     }
   },
   {
-    "title": "Tarot",
-    "id": 16728,
-    "alt_title": "Horrorscope",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16728_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14088510",
-      "http://imdb.com/title/tt14088510"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar vinahópur brýtur helga reglu Tarotspila þá óafvitandi leysa þau úr læðingi yfirgengilega illsku sem var föst í hinum  fordæmdu spilum. Eitt af öðrum þurfa þau nú að horfast í augu við örlög sín og lenda í baráttu upp á líf og dauða.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 92,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=XNTEjJm4WXg",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-06-06T19:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=84c3be7b-99e2-4273-b9f7-7038e436f4ac",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-06-06T22:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=37e84db2-6929-4fb0-bebd-033dd812de3d",
-          "hall": "Salur 5"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-06-06T21:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d1d1368c-0441-4bd9-8c87-bc140186db76",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
     "title": "If",
     "id": 16640,
     "alt_title": "Imaginary Friend",
@@ -576,6 +534,48 @@
           "time": "2024-06-06T17:40:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=506c6eb1-cfeb-4f86-bbb5-88215bf0c8fc",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tarot",
+    "id": 16728,
+    "alt_title": "Horrorscope",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16728_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14088510",
+      "http://imdb.com/title/tt14088510"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar vinahópur brýtur helga reglu Tarotspila þá óafvitandi leysa þau úr læðingi yfirgengilega illsku sem var föst í hinum  fordæmdu spilum. Eitt af öðrum þurfa þau nú að horfast í augu við örlög sín og lenda í baráttu upp á líf og dauða.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=XNTEjJm4WXg",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-06-06T19:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=84c3be7b-99e2-4273-b9f7-7038e436f4ac",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-06-06T22:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=37e84db2-6929-4fb0-bebd-033dd812de3d",
+          "hall": "Salur 5"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-06T21:45:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d1d1368c-0441-4bd9-8c87-bc140186db76",
+          "hall": "Salur B"
         }
       ]
     }
@@ -658,63 +658,188 @@
     }
   },
   {
-    "title": "Á ferð með mömmu",
-    "id": 15003,
-    "alt_title": "Driving Mum",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/gqtl0yocuxqdqzbfiz6ofa0yfdg-1669500619.jpg",
+    "title": "Toves værelse",
+    "id": 16790,
+    "alt_title": "Tove's Room",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt15399970",
-      "http://imdb.com/title/tt15399970"
+      "http://imdb.com/title/tt19623314",
+      "http://imdb.com/title/tt19623314"
     ],
-    "content_rating": "Bönnuð innan 9 ára",
-    "description": "Þegar móðir Jóns og hans mesti áhrifavaldur fellur frá verða alger umskipti í lífi hans. Með uppáklætt líkið í aftursætinu og hundinn Brésnef við hlið sér tekst hann á hendur ferð þvert yfir landið til að heiðra hennar síðustu ósk. En mamma hefur ekki sagt sitt síðasta.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
     "genres": [
-      "Gaman",
       "Drama",
-      "Íslensk mynd"
+      "Æviágrip"
     ],
-    "duration_in_mins": 112,
+    "duration_in_mins": 73,
     "language": [
-      "Íslenska"
+      "Danska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=Nd28_ET6pb4",
+    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-06-06T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=16365cc2-d6c7-4c0b-931f-1740368f9932",
+          "time": "2024-06-06T18:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=dc47d80d-de76-47ba-ae2c-afef7cb31844",
           "hall": "Salur 3"
         }
       ]
     }
   },
   {
-    "title": "Immaculate",
-    "id": 16828,
-    "alt_title": "Apar taka sér stöðu á toppinum",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
+    "title": "Druk",
+    "id": 13115,
+    "alt_title": "Another Round",
+    "release_year": 2020,
+    "poster_url": "https://kvikmyndir.is/images/poster/13115_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt23137390",
-      "http://imdb.com/title/tt23137390"
+      "http://imdb.com/title/tt10288566",
+      "http://imdb.com/title/tt10288566",
+      "https://www.themoviedb.org/tv/580175"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Fjórir vinir, sem allir eru menntaskólakennarar, ákveða að sannreyna kenninguna um að þeim muni ganga betur í lífinu ef þeir eru alltaf með örlítið áfengismagn í blóðinu. Þessi tilraun á eftir að hafa óvæntar afleiðingar og sýna þeim félögum nýjar hliðar á sjálfum sér sem þeir áttu kannski ekki von á.",
     "genres": [
-      "Hrollvekja"
+      "Gaman",
+      "Drama"
     ],
-    "duration_in_mins": 89,
+    "duration_in_mins": 115,
     "language": [
-      "Ítalska"
+      "Danska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+    "trailer_url": "https://www.youtube.com/watch?v=bj8Jmz_srDg",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-06-06T21:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a362a47c-a262-46f8-8aa2-907ef1e1b112",
+          "time": "2024-06-06T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4494ce91-3d90-4a6a-8180-b249c5a63065",
           "hall": "Salur 1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Death of a City",
+    "id": 16804,
+    "alt_title": "A Morte de uma Cidade",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/7w0khbl9o1e16x7r1ccnwbkshwv-1710355764.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23740330",
+      "http://imdb.com/title/tt23740330"
+    ],
+    "description": "Í hjarta Bairro Alto, í miðborg Lissabon í Portúgal, er gömul prentsmiðja rifin til að búa til pláss fyrir lúxus íbúðir. Leikstjórinn sér gjörninginn sem táknrænan fyrir dauða ákveðins hluta borgarinnar á tímum fjármálakreppunnar og yfirvofandi ferðamannasprengju. Hann ákveður að mynda byggingarsvæðið frá degi til dags og þá sem þar starfa. Það sem byrjar sem mynd um verkefni endar sem saga um samband leikstjórans við heimabæ sinn og fólkið sem byggði hann.",
+    "genres": [
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 116,
+    "language": [
+      "Portúgalska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=xVcB2KnfGcw",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-06T16:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2c758f34-692f-4af8-9e3d-9d9ba3e28a1e",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Passages",
+    "id": 16920,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16920_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16252698",
+      "http://imdb.com/title/tt16252698"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Tomas og Martin eru samkynhneigt par sem býr í París. Hjónaband þeirra lendir í vanda þegar Tomas byrjar í ástríðufullu sambandi við unga konu,  grunnskólakennarann Agathe. En þegar Martin byrjar einnig í sambandi utan hjónabandsins þarf Tomas að horfast í augu við ákvarðanirnar, sem gæti reynst honum erfitt.",
+    "genres": [
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 91,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=hvZmaePBSRw",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-06T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=11920677-822e-4ccc-9572-4e6301b39f65",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Thelma and Louise",
+    "id": 407,
+    "alt_title": "Thelma ",
+    "release_year": 1991,
+    "poster_url": "https://kvikmyndir.is/images/poster/416184_500-1674923602.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0103074",
+      "http://imdb.com/title/tt0103074",
+      "https://www.themoviedb.org/tv/1541"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Louise vinnur á skyndibitastað og á í vandræðum með kærastann Jimmy sem er tónlistamaður og er alltaf á tónleikaferðalögum. Thelma er gift Darryl sem vill helst að hún sé bara í eldhúsinu á meðan hann er að horfa á fótboltaleiki í sjónvarpinu. Dag einn ákveða  þær að breyta lífi sínum og fara í ferðalag. Ferðin þeirra breytist hins vegar í flótta þegar Louise drepur mann sem hafði hótað að nauðga Thelmu. Þær flýja til Mexíkó en þar byrjar bandaríska lögreglan að leita af þeim.",
+    "genres": [
+      "Drama",
+      "Glæpa",
+      "Ævintýri"
+    ],
+    "duration_in_mins": 129,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=PRr0HY9MPZ0",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-06-06T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=32314ddb-bbeb-484b-9bbc-58aa36068dc2",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Poor Things",
+    "id": 16355,
+    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14230458",
+      "http://imdb.com/title/tt14230458"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
+    "genres": [
+      "Rómantík",
+      "Vísindaskáldskapur"
+    ],
+    "duration_in_mins": 141,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-06T20:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=cf7b79ed-68e9-4180-b36b-5b3d8d7279b6",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -752,37 +877,6 @@
     }
   },
   {
-    "title": "Toves værelse",
-    "id": 16790,
-    "alt_title": "Tove's Room",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19623314",
-      "http://imdb.com/title/tt19623314"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
-    "genres": [
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 73,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-06T18:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a39c83c5-490c-4c04-b306-16b85f26e9af",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
     "title": "The Strangers: Chapter 1",
     "id": 16877,
     "alt_title": "Snerting á toppnum og Grettir skammt undan",
@@ -813,157 +907,63 @@
     }
   },
   {
-    "title": "Druk",
-    "id": 13115,
-    "alt_title": "Another Round",
-    "release_year": 2020,
-    "poster_url": "https://kvikmyndir.is/images/poster/13115_500.jpg",
+    "title": "Á ferð með mömmu",
+    "id": 15003,
+    "alt_title": "Driving Mum",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/gqtl0yocuxqdqzbfiz6ofa0yfdg-1669500619.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt10288566",
-      "http://imdb.com/title/tt10288566",
-      "https://www.themoviedb.org/tv/580175"
+      "http://imdb.com/title/tt15399970",
+      "http://imdb.com/title/tt15399970"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Fjórir vinir, sem allir eru menntaskólakennarar, ákveða að sannreyna kenninguna um að þeim muni ganga betur í lífinu ef þeir eru alltaf með örlítið áfengismagn í blóðinu. Þessi tilraun á eftir að hafa óvæntar afleiðingar og sýna þeim félögum nýjar hliðar á sjálfum sér sem þeir áttu kannski ekki von á.",
+    "content_rating": "Bönnuð innan 9 ára",
+    "description": "Þegar móðir Jóns og hans mesti áhrifavaldur fellur frá verða alger umskipti í lífi hans. Með uppáklætt líkið í aftursætinu og hundinn Brésnef við hlið sér tekst hann á hendur ferð þvert yfir landið til að heiðra hennar síðustu ósk. En mamma hefur ekki sagt sitt síðasta.",
     "genres": [
       "Gaman",
-      "Drama"
+      "Drama",
+      "Íslensk mynd"
     ],
-    "duration_in_mins": 115,
+    "duration_in_mins": 112,
     "language": [
-      "Danska"
+      "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=bj8Jmz_srDg",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-06T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=20c15e84-36ea-4ec3-8deb-14df1cc740b2",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Death of a City",
-    "id": 16804,
-    "alt_title": "A Morte de uma Cidade",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/7w0khbl9o1e16x7r1ccnwbkshwv-1710355764.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23740330",
-      "http://imdb.com/title/tt23740330"
-    ],
-    "description": "Í hjarta Bairro Alto, í miðborg Lissabon í Portúgal, er gömul prentsmiðja rifin til að búa til pláss fyrir lúxus íbúðir. Leikstjórinn sér gjörninginn sem táknrænan fyrir dauða ákveðins hluta borgarinnar á tímum fjármálakreppunnar og yfirvofandi ferðamannasprengju. Hann ákveður að mynda byggingarsvæðið frá degi til dags og þá sem þar starfa. Það sem byrjar sem mynd um verkefni endar sem saga um samband leikstjórans við heimabæ sinn og fólkið sem byggði hann.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 116,
-    "language": [
-      "Portúgalska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=xVcB2KnfGcw",
+    "trailer_url": "https://www.youtube.com/watch?v=Nd28_ET6pb4",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
           "time": "2024-06-06T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bd90c5b3-4191-42e5-90a0-14d610cab12f",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Passages",
-    "id": 16920,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16920_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16252698",
-      "http://imdb.com/title/tt16252698"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Tomas og Martin eru samkynhneigt par sem býr í París. Hjónaband þeirra lendir í vanda þegar Tomas byrjar í ástríðufullu sambandi við unga konu,  grunnskólakennarann Agathe. En þegar Martin byrjar einnig í sambandi utan hjónabandsins þarf Tomas að horfast í augu við ákvarðanirnar, sem gæti reynst honum erfitt.",
-    "genres": [
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 91,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=hvZmaePBSRw",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-06T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=03b26362-2ecf-4810-ac33-a5d8743c7d8b",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Poor Things",
-    "id": 16355,
-    "alt_title": "Poor Things: Siðspillta og spólgraða leitin að sjálfinu",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1711883_500-1695119102.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14230458",
-      "http://imdb.com/title/tt14230458"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bella Baxter er vakin aftur til lífsins af hinum bráðsnjalla en óhefðbundna vísindamanni Dr. Godwin Baxter.  Hungruð í að kynnast heiminum betur þá strýkur hún með lögfræðingnum Duncan Wedderburn og lendir í ýmsum ævintýrum.",
-    "genres": [
-      "Rómantík",
-      "Vísindaskáldskapur"
-    ],
-    "duration_in_mins": 141,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=vjm0udI77KU",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-06T20:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7b09259d-efe6-47e2-99f9-f7e9f628824a",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=28572c85-2d8f-4755-8ab4-299abfae9a90",
           "hall": "Salur 3"
         }
       ]
     }
   },
   {
-    "title": "Thelma and Louise",
-    "id": 407,
-    "alt_title": "Thelma ",
-    "release_year": 1991,
-    "poster_url": "https://kvikmyndir.is/images/poster/416184_500-1674923602.jpg",
+    "title": "Immaculate",
+    "id": 16828,
+    "alt_title": "Apar taka sér stöðu á toppinum",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt0103074",
-      "http://imdb.com/title/tt0103074",
-      "https://www.themoviedb.org/tv/1541"
+      "http://imdb.com/title/tt23137390",
+      "http://imdb.com/title/tt23137390"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Louise vinnur á skyndibitastað og á í vandræðum með kærastann Jimmy sem er tónlistamaður og er alltaf á tónleikaferðalögum. Thelma er gift Darryl sem vill helst að hún sé bara í eldhúsinu á meðan hann er að horfa á fótboltaleiki í sjónvarpinu. Dag einn ákveða  þær að breyta lífi sínum og fara í ferðalag. Ferðin þeirra breytist hins vegar í flótta þegar Louise drepur mann sem hafði hótað að nauðga Thelmu. Þær flýja til Mexíkó en þar byrjar bandaríska lögreglan að leita af þeim.",
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
     "genres": [
-      "Drama",
-      "Glæpa",
-      "Ævintýri"
+      "Hrollvekja"
     ],
-    "duration_in_mins": 129,
+    "duration_in_mins": 89,
     "language": [
-      "Enska"
+      "Ítalska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=PRr0HY9MPZ0",
+    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
     "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
+      "Bíó Paradís": [
         {
-          "time": "2024-06-06T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=32314ddb-bbeb-484b-9bbc-58aa36068dc2",
-          "hall": "Salur 2"
+          "time": "2024-06-06T21:15:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e8bd1acb-a077-4fb6-be02-429c039a2dd2",
+          "hall": "Salur 1"
         }
       ]
     }
