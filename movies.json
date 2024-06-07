@@ -76,23 +76,6 @@
           "hall": "Salur 1"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-06-07T17:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=252102c7-4905-4f5a-acf6-54d881f75a58",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-06-07T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b350cfd2-550c-453c-84b5-cab1d9e38ac9",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-06-07T22:25:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e91929d2-3b79-4a27-8a9b-133653b6e63d",
-          "hall": "AXL"
-        }
-      ],
       "Sambíóin Egilshöll": [
         {
           "time": "2024-06-07T17:30:00.000Z",
@@ -108,6 +91,23 @@
           "time": "2024-06-07T22:20:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c7763b25-c97c-4fb0-91ad-c8efd77410fc",
           "hall": "Salur 1"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-06-07T17:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d8422a6c-1dad-48a4-b877-df7d6bd26542",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-06-07T20:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e827b7a4-4d04-442d-ac8c-24fcfabc6df8",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-06-07T22:25:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c66f0eb8-932e-4b56-8d83-aa624a4c06fe",
+          "hall": "AXL"
         }
       ],
       "Sambíóin Kringlunni": [
@@ -215,17 +215,17 @@
       "Laugarásbíó": [
         {
           "time": "2024-06-07T15:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=59debea1-22bc-44f7-bc32-b4c0a9e624e0",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2ed12aa1-9c2c-4dee-8769-2cc493987d73",
           "hall": "Salur B"
         },
         {
           "time": "2024-06-07T17:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3c38168d-1d4c-4129-b102-e08342b803d4",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bc7e782c-def2-447b-a494-99902e6ce4cf",
           "hall": "AXL"
         },
         {
           "time": "2024-06-07T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3980db79-d868-4968-a452-8795da0d82c3",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=770f1215-7191-45e5-8af4-0a1d6ebb4184",
           "hall": "AXL"
         }
       ],
@@ -325,7 +325,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-06-07T15:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2b5d410e-2566-44e1-bb40-d2ee8e7acdad",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=933b9ff1-d738-4d4a-96b5-b8c110e22ca5",
           "hall": "AXL"
         }
       ],
@@ -441,12 +441,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-06-07T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=97250ea0-d707-47ec-a731-1789a569c590",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b94a44d0-b27f-4d46-abc3-9b94930b095e",
           "hall": "Salur B"
         },
         {
           "time": "2024-06-07T22:25:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=00905f96-d206-4218-a67f-a8127507fcc4",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a3636bef-b743-4fde-b809-06b2bf90072c",
           "hall": "Salur A"
         }
       ],
@@ -584,6 +584,43 @@
     }
   },
   {
+    "title": "Tarot",
+    "id": 16728,
+    "alt_title": "Horrorscope",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16728_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14088510",
+      "http://imdb.com/title/tt14088510"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Þegar vinahópur brýtur helga reglu Tarotspila þá óafvitandi leysa þau úr læðingi yfirgengilega illsku sem var föst í hinum  fordæmdu spilum. Eitt af öðrum þurfa þau nú að horfast í augu við örlög sín og lenda í baráttu upp á líf og dauða.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 92,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=XNTEjJm4WXg",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-06-07T19:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2b4fe98f-0b12-4a65-bf54-ce61fd388247",
+          "hall": "Salur 5"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-07T21:45:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a3271442-1de6-4a4a-8342-d592244a8633",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
     "title": "The Fall Guy",
     "id": 16572,
     "alt_title": "Ímyndaðir vinir á toppnum",
@@ -616,7 +653,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-06-07T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ee23f44c-df31-418a-bfae-5e6e5933c342",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b67ac122-7c02-429c-aca2-57c15fdf0a86",
           "hall": "Salur B"
         }
       ]
@@ -661,38 +698,62 @@
     }
   },
   {
-    "title": "Tarot",
-    "id": 16728,
-    "alt_title": "Horrorscope",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16728_500.jpg",
+    "title": "Passages",
+    "id": 16920,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16920_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt14088510",
-      "http://imdb.com/title/tt14088510"
+      "http://imdb.com/title/tt16252698",
+      "http://imdb.com/title/tt16252698"
     ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Þegar vinahópur brýtur helga reglu Tarotspila þá óafvitandi leysa þau úr læðingi yfirgengilega illsku sem var föst í hinum  fordæmdu spilum. Eitt af öðrum þurfa þau nú að horfast í augu við örlög sín og lenda í baráttu upp á líf og dauða.",
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Tomas og Martin eru samkynhneigt par sem býr í París. Hjónaband þeirra lendir í vanda þegar Tomas byrjar í ástríðufullu sambandi við unga konu,  grunnskólakennarann Agathe. En þegar Martin byrjar einnig í sambandi utan hjónabandsins þarf Tomas að horfast í augu við ákvarðanirnar, sem gæti reynst honum erfitt.",
     "genres": [
-      "Hrollvekja"
+      "Rómantík",
+      "Drama"
     ],
-    "duration_in_mins": 92,
+    "duration_in_mins": 91,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=XNTEjJm4WXg",
+    "trailer_url": "https://www.youtube.com/watch?v=hvZmaePBSRw",
     "cinema_showtimes": {
-      "Smárabíó": [
+      "Bíó Paradís": [
         {
-          "time": "2024-06-07T19:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2b4fe98f-0b12-4a65-bf54-ce61fd388247",
-          "hall": "Salur 5"
+          "time": "2024-06-07T19:50:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e0819025-b744-4430-bdf2-6ed8b7730355",
+          "hall": "Salur 2"
         }
-      ],
-      "Sambíóin Álfabakka": [
+      ]
+    }
+  },
+  {
+    "title": "Perfect Days",
+    "id": 16762,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
+    "rating_urls": [
+      "http://imdb.com/title/tt27503384",
+      "http://imdb.com/title/tt27503384"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
+    "genres": [
+      "Drama"
+    ],
+    "duration_in_mins": 123,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
         {
-          "time": "2024-06-07T21:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a3271442-1de6-4a4a-8342-d592244a8633",
-          "hall": "Salur B"
+          "time": "2024-06-07T16:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=54059ece-69b1-4067-b5d2-3ac2a895a2b2",
+          "hall": "Salur 3"
         }
       ]
     }
@@ -793,6 +854,38 @@
     }
   },
   {
+    "title": "Challengers",
+    "id": 16079,
+    "alt_title": "The Fall Guy flaug á toppinn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/1736149_500-1704376990.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16426418",
+      "http://imdb.com/title/tt16426418"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Tennisleikarinn Tashi, sem nú hefur snúið sér að þjálfun, er búin að gera eiginmann sinn, Art, að heimsþekktum sigurvegara á mörgum risamótum. Eftir mörg töp í röð ákveður hún, til að koma Art aftur á sigurbraut, að skrá hann á áskorendamót þar sem mótspilarar eru mun viðráðanlegri. Þar mætir hann fyrrum besta vini sínum og fyrrverandi kærasta Tashi.",
+    "genres": [
+      "Rómantík",
+      "Drama",
+      "Íþróttir"
+    ],
+    "duration_in_mins": 131,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=MDnVk5jIJr0",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-07T22:15:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8b951e80-9105-4874-aad5-02d2f6ea17ad",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "Showing Up",
     "id": 16789,
     "alt_title": "Nýja Pamela Anderson - Fyrsta mynd!",
@@ -824,6 +917,36 @@
     }
   },
   {
+    "title": "The Strangers: Chapter 1",
+    "id": 16877,
+    "alt_title": "Snerting á toppnum og Grettir skammt undan",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16877_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22050754",
+      "http://imdb.com/title/tt22050754"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Eftir að bíll þeirra bilar í uggvekjandi litlum bæ neyðist ungt par til að gista í kofa fyrir utan bæinn. Þau verða skelfingu lostin þegar þrír grímuklæddir menn ógna þeim alla nóttina af miklu miskunnarleysi og án nokkurrar ástæðu.",
+    "genres": [
+      "Hrollvekja"
+    ],
+    "duration_in_mins": 91,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=DSudLoJy2ok",
+    "cinema_showtimes": {
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-06-07T22:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9509110d-694c-4426-90c3-37e993d02563",
+          "hall": "Salur 4"
+        }
+      ]
+    }
+  },
+  {
     "title": "Their Icelands",
     "id": 16905,
     "alt_title": "Leikstjórn",
@@ -846,6 +969,38 @@
           "time": "2024-06-07T16:20:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=54539c57-e28f-40ce-9968-db5bc4d05e88",
           "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "10 líf",
+    "id": 16787,
+    "alt_title": "10 Lives",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt7959138",
+      "http://imdb.com/title/tt7959138"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 88,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
+    "cinema_showtimes": {
+      "Laugarásbíó": [
+        {
+          "time": "2024-06-07T15:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fca9acad-246d-4ef4-b42d-9e27e2aa0860",
+          "hall": "Salur A"
         }
       ]
     }
@@ -910,161 +1065,6 @@
           "time": "2024-06-07T21:00:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=30496474-1d27-49e0-b66f-d2213ea2824d",
           "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Passages",
-    "id": 16920,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16920_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16252698",
-      "http://imdb.com/title/tt16252698"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Tomas og Martin eru samkynhneigt par sem býr í París. Hjónaband þeirra lendir í vanda þegar Tomas byrjar í ástríðufullu sambandi við unga konu,  grunnskólakennarann Agathe. En þegar Martin byrjar einnig í sambandi utan hjónabandsins þarf Tomas að horfast í augu við ákvarðanirnar, sem gæti reynst honum erfitt.",
-    "genres": [
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 91,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=hvZmaePBSRw",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-07T19:50:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e0819025-b744-4430-bdf2-6ed8b7730355",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Challengers",
-    "id": 16079,
-    "alt_title": "The Fall Guy flaug á toppinn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/1736149_500-1704376990.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16426418",
-      "http://imdb.com/title/tt16426418"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Tennisleikarinn Tashi, sem nú hefur snúið sér að þjálfun, er búin að gera eiginmann sinn, Art, að heimsþekktum sigurvegara á mörgum risamótum. Eftir mörg töp í röð ákveður hún, til að koma Art aftur á sigurbraut, að skrá hann á áskorendamót þar sem mótspilarar eru mun viðráðanlegri. Þar mætir hann fyrrum besta vini sínum og fyrrverandi kærasta Tashi.",
-    "genres": [
-      "Rómantík",
-      "Drama",
-      "Íþróttir"
-    ],
-    "duration_in_mins": 131,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=MDnVk5jIJr0",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-06-07T22:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8b951e80-9105-4874-aad5-02d2f6ea17ad",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Perfect Days",
-    "id": 16762,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/489e2f65-6198-44e9-8b32-14736d324830-1709721653.jpeg",
-    "rating_urls": [
-      "http://imdb.com/title/tt27503384",
-      "http://imdb.com/title/tt27503384"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Hirayama er sáttur við líf sitt sem klósettræstir og húsvörður í Tókíó í Japan. Auk daglegrar rútínu í starfi hlustar hann á rokktónlist á snældum, les bækur og tekur ljósmyndir af trjám. Á ferðum sínum leitar hann uppi fegurðina í heiminum.",
-    "genres": [
-      "Drama"
-    ],
-    "duration_in_mins": 123,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=3uL4P6O_FVE",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-07T16:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=54059ece-69b1-4067-b5d2-3ac2a895a2b2",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "The Strangers: Chapter 1",
-    "id": 16877,
-    "alt_title": "Snerting á toppnum og Grettir skammt undan",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16877_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt22050754",
-      "http://imdb.com/title/tt22050754"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Eftir að bíll þeirra bilar í uggvekjandi litlum bæ neyðist ungt par til að gista í kofa fyrir utan bæinn. Þau verða skelfingu lostin þegar þrír grímuklæddir menn ógna þeim alla nóttina af miklu miskunnarleysi og án nokkurrar ástæðu.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 91,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=DSudLoJy2ok",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-06-07T22:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9509110d-694c-4426-90c3-37e993d02563",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "10 líf",
-    "id": 16787,
-    "alt_title": "10 Lives",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/10lif-vefposter-1709986913.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt7959138",
-      "http://imdb.com/title/tt7959138"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Beggi er ofdekraður köttur tekur sem sjálfsögðum hlut þeirri lukku sem hann varð fyrir þegar honum var bjargað af Rósu. Þegar hann missir níunda líf sitt grípa örlögin inní og senda hann í ævintýri lífs síns.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 88,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=mQ2jRkRJW-c",
-    "cinema_showtimes": {
-      "Laugarásbíó": [
-        {
-          "time": "2024-06-07T15:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b27e0857-efab-4d92-95c8-27a50ce57f00",
-          "hall": "Salur A"
         }
       ]
     }
