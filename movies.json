@@ -1,5 +1,169 @@
 [
   {
+    "title": "The Garfield Movie",
+    "id": 16641,
+    "alt_title": "Grettir bíómyndin",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/outlook-grettir-po-1709984574.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt5779228",
+      "http://imdb.com/title/tt5779228"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Kötturinn Grettir er á leið í stórskemmtilegt útivistar-ævintýri en eftir óvænta endurfundi með löngu týndum föður sínum, neyðast Grettir og hundurinn Oddi til að yfirgefa dekurlíf sitt og ganga til liðs við pabbann í hættulegri ránsferð.",
+    "genres": [
+      "Gaman",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 101,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=IeFWNtMo1Fs",
+    "cinema_showtimes": {
+      "Sambíóin Kringlunni": [
+        {
+          "time": "2024-06-08T12:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fee83f3e-ef9c-4a14-b718-2fee78c6b20f",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-06-08T14:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ca3cda18-9ce5-4a3d-9f4d-10205ee29674",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-06-08T16:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e3f694dd-4b47-48da-9bd6-12c375a0fb13",
+          "hall": "Salur 3"
+        },
+        {
+          "time": "2024-06-08T18:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f0549d9e-1958-400d-9c2c-200066ad9de4",
+          "hall": "Salur 2"
+        }
+      ],
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-08T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6cc72921-3af3-4f02-ad89-9c0858956c8e",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-08T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=30fd6601-2f37-48ee-bd9f-5c9b200a2c37",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-06-08T15:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=be2e819c-49c3-4ccd-8a61-f61cb8c23d1b",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-06-08T15:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1638c5f7-7e9e-480d-acdf-e8360a666ffb",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-08T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3bba051f-6701-4e9d-bfe7-bd7630f8de74",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-06-08T17:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2357c11a-3371-4ec9-83de-bf10d48f9c5d",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Akureyri": [
+        {
+          "time": "2024-06-08T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5b7090b1-a471-4be9-9b05-f66d88213d57",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-08T15:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4fc95990-699c-4f71-b131-6ffe5e7ad779",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-08T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6109718d-2149-4fba-85d7-949e256adabb",
+          "hall": "Salur 1"
+        }
+      ],
+      "Sambíóin Egilshöll": [
+        {
+          "time": "2024-06-08T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b2cfb072-05de-4eb6-bb36-fdd718a8362c",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-08T15:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8fe28574-0178-442b-84f7-84d08b755380",
+          "hall": "Salur 2"
+        },
+        {
+          "time": "2024-06-08T17:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=112ca768-574d-473c-8e33-89b2403c5f39",
+          "hall": "Salur 4"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-06-08T13:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6322936c-6706-48c1-8348-352663c84187",
+          "hall": "AXL"
+        },
+        {
+          "time": "2024-06-08T15:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9856a980-4d4e-4c7e-982f-fb2aa1dc55b0",
+          "hall": "AXL"
+        }
+      ],
+      "Sambíóin Keflavík": [
+        {
+          "time": "2024-06-08T15:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2313e96a-8954-4128-9dfa-6e0983b5a8f1",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-08T17:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8f9bcacc-88da-4f14-9b0b-86886b483b13",
+          "hall": "Salur 2"
+        }
+      ],
+      "Smárabíó": [
+        {
+          "time": "2024-06-08T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7539091b-3f25-4ada-ad0d-edb1f6847612",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-06-08T15:10:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=52d817f7-a614-461c-81a1-34436448bd37",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-06-08T15:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7ef65f6f-399a-494a-9263-129b366d90b1",
+          "hall": "MAX"
+        },
+        {
+          "time": "2024-06-08T17:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=14a39466-2b8d-499f-88d0-2a45db42128c",
+          "hall": "Salur 5"
+        },
+        {
+          "time": "2024-06-08T17:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b8bbeb2a-233f-4606-b3c5-eb1b259fdc83",
+          "hall": "MAX"
+        }
+      ]
+    }
+  },
+  {
     "title": "Snerting",
     "id": 16860,
     "alt_title": "Touch",
@@ -24,22 +188,22 @@
       "Laugarásbíó": [
         {
           "time": "2024-06-08T13:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a57eba72-4d5f-4e96-99e9-fdbf570fc993",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=310478fb-1571-4b2c-9fbc-f79065d01100",
           "hall": "Salur A"
         },
         {
           "time": "2024-06-08T15:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=424bf2f6-65e9-41fb-b97d-975e42ab4da3",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bf2e9962-4bf7-473e-9b06-52213d5115b0",
           "hall": "Salur B"
         },
         {
           "time": "2024-06-08T17:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ed86e908-3330-409f-832c-32f9bbb3541d",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=97030dca-3846-48ce-b07e-a6be9a704d86",
           "hall": "AXL"
         },
         {
           "time": "2024-06-08T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b0bac793-7b38-403a-b976-f2d7bd99cd90",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e3b392eb-5234-4ded-8ab7-8e195a807f04",
           "hall": "AXL"
         }
       ],
@@ -161,170 +325,6 @@
     }
   },
   {
-    "title": "The Garfield Movie",
-    "id": 16641,
-    "alt_title": "Grettir bíómyndin",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/outlook-grettir-po-1709984574.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt5779228",
-      "http://imdb.com/title/tt5779228"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Kötturinn Grettir er á leið í stórskemmtilegt útivistar-ævintýri en eftir óvænta endurfundi með löngu týndum föður sínum, neyðast Grettir og hundurinn Oddi til að yfirgefa dekurlíf sitt og ganga til liðs við pabbann í hættulegri ránsferð.",
-    "genres": [
-      "Gaman",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 101,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=IeFWNtMo1Fs",
-    "cinema_showtimes": {
-      "Sambíóin Kringlunni": [
-        {
-          "time": "2024-06-08T12:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fee83f3e-ef9c-4a14-b718-2fee78c6b20f",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-06-08T14:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ca3cda18-9ce5-4a3d-9f4d-10205ee29674",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-06-08T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e3f694dd-4b47-48da-9bd6-12c375a0fb13",
-          "hall": "Salur 3"
-        },
-        {
-          "time": "2024-06-08T18:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f0549d9e-1958-400d-9c2c-200066ad9de4",
-          "hall": "Salur 2"
-        }
-      ],
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-06-08T13:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6cc72921-3af3-4f02-ad89-9c0858956c8e",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-06-08T13:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=30fd6601-2f37-48ee-bd9f-5c9b200a2c37",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-06-08T15:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=be2e819c-49c3-4ccd-8a61-f61cb8c23d1b",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-06-08T15:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1638c5f7-7e9e-480d-acdf-e8360a666ffb",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-06-08T17:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3bba051f-6701-4e9d-bfe7-bd7630f8de74",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-06-08T17:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2357c11a-3371-4ec9-83de-bf10d48f9c5d",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Akureyri": [
-        {
-          "time": "2024-06-08T13:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5b7090b1-a471-4be9-9b05-f66d88213d57",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-06-08T15:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4fc95990-699c-4f71-b131-6ffe5e7ad779",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-06-08T17:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6109718d-2149-4fba-85d7-949e256adabb",
-          "hall": "Salur 1"
-        }
-      ],
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-06-08T13:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b2cfb072-05de-4eb6-bb36-fdd718a8362c",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-06-08T15:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8fe28574-0178-442b-84f7-84d08b755380",
-          "hall": "Salur 2"
-        },
-        {
-          "time": "2024-06-08T17:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=112ca768-574d-473c-8e33-89b2403c5f39",
-          "hall": "Salur 4"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-06-08T13:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=570e5cdd-1e56-48ef-8673-92117bd80d26",
-          "hall": "AXL"
-        },
-        {
-          "time": "2024-06-08T15:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f3e1cd1c-195b-4107-a157-a0fdcd2900a1",
-          "hall": "AXL"
-        }
-      ],
-      "Sambíóin Keflavík": [
-        {
-          "time": "2024-06-08T15:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2313e96a-8954-4128-9dfa-6e0983b5a8f1",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-06-08T17:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=8f9bcacc-88da-4f14-9b0b-86886b483b13",
-          "hall": "Salur 2"
-        }
-      ],
-      "Smárabíó": [
-        {
-          "time": "2024-06-08T13:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7539091b-3f25-4ada-ad0d-edb1f6847612",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-06-08T15:10:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=52d817f7-a614-461c-81a1-34436448bd37",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-06-08T15:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7ef65f6f-399a-494a-9263-129b366d90b1",
-          "hall": "MAX"
-        },
-        {
-          "time": "2024-06-08T17:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=14a39466-2b8d-499f-88d0-2a45db42128c",
-          "hall": "Salur 5"
-        },
-        {
-          "time": "2024-06-08T17:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b8bbeb2a-233f-4606-b3c5-eb1b259fdc83",
-          "hall": "MAX"
-        }
-      ]
-    }
-  },
-  {
     "title": "Bad Boys: Ride or Die",
     "id": 16710,
     "alt_title": "Leikstjórn",
@@ -409,17 +409,17 @@
       "Laugarásbíó": [
         {
           "time": "2024-06-08T17:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b5e510af-0e24-485d-a58b-0824730ae540",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9c65290c-ab11-430c-b014-c74aac16848a",
           "hall": "Salur A"
         },
         {
           "time": "2024-06-08T20:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c1e31929-8a72-4fbf-8ec9-031b22384f26",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=271b72b2-458a-4f19-bde6-25f0c2503cbb",
           "hall": "Salur A"
         },
         {
           "time": "2024-06-08T22:25:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5868fce9-50b8-4b9f-af64-d44c5fced0eb",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3d0b8889-7707-44bf-9868-b793f9bcf652",
           "hall": "AXL"
         }
       ],
@@ -562,7 +562,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-06-08T13:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c7ecab92-5132-49a1-b3cc-58272f08fc70",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=4f98911e-55e9-46a9-aa10-08ab728ecdf5",
           "hall": "Salur B"
         }
       ],
@@ -649,23 +649,23 @@
           "hall": "Salur 2"
         }
       ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-06-08T18:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=fdc4ac8e-6169-4e9a-8604-0a517beb59e2",
-          "hall": "Salur B"
-        },
-        {
-          "time": "2024-06-08T22:25:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e56c25b4-7d6f-4a85-9e7a-3f2104d9cf9d",
-          "hall": "Salur A"
-        }
-      ],
       "Sambíóin Akureyri": [
         {
           "time": "2024-06-08T18:00:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3c3b75f7-4524-4ca3-9a4b-8d7a466e8544",
           "hall": "Salur 2"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-06-08T18:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3c2dcf33-f4cc-41a1-b2c6-69bbe09de0c8",
+          "hall": "Salur B"
+        },
+        {
+          "time": "2024-06-08T22:25:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7fe256f1-54c5-47a9-8a16-da63ce34f5c4",
+          "hall": "Salur A"
         }
       ],
       "Smárabíó": [
@@ -776,8 +776,82 @@
       "Laugarásbíó": [
         {
           "time": "2024-06-08T15:35:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ac3a806a-9da7-43d2-9b97-7467e15d2f47",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3dce03ef-4d63-44a1-abee-0c2fd81d5f5d",
           "hall": "Salur A"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "id": 16748,
+    "alt_title": "Ímyndaðir vinir á toppnum",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt21692408",
+      "http://imdb.com/title/tt21692408"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
+    "genres": [
+      "Spenna",
+      "Ævintýri",
+      "Teiknað"
+    ],
+    "duration_in_mins": 94,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-08T13:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d14223fe-2965-43f5-8b1e-54ebee8c7a2c",
+          "hall": "Salur A"
+        },
+        {
+          "time": "2024-06-08T15:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=eff7d69a-72f8-413b-973a-2ee2c9692d96",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Vélmennadraumar (Robot Dreams)",
+    "id": 16515,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt13429870",
+      "http://imdb.com/title/tt13429870"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
+    "genres": [
+      "Drama",
+      "Tónlist",
+      "Teiknað"
+    ],
+    "duration_in_mins": 102,
+    "language": [
+      "Spænska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-08T16:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0ac65757-69d2-4b09-932d-407258e696c2",
+          "hall": "Salur 1"
+        },
+        {
+          "time": "2024-06-08T16:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=cbe4b8eb-c328-4a6b-bb8c-c0c63b048a69",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -821,6 +895,45 @@
     }
   },
   {
+    "title": "The Fall Guy",
+    "id": 16572,
+    "alt_title": "Ímyndaðir vinir á toppnum",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/1750525_500-1710066762.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt1684562",
+      "http://imdb.com/title/tt1684562"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Áhættuleikarinn Colt Seavers, sem nýlega lenti í slysi sem hefði getað bundið enda á ferilinn, þarf að elta uppi týnda kvikmyndastjörnu, leysa úr samsæri og reyna að ná aftur í draumadísina á sama tíma og hann verður að mæta í vinnuna dag hvern. Gæti eitthvað af þessu mögulega heppnast?",
+    "genres": [
+      "Spenna",
+      "Gaman",
+      "Drama"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=j7jPnwVGdZ8",
+    "cinema_showtimes": {
+      "Sambíóin Álfabakka": [
+        {
+          "time": "2024-06-08T19:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7b0f066c-89de-4d55-ad4a-c35fd433441e",
+          "hall": "Salur B"
+        }
+      ],
+      "Laugarásbíó": [
+        {
+          "time": "2024-06-08T21:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=74c279ef-dd86-4ad6-b7eb-9ae96bcaf524",
+          "hall": "Salur B"
+        }
+      ]
+    }
+  },
+  {
     "title": "Tarot",
     "id": 16728,
     "alt_title": "Horrorscope",
@@ -858,114 +971,30 @@
     }
   },
   {
-    "title": "The Fall Guy",
-    "id": 16572,
-    "alt_title": "Ímyndaðir vinir á toppnum",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/1750525_500-1710066762.jpg",
+    "title": "Death of a City",
+    "id": 16804,
+    "alt_title": "A Morte de uma Cidade",
+    "release_year": 2022,
+    "poster_url": "https://kvikmyndir.is/images/poster/7w0khbl9o1e16x7r1ccnwbkshwv-1710355764.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt1684562",
-      "http://imdb.com/title/tt1684562"
+      "http://imdb.com/title/tt23740330",
+      "http://imdb.com/title/tt23740330"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Áhættuleikarinn Colt Seavers, sem nýlega lenti í slysi sem hefði getað bundið enda á ferilinn, þarf að elta uppi týnda kvikmyndastjörnu, leysa úr samsæri og reyna að ná aftur í draumadísina á sama tíma og hann verður að mæta í vinnuna dag hvern. Gæti eitthvað af þessu mögulega heppnast?",
+    "description": "Í hjarta Bairro Alto, í miðborg Lissabon í Portúgal, er gömul prentsmiðja rifin til að búa til pláss fyrir lúxus íbúðir. Leikstjórinn sér gjörninginn sem táknrænan fyrir dauða ákveðins hluta borgarinnar á tímum fjármálakreppunnar og yfirvofandi ferðamannasprengju. Hann ákveður að mynda byggingarsvæðið frá degi til dags og þá sem þar starfa. Það sem byrjar sem mynd um verkefni endar sem saga um samband leikstjórans við heimabæ sinn og fólkið sem byggði hann.",
     "genres": [
-      "Spenna",
-      "Gaman",
-      "Drama"
+      "Heimildarmynd"
     ],
-    "duration_in_mins": 126,
+    "duration_in_mins": 116,
     "language": [
-      "Enska"
+      "Portúgalska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=j7jPnwVGdZ8",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-06-08T19:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=7b0f066c-89de-4d55-ad4a-c35fd433441e",
-          "hall": "Salur B"
-        }
-      ],
-      "Laugarásbíó": [
-        {
-          "time": "2024-06-08T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9f9ca3d2-c990-49fd-a034-f85d3f970e50",
-          "hall": "Salur B"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Vélmennadraumar (Robot Dreams)",
-    "id": 16515,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/minni-1709733436.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt13429870",
-      "http://imdb.com/title/tt13429870"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Hundur býr í New York og er einmana. Einn daginn ákveður hann að smíða sér vin, Vélmennið! Vinátta þeirra þroskast og þróast þar til þeir verða óaðskiljanlegir. Sumarkvöld eitt neyðist Hundur til að yfirgefa Vélmennið á ströndinni. Munu þeir einhverntímann hittast aftur?",
-    "genres": [
-      "Drama",
-      "Tónlist",
-      "Teiknað"
-    ],
-    "duration_in_mins": 102,
-    "language": [
-      "Spænska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=GVNT1Nu8BWE",
+    "trailer_url": "https://www.youtube.com/watch?v=xVcB2KnfGcw",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
           "time": "2024-06-08T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=0ac65757-69d2-4b09-932d-407258e696c2",
-          "hall": "Salur 1"
-        },
-        {
-          "time": "2024-06-08T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=cbe4b8eb-c328-4a6b-bb8c-c0c63b048a69",
-          "hall": "Salur 1"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Kung Fu Panda 4",
-    "id": 16748,
-    "alt_title": "Ímyndaðir vinir á toppnum",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16748_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt21692408",
-      "http://imdb.com/title/tt21692408"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Po er um það bil að verða andlegur leiðtogi í Friðardanum, en þá þarf einhver að taka við stöðu hans sem Drekastríðsmaður. Po þarf nú að þjálfa nýja kung fu iðkendur í starfið og mæta nýjum þorpara sem kallast Kameljónið en í honum búa allir óþokkar fortíðar.",
-    "genres": [
-      "Spenna",
-      "Ævintýri",
-      "Teiknað"
-    ],
-    "duration_in_mins": 94,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=_inKs4eeHiI",
-    "cinema_showtimes": {
-      "Sambíóin Álfabakka": [
-        {
-          "time": "2024-06-08T13:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d14223fe-2965-43f5-8b1e-54ebee8c7a2c",
-          "hall": "Salur A"
-        },
-        {
-          "time": "2024-06-08T15:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=eff7d69a-72f8-413b-973a-2ee2c9692d96",
-          "hall": "Salur 3"
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=180f8791-519b-4028-b357-dc7a4df09c32",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -998,6 +1027,37 @@
           "time": "2024-06-08T22:20:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=302c07a1-e0a8-4f7c-acc7-6f71ca396998",
           "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Passages",
+    "id": 16920,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16920_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16252698",
+      "http://imdb.com/title/tt16252698"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Tomas og Martin eru samkynhneigt par sem býr í París. Hjónaband þeirra lendir í vanda þegar Tomas byrjar í ástríðufullu sambandi við unga konu,  grunnskólakennarann Agathe. En þegar Martin byrjar einnig í sambandi utan hjónabandsins þarf Tomas að horfast í augu við ákvarðanirnar, sem gæti reynst honum erfitt.",
+    "genres": [
+      "Rómantík",
+      "Drama"
+    ],
+    "duration_in_mins": 91,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=hvZmaePBSRw",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-08T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a951608f-bfe0-4d1c-9cf9-8441709b5aa4",
+          "hall": "Salur 2"
         }
       ]
     }
@@ -1090,66 +1150,6 @@
         {
           "time": "2024-06-08T20:50:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1e14f90b-1b7e-4264-ade9-7ffcfedbeef4",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Death of a City",
-    "id": 16804,
-    "alt_title": "A Morte de uma Cidade",
-    "release_year": 2022,
-    "poster_url": "https://kvikmyndir.is/images/poster/7w0khbl9o1e16x7r1ccnwbkshwv-1710355764.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23740330",
-      "http://imdb.com/title/tt23740330"
-    ],
-    "description": "Í hjarta Bairro Alto, í miðborg Lissabon í Portúgal, er gömul prentsmiðja rifin til að búa til pláss fyrir lúxus íbúðir. Leikstjórinn sér gjörninginn sem táknrænan fyrir dauða ákveðins hluta borgarinnar á tímum fjármálakreppunnar og yfirvofandi ferðamannasprengju. Hann ákveður að mynda byggingarsvæðið frá degi til dags og þá sem þar starfa. Það sem byrjar sem mynd um verkefni endar sem saga um samband leikstjórans við heimabæ sinn og fólkið sem byggði hann.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 116,
-    "language": [
-      "Portúgalska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=xVcB2KnfGcw",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-08T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=180f8791-519b-4028-b357-dc7a4df09c32",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Passages",
-    "id": 16920,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16920_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16252698",
-      "http://imdb.com/title/tt16252698"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Tomas og Martin eru samkynhneigt par sem býr í París. Hjónaband þeirra lendir í vanda þegar Tomas byrjar í ástríðufullu sambandi við unga konu,  grunnskólakennarann Agathe. En þegar Martin byrjar einnig í sambandi utan hjónabandsins þarf Tomas að horfast í augu við ákvarðanirnar, sem gæti reynst honum erfitt.",
-    "genres": [
-      "Rómantík",
-      "Drama"
-    ],
-    "duration_in_mins": 91,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=hvZmaePBSRw",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-08T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a951608f-bfe0-4d1c-9cf9-8441709b5aa4",
           "hall": "Salur 2"
         }
       ]
