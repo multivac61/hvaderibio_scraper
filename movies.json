@@ -280,17 +280,17 @@
       "Bíó Paradís": [
         {
           "time": "2024-06-19T14:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b74f9cf8-166a-489d-820d-428547ea3d3d",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=f9f7a982-ac40-4fd1-9fdf-69e55d17afc1",
           "hall": "Salur 2"
         },
         {
           "time": "2024-06-19T16:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=93d67194-8326-4697-9b64-57044bb3062b",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=41b510bc-991d-4ecb-a38a-efe63cb5e30a",
           "hall": "Salur 2"
         },
         {
           "time": "2024-06-19T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=88954a44-b3eb-4ee6-a37d-511ac4a26c1e",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=bddec5df-38a3-411e-8dc0-cd2a955a1d2f",
           "hall": "Salur 2"
         }
       ],
@@ -598,150 +598,125 @@
     }
   },
   {
-    "title": "The Strangers: Chapter 1",
-    "id": 16877,
-    "alt_title": "Snerting á toppnum og Grettir skammt undan",
+    "title": "Immaculate",
+    "id": 16828,
+    "alt_title": "Apar taka sér stöðu á toppinum",
     "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16877_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt22050754",
-      "http://imdb.com/title/tt22050754"
+      "http://imdb.com/title/tt23137390",
+      "http://imdb.com/title/tt23137390"
     ],
     "content_rating": "Bönnuð innan 16 ára",
-    "description": "Eftir að bíll þeirra bilar í uggvekjandi litlum bæ neyðist ungt par til að gista í kofa fyrir utan bæinn. Þau verða skelfingu lostin þegar þrír grímuklæddir menn ógna þeim alla nóttina af miklu miskunnarleysi og án nokkurrar ástæðu.",
+    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
     "genres": [
       "Hrollvekja"
+    ],
+    "duration_in_mins": 89,
+    "language": [
+      "Ítalska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-19T21:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2637f2d9-e7c0-456b-a669-2fa0d9af0922",
+          "hall": "Salur 2"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monster",
+    "id": 16301,
+    "alt_title": "Kaibutsu",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt23736044",
+      "http://imdb.com/title/tt23736044"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "genres": [
+      "Drama",
+      "Spennutryllir"
+    ],
+    "duration_in_mins": 126,
+    "language": [
+      "Japanska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-19T18:30:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=970eb105-fbee-4287-b0b1-46be0c0458a9",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Natatorium",
+    "id": 16318,
+    "alt_title": "Natatorium: Á suðupunkti í sundlaug dauðans",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/nata-1687538482.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt24177962",
+      "http://imdb.com/title/tt24177962"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Ung stúlka dvelur hjá ömmu sinni og afa í borginni á meðan hún þreytir inntökupróf í listhóp. Þegar fjölskyldan, sem hefur ekki hist í langan tíma, kemur saman til að fagna inntöku hennar í hópinn koma ljót fjölskylduleyndarmál upp á yfirborðið og kvöldið endar með hræðilegum harmleik.",
+    "genres": [
+      "Drama",
+      "Spennutryllir",
+      "Íslensk mynd"
+    ],
+    "duration_in_mins": 105,
+    "language": [
+      "Íslenska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=B9vcFwM0u_M",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-19T21:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=5ab122ca-ef40-4c88-9f29-07496023fae6",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Passages",
+    "id": 16920,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16920_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt16252698",
+      "http://imdb.com/title/tt16252698"
+    ],
+    "content_rating": "Bönnuð innan 14 ára",
+    "description": "Tomas og Martin eru samkynhneigt par sem býr í París. Hjónaband þeirra lendir í vanda þegar Tomas byrjar í ástríðufullu sambandi við unga konu, grunnskólakennarann Agathe. En þegar Martin byrjar einnig í sambandi utan hjónabandsins þarf Tomas að horfast í augu við ákvarðanirnar, sem gæti reynst honum erfitt.",
+    "genres": [
+      "Rómantík",
+      "Drama"
     ],
     "duration_in_mins": 91,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=DSudLoJy2ok",
-    "cinema_showtimes": {
-      "Sambíóin Egilshöll": [
-        {
-          "time": "2024-06-19T22:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b8c8736f-cf6c-497c-97d2-9d956262ee41",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tilverur",
-    "id": 16457,
-    "alt_title": "Solitude",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16457_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt26218798",
-      "http://imdb.com/title/tt26218798"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Myndin fjallar um bóndann Gunnar sem er tilneyddur að flytja til borgarinnar þegar ríkið tekur jörð hans yfir til virkjunarframkvæmda. Kynni af blaðburðardrengnum Ara umbreytir lífi þeirra beggja.",
-    "genres": [
-      "Drama",
-      "Íslensk mynd"
-    ],
-    "duration_in_mins": 75,
-    "language": [
-      "Íslenska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=D5SvlAwd80o",
+    "trailer_url": "https://www.youtube.com/watch?v=hvZmaePBSRw",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-06-19T14:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=3202ab8d-9265-4be0-a41b-e89f62c00eef",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Fame",
-    "id": 16946,
-    "alt_title": "Fréttin sem leiddi til #MeToo",
-    "release_year": 1980,
-    "poster_url": "https://kvikmyndir.is/images/poster/16946_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt0080716",
-      "http://imdb.com/title/tt0080716"
-    ],
-    "content_rating": "Bönnuð innan 6 ára",
-    "description": "Myndin segir frá ungu fólki í New York sem er að reyna að koma sér á framfæri á sviði leiklistar og balletts, allt frá inntökuprófum og að því þegar þau hefja nám og útskrifast.",
-    "genres": [
-      "Drama",
-      "Söngleikur",
-      "Tónlist"
-    ],
-    "duration_in_mins": 134,
-    "language": [],
-    "trailer_url": "https://www.youtube.com/watch?v=fZpBoyh9mds",
-    "cinema_showtimes": {
-      "Smárabíó": [
-        {
-          "time": "2024-06-19T19:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=176af683-6631-41df-a5f1-cc8c92e2cda2",
-          "hall": "Salur 4"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Their Icelands",
-    "id": 16905,
-    "alt_title": "Leikstjórn",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/their-1716638420.png",
-    "rating_urls": [],
-    "content_rating": "Öllum leyfð",
-    "description": "Við fylgjumst með Juliette í þessari ljóðrænu vegamynd um hina skapandi eyju, Ísland, sem er þekkt fyrir einstaka sögu, loftslag og listræna sérstöðu. Fram koma í myndinni:  Ásgeir Trausti, Eliza Reid, Jóhannes Birgir Pálmason, Auður Ava Ólafsdóttir, Örvar Þóreyjarson Smárason, Shoplifter, Torfi H. Tuliniusj, Unnur María Máney Bergsveinsdóttir og fleiri.",
-    "genres": [
-      "Heimildarmynd"
-    ],
-    "duration_in_mins": 54,
-    "language": [
-      "Franska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=WwlgwLDXfIM",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-19T15:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=db25206e-edb8-4168-b7dc-1edee93f16be",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Toves værelse",
-    "id": 16790,
-    "alt_title": "Tove's Room",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt19623314",
-      "http://imdb.com/title/tt19623314"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
-    "genres": [
-      "Drama",
-      "Æviágrip"
-    ],
-    "duration_in_mins": 73,
-    "language": [
-      "Danska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-19T16:55:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c46e674a-c6df-4cfd-8b89-12bbf5d44e05",
-          "hall": "Salur 3"
+          "time": "2024-06-19T21:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d4d9c707-e7aa-48a9-8f89-4402adc1e521",
+          "hall": "Salur 1"
         }
       ]
     }
@@ -779,125 +754,150 @@
     }
   },
   {
-    "title": "Immaculate",
-    "id": 16828,
-    "alt_title": "Apar taka sér stöðu á toppinum",
-    "release_year": 2024,
-    "poster_url": "https://kvikmyndir.is/images/poster/16828_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt23137390",
-      "http://imdb.com/title/tt23137390"
-    ],
-    "content_rating": "Bönnuð innan 16 ára",
-    "description": "Bandaríska nunnan Cecilia fer í klaustur langt uppi í sveit á Ítalíu, á fallegum stað. Hún fær blíðar móttökur en það breytist fljótt í hræðilega martröð enda reynist nýja heimilið búa yfir myrkum leyndarmálum og ólýsanlegum hryllingi.",
-    "genres": [
-      "Hrollvekja"
-    ],
-    "duration_in_mins": 89,
-    "language": [
-      "Ítalska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-19T21:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=9ed03571-6593-41e6-b391-a59a5a942f12",
-          "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Monster",
-    "id": 16301,
-    "alt_title": "Kaibutsu",
+    "title": "Tilverur",
+    "id": 16457,
+    "alt_title": "Solitude",
     "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16301_500.jpg",
+    "poster_url": "https://kvikmyndir.is/images/poster/16457_500.jpg",
     "rating_urls": [
-      "http://imdb.com/title/tt23736044",
-      "http://imdb.com/title/tt23736044"
+      "http://imdb.com/title/tt26218798",
+      "http://imdb.com/title/tt26218798"
     ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega.",
+    "content_rating": "Öllum leyfð",
+    "description": "Myndin fjallar um bóndann Gunnar sem er tilneyddur að flytja til borgarinnar þegar ríkið tekur jörð hans yfir til virkjunarframkvæmda. Kynni af blaðburðardrengnum Ara umbreytir lífi þeirra beggja.",
     "genres": [
       "Drama",
-      "Spennutryllir"
-    ],
-    "duration_in_mins": 126,
-    "language": [
-      "Japanska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-06-19T18:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e4c9f39e-4ad6-4968-b765-3237a0f5aa97",
-          "hall": "Salur 3"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Natatorium",
-    "id": 16318,
-    "alt_title": "Natatorium: Á suðupunkti í sundlaug dauðans",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/nata-1687538482.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt24177962",
-      "http://imdb.com/title/tt24177962"
-    ],
-    "content_rating": "Bönnuð innan 12 ára",
-    "description": "Ung stúlka dvelur hjá ömmu sinni og afa í borginni á meðan hún þreytir inntökupróf í listhóp. Þegar fjölskyldan, sem hefur ekki hist í langan tíma, kemur saman til að fagna inntöku hennar í hópinn koma ljót fjölskylduleyndarmál upp á yfirborðið og kvöldið endar með hræðilegum harmleik.",
-    "genres": [
-      "Drama",
-      "Spennutryllir",
       "Íslensk mynd"
     ],
-    "duration_in_mins": 105,
+    "duration_in_mins": 75,
     "language": [
       "Íslenska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=B9vcFwM0u_M",
+    "trailer_url": "https://www.youtube.com/watch?v=D5SvlAwd80o",
     "cinema_showtimes": {
       "Bíó Paradís": [
         {
-          "time": "2024-06-19T21:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ffa281a9-6f73-44c9-9f66-250edb7dc7f6",
+          "time": "2024-06-19T14:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=137cfdd4-14c1-43ae-a766-ae3238ba1fa0",
           "hall": "Salur 3"
         }
       ]
     }
   },
   {
-    "title": "Passages",
-    "id": 16920,
+    "title": "Their Icelands",
+    "id": 16905,
     "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16920_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt16252698",
-      "http://imdb.com/title/tt16252698"
-    ],
-    "content_rating": "Bönnuð innan 14 ára",
-    "description": "Tomas og Martin eru samkynhneigt par sem býr í París. Hjónaband þeirra lendir í vanda þegar Tomas byrjar í ástríðufullu sambandi við unga konu, grunnskólakennarann Agathe. En þegar Martin byrjar einnig í sambandi utan hjónabandsins þarf Tomas að horfast í augu við ákvarðanirnar, sem gæti reynst honum erfitt.",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/their-1716638420.png",
+    "rating_urls": [],
+    "content_rating": "Öllum leyfð",
+    "description": "Við fylgjumst með Juliette í þessari ljóðrænu vegamynd um hina skapandi eyju, Ísland, sem er þekkt fyrir einstaka sögu, loftslag og listræna sérstöðu. Fram koma í myndinni:  Ásgeir Trausti, Eliza Reid, Jóhannes Birgir Pálmason, Auður Ava Ólafsdóttir, Örvar Þóreyjarson Smárason, Shoplifter, Torfi H. Tuliniusj, Unnur María Máney Bergsveinsdóttir og fleiri.",
     "genres": [
-      "Rómantík",
-      "Drama"
+      "Heimildarmynd"
+    ],
+    "duration_in_mins": 54,
+    "language": [
+      "Franska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=WwlgwLDXfIM",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-19T15:40:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1a26247a-8084-4206-9f82-2fc67ee33a7b",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Toves værelse",
+    "id": 16790,
+    "alt_title": "Tove's Room",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16790_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt19623314",
+      "http://imdb.com/title/tt19623314"
+    ],
+    "content_rating": "Bönnuð innan 12 ára",
+    "description": "Myndin fjallar um Tove Ditlevsen, rithöfund og skáld og stormasamt hjónaband hennar og Victor Andreasen, ritstjóra Ekstrabladet. Þegar hinn ungi og upprennandi rithöfundur Klaus Rifbjerg kemur í hádegismat, þá breytist allt...",
+    "genres": [
+      "Drama",
+      "Æviágrip"
+    ],
+    "duration_in_mins": 73,
+    "language": [
+      "Danska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=5BPMWsuRibY",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-06-19T16:55:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=ac581dd5-d740-4567-846f-b5df77a721f1",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Strangers: Chapter 1",
+    "id": 16877,
+    "alt_title": "Snerting á toppnum og Grettir skammt undan",
+    "release_year": 2024,
+    "poster_url": "https://kvikmyndir.is/images/poster/16877_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt22050754",
+      "http://imdb.com/title/tt22050754"
+    ],
+    "content_rating": "Bönnuð innan 16 ára",
+    "description": "Eftir að bíll þeirra bilar í uggvekjandi litlum bæ neyðist ungt par til að gista í kofa fyrir utan bæinn. Þau verða skelfingu lostin þegar þrír grímuklæddir menn ógna þeim alla nóttina af miklu miskunnarleysi og án nokkurrar ástæðu.",
+    "genres": [
+      "Hrollvekja"
     ],
     "duration_in_mins": 91,
     "language": [
       "Enska"
     ],
-    "trailer_url": "https://www.youtube.com/watch?v=hvZmaePBSRw",
+    "trailer_url": "https://www.youtube.com/watch?v=DSudLoJy2ok",
     "cinema_showtimes": {
-      "Bíó Paradís": [
+      "Sambíóin Egilshöll": [
         {
-          "time": "2024-06-19T21:20:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=27f5084d-c1b4-408c-82f8-713d4e2968d2",
-          "hall": "Salur 1"
+          "time": "2024-06-19T22:20:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b8c8736f-cf6c-497c-97d2-9d956262ee41",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fame",
+    "id": 16946,
+    "alt_title": "Fréttin sem leiddi til #MeToo",
+    "release_year": 1980,
+    "poster_url": "https://kvikmyndir.is/images/poster/16946_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt0080716",
+      "http://imdb.com/title/tt0080716"
+    ],
+    "content_rating": "Bönnuð innan 6 ára",
+    "description": "Myndin segir frá ungu fólki í New York sem er að reyna að koma sér á framfæri á sviði leiklistar og balletts, allt frá inntökuprófum og að því þegar þau hefja nám og útskrifast.",
+    "genres": [
+      "Drama",
+      "Söngleikur",
+      "Tónlist"
+    ],
+    "duration_in_mins": 134,
+    "language": [],
+    "trailer_url": "https://www.youtube.com/watch?v=fZpBoyh9mds",
+    "cinema_showtimes": {
+      "Smárabíó": [
+        {
+          "time": "2024-06-19T19:00:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=176af683-6631-41df-a5f1-cc8c92e2cda2",
+          "hall": "Salur 4"
         }
       ]
     }
