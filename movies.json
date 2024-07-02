@@ -74,12 +74,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-07-02T15:40:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=14a0bb61-5d19-4c77-8b1c-cf4c6583f6f8",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=78dfead8-37f1-4914-b451-da798406681e",
           "hall": "AXL"
         },
         {
           "time": "2024-07-02T16:00:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=43a20b1f-ec45-4ba6-9b73-103b1bd55c8c",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a3312f56-b60e-4bfb-8384-6016b020ab52",
           "hall": "Salur B"
         }
       ],
@@ -359,17 +359,17 @@
       "Laugarásbíó": [
         {
           "time": "2024-07-02T15:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=665b88c0-d155-4a76-8836-fab615d63dc2",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=a0fcc378-43f0-42ef-a63d-065aaa08e5cf",
           "hall": "Salur A"
         },
         {
           "time": "2024-07-02T18:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=579b793c-3e85-4f61-be3d-704a4d2e79c1",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=31e771cd-1c65-42f8-a85f-306f5c0d6f41",
           "hall": "Salur B"
         },
         {
           "time": "2024-07-02T21:15:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=de6cc730-e33b-4851-b9e8-c7b7c39a8da2",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e8fc4c97-dd75-4604-823a-d3523135ce22",
           "hall": "Salur A"
         }
       ],
@@ -441,12 +441,12 @@
       "Laugarásbíó": [
         {
           "time": "2024-07-02T17:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=1cff588d-6eaa-49e0-85b9-a44bae586b77",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=2bea7d50-143d-4de1-befc-f1370df5a36c",
           "hall": "Salur A"
         },
         {
           "time": "2024-07-02T20:30:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=c0b29918-8c19-4962-b016-2a4e4235b6db",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=e1b0968c-406f-4e66-bacb-a4f6ac9d9cc9",
           "hall": "AXL"
         }
       ],
@@ -517,7 +517,7 @@
       "Laugarásbíó": [
         {
           "time": "2024-07-02T20:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=b489741b-292e-403d-89f3-7dade1e699fc",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=6497ca91-1061-4da0-9fdb-793b0cc343f5",
           "hall": "Salur B"
         }
       ]
@@ -793,6 +793,36 @@
     }
   },
   {
+    "title": "Tuesday",
+    "id": 16921,
+    "alt_title": "Leikstjórn",
+    "release_year": 2023,
+    "poster_url": "https://kvikmyndir.is/images/poster/16921_500.jpg",
+    "rating_urls": [
+      "http://imdb.com/title/tt14682800",
+      "http://imdb.com/title/tt14682800"
+    ],
+    "content_rating": "Öllum leyfð",
+    "description": "Móðir þarf að ræða dauðann við dóttur sína þegar hann mætir á svæðið í líki talandi páfagauks.",
+    "genres": [
+      "Ævintýri"
+    ],
+    "duration_in_mins": 111,
+    "language": [
+      "Enska"
+    ],
+    "trailer_url": "https://www.youtube.com/watch?v=qvqyBWCN39o",
+    "cinema_showtimes": {
+      "Bíó Paradís": [
+        {
+          "time": "2024-07-02T20:45:00.000Z",
+          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d1275fb6-39b1-480b-98b1-daeae446e0d0",
+          "hall": "Salur 3"
+        }
+      ]
+    }
+  },
+  {
     "title": "If",
     "id": 16640,
     "alt_title": "Imaginary Friend",
@@ -820,36 +850,6 @@
           "time": "2024-07-02T17:20:00.000Z",
           "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=208d7d8a-b2ec-4903-a6ed-f48bf3ebad9b",
           "hall": "Salur 2"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Tuesday",
-    "id": 16921,
-    "alt_title": "Leikstjórn",
-    "release_year": 2023,
-    "poster_url": "https://kvikmyndir.is/images/poster/16921_500.jpg",
-    "rating_urls": [
-      "http://imdb.com/title/tt14682800",
-      "http://imdb.com/title/tt14682800"
-    ],
-    "content_rating": "Öllum leyfð",
-    "description": "Móðir þarf að ræða dauðann við dóttur sína þegar hann mætir á svæðið í líki talandi páfagauks.",
-    "genres": [
-      "Ævintýri"
-    ],
-    "duration_in_mins": 111,
-    "language": [
-      "Enska"
-    ],
-    "trailer_url": "https://www.youtube.com/watch?v=qvqyBWCN39o",
-    "cinema_showtimes": {
-      "Bíó Paradís": [
-        {
-          "time": "2024-07-02T20:45:00.000Z",
-          "purchase_url": "https://kvikmyndir.is/kvikmyndir/showtime_redirect.php?id=d1275fb6-39b1-480b-98b1-daeae446e0d0",
-          "hall": "Salur 3"
         }
       ]
     }
